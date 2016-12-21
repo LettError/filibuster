@@ -14,7 +14,7 @@ content = {
         'living_headline': ['<#food_headline#>'],
         'food_headline':[
             'Fresh Takes from Island Favorites',
-            'Grab a Bite - Breakfast &amp; Lunch',
+            'Grab a Bite - Breakfast & Lunch',
             u'Eating Out on Martha’s Vineyard',
             'Empower your portal with Real-Time News Feeds and Search',
             'Slow Food',

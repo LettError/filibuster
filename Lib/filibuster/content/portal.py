@@ -116,7 +116,7 @@ content = {
         '<#car_brand#>',
     ],
     'portal_business': [
-        'Business &amp; Finance',
+        'Business & Finance',
         'Industries',
         'Jobs',
         'Investing',
@@ -166,7 +166,7 @@ content = {
         'Deals',
     ],
     'portal_entertainment': [
-        'Arts &amp; Entertainment',
+        'Arts & Entertainment',
         'Movies',
         'TV',
         'Music',
@@ -189,7 +189,7 @@ content = {
         'Playstation',
     ],
     'portal_health': [
-        'Health &amp; Fitness',
+        'Health & Fitness',
         'Conditions',
         'Medicine',
         'Alternative',
@@ -206,7 +206,7 @@ content = {
         'Health Chat',
     ],
     'portal_home': [
-        'Home &amp; Family',
+        'Home & Family',
         'Kids',
         'Houses',
         'Consumers',
@@ -237,7 +237,7 @@ content = {
         'Stock',
     ],
     'portal_news': [
-        'News &amp; Media',
+        'News & Media',
         'Online',
         'Magazines',
         'Newspapers',
@@ -251,7 +251,7 @@ content = {
         '100 Years ago...',
     ],
     'portal_recreation': [
-        'Recreation &amp; Travel',
+        'Recreation & Travel',
         'Food',
         'Outdoors',
         'Humor',
@@ -301,7 +301,7 @@ content = {
         'WWW Sites',
     ],
     'portal_society': [
-        'Society &amp; Culture',
+        'Society & Culture',
         'People',
         'Religion',
         'Issues',
@@ -381,7 +381,7 @@ content = {
         '<#alphabet_caps#><#alphabet_caps#>PAC - The <#names_last_patrician#> Center Political Action Committee. <#pol_US_guy#>, <#pol_US_guy#>, <#pol_US_guy#>, <#pol_US_guy#>...<#company_consolidated#> Archive: Re: <#news_headline#> - <#name#> (<#eMail_biz_info#>) <#time_usenet#> >This is a multi-part message in MIME format. ------=_NextPart_000_001B_01BDF<#figs_rand_5digit#>.F<#figs_rand_5digit#>B0 Content-Type: text/plain; charset="iso-8859-1" Content-Transfer-Encoding:quoted-printable',
         'Re: <#newssource#> - <#name#> (<#eMail_biz_info#>) <#time_usenet#> >This is a multi-part message in MIME format. ------=_NextPart_000_001B_01BDF<#figs_rand_5digit#>.F<#figs_rand_5digit#>B0 Content-Type: text/plain; charset="iso-8859-1" Content-Transfer-Encoding:quoted-printable',
         '<#i_host_edu#>-L archive: In a message dated <#time_usenet#>, <#name#> wrote: "<#search_details#>',
-        '<#names_first#>’s Web-Page - Sei mir gegr&amp;uuml;√üt Fremder, der Du es wagtest Dich aus den unendlichen Weiten des Internet Dich hierher in meine bescheidene Web-Page zu begeben.',
+        '<#names_first#>’s Web-Page - Sei mir gegrü√üt Fremder, der Du es wagtest Dich aus den unendlichen Weiten des Internet Dich hierher in meine bescheidene Web-Page zu begeben.',
         'SEXY NAKED TEENS!!! HOLLAND’S BEST COLLECTION OF XXX GIRLS. DOWNLOAD FREE PICS IN NON-MEMBERS AREA. AVI’S. MPEG’S.',
         '<#names_first_female#> Us and Stuff: "Related" Sites: Resumes for: Pages revised as sanity allows...most recently on <#figs#>/<#figs#>/99. Shameless self-absorption by Day Job: <#company#> Title this week: "<#jobs_bullshit#>".',
         '<#name#>’s Homepage  - to my home page Course Links <#_dept=i_host_edu_departments#><#_dept#>2<#figs#><#figs#> <#_dept#>3<#figs#><#figs#> <#_dept#>4<#figs#><#figs#> Independent Studies Teaching Portfolio Philosophy Supplements Psychology Links Teaching Resources',

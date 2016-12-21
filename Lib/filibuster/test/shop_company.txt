@@ -1,6 +1,6 @@
 
 
-HomeMills&amp;RoweStore
+HomeMills&RoweStore
 
 iBuyersPlace
 
@@ -10,11 +10,11 @@ MegaAuctionGoodies
 
 HyperAuctionBrand
 
-iCaldecott&amp;CarnegieStuff
+iCaldecott&CarnegieStuff
 
-DiscountMarkham&amp;VanderpoolGoodies
+DiscountMarkham&VanderpoolGoodies
 
-ValueMorgan&amp;HarrisonPoints
+ValueMorgan&HarrisonPoints
 
 InterBuyStore
 

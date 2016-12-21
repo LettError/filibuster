@@ -63,7 +63,7 @@ content = {
 
                 ],
         'review_majorcompany':        [
-                'Microsoft','Intel', 'Apple', 'Adobe', '<#IPO1#>', 'Amazon', 'Barnes&amp;Noble','Mozilla',
+                'Microsoft','Intel', 'Apple', 'Adobe', '<#IPO1#>', 'Amazon', 'Barnes&Noble','Mozilla',
                 'Google', 'Facebook', 'IBM', 'Nokia', 'Sony', 'Philips',
                 ],
         'review_audience':    [

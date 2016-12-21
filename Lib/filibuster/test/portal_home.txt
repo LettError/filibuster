@@ -1,4 +1,4 @@
-
+&
 
 Houses
 
@@ -6,7 +6,7 @@ Building
 
 Cooking
 
-Home &amp; Family
+Home & Family
 
 Building
 

@@ -16,10 +16,10 @@ __author__ = "someone"
 content = {
 
     'classified_headline':(
-            'Commercial Rentals', 'Business Opportunities', 'Bed &amp; Breakfast', 'Year Round Rentals', 
+            'Commercial Rentals', 'Business Opportunities', 'Bed & Breakfast', 'Year Round Rentals', 
             'Winter Rentals', 'Apartments/Rooms', 'Vacation/Summer Rentals', 'Off-Island Rentals', 'Rentals Wanted', 
-            'Articles For Sale', 'Yard Sales', 'Wanted', 'Music &amp; Arts', 'Pets &amp; Livestock', 'Help Wanted', 
+            'Articles For Sale', 'Yard Sales', 'Wanted', 'Music & Arts', 'Pets & Livestock', 'Help Wanted', 
             'Child Care Wanted', 'CareGiving Offered', 'Instruction', 'Services', 'Home Services', 
-            'Landscaping &amp; Gardening', 'Heating Supplies &amp; Service', 'Announcements', 'Public Notices', 
-            'Lost &amp; Found', 'Legal Notices <#city#>', 'Bargain Box'),
+            'Landscaping & Gardening', 'Heating Supplies & Service', 'Announcements', 'Public Notices', 
+            'Lost & Found', 'Legal Notices <#city#>', 'Bargain Box'),
     }

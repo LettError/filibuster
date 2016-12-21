@@ -1,0 +1,12 @@
+
+'figs'               
+'figs_nonzero'       
+'figs_multiple'      
+'figs_rand_5digit'   
+'figs_rand_4digit'   
+'figs_rand_3digit'   
+'figs_rand_2digit'   
+'figs_rand_04digit'  
+'figs_rand_03digit'  
+'figs_rand_02digit'  
+'figs_ord'           

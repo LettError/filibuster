@@ -301,7 +301,7 @@ content = {
         'Steel',
         'Freight',
         'Pipe',
-        'Oil &amp; Gas',
+        'Oil & Gas',
         'Forestry',
     ],
     'p_news_name': [
@@ -460,7 +460,7 @@ content = {
         'Buyers',
         'Traders',
         'Factory',
-        '<#names_last_patrician#>&amp;<#names_last_patrician#>',
+        '<#names_last_patrician#>&<#names_last_patrician#>',
         'Auction',
     ],
     'shop_co_px': [
