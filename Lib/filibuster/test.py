@@ -15,10 +15,12 @@ if not os.path.exists(dst):
 	os.makedirs(dst)
 
 maxTests = 20
+count = 0
 for name in names:
+	count += 1
 	#print "trying",name
 	namePath = os.path.join(dst, "%s.txt"%name)
-	nameTagPath = os.path.join(dst, "%s_trying.txt"%name)
+	nameTagPath = os.path.join(dst, "___%s_trying.txt"%name)
 	t = codecs.open(nameTagPath, 'w', 'utf-8')
 	t.write("a")
 
@@ -51,4 +53,5 @@ for name in names:
 		t.close()
 		os.remove(nameTagPath)
 
-		
+print 'generated %d files'%count
+print 'done'

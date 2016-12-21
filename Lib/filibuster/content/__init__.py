@@ -90,7 +90,7 @@ def index(tagname):
                 if k == tagname:
                     keys.append(m)
                 for item in c[k]:
-                    if string.find(item, tagname) <> -1:
+                    if string.find(item, tagname) !=  -1:
                         usedin[(m, k)] = 1
     return keys, usedin.keys()
 
