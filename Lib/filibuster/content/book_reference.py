@@ -175,8 +175,8 @@ content = {
         'Dr.',
         'Professor Emeritus',
     ],
-    'num_ISDN': [
-        'ISDN: <-randint(0, 9)-> <-randint(10000, 99999)-> <-randint(10, 99)-> <-randint(1, 9)->',
+    'num_ISBN': [
+        'ISBN: <-randint(0, 9)-> <-randint(10000, 99999)-> <-randint(10, 99)-> <-randint(1, 9)->',
     ],
     'page_number': [
         '<-randint(5, 900)->',
@@ -217,7 +217,7 @@ content = {
         'Izvestiya Akad. Nauk SSSR',
     ],
     'reference_english': [
-        '<#name_british_science#>, <#book_phylosophy_title#>, <#publisher_english#>, <#edition#>, <#year#>, <#page_number#>, <#num_ISDN#>',
+        '<#name_british_science#>, <#book_phylosophy_title#>, <#publisher_english#>, <#edition#>, <#year#>, <#page_number#>, <#num_ISBN#>',
     ],
     'year': [
         '<-randint(1486, 1999)->',

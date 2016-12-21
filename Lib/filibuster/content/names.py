@@ -13,7 +13,7 @@ evb        - note: only one dictionary named 'content' allowed per module
 evb
 """
 
-__version__ = '3.0.2'
+__version__ = '4.0'
 
 
 
@@ -133,13 +133,17 @@ content = {
     ],
     'name_german_limb': [
         u'hand',
+        u'handt',
         u'kopf',
         u'bein',
         u'fuss',
+        u'fuß',
         u'tropp',
         u'tropf',
+        u'tröpf',
         u'strauss',
         u'mund',
+        u'münd',
     ],
     'name_german_male': [
         u'<#name_german_title_male#><#name_german_base#>',
