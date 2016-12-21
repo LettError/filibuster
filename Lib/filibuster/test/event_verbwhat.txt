@@ -1,12 +1,188 @@
+Results for "event_verbwhat"
+Defined in module event.py
+Used in event.py
+
+soon
+
+in 2017
+
+in Ghana
+
+any time now
+
+soon
+
+soon
+
+in 2017
+
+in Polk
+
+in 2017
 
 
-near you
+
+in Mayotte
+
+in South Vanderpool
+
+in Carnegie
+
+soon
+
+in Bilbao
+
+in 2016
+
+any time now
+
+
+
+soon
+
+in 2016Results for "event_verbwhat"
+Defined in module event.py
+Used in event.py
+
+any time now
+
+in Hong Kong
+
+
+
+
+
+in your town
+
+
+
+soon
+
+in 2016
+
+soon
+
+in 2016
+
+in Liverpool
+
+in your town
 
 is cancelled
 
+in 2017
+
+in 2016
+
+soon
+
+soon
+
+in 2017
+
+in 2017
+
+in LiverpoolResults for "event_verbwhat"
+Defined in module event.py
+Used in event.py
+
+in your town
+
+in 2016
+
+in Swaziland
+
+in 2017
 
 
 
+in Algeria
+
+in 2017
+
+in Lille
+
+any time now
+
+in Indonesia
+
+near you
+
+in Brunei
+
+in Bedfordfield
+
+in Jonesville
+
+soon
+
+near you
+
+in Bushnell
+
+in Taylorhill
+
+soon
+
+in Cocos IslandsResults for "event_verbwhat"
+Defined in module event.py
+Used in event.py
+
+in 2017
+
+
+
+in Lyon
+
+near you
+
+any time now
+
+near you
+
+near you
+
+in Harrisville
+
+soon
+
+soon
+
+
+
+soon
+
+in New Knox
+
+in 2016
+
+in 2016
+
+is cancelled
+
+any time now
+
+in Adamstown
+
+
+
+in Mount SinclairResults for "event_verbwhat"
+Defined in module event.py
+Used in event.py
+
+in 2016
+
+in 2016
+
+
+
+
+
+
+
+
+
+any time now
 
 near you
 
@@ -14,8 +190,63 @@ near you
 
 soon
 
+soon
+
+in 2017
+
 is cancelled
 
+in 2017
 
+
+
+soon
+
+soon
+
+in your town
+
+in Riley
+
+in ChesterdaleResults for "event_verbwhat"
+Defined in module event.py
+Used in event.py
 
 in 2016
+
+in Botswana
+
+in Lyon
+
+in 2017
+
+in your town
+
+
+
+soon
+
+soon
+
+in your town
+
+is cancelled
+
+in The Hague
+
+near you
+
+in your town
+
+in British Virgin Islands
+
+
+
+
+
+
+
+soon
+
+in 2017
+

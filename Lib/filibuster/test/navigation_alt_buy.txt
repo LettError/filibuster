@@ -1,4 +1,87 @@
+Results for "navigation_alt_buy"
+Defined in module navigation.py
 
+my Order
+
+Checkout
+
+Buy Now
+
+Checkout
+
+Buy Now
+
+Buy Now
+
+Buy Now
+
+Checkout
+
+Buy Now
+
+Checkout
+
+Buy Now
+
+Buy Now
+
+my Order
+
+my Order
+
+Buy Now
+
+Checkout
+
+Buy Now
+
+Buy Now
+
+my Order
+
+CheckoutResults for "navigation_alt_buy"
+Defined in module navigation.py
+
+my Order
+
+Checkout
+
+Buy Now
+
+Buy Now
+
+my Order
+
+Checkout
+
+Buy Now
+
+my Order
+
+Buy Now
+
+Checkout
+
+Checkout
+
+Buy Now
+
+my Order
+
+my Order
+
+Buy Now
+
+Checkout
+
+my Order
+
+Checkout
+
+my Order
+
+my OrderResults for "navigation_alt_buy"
+Defined in module navigation.py
 
 my Order
 
@@ -10,7 +93,13 @@ my Order
 
 my Order
 
-Buy Now
+Checkout
+
+my Order
+
+my Order
+
+Checkout
 
 my Order
 
@@ -19,3 +108,140 @@ my Order
 Buy Now
 
 Buy Now
+
+my Order
+
+Checkout
+
+Buy Now
+
+my Order
+
+my Order
+
+Checkout
+
+Buy NowResults for "navigation_alt_buy"
+Defined in module navigation.py
+
+my Order
+
+Buy Now
+
+my Order
+
+Checkout
+
+Checkout
+
+my Order
+
+my Order
+
+Checkout
+
+Checkout
+
+Checkout
+
+Checkout
+
+my Order
+
+Buy Now
+
+Buy Now
+
+my Order
+
+Buy Now
+
+Buy Now
+
+my Order
+
+my Order
+
+CheckoutResults for "navigation_alt_buy"
+Defined in module navigation.py
+
+Checkout
+
+Buy Now
+
+Checkout
+
+Buy Now
+
+Checkout
+
+my Order
+
+Checkout
+
+Buy Now
+
+Checkout
+
+my Order
+
+Buy Now
+
+my Order
+
+Buy Now
+
+my Order
+
+Buy Now
+
+Buy Now
+
+Buy Now
+
+my Order
+
+Checkout
+
+Buy NowResults for "navigation_alt_buy"
+Defined in module navigation.py
+
+Buy Now
+
+Buy Now
+
+my Order
+
+my Order
+
+Checkout
+
+my Order
+
+my Order
+
+my Order
+
+Checkout
+
+my Order
+
+Buy Now
+
+Buy Now
+
+Buy Now
+
+Checkout
+
+Checkout
+
+Checkout
+
+Buy Now
+
+Buy Now
+
+Checkout
+
+my Order

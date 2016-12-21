@@ -1,4 +1,72 @@
+Results for "colors_elaborate"
+Defined in module general.py
+Used in design.py
 
+cyan
+
+red
+
+moss green
+
+red
+
+red
+
+light white
+
+dark yellow
+
+cyan
+
+white
+
+cyan
+
+magenta
+
+red
+
+beige
+
+light blue
+
+black
+
+brown
+
+teal
+
+magenta
+
+black
+
+blackResults for "colors_elaborate"
+Defined in module general.py
+Used in design.py
+
+light magenta
+
+green
+
+light cyan
+
+green
+
+deep gray
+
+taupe
+
+brown
+
+light black
+
+yellow
+
+light cyan
+
+moss green
+
+moss green
 
 gray
 
@@ -6,16 +74,180 @@ red
 
 purple
 
-blue
-
-dark blue
-
-taupe
-
-deep white
+light cyan
 
 moss green
 
-dark purple
+green
 
-dark cyan
+black
+
+dark magentaResults for "colors_elaborate"
+Defined in module general.py
+Used in design.py
+
+red
+
+deep moss green
+
+moss green
+
+chartreuse
+
+light cyan
+
+deep green
+
+dark moss green
+
+cyan
+
+white
+
+yellow
+
+deep taupe
+
+blue
+
+gray
+
+deep blue
+
+moss green
+
+green
+
+blue
+
+teal
+
+brown
+
+grayResults for "colors_elaborate"
+Defined in module general.py
+Used in design.py
+
+chartreuse
+
+cyan
+
+teal
+
+dark green
+
+chartreuse
+
+yellow
+
+deep blue
+
+chartreuse
+
+magenta
+
+cyan
+
+green
+
+deep black
+
+dark moss green
+
+dark blue
+
+dark black
+
+blue
+
+deep teal
+
+brown
+
+deep black
+
+redResults for "colors_elaborate"
+Defined in module general.py
+Used in design.py
+
+taupe
+
+deep yellow
+
+black
+
+light black
+
+carmine
+
+light green
+
+deep white
+
+black
+
+purple
+
+carmine
+
+magenta
+
+dark blue
+
+beige
+
+teal
+
+dark magenta
+
+blue
+
+carmine
+
+white
+
+black
+
+light purpleResults for "colors_elaborate"
+Defined in module general.py
+Used in design.py
+
+chartreuse
+
+deep purple
+
+taupe
+
+red
+
+chartreuse
+
+yellow
+
+yellow
+
+light teal
+
+beige
+
+carmine
+
+carmine
+
+yellow
+
+light cyan
+
+red
+
+purple
+
+light green
+
+magenta
+
+teal
+
+black
+
+moss green

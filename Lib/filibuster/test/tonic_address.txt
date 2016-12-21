@@ -1,4 +1,58 @@
+Results for "tonic_address"
+Defined in module medical.py
+Used in medical.py
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+, St. James Street.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+, Sinclair Street.
+
+.
+
+.
+
+.Results for "tonic_address"
+Defined in module medical.py
+Used in medical.py
+
+.
+
+.
+
+.
+
+.
+
+, Pugh Street.
 
 .
 
@@ -17,5 +71,183 @@
 .
 
 .
+
+.
+
+, Sinclair Street.
+
+.
+
+, Northmore Street.
+
+.
+
+, Pugh Street.Results for "tonic_address"
+Defined in module medical.py
+Used in medical.py
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+, Northmore Street.
+
+.
+
+.
+
+.
+
+, St. James Street.
+
+, Welby Street.
+
+.
+
+, Pugh Street.
+
+.
+
+.
+
+, St. John-Smythe Street.
+
+.Results for "tonic_address"
+Defined in module medical.py
+Used in medical.py
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+, Welby Street.
+
+.
+
+, St. John-Smythe Street.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+, St. John-Smythe Street.
+
+.
+
+.
+
+.
+
+.Results for "tonic_address"
+Defined in module medical.py
+Used in medical.py
+
+, Northmore Street.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+, Sinclair Street.
+
+.
+
+, St. James Street.
+
+.
+
+.
+
+.Results for "tonic_address"
+Defined in module medical.py
+Used in medical.py
+
+.
+
+.
+
+.
+
+.
+
+.
+
+, Balliol Street.
+
+, Northmore Street.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+, Welby Street.
 
 .

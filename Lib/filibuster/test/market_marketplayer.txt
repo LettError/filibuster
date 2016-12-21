@@ -1,21 +1,246 @@
+Results for "market_marketplayer"
+Defined in module financial.py
 
-
-technology down 63 pts.
-
-
-
-technology lost 69 points
-
-technology lost 86 points
-
-technology disappointing, down 1.8%
-
-technology lost 115 points
+technology disappointing, down 0.4%
 
 
 
 
 
-technology lost 83 points
+technology down 141 pts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+technology down 66 pts.
+
+technology down 138 pts.
+
+
+
+technology disappointing, down 0.9%
+
+technology down 98 pts.
+
+
+
+
+
+technology disappointing, down 0.9%
+
+
+
+Results for "market_marketplayer"
+Defined in module financial.py
+
+technology disappointing, down 1.9%
+
+technology lost 139 points
+
+
+
+
+
+
+
+
+
+
+
+technology down 132 pts.
+
+
+
+technology disappointing, down 1.0%
+
+
+
+
+
+technology disappointing, down 0.0%
+
+
+
+
+
+technology down 64 pts.
+
+
+
+technology disappointing, down 1.0%
+
+technology down 47 pts.
+
+technology lost 59 pointsResults for "market_marketplayer"
+Defined in module financial.py
+
+technology disappointing, down 1.0%
+
+technology lost 150 points
+
+
+
+
+
+technology down 126 pts.
+
+technology disappointing, down 1.0%
+
+technology lost 148 points
+
+technology disappointing, down 1.0%
+
+technology lost 112 points
+
+
+
+technology lost 57 points
+
+
+
+
+
+
+
+
+
+technology down 54 pts.
+
+
+
+
 
 technology disappointing, down 2.0%
+
+technology disappointing, down 1.7%Results for "market_marketplayer"
+Defined in module financial.py
+
+
+
+
+
+technology disappointing, down 1.5%
+
+technology lost 105 points
+
+technology lost 136 points
+
+technology lost 81 points
+
+technology lost 88 points
+
+
+
+
+
+technology lost 97 points
+
+
+
+
+
+
+
+
+
+
+
+
+
+technology lost 98 points
+
+
+
+
+
+technology lost 121 pointsResults for "market_marketplayer"
+Defined in module financial.py
+
+
+
+
+
+technology disappointing, down 0.1%
+
+technology down 89 pts.
+
+
+
+technology lost 104 points
+
+
+
+
+
+
+
+technology down 103 pts.
+
+technology down 112 pts.
+
+technology down 94 pts.
+
+
+
+
+
+technology disappointing, down 2.0%
+
+technology down 103 pts.
+
+technology disappointing, down 0.2%
+
+technology disappointing, down 1.0%
+
+technology down 110 pts.
+
+technology disappointing, down 1.2%Results for "market_marketplayer"
+Defined in module financial.py
+
+
+
+
+
+
+
+
+
+
+
+technology lost 114 points
+
+
+
+
+
+
+
+
+
+
+
+technology disappointing, down 1.0%
+
+technology down 123 pts.
+
+
+
+technology down 101 pts.
+
+technology disappointing, down 0.0%
+
+technology lost 124 points
+
+technology down 126 pts.
+
+
+

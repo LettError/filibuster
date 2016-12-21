@@ -1,8 +1,14 @@
+Results for "paper_Italian"
+Defined in module journalism.py
+Used in journalism.py
 
+La Stampa
 
 Giornale
 
-La Prensa
+La Stampa
+
+La Stampa
 
 Il Messagero
 
@@ -10,12 +16,238 @@ La Prensa
 
 La Stampa
 
+La Prensa
+
+La Prensa
+
+Il Messagero
+
+Giornale
+
+Il Messagero
+
+Il Messagero
+
+La Stampa
+
+La Stampa
+
+La Prensa
+
+La Prensa
+
+La Stampa
+
+Giornale
+
+La StampaResults for "paper_Italian"
+Defined in module journalism.py
+Used in journalism.py
+
+Giornale
+
+La Stampa
+
+Il Messagero
+
+La Stampa
+
+La Stampa
+
+La Stampa
+
+Il Messagero
+
+Il Messagero
+
+Il Messagero
+
+La Prensa
+
+Giornale
+
+La Stampa
+
+Giornale
+
+La Stampa
+
+Giornale
+
+Giornale
+
+Il Messagero
+
+La Stampa
+
+Il Messagero
+
+GiornaleResults for "paper_Italian"
+Defined in module journalism.py
+Used in journalism.py
+
+La Prensa
+
+Giornale
+
+Giornale
+
+La Stampa
+
+La Prensa
+
+Il Messagero
+
+Il Messagero
+
+La Prensa
+
+Giornale
+
 Giornale
 
 Giornale
 
 La Prensa
 
+Giornale
+
+Giornale
+
+Giornale
+
+Il Messagero
+
+La Stampa
+
+La Stampa
+
+La Stampa
+
+La StampaResults for "paper_Italian"
+Defined in module journalism.py
+Used in journalism.py
+
 La Prensa
+
+La Prensa
+
+La Prensa
+
+La Prensa
+
+La Prensa
+
+Il Messagero
+
+Giornale
+
+La Prensa
+
+La Stampa
+
+La Prensa
+
+La Stampa
+
+Giornale
+
+La Prensa
+
+La Prensa
+
+Il Messagero
+
+Il Messagero
+
+La Prensa
+
+La Prensa
+
+La Prensa
+
+La PrensaResults for "paper_Italian"
+Defined in module journalism.py
+Used in journalism.py
+
+La Stampa
+
+La Stampa
+
+La Prensa
+
+Giornale
+
+Giornale
+
+Il Messagero
+
+Il Messagero
+
+La Stampa
+
+La Prensa
+
+La Stampa
+
+Il Messagero
+
+La Prensa
+
+La Stampa
+
+Il Messagero
+
+Il Messagero
+
+Giornale
+
+La Prensa
+
+La Prensa
+
+Il Messagero
+
+La PrensaResults for "paper_Italian"
+Defined in module journalism.py
+Used in journalism.py
+
+La Prensa
+
+La Prensa
+
+La Prensa
+
+Giornale
+
+La Stampa
+
+La Stampa
+
+Giornale
+
+La Prensa
+
+La Stampa
+
+La Stampa
+
+La Stampa
+
+La Stampa
+
+La Prensa
+
+La Stampa
+
+Il Messagero
+
+Il Messagero
+
+Il Messagero
+
+Il Messagero
+
+La Stampa
 
 La Stampa

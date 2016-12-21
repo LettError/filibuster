@@ -1,14 +1,66 @@
+Results for "paper_German"
+Defined in module journalism.py
+Used in journalism.py
 
+Zeitung
+
+Volkskrant
 
 Allgemeine
 
-Volkskrant
+Die Zeit
 
 Allgemeine
 
 Die Woche
 
+Allgemeine
+
+Volkskrant
+
 Tageszeitung
+
+Die Zeit
+
+Zeitung
+
+Die Welt
+
+Die Woche
+
+Volkskrant
+
+Die Welt
+
+Zeitung
+
+Die Zeit
+
+Die Zeit
+
+Die Welt
+
+VolkskrantResults for "paper_German"
+Defined in module journalism.py
+Used in journalism.py
+
+Die Welt
+
+Tageszeitung
+
+Allgemeine
+
+Allgemeine
+
+Die Zeit
+
+Die Woche
+
+Zeitung
+
+Die Zeit
+
+Allgemeine
 
 Volkskrant
 
@@ -16,6 +68,186 @@ Allgemeine
 
 Volkskrant
 
+Allgemeine
+
 Tageszeitung
 
+Allgemeine
+
 Die Woche
+
+Volkskrant
+
+Tageszeitung
+
+Tageszeitung
+
+Die ZeitResults for "paper_German"
+Defined in module journalism.py
+Used in journalism.py
+
+Tageszeitung
+
+Tageszeitung
+
+Tageszeitung
+
+Die Zeit
+
+Tageszeitung
+
+Tageszeitung
+
+Die Zeit
+
+Die Welt
+
+Die Woche
+
+Allgemeine
+
+Tageszeitung
+
+Zeitung
+
+Volkskrant
+
+Zeitung
+
+Zeitung
+
+Die Welt
+
+Die Welt
+
+Zeitung
+
+Die Woche
+
+Die ZeitResults for "paper_German"
+Defined in module journalism.py
+Used in journalism.py
+
+Zeitung
+
+Die Zeit
+
+Volkskrant
+
+Die Welt
+
+Die Welt
+
+Zeitung
+
+Tageszeitung
+
+Die Zeit
+
+Zeitung
+
+Die Welt
+
+Die Zeit
+
+Die Woche
+
+Die Zeit
+
+Die Woche
+
+Tageszeitung
+
+Allgemeine
+
+Allgemeine
+
+Die Woche
+
+Die Welt
+
+Die WocheResults for "paper_German"
+Defined in module journalism.py
+Used in journalism.py
+
+Tageszeitung
+
+Die Welt
+
+Zeitung
+
+Die Welt
+
+Die Welt
+
+Tageszeitung
+
+Die Welt
+
+Allgemeine
+
+Die Zeit
+
+Volkskrant
+
+Volkskrant
+
+Die Welt
+
+Tageszeitung
+
+Die Welt
+
+Die Woche
+
+Allgemeine
+
+Die Zeit
+
+Die Welt
+
+Tageszeitung
+
+AllgemeineResults for "paper_German"
+Defined in module journalism.py
+Used in journalism.py
+
+Die Zeit
+
+Zeitung
+
+Allgemeine
+
+Zeitung
+
+Volkskrant
+
+Volkskrant
+
+Volkskrant
+
+Volkskrant
+
+Die Zeit
+
+Die Welt
+
+Tageszeitung
+
+Tageszeitung
+
+Die Welt
+
+Allgemeine
+
+Allgemeine
+
+Die Woche
+
+Allgemeine
+
+Zeitung
+
+Volkskrant
+
+Die Zeit

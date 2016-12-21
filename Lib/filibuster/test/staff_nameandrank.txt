@@ -1,21 +1,253 @@
+Results for "staff_nameandrank"
+Defined in module staff.py
+Used in portal.py
 
+Erik S. Suh, Brand Manager, vertical line extension
 
-Clifford Kwon, Deputy Director, client-side community
+Karen Janssen, Associate Manager, collateral equity
 
-Clifford Jeanne, Art Director
+Siobhan Bennett, Director for narrowband line extension
 
-C. Dara Muñoz, Chief Operations Officer
+Siobhan Tosho, Design Director
 
-Alexander Cruz, Senior Vice President, collateral engineering
+Irwin Sansanka, Marketing Director
 
-Tricia Clark, Vice President for portable colocation
+Clifford Harvey, Creative Director
 
-Kirsten Sobankan, Art Director
+Madeleine Singh, Assistant Vice President, top-down synergy
 
-D. Jen Sonmiyo, Director, narrowband colocation
+Connie M. Singh, Assistant Manager, secure conversion
 
-Stuart White, Vice President for catalyst engineering
+Bob Jean, Jr., Brand Manager for integrated synergy
 
-Rosemary García-Richardson, Art Director
+Amy Collins, Chief Operations Officer
 
-Karla Vanderbeck, Brand Manager, client-side management
+Petr L. Françoise, Vice President, OEM equity
+
+Bethany Côté, Chief Operations Officer
+
+May López, Manager of OEM SSL
+
+May Muñoz, Associate Production Manager
+
+Nan Martin, Vice President of just-in-time management
+
+Helen Mayahibi, Brand Manager, key convergence
+
+Theresa Schreckerkopf, Technology Director
+
+Giovanni Williams, Chief Operations Officer
+
+Leigh Münchenbein, Creative Director
+
+Walter Kotsi, Vice President for portable managementResults for "staff_nameandrank"
+Defined in module staff.py
+Used in portal.py
+
+Jen Smith, Brand Manager, secure synergy
+
+Dieter Roberts, Manager for proprietary colocation
+
+Walter Schuelenbürgelenwald, Brand Manager, catalyst SSL
+
+Eugene Yomo, Brand Manager of bricks and mortar content
+
+Rosemary Simpson, Art Director
+
+Zoe Smith, Deputy Manager, portable line extension
+
+Zoe M. Mackenstrauss, Executive Creative Manager
+
+Kirsten Mato, Marketing Director
+
+Siobhan González-Flores, Chief Operations Officer
+
+Rosemary W. Jean, Chief Executive Officer
+
+May Brown, Manager for narrowband front-end
+
+Susan Turner, Junior Production Manager
+
+Emily Miller, Vice President of end-to-end engineering
+
+Ian Morris-Tomayoyu, Technology Director
+
+Nigel Keaney-Cruz, Senior Production Director
+
+Meghan Lee, Director, collateral community
+
+Tricia Tamoyan, Vice President for online management
+
+Graham Campbell, Chief Operations Officer
+
+Craig González, Assistant Manager, strategic colocation
+
+Liz Marshall, Chief Operations OfficerResults for "staff_nameandrank"
+Defined in module staff.py
+Used in portal.py
+
+Josie Lagerstrauss, Brand Manager of client-side line extension
+
+Warren Stevens, Art Director
+
+Raoul Harvey, Junior Vice President, top-down colocation
+
+Scott Stormby-Lee, Marketing Director
+
+Greg P. Smith, Senior Director, front-end engineering
+
+Scott Mills, Director for catalyst engineering
+
+Ingeborg H. Philipe, Junior Production Manager
+
+Bill Palmer, Marketing Director
+
+Tomasso Johnson, Marketing Director
+
+Patrick Schaferlerland, Chief Operations Officer
+
+Ingeborg A. Khan, Junior Art Director
+
+Susan Tremblay, Marketing Director
+
+James Matthews-Harris, Art Director
+
+Miles Wrombley, Production Director
+
+Nan Wood, Creative Director
+
+Marc Janson, Manager of narrowband content
+
+George Hernández, Senior Marketing Director
+
+Philip Vogel, Marketing Director
+
+Ian Tohomo, Technology Director
+
+Kirsten E. Martínez, Chief Financial OfficerResults for "staff_nameandrank"
+Defined in module staff.py
+Used in portal.py
+
+Erin Williams, Associate Vice President, interactive front-end
+
+Rob Vanderbeck, Vice President for OEM community
+
+Siobhan Harvey-Allen, Deputy Production Director
+
+Kirsten Schankerkopf, Junior Sales Manager
+
+J. Dieter Gray, Director, front-end engineering
+
+Kate Enkelenmund, Manager of top-down line extension
+
+Kate Hill, Production Director
+
+Liz Von lager, Marketing Director
+
+Isaac Sunkanyoho, Associate Director, secure community
+
+Dieter Meyerson, Technology Director
+
+Bob Reyes, Senior Vice President, client-side line extension
+
+Warren Jones, Sales Director
+
+Petra Schweinbein, Brand Manager of broadband equity
+
+Nigel Gray, Art Director
+
+Arch Russell, Brand Manager, gateway content
+
+Kate Mack, Vice President of OEM convergence
+
+B. Susan Jeanne, Technology Director
+
+Brad F. Vogel, Assistant Sales Manager
+
+George Watson, Marketing Director
+
+Isabel Jeanne, Marketing DirectorResults for "staff_nameandrank"
+Defined in module staff.py
+Used in portal.py
+
+Emily Hendrikson-Philipe, Associate Director, real-time community
+
+Raoul Ortiz, Marketing Director
+
+Erik Muñoz-Yaha, Brand Manager for real-time SSL
+
+Scott W. Schafer, Marketing Director
+
+Patrick Martínez, Brand Manager of broadband mindshare
+
+Jeremy Sansha, Brand Manager, repurposed content
+
+Carl Kasanha-Suarez, Technology Director
+
+Thisbe Dominguez-Sanyasho, Production Director
+
+Graham Martínez-Koyima, Technology Director
+
+Daphne Young, Vice President for server-side conversion
+
+Kurt Schweinmannstrauss, Manager for inline mindshare
+
+Clifford W. Smith, Production Director
+
+May Cho, Sales Director
+
+Dara Satiya, Technology Director
+
+Ingeborg Meyerson, Brand Manager of trailblazing equity
+
+Maarten McNaville, Vice President, end-to-end front-end
+
+Zoe Yata, Vice President for end-user front-end
+
+Meghan Clarke, Brand Manager, proprietary convergence
+
+Susan Jean, Brand Manager for just-in-time community
+
+David Hackerler, Brand Manager of client-side conversionResults for "staff_nameandrank"
+Defined in module staff.py
+Used in portal.py
+
+Clifford Rodríguez-Yoki, Assistant Creative Manager
+
+Warren Wright, Assistant Sales Manager
+
+Courtney Chapman, Sales Director
+
+Tyler Mitchell, Manager for turnkey conversion
+
+Nan Schaufen, Chief Financial Officer
+
+Craig Adams, Art Director
+
+Tomasso Fitzpatrick-Hussain, Chief Technical Officer
+
+Andrea A. Murphy, Assistant Director, end-to-end synergy
+
+Brad Fernandez, Vice President, end-user synergy
+
+Marc Morgan, Senior Technology Director
+
+Petra Ortiz, Art Director
+
+Stuart Martin, Executive Production Manager
+
+Bethany Patel, Sales Director
+
+Petra Wynn, Brand Manager for real-time mindshare
+
+Irwin Sonki, Creative Director
+
+Victor Powell, Brand Manager, interactive front-end
+
+Maarten James, Chief Technical Officer
+
+Theresa Richardson, Art Director
+
+Susan Thomas, Creative Director
+
+Patricia Parker, Senior Manager, key equity

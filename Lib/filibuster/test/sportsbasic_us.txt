@@ -1,21 +1,253 @@
+Results for "sportsbasic_us"
+Defined in module sports.py
+Used in sports.py
 
+Chicago trounces Pistons
 
-Tampa takes Detroit
+Dallas takes SF
 
-Chicago blitzes Oilers
+Detroit blanks LA
 
-LA trounces Atlanta
+Astros take NY
 
-Tampa over Detroit
+Astros blitz Tampa
 
-Oilers over Dallas
+Liberty trounce Atlanta
 
-Oilers beat Atlanta
+Dallas over NY
 
-Pistons blank Houston
+SF shuts out SF
 
-Sixers trounce Denver
+Astros beat Denver
 
-Chicago beats Detroit
+Liberty shut out Philly
 
-NY trounces Rockets
+Sixers beat Atlanta
+
+Rockets over Tampa
+
+Astros beat Chicago
+
+Astros take Philly
+
+Oilers blank Chicago
+
+Detroit beats Dallas
+
+Houston takes Houston
+
+NY shuts out SF
+
+Chicago demolishes Braves
+
+Atlanta blanks AtlantaResults for "sportsbasic_us"
+Defined in module sports.py
+Used in sports.py
+
+Chicago demolishes SF
+
+LA takes Oilers
+
+Angels take NY
+
+Tampa over Rockets
+
+Astros take Chicago
+
+SF trounces Angels
+
+Chicago beats Denver
+
+Astros over LA
+
+Pistons shut out Denver
+
+Houston shuts out Pistons
+
+Braves trounce Dallas
+
+Denver trounces Braves
+
+SF shuts out SF
+
+Philly demolishes Angels
+
+Sixers beat Atlanta
+
+NY trounces Philly
+
+Dallas blitzes Rockets
+
+SF blanks Devils
+
+LA blitzes Houston
+
+Astros take DetroitResults for "sportsbasic_us"
+Defined in module sports.py
+Used in sports.py
+
+Tampa over Raiders
+
+NY over Dallas
+
+Raiders demolish Houston
+
+Denver over Astros
+
+Atlanta trounces Braves
+
+Detroit demolishes Atlanta
+
+Denver takes Raiders
+
+Denver shuts out Rockets
+
+Philly blitzes Oilers
+
+NY shuts out Liberty
+
+Philly beats Chicago
+
+Atlanta blitzes Dallas
+
+Braves blitz LA
+
+Angels blank Dallas
+
+Canucks trounce Chicago
+
+Denver demolishes Tampa
+
+Philly beats Denver
+
+Detroit over Rockets
+
+Philly over Angels
+
+Oilers blank DallasResults for "sportsbasic_us"
+Defined in module sports.py
+Used in sports.py
+
+NY trounces Philly
+
+NY shuts out SF
+
+Detroit beats Liberty
+
+SF takes Atlanta
+
+Atlanta blitzes Angels
+
+Liberty over NY
+
+Astros blank Tampa
+
+Astros shut out Tampa
+
+Detroit shuts out Dallas
+
+Chicago demolishes Houston
+
+Astros beat Philly
+
+LA beats Pistons
+
+Braves shut out NY
+
+SF trounces Tampa
+
+Houston shuts out Raiders
+
+Detroit demolishes NY
+
+Houston trounces Philly
+
+Tampa blitzes Denver
+
+Oilers beat LA
+
+Atlanta blanks AngelsResults for "sportsbasic_us"
+Defined in module sports.py
+Used in sports.py
+
+Dallas blanks Detroit
+
+Devils take Dallas
+
+Chicago blitzes Sixers
+
+Rockets shut out Philly
+
+Atlanta beats Houston
+
+Pistons shut out Houston
+
+Pistons blitz Tampa
+
+NY takes Angels
+
+Denver shuts out Dallas
+
+SF demolishes Liberty
+
+Braves blitz NY
+
+Liberty shut out Philly
+
+Oilers shut out SF
+
+Canucks beat Chicago
+
+Detroit over Braves
+
+Sixers demolish LA
+
+NY beats NY
+
+Liberty blitz Dallas
+
+Canucks take Denver
+
+SF demolishes DevilsResults for "sportsbasic_us"
+Defined in module sports.py
+Used in sports.py
+
+Rockets demolish SF
+
+Angels beat Detroit
+
+Astros blank NY
+
+Braves beat Denver
+
+Pistons trounce Chicago
+
+LA blanks Sixers
+
+Oilers demolish LA
+
+Denver trounces Dallas
+
+Chicago takes Detroit
+
+Philly trounces Canucks
+
+Chicago takes SF
+
+Braves beat SF
+
+Tampa takes Angels
+
+Chicago blitzes Raiders
+
+Devils shut out Atlanta
+
+Raiders blitz SF
+
+Philly trounces Sixers
+
+LA over Atlanta
+
+Houston blanks NY
+
+Braves demolish Houston

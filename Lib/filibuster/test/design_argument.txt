@@ -1,21 +1,253 @@
+Results for "design_argument"
+Defined in module design.py
+Used in designarticle.py
 
+Allan Turing wrote: “in Frieze September 2009 Eustus R. Polk claimed that “I always said that post-cultural theory in meme””
 
-Wim Crouwel stated: “personal hygiene products “Pikachu” (Alphabet October 2006) is one of Eugene B. Foster III most important projects”
+William Gibson says about this: “vivid color was strongly influenced by aesthetical statement”
 
-Michael Foster stated: “formal pop-culture in information architecture suppositions counter ethnic semantics in negativism”
+Sloane Clark suggested: “recursive vision was critical”
 
-April Greiman suggested: “a book “Nashville and Borg” is one of Christian Schwarz most important projects”
+Jan van Krimpen proposed: “the work of Lorainne Wild in Milan is an example of modernist assumption in information graphic design”
 
-Mills Stanley suggested: “technological assumption in typography explained early critical resistance and experimentation”
+Max Bruinsma observes: “in Affiche October 2000 Sjoerd de Roos claimed that “programming is dead””
 
-Lorainne Wild remarks: “in Colors July 2010 Marshal Mcluhan claimed that “language is all about vernacular””
+Ellen Lupton remarks: “material cognition offers insight into pre-existing semiotics”
 
-Peter Bil’ak seriously considered “digital-ness”
+Ellen Lupton writes: “studying post-technological finance in typography in negativism, the perception becomes investigative instead”
 
-Robert Bushnell publicly supported “cognitive-ness”
+Jan van Krimpen wrote: “sustainable criticism founds digital yet gender oriented reasoning”
 
-Joost Swarte observes: “formal improvisation promises refthing TO BE FILLED and revival”
+Robin Kinross suggested: “immaterial programming explained neo-immaterial improvisation in typography in concept”
 
-Robert Franklin publicly supported “feminist-ness”
+Martin Bryant liked the idea of “pre-existing-ness”
 
-Jan van Krimpen publicly supported “deep green-ness”
+Max Bruinsma writes: “environmental photography in architecture suppositions ethno-cultural assumption in vision”
+
+Marshal Mcluhan proposed: “the role of the internet is cognitive”
+
+Don Knuth liked the idea of “theoretical-ness”
+
+Rudy Vanderlans remarks: “digital theorem explained critical photography in globalism”
+
+David Bowie says about this: “the product placement “Untitled and Blitzen 2055” (FontZine October 2002) marks the move from post-pre-existing philosophy in graphic design to environmental construct, changing from mix of font and text to sustainable visions, though the artist contends it is counter pre-existing vision”
+
+Andy Warhol observed: “the information strategy “Dasher vs. Wallace 2002” (Colors February 2005) shows resistance has a place in non-material semiotics in information design”
+
+Christian Schwarz suggested: “intellectual verticalisation suppositions new expressive communication”
+
+Sjoerd de Roos proposed: “the role of information design is cultural”
+
+Christian Schwarz suggested: “the role of information design is material”
+
+Allan Turing liked the idea of “investigative-ness”Results for "design_argument"
+Defined in module design.py
+Used in designarticle.py
+
+Peter Saville says about this: “spread was strongly influenced by recursive assumption in information architecture: the monograph “Dasher and Untitled”, changing from philosophy to vivid color, though the artist contends it is post-digital syntax in architecture”
+
+William Gibson suggested: “studying cognitive meme in architecture in subsidies, the detail becomes cultural instead”
+
+Oswald Cooper wrote: “environmental form in graphic design promises critical digitisation and revival”
+
+Jan van Krimpen stated: “the work of Peter Saville in the workplace is an example of erratic reasoning in protestantism”
+
+Frank Gehry observed: “the corporate identity “Untitled and Industry” , (Refthing TO BE FILLED, 1986) brings design into new recursive language”
+
+Piet Zwart seriously considered “aesthetical-ness”
+
+David Bowie suggested: “non-recursive design in philosophy puts resistance in a sustainable perspective”
+
+Walter Nikkels suggested: “early modernist theorem in satanism is theoretical, not red”
+
+Lorainne Wild observed: “in DotDotDot February 2004 Felix Markham Kennerley claimed that “construct is concept””
+
+April Greiman observes: “looking at ethnic composition, the programming becomes immaterial”
+
+Craig D. Dunbar wrote: “vernacular reasoning offers insight into formal vernacular in vernacular”
+
+Andy Warhol writes: “the work of Ann Burdick in Rome is an example of early virtual perception”
+
+Andy Warhol observed: “the role of the marketplace was aesthetical”
+
+Morgan Parham remarks: “material reasoning as such does not cover neo-feminist experimentation in design”
+
+Ann Burdick stated: “an article “Spiderman” , (Refthing TO BE FILLED, 1921) brings modernism into new ethnic pop-culture in information typography in concept”
+
+Rick Poynor stated: “in AIGA Journal of Graphic Design June 2007 Louise Sandhaus claimed that “my take on that was always that cognitive beauty in design””
+
+B. Walters Polk observed: “looking at non-immaterial theorem, the pop-culture becomes immaterial”
+
+Harry Sierman observed: “the role of information design is merely aesthetical”
+
+Eustus White observed: “virtual quantification as described by William Gibson was not erratic”
+
+Harry Sierman stated: “the role of information design was relevant”Results for "design_argument"
+Defined in module design.py
+Used in designarticle.py
+
+Don Knuth remarks: “random detail founds technological investigation”
+
+David Bowie writes: “pre-existing statement in architecture promises immaterial verticalisation”
+
+William Gibson writes: “the information strategy for Merchant's Reserve Pension Fund , (Refthing TO BE FILLED, 1994) brings philosophy into counter pre-existing subsidies in pop-culture”
+
+Paul Barnes suggested: “random verticalisation in architecture in performance cannot replace non-expressive concept in negativism as a meme”
+
+Carnegie Ryan observes: “studying problematic performance in graphic design, the concept becomes sustainable instead”
+
+Alexander Davenport, Jr. wrote: “intellectual visualisation in design as such does not cover problematic theorem in graphic design”
+
+Brian Eno writes: “critical improvisation is investigative, not random”
+
+Hannes Krüger publicly supported “problematic-ness”
+
+Peter Saville says about this: “the semantics of the installation “Chicago vs. San Francisco” emphasize the links to the advertising concept “Untitled” (Grafische Nachrichten January 2000)”
+
+Piet Zwart writes: “the role of early meme is sometimes random”
+
+William Gibson wrote: “feminist visualisation in graphic design explained pre-existing detail”
+
+Hannes Krüger suggested: “the work of Umberto Eco in Wired March 2011 is an example of early digital composition in architecture”
+
+George Johnson observed: “aesthetical perception in information graphic design promises techno concept in protestantism”
+
+Ann Burdick observed: “the work of Oswald Cooper in Fuse February 2010 is an example of ethno-random intuition”
+
+Michael Fisher Sinclair, Jr. observed: “scientific typography in typography founds cultural vernacular in architecture and intuition”
+
+Erik Spiekermann says about this: “the a relevant reference if anything of scientific resistance: the retrospect “Cash Register and Dallas” emphasize the links to the product planning “Untitled and Moulinrouge” (Blueprint October 2003), more or less like Peter Bil’ak predicted at the time”
+
+Ronald Fitzsimmons Stanley proposed: “the retrospect for Kabanshi , (Refthing TO BE FILLED, 1994) brings syntax into technological experimentation in typography”
+
+William Gibson says about this: “the image store “Los Angeles” marks the move from critical midification to erratic composition: the work “Moulinrouge” (AGD Quartal February 2006), more or less like Hannes Krüger predicted at the time”
+
+William Gibson seriously considered “feminist-ness”
+
+Adams Harrison observes: “studying material assumption, the modernism becomes critical instead”Results for "design_argument"
+Defined in module design.py
+Used in designarticle.py
+
+Andy Warhol strongly believed in “scientific-ness”
+
+Paul Renner observed: “investigative pop-culture in design offers insight into critical photography in eroticism”
+
+A. Franklin Morgan, Jr. says about this: “the counter cultural imagery of random subsidies emphasize the links to formal form, more or less like Karel Treebus predicted at the time”
+
+Dwight Price writes: “the monograph for SkyCorp shows semantics has a place in pre-existing pop-culture in design and typography”
+
+Dawn Barrett observed: “early material concept puts syntax in a aesthetical perspective”
+
+Marshal Mcluhan observes: “the installation for Takansoso-Yosanho LLC is one of Philip Foster Caldecott most important projects”
+
+Louise Sandhaus observed: “refthing TO BE FILLED explained intuitive cliché and theorem”
+
+Oswald Cooper wrote: “cognitive composition offers insight into feminist revival in revival”
+
+Max Bruinsma remarks: “the work of Paul Barnes in Haarlem is an example of relevant finance”
+
+Harper M. Carnegie, Jr. observed: “looking at technological intuition and criticism, the perception becomes feminist”
+
+Gert Dumbar remarks: “the image concept “Dancer and Xrayspex” (HQ High Quality May 2006) is one of David Byrne most important projects”
+
+Allan Turing suggested: “theoretical improvisation in architecture as described by David Franklin Parker, Jr. was not techno”
+
+Sjoerd de Roos writes: “vernacular revival suppositions neo-cognitive communication in information architecture in reasoning”
+
+April Greiman writes: “post-ethnic detail puts photography in a counter cultural perspective”
+
+Fisher Morgan seriously considered “cognitive-ness”
+
+Wim T. Schippers wrote: “vernacular design explained scientific yet virtual semantics”
+
+S. Dick Parker suggested: “intellectual thinking offers insight into intuitive vernacular in graphic design”
+
+Ellen Lupton writes: “investigative cliché in information typography explained vernacular pop-culture”
+
+Ellen Lupton stated: “vernacular intuition promises light beige language in graphic design and revival”
+
+Dawn Barrett proposed: “looking at neo-recursive statement, the meme becomes erratic”Results for "design_argument"
+Defined in module design.py
+Used in designarticle.py
+
+Max Bruinsma proposed: “erratic evaluation as described by Walter Nikkels is not cultural”
+
+Paul Barnes observed: “looking at problematic yet scientific vernacular in typography, the reasoning becomes material”
+
+Johns Archer suggested: “gender oriented finance in graphic design suppositions ethno-counter cultural composition in futurism”
+
+Brad Bourne Blockland says about this: “the juxtaposed text of ethno-virtual evaluation emphasize the links to expressive concept”
+
+Erik Spiekermann says about this: “the random connotations of cultural visualisation emphasize the links to the branding for TeleCorp”
+
+Clifford Harrison observes: “post-techno experimentation in typography was red, not erratic”
+
+Don Knuth seriously considered “pre-existing-ness”
+
+Andy Warhol writes: “neo-lateral perception is critical, not technological”
+
+Marshal Mcluhan proposed: “theoretical typography in graphic design as such does not cover aesthetical composition in architecture”
+
+Stewart Adams Foster says about this: “composition was strongly influenced by refthing TO BE FILLED”
+
+Lorainne Wild proposed: “cognitive pop-culture as such does not cover new scientific modernism and syntax”
+
+David Bowie says about this: “the new font was strongly influenced by sustainable composition”
+
+Paul Barnes seriously considered “vernacular-ness”
+
+Ellen Lupton says about this: “juxtaposition of description and line was strongly influenced by cognitive modernism in design”
+
+Davies Knox strongly believed in “aesthetical-ness”
+
+Wim T. Schippers observed: “the performance art piece “Untitled” is one of Allan Turing most important projects”
+
+Frank Gehry liked the idea of “counter cultural-ness”
+
+Walter Nikkels suggested: “erratic pop-culture and revival is sustainable, not erratic”
+
+Paul Barnes says about this: “the corporate identity “Calculator and Pittsburgh” marks the move from theoretical communication in information typography to digital assumption in design”
+
+Erik Spiekermann observed: “investigative typography in information typography offers insight into feminist resistance”Results for "design_argument"
+Defined in module design.py
+Used in designarticle.py
+
+Oswald Cooper stated: “the information strategy “Untitled and Atlanta” (Compres October 2002) is one of Rudy Vanderlans most important projects”
+
+Peter Bil’ak proposed: “the video installation for Federal Cooperative Group is one of Jan van Krimpen most important projects”
+
+Joost Swarte proposed: “random industrialisation suppositions technological assumption in design”
+
+Wim Crouwel writes: “the role of critical thought is random”
+
+Paul Barnes suggested: “the role of the internet is gender oriented”
+
+Robin Kinross proposed: “counter cultural beauty promises intuitive revival in typography”
+
+Stuart Bailey observed: “erratic revival puts subsidies in a relevant perspective”
+
+Frank Lloyd Wright observed: “intuitive assumption in design as such does not cover pre-existing communication in revival”
+
+Wim T. Schippers suggested: “intellectual evaluation explained new techno performance and reasoning”
+
+Andy Warhol stated: “cognitive cognition as described by Rick Poynor is not immaterial”
+
+Gert Dumbar says about this: “the image store for NatCorp marks the move from formal form: the image store for IronLiquid/HyperNetNow!) to neo-intuitive improvisation in graphic design”
+
+Erik Spiekermann says about this: “the immaterial visions and vivid color are definitely gender oriented criticism”
+
+Robin Kinross wrote: “lateral typography as such does not cover neo-aesthetical language”
+
+Walter Nikkels observes: “recursive theorem in design suppositions lateral improvisation in information design”
+
+Peter Bil’ak liked the idea of “lateral-ness”
+
+Rem Koolhaas writes: “refthing TO BE FILLED promises post-formal semantics”
+
+Philip Sterling says about this: “the mix of description and text of critical visualisation in architecture: the monograph “Ernie vs. Electronics” emphasize the links to ethno-modernist revival, something this article will look at later on”
+
+Allan Turing liked the idea of “cognitive-ness”
+
+David Byrne stated: “sustainable digitisation founds virtual photography”
+
+Paul Renner proposed: “studying early critical philosophy in typography and performance, the perception becomes relevant instead”

@@ -1,10 +1,148 @@
+Results for "hs_qualities"
+Defined in module horoscope.py
+Used in horoscope.py
 
+melancholy
+
+passion
+
+ambition
+
+insight
+
+portfolio
+
+generosity
+
+generosity
+
+ambition
+
+ambition
+
+libido
+
+ambition
+
+libido
+
+passion
+
+insight
+
+passion
+
+passion
 
 productivity
+
+productivity
+
+passion
+
+portfolioResults for "hs_qualities"
+Defined in module horoscope.py
+Used in horoscope.py
+
+melancholy
+
+introspection
 
 creativity
 
 ambition
+
+portfolio
+
+insight
+
+creativity
+
+portfolio
+
+ambition
+
+creativity
+
+libido
+
+introspection
+
+productivity
+
+ambition
+
+insight
+
+ambition
+
+ambition
+
+portfolio
+
+passion
+
+passionResults for "hs_qualities"
+Defined in module horoscope.py
+Used in horoscope.py
+
+melancholy
+
+introspection
+
+ambition
+
+introspection
+
+insight
+
+passion
+
+creativity
+
+passion
+
+passion
+
+melancholy
+
+melancholy
+
+insight
+
+introspection
+
+productivity
+
+insight
+
+generosity
+
+introspection
+
+melancholy
+
+introspection
+
+libidoResults for "hs_qualities"
+Defined in module horoscope.py
+Used in horoscope.py
+
+passion
+
+introspection
+
+introspection
+
+melancholy
+
+libido
+
+ambition
+
+melancholy
+
+insight
 
 melancholy
 
@@ -12,10 +150,104 @@ portfolio
 
 productivity
 
+melancholy
+
+insight
+
+introspection
+
+portfolio
+
+libido
+
 generosity
 
-portfolio
+productivity
 
-portfolio
+passion
+
+passionResults for "hs_qualities"
+Defined in module horoscope.py
+Used in horoscope.py
+
+ambition
+
+productivity
+
+generosity
 
 creativity
+
+introspection
+
+melancholy
+
+ambition
+
+melancholy
+
+introspection
+
+passion
+
+libido
+
+melancholy
+
+creativity
+
+libido
+
+introspection
+
+insight
+
+melancholy
+
+creativity
+
+productivity
+
+melancholyResults for "hs_qualities"
+Defined in module horoscope.py
+Used in horoscope.py
+
+generosity
+
+insight
+
+passion
+
+melancholy
+
+introspection
+
+introspection
+
+productivity
+
+melancholy
+
+creativity
+
+melancholy
+
+melancholy
+
+productivity
+
+ambition
+
+productivity
+
+productivity
+
+portfolio
+
+ambition
+
+libido
+
+passion
+
+generosity

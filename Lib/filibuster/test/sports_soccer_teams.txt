@@ -1,21 +1,253 @@
+Results for "sports_soccer_teams"
+Defined in module sports.py
+Used in news.py, sports.py
 
+Borussia
+
+Argentina
+
+Holland
+
+Real Madrid
+
+Borussia
 
 Brazil
 
-Argentina
+Holland
 
-ADO
+Parma
 
-Argentina
+Real Madrid
 
-Manchester United
+Feyenoord
 
 PSV
 
+PSV
+
+Leeds
+
+Germany
+
+Argentina
+
+Barcelona
+
+Feyenoord
+
+Real Madrid
+
+Dynamo
+
+BarcelonaResults for "sports_soccer_teams"
+Defined in module sports.py
+Used in news.py, sports.py
+
+Barcelona
+
+Real Madrid
+
+Dynamo
+
+Parma
+
+Holland
+
+Norfolk Island
+
+Holland
+
+Luik
+
+Argentina
+
+Holland
+
+Argentina
+
+Austria
+
+Brazil
+
+Borussia
+
+Brazil
+
+Leeds
+
+Real Madrid
+
+Borussia
+
+Holland
+
+HollandResults for "sports_soccer_teams"
+Defined in module sports.py
+Used in news.py, sports.py
+
+Holland
+
 Juventus
+
+Holland
+
+PSV
+
+Argentina
+
+Ukraine
+
+Feyenoord
+
+Brazil
+
+Barcelona
+
+Barcelona
+
+Barcelona
+
+Feyenoord
+
+Holland
+
+Ajax
+
+Antwerpen
+
+Borussia
+
+Barcelona
+
+Barcelona
+
+Argentina
+
+AntwerpenResults for "sports_soccer_teams"
+Defined in module sports.py
+Used in news.py, sports.py
+
+Antwerpen
+
+PSV
+
+Ajax
+
+Antarctica
+
+Brazil
+
+Leeds
+
+Juventus
+
+Leeds
+
+Leeds
+
+Borussia
+
+Ajax
+
+Parma
+
+Holland
+
+Germany
+
+Feyenoord
+
+Manchester United
+
+Juventus
+
+Barcelona
+
+Germany
+
+CanadaResults for "sports_soccer_teams"
+Defined in module sports.py
+Used in news.py, sports.py
+
+Dynamo
+
+Philippines
+
+Dynamo
+
+Borussia
+
+Juventus
+
+Feyenoord
+
+Manchester United
+
+Leeds
+
+Dynamo
+
+Manchester United
+
+Manchester United
+
+Antwerpen
 
 PSV
 
 Real Madrid
 
-Borussia
+Luik
+
+Feyenoord
+
+Holland
+
+Barcelona
+
+Dynamo
+
+LuikResults for "sports_soccer_teams"
+Defined in module sports.py
+Used in news.py, sports.py
+
+Feyenoord
+
+Barcelona
+
+Real Madrid
+
+Luik
+
+PSV
+
+Leeds
+
+Brazil
+
+Juventus
+
+Barcelona
+
+Ajax
+
+Ajax
+
+Barcelona
+
+Manchester United
+
+Argentina
+
+Antwerpen
+
+Real Madrid
+
+ADO
+
+Parma
+
+Feyenoord
+
+Ajax

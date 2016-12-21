@@ -1,21 +1,247 @@
+Results for "startup_co_description_sing"
+Defined in module corporate.py
 
+a digitainment company
 
-a shopacational company
+a navitorial company
 
-a imagitorial company
+a infomational company
 
-a edubility company
+a edugational company
 
-a shopacational company
+a edutorial company
 
-a digimational company
+a advergational company
 
-a digicational company
+a advercational company
+
+a naviteering company
 
 a advertising company
 
 a advercational company
 
-a navicational company
+a navitainment company
+
+a digicational company
+
+a shopagational company
+
+a adverteering company
+
+a imagicational company
+
+a entertorial company
+
+a advergational company
+
+a navitainment company
+
+a advergational company
+
+a naviteering companyResults for "startup_co_description_sing"
+Defined in module corporate.py
+
+a edugational company
+
+a advergational company
+
+a advermational company
+
+a infobility company
+
+a digicational company
+
+a edubility company
+
+a adverbility company
+
+a entergational company
+
+a infobility company
+
+a infoteering company
+
+a adverteering company
+
+a advertorial company
+
+a edutorial company
+
+a infotorial company
+
+a infobility company
+
+a edutainment company
+
+a digibility company
+
+a shopagational company
+
+a digiteering company
+
+a shopacational companyResults for "startup_co_description_sing"
+Defined in module corporate.py
+
+a advermational company
+
+a edugational company
+
+a advertorial company
+
+a shopamational company
+
+a edubility company
+
+a imagitorial company
+
+a advermational company
+
+a digitising company
+
+a navitorial company
+
+a advertising company
+
+a infotising company
+
+a infogational company
+
+a imagitainment company
+
+a advergational company
+
+a infotising company
+
+a imagigational company
+
+a infobility company
+
+a advertorial company
+
+a digigraphic company
+
+a digigational companyResults for "startup_co_description_sing"
+Defined in module corporate.py
+
+a imagimational company
+
+a digitising company
+
+a digibility company
+
+a enterbility company
+
+a edutising company
+
+a navitainment company
+
+a infobility company
+
+a edugraphic company
+
+a digicational company
+
+a advertainment company
+
+a advermational company
+
+a shopability company
+
+a imagitainment company
+
+a imagigational company
+
+a edugational company
+
+a imagimational company
+
+a entergational company
+
+a digimational company
+
+a infocational company
+
+a advertorial companyResults for "startup_co_description_sing"
+Defined in module corporate.py
+
+a imagitorial company
+
+a digiteering company
+
+a navitainment company
+
+a advertising company
+
+a entercational company
+
+a edumational company
+
+a advertorial company
+
+a infobility company
+
+a digimational company
+
+a imagitising company
+
+a advertising company
+
+a imagicational company
+
+a edutainment company
+
+a edumational company
+
+a shopagational company
+
+a entertorial company
+
+a naviteering company
+
+a entertainment company
+
+a advergational company
+
+a navigraphic companyResults for "startup_co_description_sing"
+Defined in module corporate.py
+
+a infographic company
+
+a advergraphic company
+
+a entergational company
+
+a infotising company
+
+a edubility company
+
+a navibility company
+
+a advermational company
+
+a digitising company
+
+a advertising company
+
+a navibility company
+
+a edubility company
+
+a adverteering company
+
+a advergational company
+
+a imagicational company
+
+a infocational company
+
+a edutising company
 
 a infomational company
+
+a adverbility company
+
+a infotising company
+
+a enterbility company

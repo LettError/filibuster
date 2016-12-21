@@ -1,21 +1,253 @@
+Results for "jobs_shortheadline"
+Defined in module staff.py
+Used in staff.py
 
+Production Director
 
-Chief Technical Officer
+Creative Director
 
-Brand Manager for broadband content
+Production Director
+
+Production Director
+
+Chief Executive Officer
+
+Chief Executive Officer
 
 Chief Financial Officer
 
-Brand Manager, front-end convergence
+Chief Operations Officer
+
+Creative Director
+
+Design Director
+
+Vice President, end-user colocation
+
+Brand Manager of proprietary community
+
+Technology Director
+
+Design Director
+
+Brand Manager for proprietary SSL
+
+Chief Executive Officer
+
+Production Director
+
+Brand Manager for bricks and mortar mindshare
+
+Vice President of trailblazing line extension
+
+Sales DirectorResults for "jobs_shortheadline"
+Defined in module staff.py
+Used in staff.py
+
+Chief Technical Officer
+
+Brand Manager for e-commerce SSL
+
+Technology Director
+
+Chief Executive Officer
+
+Chief Financial Officer
+
+Art Director
+
+Brand Manager for collateral line extension
+
+Design Director
+
+Chief Financial Officer
+
+Brand Manager, cobranded convergence
+
+Brand Manager for bricks and mortar management
+
+Creative Director
+
+Technology Director
+
+Vice President of bricks and mortar content
+
+Brand Manager of collateral conversion
+
+Technology Director
+
+Design Director
+
+Marketing Director
+
+Brand Manager for OEM line extension
+
+Art DirectorResults for "jobs_shortheadline"
+Defined in module staff.py
+Used in staff.py
+
+Vice President of inline engineering
+
+Sales Director
+
+Creative Director
+
+Technology Director
+
+Vice President, server-side colocation
+
+Sales Director
+
+Design Director
+
+Brand Manager for e-commerce synergy
+
+Production Director
+
+Creative Director
+
+Chief Technical Officer
+
+Art Director
+
+Vice President of e-commerce equity
+
+Vice President of client-side colocation
+
+Creative Director
+
+Brand Manager of narrowband equity
+
+Marketing Director
+
+Art Director
+
+Sales Director
+
+Chief Technical OfficerResults for "jobs_shortheadline"
+Defined in module staff.py
+Used in staff.py
+
+Vice President, real-time content
+
+Technology Director
+
+Chief Technical Officer
+
+Brand Manager for OEM equity
+
+Creative Director
+
+Brand Manager of portable content
+
+Production Director
+
+Vice President for vertical community
+
+Chief Operations Officer
+
+Production Director
+
+Creative Director
+
+Sales Director
+
+Creative Director
+
+Chief Operations Officer
+
+Brand Manager of interactive front-end
+
+Design Director
+
+Production Director
+
+Marketing Director
+
+Vice President for narrowband front-end
+
+Brand Manager for e-commerce front-endResults for "jobs_shortheadline"
+Defined in module staff.py
+Used in staff.py
+
+Brand Manager for portable content
+
+Sales Director
+
+Marketing Director
+
+Vice President, vertical front-end
+
+Chief Technical Officer
+
+Design Director
+
+Chief Technical Officer
+
+Chief Operations Officer
+
+Brand Manager of real-time synergy
+
+Production Director
+
+Art Director
+
+Sales Director
+
+Sales Director
+
+Vice President, end-to-end convergence
+
+Production Director
+
+Chief Operations Officer
+
+Chief Financial Officer
+
+Vice President, gateway front-end
+
+Design Director
+
+Marketing DirectorResults for "jobs_shortheadline"
+Defined in module staff.py
+Used in staff.py
+
+Sales Director
+
+Technology Director
+
+Production Director
+
+Art Director
+
+Chief Executive Officer
+
+Marketing Director
+
+Chief Operations Officer
+
+Technology Director
+
+Marketing Director
+
+Chief Executive Officer
+
+Marketing Director
+
+Sales Director
 
 Chief Financial Officer
 
 Production Director
 
-Brand Manager of end-to-end mindshare
+Marketing Director
+
+Sales Director
+
+Art Director
+
+Brand Manager, front-end front-end
 
 Design Director
 
-Vice President, server-side engineering
-
-Vice President of end-user SSL
+Chief Financial Officer

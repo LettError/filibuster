@@ -1,21 +1,253 @@
+Results for "hs_arenas_pl"
+Defined in module horoscope.py
+Used in horoscope.py
 
+professional aspirations
 
-career goals
+personal problems
 
-major commitments
+travel plans
 
-major commitments
+travel plans
+
+personal problems
 
 career goals
 
 professional aspirations
 
+career goals
+
+emotional difficulties
+
+personal problems
+
+professional aspirations
+
+professional aspirations
+
+professional aspirations
+
+travel plans
+
 major commitments
+
+colleagues
+
+career goals
+
+personal problems
+
+colleagues
+
+travel plansResults for "hs_arenas_pl"
+Defined in module horoscope.py
+Used in horoscope.py
+
+colleagues
+
+hesitations and misgivings
+
+travel plans
+
+major commitments
+
+personal problems
+
+hesitations and misgivings
+
+professional aspirations
+
+colleagues
+
+colleagues
+
+hesitations and misgivings
+
+professional aspirations
+
+professional aspirations
+
+hesitations and misgivings
+
+career goals
+
+emotional difficulties
+
+travel plans
+
+major commitments
+
+colleagues
+
+professional aspirations
+
+personal problemsResults for "hs_arenas_pl"
+Defined in module horoscope.py
+Used in horoscope.py
+
+colleagues
+
+emotional difficulties
+
+professional aspirations
+
+personal problems
+
+hesitations and misgivings
+
+professional aspirations
+
+emotional difficulties
+
+colleagues
+
+emotional difficulties
+
+travel plans
+
+career goals
+
+emotional difficulties
+
+personal problems
+
+hesitations and misgivings
+
+career goals
+
+personal problems
+
+colleagues
+
+colleagues
+
+career goals
+
+hesitations and misgivingsResults for "hs_arenas_pl"
+Defined in module horoscope.py
+Used in horoscope.py
+
+personal problems
+
+professional aspirations
+
+major commitments
+
+major commitments
+
+personal problems
+
+major commitments
+
+colleagues
+
+career goals
+
+colleagues
+
+career goals
+
+emotional difficulties
+
+professional aspirations
+
+personal problems
+
+colleagues
+
+hesitations and misgivings
+
+travel plans
+
+personal problems
+
+colleagues
+
+major commitments
+
+travel plansResults for "hs_arenas_pl"
+Defined in module horoscope.py
+Used in horoscope.py
+
+major commitments
+
+colleagues
+
+colleagues
+
+travel plans
+
+travel plans
+
+emotional difficulties
+
+emotional difficulties
+
+personal problems
+
+major commitments
+
+hesitations and misgivings
+
+emotional difficulties
+
+emotional difficulties
 
 travel plans
 
 professional aspirations
 
+colleagues
+
+personal problems
+
+professional aspirations
+
 career goals
 
+hesitations and misgivings
+
+colleaguesResults for "hs_arenas_pl"
+Defined in module horoscope.py
+Used in horoscope.py
+
+career goals
+
+travel plans
+
+career goals
+
+hesitations and misgivings
+
+career goals
+
+personal problems
+
+professional aspirations
+
+travel plans
+
+hesitations and misgivings
+
+emotional difficulties
+
+major commitments
+
+hesitations and misgivings
+
 colleagues
+
+career goals
+
+career goals
+
+professional aspirations
+
+colleagues
+
+hesitations and misgivings
+
+emotional difficulties
+
+emotional difficulties

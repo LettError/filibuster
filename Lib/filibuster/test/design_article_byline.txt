@@ -1,21 +1,247 @@
+Results for "design_article_byline"
+Defined in module design.py
 
+studied philosophy at New Hampshire State University and writes for Applies Arts, Graphis and Alphabet.
 
-studied semiotics at Mississippi State University and writes for Emigre, Design Report and Hfg Forum.
+studied experimentation at Oregon State University and writes for Baseline, Compres and Architext Design.
 
-studied photography at Cambridge Business School and writes for Art View, Affiche and EYE.
+studied design at Rotterdam Business School and writes for Argos, De Stijl and iM [Identity Matters].
 
-studied construct at Iowa University and writes for Journal of Random Communication, Applies Arts and Adbusters.
+studied design theory at South Carolina University and writes for Grafische Nachrichten, Akademische Mitteilungen and Architext Design.
 
-studied thinking at University of Miami and writes for House, Kak and Colors.
+studied meme at University of The Hague and writes for ADGtext, Art View and Cactus.
 
-studied criticism at Florida University and writes for Alphabet, BAT and Art View.
+studied revival at University of Colorado and writes for Bauhaus, FontZine and I.D..
 
-studied theory at University of District Of Columbia and writes for EYE, Graficar and Affiche.
+studied experimentation at University of Tennessee and writes for Baseline, Akademische Mitteilungen and De Stijl.
 
-studied pop-culture at Arizona University and writes for Applies Arts, DaDa and De Stijl.
+studied improvisation at University of Colorado and writes for Alphabet, Akademische Mitteilungen and Hfg Forum.
 
-studied design theory at Oxford Business School and writes for Emigre, LetterLetter and Hfg Forum.
+studied typography at Bilbao Business School and writes for HQ High Quality, Icographic and Architext Design.
 
-studied cognition at University of North Dakota and writes for Cactus, Affiche and Akademische Mitteilungen.
+studied intuition at Oklahoma State University and writes for Form & Zweck, Apply and DotDotDot.
 
-studied semiotics at University of Wyoming and writes for CMYK, Adobe Magazine and Columnum.
+studied reasoning at University of Lille and writes for Graficar, ARCA International and Design Report.
+
+studied assumption at University of Berlin and writes for Graficar, AIGA Journal of Graphic Design and Blueprint.
+
+studied composition at Wyoming State University and writes for Compres, CMYK and Bauhaus.
+
+studied creation at University of Berlin and writes for Hard Werken, Adbusters and ADGtext.
+
+studied concept at Georgia State University and writes for Bauhaus, The Fleuron and Ark.
+
+studied verticalisation at University of Wyoming and writes for AGD Quartal, Form & Zweck and Druk.
+
+studied meme at University of Paris and writes for Akademische Mitteilungen, Graphis and Hfg Forum.
+
+studied modernism at Bologna Business School and writes for Emigre, De Stijl and Applies Arts.
+
+studied design theory at University of Louisiana and writes for Fuse, Art View and Wired.
+
+studied assumption at University of Arkansas and writes for Aktuell Grafisk Information, Bulldozer and AGD Quartal.Results for "design_article_byline"
+Defined in module design.py
+
+studied photography at University of Oxford and writes for Items, A.D. and A.D..
+
+studied thinking at Bilbao Business School and writes for Colors, Argos and Hard Werken.
+
+studied beauty at Pennsylvania State University and writes for Emigre, Form and Akademische Mitteilungen.
+
+studied assumption at New York State University and writes for Hard Werken, Art View and De Stijl.
+
+studied detail at Connecticut State University and writes for Bulldozer, Hfg Forum and A.D..
+
+studied evaluation at University of Eindhoven and writes for Cactus, Da! and Applies Arts.
+
+studied statement at San Jose Business School and writes for House, I.D. and Hard Werken.
+
+studied subsidies at University of New Hampshire and writes for Fine Print, EYE and Journal of Vernacular Design theory.
+
+studied perception at Texas University and writes for Design Issues, Apply and Hard Werken.
+
+studied improvisation at New York Business School and writes for DotDotDot, Design Issues and Applies Arts.
+
+studied form at University of Barcelona and writes for Ark, EYE and Bauhaus.
+
+studied design theory at University of Arkansas and writes for Bulldozer, Hard Werken and AIGA Journal of Graphic Design.
+
+studied verticalisation at University of West Virginia and writes for Affiche, I.D. and Applies Arts.
+
+studied finance at University of Liverpool and writes for Art View, The Fleuron and Colors.
+
+studied syntax at Arkansas University and writes for Graphis, The Fleuron and Adobe Magazine.
+
+studied reasoning at University of Baltimore and writes for LetterLetter, The Fleuron and Argos.
+
+studied visualisation at Bilbao Business School and writes for Architext Design, Blueprint and Wired.
+
+studied concept at University of North Dakota and writes for Form & Zweck, Form and Frieze.
+
+studied semiotics at Iowa University and writes for Alphabet, AGD Quartal and Hard Werken.
+
+studied subsidies at Rhode Island State University and writes for Wired, AIGA Journal of Graphic Design and Graficar.Results for "design_article_byline"
+Defined in module design.py
+
+studied intuition at University of Wyoming and writes for Design Digest, Columnum and Graficar.
+
+studied resistance at University of Lyon and writes for Apply, Fine Print and Domus.
+
+studied detail at University of Arkansas and writes for Apply, Journal of Critical Evaluation and AGI-NGT.
+
+studied semiotics at Texas University and writes for Form & Zweck, Items and The Fleuron.
+
+studied improvisation at Virgin Islands State University and writes for Aktuell Grafisk Information, Hard Werken and Bauhaus.
+
+studied revival at University of Barcelona and writes for ADGtext, Grafische Nachrichten and HQ High Quality.
+
+studied revival at Nebraska State University and writes for Bauhaus, Add!ct and Bulldozer.
+
+studied photography at Kansas City Business School and writes for Columnum, Argos and AIGA Journal of Graphic Design.
+
+studied form at Cambridge Business School and writes for Adbusters, ARCA International and Colors.
+
+studied meme at Toulouse Business School and writes for House, Fine Print and ID.
+
+studied pop-culture at University of London and writes for CMYK, Graficar and iM [Identity Matters].
+
+studied perception at University of Los Angeles and writes for Design Report, Da! and ARCA International.
+
+studied assumption at University of Tennessee and writes for Compres, Adobe Magazine and A.D..
+
+studied philosophy at New Hampshire University and writes for Hfg Forum, Affiche and AGD Quartal.
+
+studied evaluation at Nevada University and writes for ARCA International, Art View and Design Report.
+
+studied vision at Mississippi University and writes for The Fleuron, Emigre and The Fleuron.
+
+studied improvisation at Wyoming University and writes for ARCA International, ID and DaDa.
+
+studied evaluation at Arizona University and writes for Acro [AKPO], Architext Design and iM [Identity Matters].
+
+studied cliché at University of Munich and writes for LetterLetter, Form & Zweck and I.D..
+
+studied reasoning at University of South Dakota and writes for Form, iM [Identity Matters] and Acro [AKPO].Results for "design_article_byline"
+Defined in module design.py
+
+studied construct at University of Oxford and writes for Bauhaus, Adbusters and I.D..
+
+studied resistance at Idaho State University and writes for Domus, Da! and Domus.
+
+studied semantics at University of Hawaii and writes for Cactus, Alphabet and Frieze.
+
+studied design theory at Edinburgh Business School and writes for DotDotDot, Columnum and Applies Arts.
+
+studied perception at University of Montana and writes for Journal of Technological Pop-culture, Add!ct and Journal of Lateral Reasoning.
+
+studied intuition at Amsterdam Business School and writes for Graficar, Kak and Design Report.
+
+studied statement at University of Memphis and writes for Graphis, LetterLetter and Design Issues.
+
+studied vision at University of Florida and writes for Fuse, Cactus and ARCA International.
+
+studied intuition at Lille Business School and writes for Design Digest, Columnum and House.
+
+studied beauty at University of Washington and writes for Bauhaus, Ark and Journal of Pre-existing Programming.
+
+studied improvisation at Kentucky University and writes for Hard Werken, Design Digest and Add!ct.
+
+studied assumption at University of District Of Columbia and writes for Aktuell Grafisk Information, Design Report and Akademische Mitteilungen.
+
+studied reasoning at University of Marseilles and writes for Wired, Cactus and A.D..
+
+studied experimentation at University of Mississippi and writes for DotDotDot, Grafische Nachrichten and Fuse.
+
+studied theorem at University of Utah and writes for Items, DotDotDot and Grafische Nachrichten.
+
+studied form at Barcelona Business School and writes for Emigre, ADGtext and Hard Werken.
+
+studied syntax at Kentucky State University and writes for Ark, Blueprint and Alphabet.
+
+studied creation at Kansas State University and writes for CMYK, Adobe Magazine and EYE.
+
+studied construct at Kentucky University and writes for BAT, Cactus and Hard Werken.
+
+studied criticism at University of Iowa and writes for Hfg Forum, Form and HQ High Quality.Results for "design_article_byline"
+Defined in module design.py
+
+studied philosophy at University of Barcelona and writes for Druk, A.D. and Design Issues.
+
+studied revival at Arizona State University and writes for Graphis, Design Digest and Fuse.
+
+studied subsidies at University of Pennsylvania and writes for DotDotDot, Fine Print and Aktuell Grafisk Information.
+
+studied syntax at San Jose Business School and writes for Argos, Domus and Domus.
+
+studied reasoning at Florida University and writes for Apply, Baseline and Applies Arts.
+
+studied theorem at University of New Hampshire and writes for Bauhaus, Adbusters and Alphabet.
+
+studied beauty at University of Florence and writes for AGI-NGT, Bauhaus and ADGtext.
+
+studied theory at Massachusetts University and writes for Cactus, Columnum and Emigre.
+
+studied subsidies at University of Arizona and writes for De Stijl, iM [Identity Matters] and ID.
+
+studied typography at Hawaii State University and writes for The Fleuron, Design Issues and AGI-NGT.
+
+studied reasoning at University of Bilbao and writes for LetterLetter, Adobe Magazine and Affiche.
+
+studied statement at Toulouse Business School and writes for Argos, Blueprint and Compres.
+
+studied resistance at Arkansas State University and writes for Argos, Bulldozer and BAT.
+
+studied verticalisation at University of Mississippi and writes for Form & Zweck, Grafische Nachrichten and Graficar.
+
+studied theorem at University of Amsterdam and writes for The Fleuron, Art View and The Fleuron.
+
+studied beauty at University of Virginia and writes for Wired, Design Report and A.D..
+
+studied typography at Iowa University and writes for Apply, Compres and Affiche.
+
+studied vernacular at Madrid Business School and writes for Ark, Apply and Design Report.
+
+studied philosophy at South Dakota State University and writes for EYE, Druk and Form & Zweck.
+
+studied typography at Cambridge Business School and writes for Domus, HQ High Quality and House.Results for "design_article_byline"
+Defined in module design.py
+
+studied thinking at Rhode Island University and writes for HQ High Quality, Form and Ark.
+
+studied statement at District Of Columbia University and writes for FontZine, Design Digest and The Fleuron.
+
+studied statement at Wyoming University and writes for CMYK, Hard Werken and DotDotDot.
+
+studied theory at University of Cambridge and writes for Icographic, Ark and Compres.
+
+studied statement at University of Virgin Islands and writes for Akademische Mitteilungen, EYE and Graphis.
+
+studied improvisation at Virginia State University and writes for De Stijl, Ark and Graphis.
+
+studied visualisation at Cambridge Business School and writes for Fuse, AIGA Journal of Graphic Design and Adobe Magazine.
+
+studied statement at University of South Carolina and writes for De Stijl, Columnum and Design Report.
+
+studied concept at Wisconsin University and writes for Compres, DaDa and Design Issues.
+
+studied evaluation at San Francisco Business School and writes for Baseline, Domus and A.D..
+
+studied intuition at Iowa University and writes for Emigre, Form & Zweck and Argos.
+
+studied vision at Colorado State University and writes for Hard Werken, Bauhaus and Aktuell Grafisk Information.
+
+studied verticalisation at Munich Business School and writes for Acro [AKPO], Hard Werken and iM [Identity Matters].
+
+studied subsidies at University of Los Angeles and writes for Akademische Mitteilungen, Da! and HQ High Quality.
+
+studied subsidies at Montana University and writes for Journal of Problematic Meme, Hard Werken and A.D..
+
+studied reasoning at University of Gouda and writes for Applies Arts, Art View and Affiche.
+
+studied cliché at Maastricht Business School and writes for Graphis, Colors and Compres.
+
+studied criticism at Liverpool Business School and writes for Colors, Frieze and Affiche.
+
+studied beauty at University of Kansas and writes for Apply, Domus and Akademische Mitteilungen.
+
+studied performance at New Hampshire University and writes for Adobe Magazine, Ark and Apply.

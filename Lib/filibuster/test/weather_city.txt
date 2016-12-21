@@ -1,9 +1,115 @@
+Results for "weather_city"
+Defined in module news.py
 
+Cambridge: rain, 14ºC
 
-Madrid: thunderstorms, 4ºC
+Edinburgh: fog, 19ºC
 
-San Francisco: rain, -2ºC
+Lille: snow, 27ºC
 
-Lille: fog, 2ºC
+Lyon: partial overcast, 1ºC
 
-Rome: snow, 15ºC
+Boston: partial overcast, 2ºC
+
+Barcelona: fog, 19ºC
+
+Barcelona: thunderstorms, 13ºC
+
+Oxford: rain, 19ºC
+
+Munich: thunderstorms, 6ºC
+
+New York: snow, 14ºC
+
+Madrid: cloudy, 11ºCResults for "weather_city"
+Defined in module news.py
+
+Edinburgh: thunderstorms, 12ºC
+
+Manchester: fog, 21ºC
+
+Minneapolis: partial overcast, 26ºC
+
+Madrid: partial overcast, 30ºC
+
+Florence: rain, 2ºC
+
+Dallas: snow, 11ºCResults for "weather_city"
+Defined in module news.py
+
+Berlin: sunny, 0ºC
+
+Munich: occasional showers, 22ºC
+
+Bilbao: snow, 19ºC
+
+Baltimore: sunny, 6ºC
+
+Rome: cloudy, 24ºC
+
+Munich: cloudy, 14ºC
+
+San Francisco: sunny, 15ºC
+
+Berlin: fog, 21ºC
+
+Utrecht: thunderstorms, 8ºCResults for "weather_city"
+Defined in module news.py
+
+Munich: cloudy, 22ºC
+
+Seattle: occasional showers, 5ºC
+
+Barcelona: snow, 15ºC
+
+Maastricht: partial overcast, 13ºC
+
+Memphis: thunderstorms, 20ºC
+
+Marseilles: cloudy, 0ºC
+
+Toulouse: thunderstorms, 0ºC
+
+Atlanta: sunny, -3ºC
+
+Dallas: partial overcast, -1ºC
+
+Barcelona: cloudy, 1ºC
+
+Glasgow: occasional showers, 5ºC
+
+Eindhoven: snow, -2ºCResults for "weather_city"
+Defined in module news.py
+
+Florence: snow, 20ºC
+
+Edinburgh: snow, 27ºC
+
+San Francisco: thunderstorms, 22ºC
+
+Berlin: cloudy, 27ºC
+
+Eindhoven: thunderstorms, 23ºC
+
+Barcelona: sunny, 24ºC
+
+Milan: snow, 29ºC
+
+Florence: fog, 10ºC
+
+Bilbao: cloudy, 19ºCResults for "weather_city"
+Defined in module news.py
+
+Bilbao: partial overcast, 12ºC
+
+Florence: fog, 0ºC
+
+Milan: thunderstorms, 17ºC
+
+Utrecht: rain, 20ºC
+
+Glasgow: partial overcast, 23ºC
+
+Berlin: snow, 24ºC
+
+Florence: fog, 12ºC

@@ -1,21 +1,247 @@
+Results for "auction_stamps"
+Defined in module auction.py
 
+Complete collections from Uruguay
 
-magenta Mauritius 11 cents. Rare!stamps from Micronesia
+red Mauritius 10 cents. Rare!stamps from Macau
+
+magenta Mauritius 40 cents. Rare!stamps from Mozambique
+
+green Mauritius 40 cents. Rare!stamps from Iceland
+
+Historic stamps from Senegal
+
+Historic stamps from Dominica
+
+cyan Mauritius 17 cents. Rare!stamps from Ivory Coast
+
+Complete collections from Greenland
+
+black Mauritius 47 cents. Rare!stamps from Russia
+
+Complete collections from Germany
+
+Complete collections from Madagascar
+
+yellow Mauritius 33 cents. Rare!stamps from United Kingdom
+
+blue Mauritius 37 cents. Rare!stamps from Bolivia
 
 Historic stamps from Estonia
 
-magenta Mauritius 32 cents. Rare!stamps from Guinea Bissau
+green Mauritius 27 cents. Rare!stamps from Albania
 
-Historic stamps from South Africa
+green Mauritius 29 cents. Rare!stamps from Lesotho
 
-Complete collections from Switzerland
+Complete collections from Kiribati
 
-black Mauritius 29 cents. Rare!stamps from Denmark
+red Mauritius 15 cents. Rare!stamps from Uzbekistan
 
-black Mauritius 30 cents. Rare!stamps from Bolivia
+Complete collections from Peru
 
-Historic stamps from Mexico
+magenta Mauritius 40 cents. Rare!stamps from EcuadorResults for "auction_stamps"
+Defined in module auction.py
 
-Complete collections from France
+Historic stamps from Costa Rica
+
+Historic stamps from Turkmenistan
+
+Historic stamps from Antarctica
+
+Historic stamps from Anguilla
+
+Complete collections from Sao Tome and Principe
+
+Complete collections from Panama
+
+red Mauritius 36 cents. Rare!stamps from Haiti
+
+cyan Mauritius 29 cents. Rare!stamps from Croatia
+
+Historic stamps from Lesotho
+
+Historic stamps from Malaysia
+
+cyan Mauritius 5 cents. Rare!stamps from Syria
+
+magenta Mauritius 42 cents. Rare!stamps from Liechtenstein
+
+Historic stamps from Turkmenistan
+
+Complete collections from Philippines
+
+blue Mauritius 18 cents. Rare!stamps from Austria
+
+cyan Mauritius 13 cents. Rare!stamps from Afghanistan
+
+Historic stamps from Guinea Bissau
+
+Historic stamps from Fiji
+
+blue Mauritius 21 cents. Rare!stamps from Bulgaria
+
+Historic stamps from LaosResults for "auction_stamps"
+Defined in module auction.py
+
+Historic stamps from Channel Islands, Jersey
+
+Historic stamps from Ecuador
+
+Historic stamps from Somalia
+
+Historic stamps from Anguilla
+
+Complete collections from China
+
+Complete collections from Qatar
+
+cyan Mauritius 17 cents. Rare!stamps from Eritrea
+
+Complete collections from Pakistan
+
+green Mauritius 36 cents. Rare!stamps from Macedonia
+
+green Mauritius 36 cents. Rare!stamps from American Samoa
+
+Complete collections from Gambia
+
+yellow Mauritius 22 cents. Rare!stamps from Costa Rica
+
+Complete collections from Myanmar
+
+Historic stamps from Cayman Islands
+
+Complete collections from Bahrain
+
+Historic stamps from Kiribati
+
+Complete collections from Lesotho
+
+Historic stamps from Eritrea
+
+Complete collections from Somalia
+
+Historic stamps from UzbekistanResults for "auction_stamps"
+Defined in module auction.py
+
+Historic stamps from Syria
+
+Complete collections from Barbados
+
+Historic stamps from Cayman Islands
+
+red Mauritius 28 cents. Rare!stamps from Tanzania
+
+Historic stamps from Suriname
+
+Complete collections from Bahamas
+
+yellow Mauritius 21 cents. Rare!stamps from Eritrea
+
+Historic stamps from St. Lucia
+
+Complete collections from Faroe Islands
+
+Complete collections from Lebanon
+
+Historic stamps from India
+
+Historic stamps from Burkina Faso
+
+blue Mauritius 5 cents. Rare!stamps from Mozambique
+
+Complete collections from Latvia
+
+yellow Mauritius 18 cents. Rare!stamps from Colombia
+
+yellow Mauritius 14 cents. Rare!stamps from Malawi
+
+Historic stamps from Turkey
+
+Historic stamps from Tanzania
+
+Complete collections from Turkey
+
+magenta Mauritius 43 cents. Rare!stamps from Channel Islands, JerseyResults for "auction_stamps"
+Defined in module auction.py
 
 Historic stamps from Iceland
+
+Complete collections from Gibraltar
+
+Historic stamps from Nepal
+
+Historic stamps from Tonga
+
+Historic stamps from Tanzania
+
+Historic stamps from Greece
+
+Historic stamps from Greece
+
+Historic stamps from Monaco
+
+Historic stamps from Isle of Man
+
+Complete collections from Jamaica
+
+Complete collections from Channel Islands, Jersey
+
+Historic stamps from Martinique
+
+Complete collections from Qatar
+
+Historic stamps from Kazakhstan
+
+Complete collections from American Samoa
+
+Complete collections from Aruba
+
+Historic stamps from Liberia
+
+Historic stamps from Mozambique
+
+Complete collections from Kazakhstan
+
+blue Mauritius 38 cents. Rare!stamps from SenegalResults for "auction_stamps"
+Defined in module auction.py
+
+red Mauritius 39 cents. Rare!stamps from Jamaica
+
+blue Mauritius 27 cents. Rare!stamps from Ukraine
+
+Historic stamps from Qatar
+
+cyan Mauritius 17 cents. Rare!stamps from Taiwan
+
+Historic stamps from Burundi
+
+yellow Mauritius 32 cents. Rare!stamps from Zimbabwe
+
+Complete collections from Nepal
+
+red Mauritius 44 cents. Rare!stamps from Australia
+
+cyan Mauritius 50 cents. Rare!stamps from Angola
+
+blue Mauritius 20 cents. Rare!stamps from South Georgia
+
+Complete collections from Albania
+
+cyan Mauritius 33 cents. Rare!stamps from Jamaica
+
+Historic stamps from Grenada
+
+Historic stamps from Mali
+
+yellow Mauritius 21 cents. Rare!stamps from Bhutan
+
+Complete collections from Namibia
+
+Historic stamps from Chile
+
+Complete collections from Palau
+
+Complete collections from Turkmenistan
+
+Complete collections from Trinidad and Tobago

@@ -1,21 +1,253 @@
+Results for "paper_financial"
+Defined in module journalism.py
+Used in articles.py, journalism.py, reviews.py
 
+The Financial Progressive (Lyon)
+
+The Denver Investor
+
+The Hamburg Investor
+
+MarketDaily (Barcelona)
+
+The Madrid Investor
+
+The Chicago Investor
+
+MarketJournal (Dallas)
+
+The Glasgow Investor
+
+MarketUpdate (Bilbao)
+
+MarketDaily (Madrid)
+
+The Bonn Investor
+
+The Bilbao Investor
+
+MarketWatcher (Los Angeles)
+
+The Florence Investor
+
+The Rotterdam Investor
+
+MarketWatch (Cambridge)
+
+The Financial Sentinel (Sheffield)
+
+The Financial Today (Bonn)
+
+Wall Street Speculator
+
+The Bologna InvestorResults for "paper_financial"
+Defined in module journalism.py
+Used in articles.py, journalism.py, reviews.py
+
+The Financial Enquirer (Houston)
+
+MarketDaily (Leiden)
+
+MarketWorld (Munich)
+
+MarketJournal (London)
+
+The Leiden Investor
+
+Wall Street Daily
+
+MarketUpdate (Lyon)
+
+Wall Street Update
+
+The Munich Investor
+
+MarketJournal (Barcelona)
+
+MarketWeek (Barcelona)
+
+The Financial Spirit (Frankfurt)
+
+Wall Street Speculator
+
+The Financial Constitution (Frankfurt)
+
+The Barcelona Investor
+
+The Financial Fact (Gouda)
+
+The Financial Courier (Manchester)
+
+MarketUpdate (Arnhem)
+
+MarketSpeculator (Florence)
+
+The Liverpool InvestorResults for "paper_financial"
+Defined in module journalism.py
+Used in articles.py, journalism.py, reviews.py
+
+The Financial Focus (Bilbao)
+
+The Financial Today (London)
+
+MarketWorld (Rome)
+
+The Bilbao Investor
+
+Wall Street Update
+
+The Financial Quarterly (Milan)
+
+Wall Street Week
+
+The Financial Intelligencer (Madrid)
+
+Wall Street Watch
+
+The Baltimore Investor
+
+MarketDaily (Liege)
+
+MarketWatch (Sheffield)
+
+The Financial Independent (Bonn)
+
+The Berlin Investor
+
+The Financial Leader (Hamburg)
+
+MarketWatch (Berlin)
+
+The Financial Messenger (Manchester)
+
+The Florence Investor
+
+Wall Street Watch
+
+The Financial Courier (Edinburgh)Results for "paper_financial"
+Defined in module journalism.py
+Used in articles.py, journalism.py, reviews.py
+
+The Lyon Investor
+
+MarketJournal (Delft)
+
+MarketJournal (Liverpool)
+
+MarketSpeculator (Sheffield)
+
+Wall Street Watch
+
+The Financial Telegram (Los Angeles)
+
+Wall Street Week
+
+MarketDaily (Madrid)
+
+MarketUpdate (Rome)
+
+Wall Street Watch
+
+The Madrid Investor
+
+The Financial Quorum (Lyon)
+
+MarketUpdate (Memphis)
+
+The Delft Investor
+
+The Financial Spirit (Madrid)
+
+Wall Street Journal
+
+MarketWorld (London)
+
+Wall Street Update
+
+The Financial Companion (Marseilles)
+
+The Financial Sun (Maastricht)Results for "paper_financial"
+Defined in module journalism.py
+Used in articles.py, journalism.py, reviews.py
+
+The Financial Independent (Madrid)
+
+The Financial Daily (Bologna)
+
+Wall Street Update
+
+Wall Street Speculator
+
+Wall Street Journal
+
+The Financial Observer (Toulouse)
+
+The Financial Adviser (Madrid)
+
+The Frankfurt Investor
+
+Wall Street Watcher
+
+MarketWatcher (Amsterdam)
+
+Wall Street Watcher
+
+The Financial Orbit (Leeds)
+
+Wall Street Watcher
+
+Wall Street Update
+
+MarketSpeculator (Lyon)
+
+Wall Street Watcher
+
+The Financial Progressive (Berlin)
+
+Wall Street Watch
+
+MarketWatcher (Milan)
+
+MarketWatch (Munich)Results for "paper_financial"
+Defined in module journalism.py
+Used in articles.py, journalism.py, reviews.py
+
+The Maastricht Investor
+
+The Financial Orbit (Hamburg)
+
+The Financial Legend (Utrecht)
 
 Wall Street World
 
-MarketWatcher (Hamburg)
+The Financial Inquirer (London)
 
-MarketDaily (Bonn)
+Wall Street World
 
-MarketWorld (Milan)
+The Financial Picayune (Rotterdam)
 
-The Financial Advertiser (Memphis)
+MarketWeek (Lille)
 
-The Financial World (Boston)
+Wall Street Journal
 
-The Financial Tribune (San Jose)
+The Madrid Investor
 
-The Eindhoven Investor
+The Bologna Investor
 
-MarketWatch (Manchester)
+The London Investor
 
-The The Hague Investor
+The Financial Forward (Eindhoven)
+
+Wall Street World
+
+Wall Street Watch
+
+Wall Street Watch
+
+MarketDaily (Florence)
+
+The Financial Legend (Hamburg)
+
+The Financial Reporter (Milan)
+
+The Financial Progress (Hamburg)

@@ -1,4 +1,104 @@
+Results for "market_moment"
+Defined in module financial.py
+Used in financial.py
 
+during the day
+
+at opening
+
+during the day
+
+at opening
+
+at opening
+
+during the day
+
+during the day
+
+at closing
+
+during the day
+
+during the day
+
+at closing
+
+during the day
+
+during the day
+
+at opening
+
+during the day
+
+at closing
+
+during the day
+
+at closing
+
+at closing
+
+at openingResults for "market_moment"
+Defined in module financial.py
+Used in financial.py
+
+at closing
+
+during the day
+
+at opening
+
+during the day
+
+during the day
+
+during the day
+
+at closing
+
+during the day
+
+during the day
+
+during the day
+
+during the day
+
+during the day
+
+during the day
+
+at opening
+
+at opening
+
+at opening
+
+during the day
+
+during the day
+
+at opening
+
+during the dayResults for "market_moment"
+Defined in module financial.py
+Used in financial.py
+
+at opening
+
+at closing
+
+at opening
+
+at closing
+
+during the day
+
+during the day
+
+during the day
 
 at opening
 
@@ -12,10 +112,142 @@ at opening
 
 at closing
 
+during the day
+
 at opening
 
 during the day
 
 during the day
+
+at closing
+
+during the day
+
+at closingResults for "market_moment"
+Defined in module financial.py
+Used in financial.py
+
+at closing
+
+at opening
+
+during the day
+
+at closing
+
+at opening
+
+during the day
+
+at opening
+
+during the day
+
+at closing
+
+during the day
+
+during the day
+
+during the day
+
+during the day
+
+at closing
+
+at closing
+
+at closing
+
+during the day
+
+at closing
+
+at opening
+
+at closingResults for "market_moment"
+Defined in module financial.py
+Used in financial.py
+
+at opening
+
+during the day
+
+at closing
+
+during the day
+
+at closing
+
+during the day
+
+at closing
+
+at opening
+
+at opening
+
+at closing
+
+at closing
+
+at opening
+
+at opening
+
+at closing
+
+during the day
+
+at closing
+
+at opening
+
+during the day
+
+during the day
+
+at closingResults for "market_moment"
+Defined in module financial.py
+Used in financial.py
+
+during the day
+
+at closing
+
+during the day
+
+during the day
+
+at closing
+
+at closing
+
+at closing
+
+at opening
+
+at closing
+
+at opening
+
+during the day
+
+at closing
+
+during the day
+
+during the day
+
+at closing
+
+during the day
+
+during the day
+
+at closing
+
+at opening
 
 during the day

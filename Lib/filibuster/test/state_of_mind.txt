@@ -1,4 +1,66 @@
+Results for "state_of_mind"
+Defined in module literature.py
+Used in literature.py
 
+Mild Amusement
+
+Anger
+
+Stubborness
+
+Fury
+
+Pride
+
+Fury
+
+Depression
+
+Mild Amusement
+
+Anger
+
+Mild Amusement
+
+Fury
+
+Prejudice
+
+Stubborness
+
+Depression
+
+Stubborness
+
+Prejudice
+
+Consolation
+
+Stubborness
+
+Stubborness
+
+StubbornessResults for "state_of_mind"
+Defined in module literature.py
+Used in literature.py
+
+Depression
+
+Prejudice
+
+Pride
+
+Mild Amusement
+
+Prejudice
+
+Depression
+
+Fury
+
+Depression
+
+Anger
 
 Anger
 
@@ -6,7 +68,29 @@ Mild Amusement
 
 Pride
 
+Stubborness
+
+Anger
+
 Consolation
+
+Consolation
+
+Stubborness
+
+Pride
+
+Consolation
+
+AngerResults for "state_of_mind"
+Defined in module literature.py
+Used in literature.py
+
+Mild Amusement
+
+Pride
+
+Stubborness
 
 Anger
 
@@ -14,8 +98,156 @@ Mild Amusement
 
 Depression
 
+Anger
+
+Prejudice
+
 Pride
+
+Fury
+
+Stubborness
+
+Mild Amusement
+
+Consolation
+
+Fury
+
+Fury
+
+Pride
+
+Mild Amusement
+
+Mild Amusement
+
+Stubborness
+
+DepressionResults for "state_of_mind"
+Defined in module literature.py
+Used in literature.py
+
+Fury
+
+Prejudice
+
+Anger
+
+Depression
+
+Depression
+
+Prejudice
+
+Fury
+
+Mild Amusement
+
+Consolation
+
+Pride
+
+Mild Amusement
 
 Anger
 
 Prejudice
+
+Prejudice
+
+Mild Amusement
+
+Prejudice
+
+Anger
+
+Stubborness
+
+Depression
+
+StubbornessResults for "state_of_mind"
+Defined in module literature.py
+Used in literature.py
+
+Anger
+
+Anger
+
+Stubborness
+
+Mild Amusement
+
+Mild Amusement
+
+Mild Amusement
+
+Depression
+
+Anger
+
+Consolation
+
+Prejudice
+
+Depression
+
+Fury
+
+Prejudice
+
+Fury
+
+Stubborness
+
+Consolation
+
+Mild Amusement
+
+Fury
+
+Consolation
+
+FuryResults for "state_of_mind"
+Defined in module literature.py
+Used in literature.py
+
+Consolation
+
+Anger
+
+Pride
+
+Mild Amusement
+
+Stubborness
+
+Consolation
+
+Mild Amusement
+
+Anger
+
+Consolation
+
+Pride
+
+Mild Amusement
+
+Pride
+
+Pride
+
+Mild Amusement
+
+Pride
+
+Consolation
+
+Consolation
+
+Depression
+
+Prejudice
+
+Pride

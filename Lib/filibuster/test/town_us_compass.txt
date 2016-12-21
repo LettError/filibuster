@@ -1,16 +1,52 @@
+Results for "town_us_compass"
+Defined in module geography.py
+Used in geography.py
 
+East
+
+East
 
 West
 
-East
+West
+
+South
+
+South
+
+North
+
+South
+
+North
+
+North
+
+West
 
 South
 
 East
 
+West
+
+North
+
 South
 
 West
+
+West
+
+North
+
+SouthResults for "town_us_compass"
+Defined in module geography.py
+Used in geography.py
+
+West
+
+North
 
 South
 
@@ -18,4 +54,200 @@ North
 
 East
 
+East
+
+North
+
+East
+
 South
+
+North
+
+East
+
+North
+
+South
+
+East
+
+North
+
+West
+
+West
+
+South
+
+North
+
+EastResults for "town_us_compass"
+Defined in module geography.py
+Used in geography.py
+
+North
+
+East
+
+East
+
+North
+
+East
+
+North
+
+East
+
+West
+
+South
+
+North
+
+North
+
+West
+
+South
+
+East
+
+West
+
+South
+
+South
+
+South
+
+South
+
+SouthResults for "town_us_compass"
+Defined in module geography.py
+Used in geography.py
+
+North
+
+West
+
+North
+
+North
+
+West
+
+North
+
+East
+
+West
+
+North
+
+South
+
+North
+
+East
+
+North
+
+West
+
+North
+
+North
+
+West
+
+South
+
+East
+
+EastResults for "town_us_compass"
+Defined in module geography.py
+Used in geography.py
+
+North
+
+North
+
+South
+
+North
+
+East
+
+North
+
+North
+
+West
+
+West
+
+West
+
+West
+
+East
+
+South
+
+North
+
+West
+
+West
+
+West
+
+West
+
+East
+
+EastResults for "town_us_compass"
+Defined in module geography.py
+Used in geography.py
+
+West
+
+West
+
+South
+
+North
+
+South
+
+South
+
+South
+
+South
+
+East
+
+South
+
+North
+
+West
+
+South
+
+North
+
+South
+
+East
+
+South
+
+East
+
+West
+
+North

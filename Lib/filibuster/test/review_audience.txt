@@ -1,21 +1,253 @@
+Results for "review_audience"
+Defined in module reviews.py
+Used in reviews.py
 
+the online shopper
 
-the witty investor
+the rich investor
+
+youngsters around the nation
+
+the guy on the street
+
+the frugal shopper
 
 kids and perhaps the entire family
 
+the guy on the street
+
+the stressed journalist
+
+the stressed trendwatcher
+
+kids and perhaps the entire family
+
+kids and perhaps the entire family
+
+the frugal professional
+
+the wired journalist
+
+the poor journalist
+
+the nervous shopper
+
 youngsters around the nation
+
+the poor shopper
+
+the online journalist
+
+the focussed shopper
+
+the poor shopperResults for "review_audience"
+Defined in module reviews.py
+Used in reviews.py
+
+the rich trendwatcher
+
+parents and grandparents
+
+youngsters around the nation
+
+parents and grandparents
+
+the guy on the street
+
+the urban investor
+
+youngsters around the nation
+
+the stressed journalist
+
+the rich trendwatcher
 
 kids and perhaps the entire family
 
 the poor professional
 
-the stressed trendwatcher
+the stressed journalist
+
+the guy on the street
 
 the guy on the street
 
 youngsters around the nation
 
-the nervous trendwatcher
+the stressed professional
+
+youngsters around the nation
+
+the online investor
+
+the guy on the street
+
+youngsters around the nationResults for "review_audience"
+Defined in module reviews.py
+Used in reviews.py
+
+the urban professional
+
+the witty journalist
+
+the focussed shopper
+
+the witty shopper
+
+the frugal trendwatcher
+
+parents and grandparents
+
+the guy on the street
+
+parents and grandparents
+
+the stressed shopper
+
+the stressed journalist
+
+the focussed journalist
+
+the online investor
+
+the wise shopper
+
+the guy on the street
+
+parents and grandparents
+
+the nervous shopper
+
+the rich professional
+
+the focussed investor
+
+parents and grandparents
+
+kids and perhaps the entire familyResults for "review_audience"
+Defined in module reviews.py
+Used in reviews.py
+
+the poor investor
+
+the rich investor
+
+the wise investor
+
+parents and grandparents
+
+the nervous professional
 
 kids and perhaps the entire family
+
+the nervous professional
+
+the stressed shopper
+
+the urban trendwatcher
+
+kids and perhaps the entire family
+
+the guy on the street
+
+kids and perhaps the entire family
+
+kids and perhaps the entire family
+
+the witty shopper
+
+the guy on the street
+
+the stressed journalist
+
+the stressed investor
+
+the guy on the street
+
+parents and grandparents
+
+the wired professionalResults for "review_audience"
+Defined in module reviews.py
+Used in reviews.py
+
+parents and grandparents
+
+the focussed journalist
+
+kids and perhaps the entire family
+
+the urban journalist
+
+kids and perhaps the entire family
+
+parents and grandparents
+
+the stressed investor
+
+the guy on the street
+
+parents and grandparents
+
+the wise trendwatcher
+
+the guy on the street
+
+the guy on the street
+
+the witty investor
+
+the focussed professional
+
+the stressed journalist
+
+the focussed investor
+
+the focussed shopper
+
+the witty journalist
+
+kids and perhaps the entire family
+
+parents and grandparentsResults for "review_audience"
+Defined in module reviews.py
+Used in reviews.py
+
+parents and grandparents
+
+parents and grandparents
+
+the guy on the street
+
+parents and grandparents
+
+the wired trendwatcher
+
+the rich trendwatcher
+
+the guy on the street
+
+the witty trendwatcher
+
+the poor shopper
+
+the poor journalist
+
+the wired trendwatcher
+
+the guy on the street
+
+kids and perhaps the entire family
+
+the poor investor
+
+the frugal investor
+
+parents and grandparents
+
+the online shopper
+
+the stressed trendwatcher
+
+the frugal journalist
+
+the wired investor

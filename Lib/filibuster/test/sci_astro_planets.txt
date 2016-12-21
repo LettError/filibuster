@@ -1,21 +1,253 @@
-
+Results for "sci_astro_planets"
+Defined in module sciences.py
+Used in auction.py, horoscope.py, sciences.py
 
 saturn
+
+venus
+
+mars
 
 neptune
 
 pluto
 
+jupiter
+
+mars
+
+uranus
+
+jupiter
+
+mercury
+
+saturn
+
+pluto
+
+jupiter
+
+pluto
+
+uranus
+
+mars
+
+mars
+
+mars
+
+mars
+
+mercuryResults for "sci_astro_planets"
+Defined in module sciences.py
+Used in auction.py, horoscope.py, sciences.py
+
+pluto
+
+saturn
+
+neptune
+
+neptune
+
+uranus
+
+mars
+
+pluto
+
+uranus
+
+jupiter
+
+mercury
+
+neptune
+
+mars
+
+uranus
+
+saturn
+
+pluto
+
+saturn
+
+venus
+
+mars
+
+mercury
+
+venusResults for "sci_astro_planets"
+Defined in module sciences.py
+Used in auction.py, horoscope.py, sciences.py
+
+mercury
+
+mars
+
+neptune
+
 neptune
 
 jupiter
+
+pluto
+
+mars
+
+mars
+
+venus
+
+mercury
+
+venus
+
+uranus
+
+mercury
+
+pluto
+
+neptune
+
+uranus
+
+mars
+
+jupiter
+
+neptune
+
+uranusResults for "sci_astro_planets"
+Defined in module sciences.py
+Used in auction.py, horoscope.py, sciences.py
+
+venus
+
+saturn
+
+mars
+
+saturn
+
+uranus
+
+saturn
+
+saturn
+
+venus
+
+uranus
+
+pluto
+
+venus
+
+neptune
+
+saturn
+
+venus
 
 uranus
 
 neptune
 
-neptune
+mercury
 
 jupiter
 
+uranus
+
+venusResults for "sci_astro_planets"
+Defined in module sciences.py
+Used in auction.py, horoscope.py, sciences.py
+
+neptune
+
+pluto
+
 saturn
+
+uranus
+
+neptune
+
+pluto
+
+mercury
+
+saturn
+
+uranus
+
+venus
+
+neptune
+
+mars
+
+saturn
+
+jupiter
+
+mercury
+
+uranus
+
+saturn
+
+mercury
+
+pluto
+
+neptuneResults for "sci_astro_planets"
+Defined in module sciences.py
+Used in auction.py, horoscope.py, sciences.py
+
+pluto
+
+mercury
+
+neptune
+
+mercury
+
+venus
+
+neptune
+
+saturn
+
+venus
+
+pluto
+
+saturn
+
+uranus
+
+uranus
+
+neptune
+
+mercury
+
+jupiter
+
+neptune
+
+uranus
+
+neptune
+
+uranus
+
+jupiter

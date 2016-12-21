@@ -1,10 +1,246 @@
+Results for "sci_astro"
+Defined in module sciences.py
+Used in auction.py, general.py, horoscope.py, internet.py, sciences.py
 
+aquarius
+
+rigel
+
+pleiades
 
 mercury
 
+phobos
+
+gemini
+
+io
+
+gemini
+
+libra
+
+cassiopeia
+
+cancer
+
+uranus
+
+io
+
+deimos
+
+neptune
+
+lyra
+
+cygnus
+
+phobos
+
+io
+
+ioResults for "sci_astro"
+Defined in module sciences.py
+Used in auction.py, general.py, horoscope.py, internet.py, sciences.py
+
+aquarius
+
+mercury
+
+deimos
+
+pisces
+
+mercury
+
+sagittarius
+
+sirius
+
+io
+
+mercury
+
+deimos
+
+corvus
+
+taurus
+
+libra
+
+mercury
+
+aquarius
+
+cygnus
+
+neptune
+
+cygnus
+
+saturn
+
+regulusResults for "sci_astro"
+Defined in module sciences.py
+Used in auction.py, general.py, horoscope.py, internet.py, sciences.py
+
+ceres
+
+antares
+
+io
+
+deimos
+
+sagittarius
+
+libra
+
+hercules
+
+deimos
+
+venus
+
+libra
+
+pluto
+
+pisces
+
+pluto
+
+phobos
+
+taurus
+
+aldebaran
+
+aquarius
+
+pegasus
+
+mercury
+
+phobosResults for "sci_astro"
+Defined in module sciences.py
+Used in auction.py, general.py, horoscope.py, internet.py, sciences.py
+
+phobos
+
+cancer
+
+deimos
+
+pisces
+
+neptune
+
+corvus
+
+ceres
+
+deimos
+
+aquarius
+
+libra
+
+deneb
+
+neptune
+
+mars
+
+phobos
+
+aquarius
+
+taurus
+
+argo
+
+capricorn
+
+sagittarius
+
+saturnResults for "sci_astro"
+Defined in module sciences.py
+Used in auction.py, general.py, horoscope.py, internet.py, sciences.py
+
+io
+
+pluto
+
+pegasus
+
+deimos
+
+phobos
+
+venus
+
+gemini
+
+pluto
+
+phobos
+
+mars
+
+mercury
+
+deimos
+
+deimos
+
 jupiter
 
-virgo
+jupiter
+
+argo
+
+aquarius
+
+mercury
+
+mercury
+
+phobosResults for "sci_astro"
+Defined in module sciences.py
+Used in auction.py, general.py, horoscope.py, internet.py, sciences.py
+
+aries
+
+phobos
+
+io
+
+antares
+
+phobos
+
+mensa
+
+libra
+
+io
+
+deimos
+
+pleiades
+
+phobos
+
+saturn
+
+io
+
+capricorn
+
+phobos
 
 io
 
@@ -12,10 +248,6 @@ taurus
 
 saturn
 
-aldebaran
+regulus
 
-saturn
-
-mercury
-
-deimos
+io

@@ -1,21 +1,253 @@
+Results for "p_cc_flavor_money"
+Defined in module creditcard.py
+Used in creditcard.py
 
+Money
 
-Specu
+Buy
 
 Debt
 
 Specu
 
+Debt
+
+Pin
+
+Specu
+
 Pecunia
 
-Chipper
+Specu
 
-Chipper
+Money
+
+Pecunia
+
+Pecunia
+
+Pecunia
+
+Specu
+
+Kash
+
+Debet
 
 Buy
+
+Pecunia
+
+Kash
+
+CashResults for "p_cc_flavor_money"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Money
+
+Debet
+
+Specu
+
+Pin
+
+Money
+
+Chipper
+
+Cash
+
+Debet
+
+Debet
+
+Specu
+
+Specu
+
+Kash
+
+Buy
+
+Pin
 
 Debet
 
 Specu
 
 Pecunia
+
+Chipper
+
+Cash
+
+DebtResults for "p_cc_flavor_money"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Kash
+
+Kash
+
+Debt
+
+Money
+
+Debt
+
+Buy
+
+Cash
+
+Chipper
+
+Kash
+
+Debt
+
+Cash
+
+Pecunia
+
+Debt
+
+Cash
+
+Pin
+
+Specu
+
+Buy
+
+Pin
+
+Specu
+
+DebetResults for "p_cc_flavor_money"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Cash
+
+Money
+
+Kash
+
+Pecunia
+
+Cash
+
+Pin
+
+Pecunia
+
+Specu
+
+Debet
+
+Debt
+
+Kash
+
+Specu
+
+Pecunia
+
+Buy
+
+Debet
+
+Pecunia
+
+Money
+
+Kash
+
+Pecunia
+
+PinResults for "p_cc_flavor_money"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Buy
+
+Cash
+
+Pecunia
+
+Debt
+
+Cash
+
+Pecunia
+
+Specu
+
+Debet
+
+Debet
+
+Pecunia
+
+Debet
+
+Debt
+
+Money
+
+Cash
+
+Pin
+
+Pecunia
+
+Pin
+
+Pin
+
+Pecunia
+
+DebetResults for "p_cc_flavor_money"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Money
+
+Cash
+
+Chipper
+
+Kash
+
+Debt
+
+Debt
+
+Debet
+
+Pin
+
+Debet
+
+Buy
+
+Debet
+
+Kash
+
+Chipper
+
+Money
+
+Pin
+
+Chipper
+
+Pin
+
+Money
+
+Specu
+
+Pin

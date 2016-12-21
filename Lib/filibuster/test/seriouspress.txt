@@ -1,21 +1,247 @@
+Results for "seriouspress"
+Defined in module journalism.py
 
+CBS
 
-Le Monde
+Reuters
 
-The Oxford Star
-
-UP
-
-NSN
-
-CSN
-
-AP
+CBC-FN
 
 UP
 
 Reuters
 
-The New York Progressive
+UP
 
-The New York Spirit
+The North Middletown Bugle
+
+Le Monde
+
+AP
+
+The Denver Spirit
+
+UP
+
+NBC-FN
+
+UP
+
+UP
+
+Reuters
+
+Reuters
+
+The Houston Press
+
+The Seattle Journal
+
+AP
+
+The Philadelphia SpiritResults for "seriouspress"
+Defined in module journalism.py
+
+Reuters
+
+Le Monde
+
+Reuters
+
+CSN-FN
+
+UP
+
+AP
+
+The Memphis Post
+
+Reuters
+
+Reuters
+
+AP
+
+The Dallas Quarterly
+
+The Nashville Forward
+
+The Constitution
+
+UP
+
+NSN
+
+The London Telegraph
+
+Reuters
+
+The Washington Orbit
+
+ANN
+
+The West Markham Orbit-LegendResults for "seriouspress"
+Defined in module journalism.py
+
+The New York Mirror
+
+The Seattle Veritas
+
+CBC-FN
+
+NSN-FN
+
+UP
+
+Reuters
+
+El Sol
+
+ABS
+
+AP
+
+The Cambridge Gazette
+
+BBS
+
+CBC
+
+The Memphis Herald
+
+BBC-FN
+
+The Mount Rivervale Free-Press
+
+CSN
+
+Reuters
+
+The Milport Fact-Gleaner
+
+The Cape Fisher Reporter
+
+The Cape Peterport TimesResults for "seriouspress"
+Defined in module journalism.py
+
+The Dallas Sun
+
+AP
+
+The Johnson Bugle
+
+AP
+
+The San Francisco Press
+
+Die Zeit
+
+CSN
+
+The Houston Impact
+
+AP
+
+UP
+
+CBC-FN
+
+Reuters
+
+Le Monde
+
+CBC
+
+The Cape Upton Press
+
+AP
+
+Reuters
+
+The Houston Daily
+
+ANN
+
+Die WocheResults for "seriouspress"
+Defined in module journalism.py
+
+Reuters
+
+NSN
+
+ABC-FN
+
+The San Francisco Eagle
+
+BSN-FN
+
+Reuters
+
+UP
+
+Reuters
+
+The London Post
+
+Telegraaf
+
+The Caldecott Courier
+
+BBS
+
+BNN
+
+NSN
+
+ASN
+
+CBC-FN
+
+AP
+
+UP
+
+NBC-FN
+
+The Dunbar TodayResults for "seriouspress"
+Defined in module journalism.py
+
+The South Harrison Adviser-Financial
+
+El Tiempo
+
+BSN-FN
+
+El Tiempo
+
+ASN-FN
+
+NBC-FN
+
+NBC
+
+UP
+
+The Mount Overburg Focus
+
+Quotidien
+
+BSN
+
+The Harrisburg Progress
+
+NBC-FN
+
+ABS
+
+UP
+
+NBS
+
+CBS
+
+AP
+
+UP
+
+AP

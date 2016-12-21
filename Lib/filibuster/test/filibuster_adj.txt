@@ -1,21 +1,253 @@
+Results for "filibuster_adj"
+Defined in module filibuster.py
+Used in filibuster.py
 
+open-source
 
-component-based
+8th generation
 
-4th generation
+open-source
+
+9th generation
+
+open-source
+
+3rd generation
+
+open-source
+
+hermeneutic
+
+algorithmic
+
+Python-scripted
+
+Python-scripted
+
+algorithmic
+
+Python-scripted
+
+9th generation
 
 algorithmic
 
 5th generation
 
+synthetic
+
+Python-scripted
+
+Python-scripted
+
+syntheticResults for "filibuster_adj"
+Defined in module filibuster.py
+Used in filibuster.py
+
+algorithmic
+
+3rd generation
+
+Python-scripted
+
+synthetic
+
+open-source
+
+algorithmic
+
+Python-scripted
+
+synthetic
+
+component-based
+
+component-based
+
+synthetic
+
+component-based
+
+synthetic
+
+Python-scripted
+
+Python-scripted
+
+component-based
+
+component-based
+
+algorithmic
+
+open-source
+
+algorithmicResults for "filibuster_adj"
+Defined in module filibuster.py
+Used in filibuster.py
+
+synthetic
+
+synthetic
+
 5th generation
+
+component-based
+
+hermeneutic
+
+8th generation
+
+algorithmic
+
+open-source
+
+hermeneutic
+
+algorithmic
+
+Python-scripted
+
+7th generation
+
+component-based
+
+Python-scripted
+
+open-source
+
+algorithmic
+
+hermeneutic
+
+Python-scripted
+
+Python-scripted
+
+8th generationResults for "filibuster_adj"
+Defined in module filibuster.py
+Used in filibuster.py
+
+2nd generation
+
+hermeneutic
+
+Python-scripted
+
+hermeneutic
+
+algorithmic
+
+5th generation
+
+algorithmic
+
+algorithmic
+
+algorithmic
+
+1st generation
+
+hermeneutic
+
+algorithmic
+
+hermeneutic
+
+Python-scripted
+
+Python-scripted
+
+synthetic
+
+component-based
+
+open-source
+
+open-source
+
+hermeneuticResults for "filibuster_adj"
+Defined in module filibuster.py
+Used in filibuster.py
+
+3rd generation
+
+algorithmic
+
+9th generation
+
+8th generation
+
+open-source
+
+hermeneutic
+
+Python-scripted
+
+Python-scripted
+
+synthetic
+
+component-based
+
+component-based
+
+algorithmic
+
+6th generation
+
+algorithmic
+
+component-based
+
+hermeneutic
 
 open-source
 
 component-based
 
-algorithmic
+component-based
+
+syntheticResults for "filibuster_adj"
+Defined in module filibuster.py
+Used in filibuster.py
+
+open-source
+
+hermeneutic
+
+Python-scripted
+
+hermeneutic
 
 algorithmic
 
-5th generation
+algorithmic
+
+Python-scripted
+
+component-based
+
+Python-scripted
+
+algorithmic
+
+hermeneutic
+
+hermeneutic
+
+open-source
+
+synthetic
+
+Python-scripted
+
+hermeneutic
+
+algorithmic
+
+Python-scripted
+
+synthetic
+
+open-source

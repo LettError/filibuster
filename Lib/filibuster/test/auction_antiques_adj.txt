@@ -1,4 +1,100 @@
+Results for "auction_antiques_adj"
+Defined in module auction.py
+Used in auction.py, corporate.py
 
+old
+
+embroidered
+
+old
+
+vintage
+
+embossed
+
+embossed
+
+Antique
+
+embroidered
+
+embroidered
+
+embroidered
+
+signed
+
+old
+
+antique
+
+embossed
+
+signed
+
+embossed
+
+vintage
+
+signed
+
+antique
+
+antiqueResults for "auction_antiques_adj"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+old
+
+embroidered
+
+antique
+
+vintage
+
+vintage
+
+vintage
+
+vintage
+
+old
+
+old
+
+Antique
+
+signed
+
+embossed
+
+signed
+
+old
+
+embroidered
+
+old
+
+antique
+
+Antique
+
+embroidered
+
+signedResults for "auction_antiques_adj"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+antique
+
+antique
+
+signed
+
+old
+
+vintage
 
 antique
 
@@ -6,16 +102,152 @@ Antique
 
 vintage
 
+embroidered
+
+vintage
+
+signed
+
+embossed
+
+embroidered
+
+Antique
+
+antique
+
+old
+
+vintage
+
+vintage
+
+embroidered
+
+signedResults for "auction_antiques_adj"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+Antique
+
+embroidered
+
+antique
+
+vintage
+
+signed
+
+signed
+
+embossed
+
+embossed
+
+embroidered
+
+old
+
+signed
+
+embroidered
+
+vintage
+
+embroidered
+
+embroidered
+
+signed
+
+vintage
+
+old
+
+signed
+
+AntiqueResults for "auction_antiques_adj"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+Antique
+
+old
+
+Antique
+
+Antique
+
+embroidered
+
+embossed
+
+antique
+
+antique
+
+Antique
+
+embossed
+
+signed
+
+embossed
+
+vintage
+
+Antique
+
+signed
+
+vintage
+
+signed
+
+Antique
+
+embroidered
+
+AntiqueResults for "auction_antiques_adj"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+Antique
+
+old
+
+old
+
+embroidered
+
 Antique
 
 embroidered
 
 signed
 
-Antique
+old
+
+vintage
 
 signed
 
+embossed
+
 signed
+
+old
+
+old
+
+old
+
+old
 
 antique
+
+vintage
+
+embossed
+
+embossed

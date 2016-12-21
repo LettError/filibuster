@@ -1,21 +1,247 @@
+Results for "cars_headline"
+Defined in module automotive.py
 
-
-Duece
-
-Volkswagen
-
-’32 Ford, Boss 302
-
-Charger, 327 Turbo-Fire
-
-Toyota
-
-Cadillac 327 Turbo-Fire
-
-Saab
+Duece, 426 Hemi
 
 Pontiac
 
-Fairlane, 426 Hemi
+Nissan
+
+Ford
+
+’57 Chevy, LT-1 350
+
+Volkswagen
+
+Goat, Rat motor
+
+Duece, 426 Hemi
+
+GT 350
+
+Nissan LT-1 350
+
+Vette
+
+Toyota Boss 302
 
 Citroën
+
+Ford Rat motor
+
+Audi
+
+Ford
+
+Ford
+
+Willys coupe
+
+Galaxie 500, 409
+
+Mercedes Boss 302Results for "cars_headline"
+Defined in module automotive.py
+
+Ford
+
+Audi
+
+Ford
+
+Nissan
+
+Goat
+
+Cuda, 327 Turbo-Fire
+
+Impala, 440 Wedge
+
+Charger
+
+Toyota
+
+Nissan
+
+Renault
+
+Toyota 429 Super Cobra Jet
+
+Ford
+
+Cadillac
+
+GT 350
+
+Nissan 426 Hemi
+
+Toyota 440 Wedge
+
+Willys coupe
+
+Citroën
+
+’57 Chevy, 426 HemiResults for "cars_headline"
+Defined in module automotive.py
+
+’32 Ford
+
+Shelby Cobra, Boss 302
+
+Challenger
+
+Ford
+
+Citroën
+
+Volvo LT-1 350
+
+Pontiac
+
+Vette, 440 Wedge
+
+Nissan
+
+’32 Ford
+
+Audi Boss 302
+
+Ford
+
+Pontiac
+
+Audi
+
+Impala
+
+Cadillac
+
+Cadillac
+
+Challenger
+
+Nissan
+
+VolvoResults for "cars_headline"
+Defined in module automotive.py
+
+T-bucket
+
+Hi boy roadster
+
+Impala
+
+Vette
+
+Shelby Cobra, 440 Wedge
+
+Citroën Rat motor
+
+Impala
+
+Audi
+
+Cadillac 440 Wedge
+
+Pontiac Rat motor
+
+Nissan
+
+Nissan
+
+Nissan
+
+’67 Chevelle, 340 Six Pack
+
+Charger, 340 Six Pack
+
+Hi boy roadster
+
+Pontiac
+
+Citroën
+
+Audi
+
+NissanResults for "cars_headline"
+Defined in module automotive.py
+
+Shelby Cobra, Flathead V8
+
+Toyota
+
+Challenger
+
+Ford 340 Six Pack
+
+Pontiac
+
+Volkswagen
+
+Pontiac
+
+Ford
+
+Duece
+
+Toyota 426 Hemi
+
+Volkswagen
+
+Renault LT-1 350
+
+Cadillac
+
+Pontiac
+
+Volkswagen
+
+Willys coupe, Rat motor
+
+Challenger, LT-1 350
+
+Shelby Cobra
+
+’55 Merc, LT-1 350
+
+ChallengerResults for "cars_headline"
+Defined in module automotive.py
+
+Charger
+
+Pontiac
+
+Goat, 340 Six Pack
+
+Chevy II, 440 Wedge
+
+’32 Ford, Flathead V8
+
+Mercedes
+
+Nissan
+
+Pontiac Boss 302
+
+Nissan
+
+Mercedes Flathead V8
+
+Volkswagen
+
+Mercedes 327 Turbo-Fire
+
+Impala, 409
+
+Saab 409
+
+Citroën
+
+Willys coupe, Rat motor
+
+’55 Merc, 327 Turbo-Fire
+
+Volvo 327 Turbo-Fire
+
+Impala
+
+Nissan Rat motor

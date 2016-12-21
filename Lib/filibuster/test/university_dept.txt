@@ -1,21 +1,253 @@
+Results for "university_dept"
+Defined in module sciences.py
+Used in literature.py
 
+Department of art of the University of Madrid
 
-Department of liberal arts of the Puerto Rico University
+Department of liberal arts of the Maryland University
 
-Department of art of the Georgia State University
+Department of literature of the University of California
 
-Dpt. of philosphy of the University of District Of Columbia
+Department of literature of the Wisconsin State University
 
-Department of liberal arts of the University of Milan
+Dpt. of physics of the University of South Carolina
 
-Department of economics of the University of Oxford
+Dpt. of medicin of the Minnesota State University
 
-Dpt. of mathematics of the University of Liverpool
+Department of liberal arts of the University of Florida
 
-Dpt. of classics of the Puerto Rico University
+Dpt. of medicin of the University of Bologna
 
-Department of classics of the University of Marseilles
+Dpt. of art of the University of Lille
 
-Department of physics of the Kansas University
+Dpt. of physics of the New Jersey State University
 
-Dpt. of liberal arts of the New Hampshire University
+Department of philosphy of the New Jersey University
+
+Dpt. of philosphy of the Illinois University
+
+Dpt. of classics of the South Carolina University
+
+Department of medicin of the Iowa State University
+
+Dpt. of medicin of the University of Marseilles
+
+Dpt. of economics of the Oregon University
+
+Department of classics of the Florida State University
+
+Department of physics of the Iowa University
+
+Dpt. of mathematics of the Kentucky University
+
+Dpt. of classics of the University of HawaiiResults for "university_dept"
+Defined in module sciences.py
+Used in literature.py
+
+Dpt. of mathematics of the University of London
+
+Dpt. of philosphy of the University of South Dakota
+
+Department of art of the University of Kansas
+
+Department of mathematics of the New York State University
+
+Dpt. of medicin of the University of New Jersey
+
+Dpt. of economics of the University of Iowa
+
+Dpt. of classics of the Berlin Business School
+
+Department of mathematics of the Alabama State University
+
+Department of liberal arts of the Liege Business School
+
+Dpt. of mathematics of the Bologna Business School
+
+Dpt. of economics of the Oregon University
+
+Department of literature of the University of Kansas
+
+Dpt. of liberal arts of the Madrid Business School
+
+Dpt. of literature of the University of Rome
+
+Dpt. of medicin of the Indiana University
+
+Department of mathematics of the University of Milan
+
+Dpt. of art of the Barcelona Business School
+
+Dpt. of medicin of the University of Paris
+
+Dpt. of philosphy of the University of Leiden
+
+Department of mathematics of the Alabama UniversityResults for "university_dept"
+Defined in module sciences.py
+Used in literature.py
+
+Department of physics of the University of Nashville
+
+Department of liberal arts of the New Mexico University
+
+Dpt. of liberal arts of the Munich Business School
+
+Dpt. of mathematics of the Marseilles Business School
+
+Dpt. of liberal arts of the Washington State University
+
+Dpt. of philosphy of the Bonn Business School
+
+Department of economics of the Madrid Business School
+
+Dpt. of liberal arts of the University of Virgin Islands
+
+Department of literature of the South Carolina University
+
+Dpt. of literature of the University of Oregon
+
+Dpt. of art of the Michigan University
+
+Dpt. of liberal arts of the University of Barcelona
+
+Department of physics of the Barcelona Business School
+
+Department of liberal arts of the Haarlem Business School
+
+Dpt. of art of the University of Florida
+
+Dpt. of literature of the Lyon Business School
+
+Dpt. of mathematics of the University of Wisconsin
+
+Department of classics of the University of Maastricht
+
+Department of economics of the Washington State University
+
+Department of medicin of the University of HaarlemResults for "university_dept"
+Defined in module sciences.py
+Used in literature.py
+
+Dpt. of physics of the University of Manchester
+
+Dpt. of physics of the Puerto Rico University
+
+Dpt. of philosphy of the Massachusetts State University
+
+Dpt. of mathematics of the California State University
+
+Department of liberal arts of the University of New Hampshire
+
+Dpt. of liberal arts of the University of Nevada
+
+Dpt. of art of the University of New Jersey
+
+Dpt. of classics of the University of Mississippi
+
+Dpt. of philosphy of the University of Kansas
+
+Department of physics of the University of Munich
+
+Department of economics of the New York University
+
+Department of classics of the Virgin Islands University
+
+Dpt. of economics of the University of Massachusetts
+
+Dpt. of art of the Tennessee State University
+
+Dpt. of philosphy of the University of Manchester
+
+Dpt. of literature of the University of Oklahoma
+
+Department of physics of the Edinburgh Business School
+
+Department of liberal arts of the University of Minneapolis
+
+Dpt. of medicin of the University of Sheffield
+
+Dpt. of medicin of the Kansas UniversityResults for "university_dept"
+Defined in module sciences.py
+Used in literature.py
+
+Department of liberal arts of the Kentucky State University
+
+Dpt. of mathematics of the Seattle Business School
+
+Dpt. of philosphy of the University of Leeds
+
+Department of economics of the University of New York
+
+Department of mathematics of the Hawaii University
+
+Dpt. of philosphy of the Washington Business School
+
+Department of liberal arts of the Berlin Business School
+
+Department of mathematics of the University of Chicago
+
+Dpt. of liberal arts of the Puerto Rico State University
+
+Dpt. of classics of the University of Florence
+
+Dpt. of mathematics of the Florence Business School
+
+Department of liberal arts of the Hamburg Business School
+
+Dpt. of economics of the New Mexico State University
+
+Dpt. of literature of the University of Milan
+
+Dpt. of literature of the University of California
+
+Department of physics of the Liverpool Business School
+
+Department of philosphy of the University of Florence
+
+Dpt. of philosphy of the Florida State University
+
+Department of mathematics of the Oregon State University
+
+Dpt. of literature of the Puerto Rico UniversityResults for "university_dept"
+Defined in module sciences.py
+Used in literature.py
+
+Department of medicin of the University of Eindhoven
+
+Department of classics of the Berlin Business School
+
+Dpt. of classics of the Indiana University
+
+Department of economics of the University of Bilbao
+
+Dpt. of liberal arts of the Barcelona Business School
+
+Dpt. of classics of the Alaska University
+
+Dpt. of literature of the Utah State University
+
+Dpt. of literature of the Arkansas University
+
+Department of physics of the University of Montana
+
+Department of physics of the Bonn Business School
+
+Dpt. of physics of the Georgia University
+
+Dpt. of literature of the Bilbao Business School
+
+Department of classics of the University of Idaho
+
+Department of economics of the Pennsylvania University
+
+Department of philosphy of the University of Michigan
+
+Department of economics of the Indiana State University
+
+Dpt. of literature of the Madrid Business School
+
+Department of economics of the University of Rome
+
+Dpt. of mathematics of the Atlanta Business School
+
+Dpt. of economics of the Leeds Business School

@@ -1,21 +1,253 @@
+Results for "sportsheadline_us"
+Defined in module sports.py
+Used in sports.py
 
+Rockets blank Denver, 8-0 in O/T
 
-Braves blank Detroit, 11-0
+Tampa aces Playoffs
 
-LA blanks Devils, 12-0
+Von birnerackerentropf named to NCAA draft selection
 
-LA blitzes SF, 17-3 in O/T
+Hughes signed to Oilers
 
-SF shuts out Raiders, 8-0 in O/T
+Philly aces Playoffs
 
-Sixers demolish LA, 6-4 in O/T
+Astros investigated for drug use
 
-Quarterback Larssen to retire from Canucks
+Dallas takes Playoffs
 
-Pistons advance to Pennant
+Denver over Sixers, 10-8
 
-López signed to Astros
+SF takes Open
 
-Coach Jean to retire from Rockets
+Braves ace Open
 
-Chicago aces Semifinals
+Quarterback Campbell injured, out for season
+
+Pitcher Bell injured, out for season
+
+Quarterback Kelly injured, out for season
+
+Quarterback Mauerenmark injured, out for season
+
+Rwandi leads Oilers to 10-6 victory
+
+Philly blanks LA, 6-4
+
+Pistons demolish Philly, 12-8 in O/T
+
+Liberty ace Series
+
+Oilers advance to Semifinals
+
+Pinevale takes draft pickResults for "sportsheadline_us"
+Defined in module sports.py
+Used in sports.py
+
+NY aces Championship
+
+Williamsvale advances to draft pick
+
+Hoffman leads Pistons to 5-1 victory
+
+Cox dropped from NCAA draft selection
+
+Hendrikson dropped from NFL draft pick
+
+Chicago over Raiders, 8-0
+
+Handersjen leads Sixers to 8-6 victory
+
+AmeriCom's Fitzsimmons buys Raiders for $65M
+
+Canucks sign Ortiz in $17M deal
+
+Dallas blitzes Tampa, 32-26
+
+Dallas trounces Denver, 7-3
+
+Denver shuts out Braves, 10-6 in O/T
+
+François dropped from WNBA draft pick
+
+Braves sign Carter in $15M deal
+
+Jonesford takes draft selection
+
+Gibbs advances to Semifinals
+
+Schanauer signed to Braves
+
+Raiders ace Pennant
+
+Williamsonhill aces draft pick
+
+Coach Roberts injured, out for seasonResults for "sportsheadline_us"
+Defined in module sports.py
+Used in sports.py
+
+Astros shut out SF, 5-1 in O/T
+
+Quarterback Martin to retire from Pistons
+
+Pistons beat Chicago, 11-0 in O/T
+
+SF shuts out Chicago, 34-29 in O/T
+
+Sixers beat NY, 8-4
+
+Miller named to NCAA draft selection
+
+Rockets shut out Dallas, 10-8
+
+Stevens leads Astros to 7-5 victory
+
+Houston takes Playoffs
+
+Philly advances to Championship
+
+Lawson advances to draft pick
+
+Philly over Dallas, 8-0
+
+Denver over Houston, 7-3
+
+TeleTel's Jennings buys Canucks for $68M
+
+Stormby leads Raiders to 3-1 victory
+
+Pistons over Detroit, 8-6
+
+Coach Yoshoka injured, out for season
+
+Tampa takes Playoffs
+
+Harrison signed to Braves
+
+Philly takes SeriesResults for "sportsheadline_us"
+Defined in module sports.py
+Used in sports.py
+
+Raiders over Denver, 31-29 in O/T
+
+Quarterback DiLorenzo to retire from Sixers
+
+Raiders investigated for drug use
+
+New Davies takes draft selection
+
+Denver takes Braves, 10-6
+
+Lamberti sets field goal record
+
+Sanshayo sets slamdunk record
+
+Oilers advance to Championship
+
+Quarterback Cox to retire from Canucks
+
+Tierfuss leads Liberty to 15-1 victory
+
+Tampa over Devils, 38-21
+
+Stormby leads Astros to 6-2 victory
+
+Dallas blanks Angels, 8-6 in O/T
+
+Dallas trounces Sixers, 3-1
+
+Philly takes Detroit, 8-6
+
+Rogers leads Raiders to 8-4 victory
+
+Tampa takes Canucks, 7-3
+
+NY blitzes Sixers, 13-3 in O/T
+
+Johnson named to NBA draft pick
+
+Liberty blank LA, 11-0Results for "sportsheadline_us"
+Defined in module sports.py
+Used in sports.py
+
+Philly blitzes Canucks, 3-1
+
+SF takes Canucks, 39-28 in O/T
+
+Denver takes Pennant
+
+Raiders trounce Tampa, 8-0
+
+Polk advances to draft selection
+
+Carter signed to Liberty
+
+Rockets blank Dallas, 30-22
+
+Campbell leads Sixers to 6-4 victory
+
+Detroit demolishes LA, 7-3 in O/T
+
+Tampa trounces Houston, 15-6 in O/T
+
+Oilers sign Philipe in $17M deal
+
+Hohen sets slamdunk record
+
+Detroit trounces Angels, 7-5
+
+SunTron's Blockland buys Angels for $31M
+
+Pitcher Harvey injured, out for season
+
+Coach Schusslerseeerteich injured, out for season
+
+Raiders blitz Detroit, 10-9 in O/T
+
+SF demolishes Dallas, 24-15
+
+Philly over Philly, 11-0 in O/T
+
+Barnes named to WNBA draft selectionResults for "sportsheadline_us"
+Defined in module sports.py
+Used in sports.py
+
+NY takes Denver, 36-24
+
+Sixers over Chicago, 8-0
+
+Schwankauer signed to Raiders
+
+Roy signed to Raiders
+
+Pistons take Open
+
+Dallas beats Pistons, 29-16 in O/T
+
+Yayo named to NCAA draft pick
+
+Denver beats Denver, 5-1 in O/T
+
+Rockets advance to Championship
+
+Quarterback François to retire from Raiders
+
+Liberty over Denver, 32-21
+
+Dallas takes Semifinals
+
+Mount Pineville advances to draft selection
+
+SF over Houston, 10-8 in O/T
+
+Coach Bell injured, out for season
+
+NY blitzes NY, 5-1 in O/T
+
+Tampa over Liberty, 12-1
+
+Chicago blitzes Sixers, 6-2
+
+Philly blitzes SF, 6-4 in O/T
+
+Liberty ace Pennant

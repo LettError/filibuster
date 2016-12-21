@@ -1,10 +1,10 @@
+Results for "legal_professions"
+Defined in module legal.py
+Used in articles.py
 
+judges
 
-members of the jury
-
-lawyers
-
-police officers
+judges
 
 lawyers
 
@@ -14,8 +14,240 @@ solicitors
 
 judges
 
+solicitors
+
+lawyers
+
+judges
+
+solicitors
+
+judges
+
+members of the jury
+
+solicitors
+
+solicitors
+
+judges
+
+lawyers
+
 members of the jury
 
 members of the jury
+
+judges
+
+solicitorsResults for "legal_professions"
+Defined in module legal.py
+Used in articles.py
+
+members of the jury
+
+judges
+
+lawyers
+
+judges
+
+judges
+
+lawyers
+
+members of the jury
+
+solicitors
+
+lawyers
+
+lawyers
+
+police officers
+
+members of the jury
+
+judges
+
+police officers
+
+lawyers
+
+judges
+
+solicitors
+
+police officers
+
+lawyers
+
+lawyersResults for "legal_professions"
+Defined in module legal.py
+Used in articles.py
+
+solicitors
+
+lawyers
+
+solicitors
+
+judges
+
+lawyers
+
+members of the jury
+
+members of the jury
+
+solicitors
+
+lawyers
+
+lawyers
+
+judges
+
+lawyers
+
+lawyers
+
+members of the jury
+
+members of the jury
+
+judges
+
+police officers
+
+police officers
+
+lawyers
+
+lawyersResults for "legal_professions"
+Defined in module legal.py
+Used in articles.py
+
+judges
+
+judges
+
+police officers
+
+members of the jury
+
+members of the jury
+
+police officers
+
+solicitors
+
+judges
+
+police officers
+
+lawyers
+
+members of the jury
+
+judges
+
+lawyers
+
+lawyers
+
+judges
+
+police officers
+
+police officers
+
+solicitors
+
+police officers
+
+police officersResults for "legal_professions"
+Defined in module legal.py
+Used in articles.py
+
+members of the jury
+
+solicitors
+
+lawyers
+
+members of the jury
+
+police officers
+
+lawyers
+
+members of the jury
+
+judges
+
+judges
+
+judges
+
+members of the jury
+
+solicitors
+
+judges
+
+judges
+
+solicitors
+
+police officers
+
+judges
+
+lawyers
+
+lawyers
+
+lawyersResults for "legal_professions"
+Defined in module legal.py
+Used in articles.py
+
+lawyers
+
+lawyers
+
+members of the jury
+
+lawyers
+
+members of the jury
+
+lawyers
+
+solicitors
+
+lawyers
+
+solicitors
+
+judges
+
+members of the jury
+
+police officers
+
+members of the jury
+
+police officers
+
+police officers
+
+lawyers
+
+judges
+
+lawyers
+
+police officers
 
 lawyers

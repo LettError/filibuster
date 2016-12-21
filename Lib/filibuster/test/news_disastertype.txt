@@ -1,4 +1,220 @@
+Results for "news_disastertype"
+Defined in module news.py
+Used in politics.py
 
+San Francisco pummeled by massive earthquake
+
+stricken
+
+Florida savaged by massive earthquake
+
+stricken
+
+the Carribean suffers massive earthquake
+
+flooded
+
+flooded
+
+Tokyo savaged by massive earthquake
+
+stricken
+
+stricken
+
+the Carribean savaged by massive earthquake
+
+flooded
+
+stricken
+
+stricken
+
+stricken
+
+flooded
+
+Indonesia wracked by earthquake
+
+stricken
+
+stricken
+
+strickenResults for "news_disastertype"
+Defined in module news.py
+Used in politics.py
+
+flooded
+
+Indonesia suffers earthquake
+
+Florida suffers massive earthquake
+
+stricken
+
+stricken
+
+flooded
+
+Indonesia savaged by earthquake
+
+San Francisco wracked by massive earthquake
+
+flooded
+
+Turkey savaged by earthquake
+
+stricken
+
+flooded
+
+flooded
+
+flooded
+
+flooded
+
+flooded
+
+flooded
+
+flooded
+
+stricken
+
+strickenResults for "news_disastertype"
+Defined in module news.py
+Used in politics.py
+
+flooded
+
+stricken
+
+Los Angeles pummeled by earthquake
+
+stricken
+
+stricken
+
+flooded
+
+flooded
+
+the Carribean suffers minor tremors
+
+stricken
+
+stricken
+
+Florida wracked by massive earthquake
+
+Tokyo savaged by earthquake
+
+Los Angeles savaged by earthquake
+
+stricken
+
+stricken
+
+northern California wracked by earthquake
+
+stricken
+
+Bangladesh wracked by earthquake
+
+Bangladesh pummeled by massive earthquake
+
+strickenResults for "news_disastertype"
+Defined in module news.py
+Used in politics.py
+
+stricken
+
+Turkey suffers minor tremors
+
+stricken
+
+Bangladesh pummeled by earthquake
+
+northern California suffers massive earthquake
+
+Los Angeles suffers massive earthquake
+
+stricken
+
+stricken
+
+stricken
+
+flooded
+
+Los Angeles savaged by earthquake
+
+Turkey suffers minor tremors
+
+flooded
+
+India pummeled by earthquake
+
+India savaged by minor tremors
+
+flooded
+
+stricken
+
+stricken
+
+stricken
+
+the Carribean suffers earthquakeResults for "news_disastertype"
+Defined in module news.py
+Used in politics.py
+
+flooded
+
+stricken
+
+stricken
+
+India suffers massive earthquake
+
+flooded
+
+San Francisco wracked by massive earthquake
+
+flooded
+
+stricken
+
+stricken
+
+Turkey pummeled by massive earthquake
+
+stricken
+
+flooded
+
+flooded
+
+flooded
+
+flooded
+
+stricken
+
+flooded
+
+flooded
+
+flooded
+
+floodedResults for "news_disastertype"
+Defined in module news.py
+Used in politics.py
+
+flooded
+
+flooded
 
 stricken
 
@@ -6,16 +222,32 @@ flooded
 
 stricken
 
-south of France savaged by minor tremors
+flooded
+
+flooded
+
+flooded
+
+Kobe, Japan, wracked by minor tremors
+
+flooded
+
+Tokyo suffers massive earthquake
 
 flooded
 
 stricken
 
-stricken
+Indonesia pummeled by minor tremors
 
 stricken
 
 flooded
+
+northern California wracked by minor tremors
+
+stricken
+
+Kobe, Japan, pummeled by minor tremors
 
 flooded

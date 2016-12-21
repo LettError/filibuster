@@ -1,4 +1,132 @@
+Results for "design_location"
+Defined in module design.py
+Used in design.py
 
+the workplace
+
+the workplace
+
+Adobe Magazine June 2004
+
+Houston
+
+Bologna
+
+the workplace
+
+Bologna
+
+the workplace
+
+Frankfurt
+
+Dallas
+
+the workplace
+
+the workplace
+
+Argos July 2008
+
+the workplace
+
+Seattle
+
+Compres October 2007
+
+the workplace
+
+the workplace
+
+AIGA Journal of Graphic Design May 2008
+
+Ark April 2001Results for "design_location"
+Defined in module design.py
+Used in design.py
+
+Blueprint January 2008
+
+Berlin
+
+the workplace
+
+the workplace
+
+Architext Design July 2001
+
+Berlin
+
+the workplace
+
+Toulouse
+
+the workplace
+
+Barcelona
+
+Icographic November 2009
+
+Druk April 2009
+
+Madrid
+
+Blueprint November 2006
+
+Los Angeles
+
+Graphis August 2006
+
+FontZine September 2009
+
+the workplace
+
+the workplace
+
+Applies Arts November 2001Results for "design_location"
+Defined in module design.py
+Used in design.py
+
+the workplace
+
+Items August 2006
+
+Glasgow
+
+Bauhaus September 2010
+
+Form & Zweck June 2006
+
+Frankfurt
+
+Items January 2010
+
+Bauhaus March 2009
+
+the workplace
+
+Rome
+
+the workplace
+
+Eindhoven
+
+Washington
+
+Bilbao
+
+Maastricht
+
+the workplace
+
+Grafische Nachrichten October 2004
+
+Items March 2012
+
+the workplace
+
+Acro [AKPO] June 2006Results for "design_location"
+Defined in module design.py
+Used in design.py
 
 the workplace
 
@@ -6,15 +134,119 @@ Leiden
 
 the workplace
 
-Design Issues September 2012
+DaDa July 2001
 
 the workplace
 
-DaDa February 2005
+the workplace
+
+Icographic March 2004
+
+the workplace
+
+Acro [AKPO] November 2001
+
+Marseilles
+
+Kak November 2008
+
+the workplace
+
+Compres July 2012
+
+Journal of Scientific Syntax March 2011
+
+Bologna
+
+ID May 2006
+
+the workplace
+
+Pittsburgh
+
+Hard Werken August 2007
+
+BonnResults for "design_location"
+Defined in module design.py
+Used in design.py
+
+Toulouse
+
+the workplace
+
+Form & Zweck June 2003
+
+I.D. July 2012
 
 Florence
 
-Blueprint May 2000
+Domus January 2011
+
+Bilbao
+
+the workplace
+
+Sheffield
+
+the workplace
+
+Colors August 2012
+
+the workplace
+
+Lille
+
+Delft
+
+The Hague
+
+the workplace
+
+Design Report October 2011
+
+the workplace
+
+AGI-NGT March 2000
+
+Bauhaus July 2012Results for "design_location"
+Defined in module design.py
+Used in design.py
+
+Colors November 2004
+
+Glasgow
+
+the workplace
+
+Lille
+
+the workplace
+
+Florence
+
+the workplace
+
+The Fleuron January 2000
+
+Madrid
+
+the workplace
+
+the workplace
+
+Blueprint March 2002
+
+Bologna
+
+Delft
+
+the workplace
+
+Druk March 2008
+
+Da! August 2007
+
+Graphis June 2006
 
 the workplace
 

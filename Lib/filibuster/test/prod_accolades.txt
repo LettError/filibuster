@@ -1,8 +1,26 @@
+Results for "prod_accolades"
+Defined in module corporate.py
+Used in corporate.py
 
+meets with great success
+
+announced
+
+announced
+
+unveiled
+
+meets with great success
+
+unveiled
 
 wins best of show
 
-announced
+unveiled
+
+meets with great success
+
+unveiled
 
 announced
 
@@ -11,6 +29,30 @@ unveiled
 unveiled
 
 wins best of show
+
+wins best of show
+
+announced
+
+wins best of show
+
+wins best of show
+
+announced
+
+meets with great successResults for "prod_accolades"
+Defined in module corporate.py
+Used in corporate.py
+
+unveiled
+
+announced
+
+meets with great success
+
+meets with great success
+
+unveiled
 
 meets with great success
 
@@ -18,4 +60,194 @@ unveiled
 
 unveiled
 
+meets with great success
+
+wins best of show
+
+wins best of show
+
+unveiled
+
 announced
+
+announced
+
+meets with great success
+
+announced
+
+announced
+
+wins best of show
+
+announced
+
+wins best of showResults for "prod_accolades"
+Defined in module corporate.py
+Used in corporate.py
+
+unveiled
+
+announced
+
+wins best of show
+
+announced
+
+announced
+
+wins best of show
+
+meets with great success
+
+wins best of show
+
+meets with great success
+
+meets with great success
+
+announced
+
+wins best of show
+
+unveiled
+
+announced
+
+unveiled
+
+unveiled
+
+unveiled
+
+unveiled
+
+announced
+
+wins best of showResults for "prod_accolades"
+Defined in module corporate.py
+Used in corporate.py
+
+wins best of show
+
+unveiled
+
+wins best of show
+
+announced
+
+unveiled
+
+announced
+
+announced
+
+meets with great success
+
+wins best of show
+
+unveiled
+
+meets with great success
+
+wins best of show
+
+unveiled
+
+wins best of show
+
+meets with great success
+
+announced
+
+meets with great success
+
+unveiled
+
+wins best of show
+
+announcedResults for "prod_accolades"
+Defined in module corporate.py
+Used in corporate.py
+
+meets with great success
+
+wins best of show
+
+unveiled
+
+meets with great success
+
+unveiled
+
+meets with great success
+
+announced
+
+announced
+
+announced
+
+unveiled
+
+meets with great success
+
+wins best of show
+
+announced
+
+unveiled
+
+announced
+
+announced
+
+announced
+
+meets with great success
+
+unveiled
+
+announcedResults for "prod_accolades"
+Defined in module corporate.py
+Used in corporate.py
+
+announced
+
+announced
+
+wins best of show
+
+announced
+
+wins best of show
+
+wins best of show
+
+wins best of show
+
+meets with great success
+
+meets with great success
+
+announced
+
+wins best of show
+
+meets with great success
+
+unveiled
+
+wins best of show
+
+wins best of show
+
+unveiled
+
+wins best of show
+
+unveiled
+
+announced
+
+meets with great success

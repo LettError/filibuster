@@ -1,10 +1,134 @@
+Results for "alphabet_sizes"
+Defined in module general.py
 
+DD
+
+E
+
+BB
+
+E
+
+C
+
+CC
+
+EE
+
+B
 
 AA
+
+EE
+
+CC
+
+E
+
+E
+
+D
+
+A
+
+E
+
+AA
+
+AA
+
+AA
+
+BResults for "alphabet_sizes"
+Defined in module general.py
+
+CC
+
+D
+
+A
+
+A
+
+FF
+
+A
+
+BB
+
+E
+
+C
+
+D
+
+FF
+
+EE
+
+CC
 
 CC
 
 EEE
+
+F
+
+C
+
+BB
+
+AA
+
+DDResults for "alphabet_sizes"
+Defined in module general.py
+
+F
+
+E
+
+C
+
+E
+
+E
+
+F
+
+A
+
+C
+
+B
+
+D
+
+BB
+
+B
+
+B
+
+F
+
+F
+
+C
+
+C
+
+D
+
+BB
+
+BResults for "alphabet_sizes"
+Defined in module general.py
+
+C
+
+EE
+
+BB
 
 E
 
@@ -12,10 +136,112 @@ DD
 
 BB
 
-D
+CC
 
-BB
+A
+
+A
+
+FF
+
+A
+
+DD
 
 C
 
+BB
+
+F
+
+F
+
+AAA
+
+F
+
+C
+
+EResults for "alphabet_sizes"
+Defined in module general.py
+
 EE
+
+D
+
+B
+
+D
+
+E
+
+A
+
+AAA
+
+C
+
+DD
+
+F
+
+DD
+
+EE
+
+B
+
+F
+
+DD
+
+C
+
+AA
+
+BB
+
+D
+
+AResults for "alphabet_sizes"
+Defined in module general.py
+
+B
+
+F
+
+E
+
+CC
+
+AA
+
+EEE
+
+F
+
+FF
+
+B
+
+EE
+
+E
+
+F
+
+EEE
+
+B
+
+AA
+
+AA
+
+B
+
+C
+
+DD
+
+C

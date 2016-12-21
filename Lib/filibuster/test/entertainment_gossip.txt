@@ -1,21 +1,253 @@
+Results for "entertainment_gossip"
+Defined in module entertainment.py
+Used in entertainment.py
 
-
-Marcus Jansen and May Marlowe to divorce
-
-Who is Erin Jean?
+Torben Schankerlebach Says Yes to Kate’s invite
 
 Where are they now?
 
-Who is Alexander Vilår?
+Irwin Kaye and Bethany Philipe to divorce
 
-Sandra playes Daphne
+Where are they now?
 
-A day with Stuart Hendrikson?
+A day with Ross Rutkowski?
 
-James Mimi Says Yes to Liz’s invite
+Emily’s next movie?
+
+Who is Laura Harrison?
+
+Who is May Kosho?
+
+Quoting Josie Hill
+
+Quoting Phoebe McLaren
+
+What said Susan?
+
+Arch Fernandez and May Vazquez to divorce
+
+Are the phrases “Utrecht Travel Museum” / “Delft Architecture Exhibition” oxymorons?
+
+Quoting Careers Week
+
+Quoting Graham Murphy
+
+May’s next movie?
+
+Quoting Bob Tatahi
+
+Quoting Helen Cruz
+
+Meet Sandra Pierre
+
+Quoting Music DailyResults for "entertainment_gossip"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Quoting Carmen Harrison
+
+Walter Suarez and Theresa Murray to divorce
+
+What said Eloise?
+
+Who is Mary Philipe?
+
+Meet Bridget Brown
+
+Patrick Scheschermann and Bridget Lamberti to divorce
+
+Are the phrases “Final Sports Oscars” / “Com Sculpture Days” oxymorons?
+
+Meet Victor Rogers
+
+Stuart Sanyamaho and Elizabeth Chapman to divorce
+
+Quoting The Financial Reporter (Delft)
+
+Connie’s next movie?
+
+Daphne’s next movie?
+
+What said Anna?
+
+Where are they now?
+
+Where are they now?
+
+Carl Schuauerfeltler and Mary Khan-Fernandez to divorce
+
+Quoting Sports Watch
+
+Are the phrases “Family Embroidery Days” / “Gouda Stamp Theater” oxymorons?
+
+What said Laura?
+
+A day with Liz Cho-Tremblay?Results for "entertainment_gossip"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Michiel Jacques Says Yes to Karla’s invite
+
+Quoting Vermont Watcher
+
+Who is Dieter McLaren?
+
+Charles Birnerstuhlauer Says Yes to May’s invite
+
+Quoting Lynn Jacques
+
+A day with Siobhan Álvarez?
+
+Meet Rob B. Ångstrøm
+
+Sasha Wilkinson-Larssen and Nan Visigoth to divorce
+
+Quoting Wall Street Watcher
+
+Amy’s next movie?
+
+Dara playes Erin
+
+Who is V. Daphne Rutkowski?
+
+Quoting Florida Update
+
+Meet Clifford Lloyd
+
+Sandra’s next movie?
+
+Are the phrases “Grand Sculpture Anniversary” / “Local SXSW Show” oxymorons?
+
+Quoting Meghan White
+
+Carmen’s next movie?
+
+Who is Claudia Ångstrøm?
+
+Are the phrases “Israel Lobster Conference” / “Final Jazz Days” oxymorons?Results for "entertainment_gossip"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Bethany playes Connie
+
+Ian Baker Says Yes to Susan’s invite
+
+Quoting Family Update
+
+Rosemary’s next movie?
+
+Are the phrases “Local Home Awards” / “Northern Mariana Islands Otter Festival” oxymorons?
+
+Quoting Home Watcher
+
+Quoting Ian Pwolley
+
+Who is Meghan Heimmannland?
+
+What said Eloise?
+
+Isaac F. Simpson and Arch Jansen to divorce
+
+Are the phrases “World Hobby Celebrations” / “Family Sculpture Concerts” oxymorons?
+
+Isaac Hernández and Andrea Williams to divorce
+
+Paul Jean and Meghan Wilson-Morris to divorce
+
+Who is David Watson?
+
+Who is H. Isabel McLaren?
+
+A day with James Yaka?
+
+A day with W. Bethany Miller?
 
 What said Claudia?
 
-Meet Raoul Janssen
+Erik Philipe Says Yes to Petra’s invite
 
-Who is Peter L. King?
+Nan playes NanResults for "entertainment_gossip"
+Defined in module entertainment.py
+Used in entertainment.py
+
+A day with Scott Jacques?
+
+Are the phrases “Local Travel Awards” / “Com Embroidery Exhibition” oxymorons?
+
+What said Susan?
+
+Are the phrases “Maastricht Opera Days” / “World Embroidery Tour” oxymorons?
+
+Who is Walter Sobitsushi?
+
+Quoting Winners Watcher
+
+Isabel’s next movie?
+
+Meet Patrick González
+
+Kate’s next movie?
+
+Where are they now?
+
+Quoting Eugene Schoschenbach
+
+What said Rosemary?
+
+What said Laura?
+
+Craig Gallagher-Watson Says Yes to Laura’s invite
+
+Who is Torben Schreinler?
+
+Quoting The Delft Investor
+
+Quoting Madeleine Fernandez-Jeanne
+
+Who is Liz Pierre?
+
+What said Madeleine?
+
+Are the phrases “Grand Opera Casino” / “Regional Urban Museum” oxymorons?Results for "entertainment_gossip"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Where are they now?
+
+Meet Elizabeth Suh
+
+Brad Jean, Jr. Says Yes to Mary’s invite
+
+Quoting Living Daily
+
+Courtney playes Ellen
+
+Where are they now?
+
+Justine playes May
+
+What said Jen?
+
+Quoting Michiel Schneider
+
+Who is Brad Mason?
+
+Where are they now?
+
+Petra playes Claudia
+
+A day with Tricia Mackstrauss?
+
+Meet Liz Schrein
+
+Are the phrases “Annual Dragon Events” / “Big Food Festival” oxymorons?
+
+Who is Helen Sonhi?
+
+Are the phrases “World Dragon Museum” / “Big City Tour” oxymorons?
+
+Are the phrases “The Hague Help Aid Celebrations” / “Com Soccer Tour” oxymorons?
+
+Craig Dixon-Parker Says Yes to Claudia’s invite
+
+Quoting Jennifer Yamotishi

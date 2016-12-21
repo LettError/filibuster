@@ -1,21 +1,253 @@
+Results for "design_ref"
+Defined in module design.py
+Used in design.py
 
+, (Refthing TO BE FILLED, 1926)
 
-, (Rick Poynor: Refthing TO BE FILLED, 1925, 1970)
+, (Lorainne Wild on Refthing TO BE FILLED 1963)
 
-, (Frank Gehry: Refthing TO BE FILLED, 1945, 1988)
+, (Rudy Vanderlans: Refthing TO BE FILLED, 1936, 1958)
 
-, (Andy Warhol: Refthing TO BE FILLED, 1942, 1985)
+, (Andy Warhol: Refthing TO BE FILLED, 1919, 1976)
 
-, (Ann Burdick on Refthing TO BE FILLED 1985)
+, (Peter Bil’ak on Refthing TO BE FILLED 1989)
 
-, (Hannes Krüger: Refthing TO BE FILLED, 1910, 1951)
+, (Dawn Barrett: Refthing TO BE FILLED, 1907, 1981)
 
-, (David Bowie on Refthing TO BE FILLED 1988)
+, (Andy Warhol: Refthing TO BE FILLED, 1940, 1968)
 
-, (David Byrne: Refthing TO BE FILLED, 1935, 1977)
+, (Refthing TO BE FILLED, 1928)
 
-, (Piet Zwart on Refthing TO BE FILLED 1955)
+, (Refthing TO BE FILLED, 1997)
 
-, (Walter Nikkels on Refthing TO BE FILLED 1971)
+, (Allan Turing: Refthing TO BE FILLED, 1928, 1954)
 
-, (Dawn Barrett on Refthing TO BE FILLED 1988)
+, (Dawn Barrett: Refthing TO BE FILLED, 1919, 1987)
+
+, (Refthing TO BE FILLED, 1990)
+
+, (Christian Schwarz: Refthing TO BE FILLED, 1929, 1969)
+
+, (Refthing TO BE FILLED, 1999)
+
+, (Harry Sierman on Refthing TO BE FILLED 1988)
+
+, (Robin Kinross on Refthing TO BE FILLED 1998)
+
+, (April Greiman: Refthing TO BE FILLED, 1939, 1979)
+
+, (Sjoerd de Roos: Refthing TO BE FILLED, 1941, 1999)
+
+, (Robin Kinross: Refthing TO BE FILLED, 1900, 1988)
+
+, (Rick Poynor on Refthing TO BE FILLED 1978)Results for "design_ref"
+Defined in module design.py
+Used in design.py
+
+, (Gerrit Noordzij: Refthing TO BE FILLED, 1929, 1995)
+
+, (Don Knuth: Refthing TO BE FILLED, 1943, 1984)
+
+, (Refthing TO BE FILLED, 1952)
+
+, (Polk Lawson: Refthing TO BE FILLED, 1939, 1998)
+
+, (Allan Turing: Refthing TO BE FILLED, 1941, 1961)
+
+, (Refthing TO BE FILLED, 1923)
+
+, (Refthing TO BE FILLED, 1981)
+
+, (Ann Burdick on Refthing TO BE FILLED 1991)
+
+, (Refthing TO BE FILLED, 1971)
+
+, (Joost Swarte: Refthing TO BE FILLED, 1911, 1975)
+
+, (Refthing TO BE FILLED, 1936)
+
+, (David Bowie on Refthing TO BE FILLED 1959)
+
+, (Refthing TO BE FILLED, 1939)
+
+, (Karel Treebus: Refthing TO BE FILLED, 1914, 1990)
+
+, (Burton Calder: Refthing TO BE FILLED, 1943, 1967)
+
+, (Harry Sierman on Refthing TO BE FILLED 1973)
+
+, (Umberto Eco: Refthing TO BE FILLED, 1920, 1966)
+
+, (Harrison Blockland on Refthing TO BE FILLED 1968)
+
+, (Refthing TO BE FILLED, 1970)
+
+, (Ellen Lupton on Refthing TO BE FILLED 1984)Results for "design_ref"
+Defined in module design.py
+Used in design.py
+
+, (Stuart Bailey on Refthing TO BE FILLED 1987)
+
+, (John H. Clark: Refthing TO BE FILLED, 1909, 1950)
+
+, (Marshal Mcluhan on Refthing TO BE FILLED 1950)
+
+, (Refthing TO BE FILLED, 1965)
+
+, (Hannes Krüger: Refthing TO BE FILLED, 1932, 1960)
+
+, (Sjoerd de Roos: Refthing TO BE FILLED, 1911, 1999)
+
+, (Acheson C. Tate: Refthing TO BE FILLED, 1920, 1969)
+
+, (Marshal Mcluhan: Refthing TO BE FILLED, 1916, 1951)
+
+, (Max Bruinsma: Refthing TO BE FILLED, 1941, 1987)
+
+, (Ronald Caldecott: Refthing TO BE FILLED, 1940, 1957)
+
+, (Paul White on Refthing TO BE FILLED 1990)
+
+, (Refthing TO BE FILLED, 1983)
+
+, (Refthing TO BE FILLED, 1996)
+
+, (Refthing TO BE FILLED, 1992)
+
+, (D. Price Blockland on Refthing TO BE FILLED 1987)
+
+, (Wim T. Schippers on Refthing TO BE FILLED 1964)
+
+, (Christian Schwarz: Refthing TO BE FILLED, 1930, 1988)
+
+, (Jan van Krimpen: Refthing TO BE FILLED, 1928, 1967)
+
+, (Refthing TO BE FILLED, 1977)
+
+, (Refthing TO BE FILLED, 1980)Results for "design_ref"
+Defined in module design.py
+Used in design.py
+
+, (Refthing TO BE FILLED, 1983)
+
+, (Andy Warhol: Refthing TO BE FILLED, 1948, 1961)
+
+, (Refthing TO BE FILLED, 1995)
+
+, (Refthing TO BE FILLED, 1991)
+
+, (Refthing TO BE FILLED, 1927)
+
+, (Refthing TO BE FILLED, 1971)
+
+, (Refthing TO BE FILLED, 1957)
+
+, (Lorainne Wild on Refthing TO BE FILLED 1952)
+
+, (Refthing TO BE FILLED, 1990)
+
+, (Refthing TO BE FILLED, 1947)
+
+, (Refthing TO BE FILLED, 1999)
+
+, (Brian Eno: Refthing TO BE FILLED, 1907, 1955)
+
+, (Paul Barnes: Refthing TO BE FILLED, 1943, 1951)
+
+, (Refthing TO BE FILLED, 1927)
+
+, (Refthing TO BE FILLED, 1993)
+
+, (Peter Saville: Refthing TO BE FILLED, 1948, 1983)
+
+, (James Harrison Sinclair: Refthing TO BE FILLED, 1941, 1951)
+
+, (Upton Caldecott: Refthing TO BE FILLED, 1940, 1967)
+
+, (Erik Spiekermann: Refthing TO BE FILLED, 1925, 1992)
+
+, (Don Knuth on Refthing TO BE FILLED 1983)Results for "design_ref"
+Defined in module design.py
+Used in design.py
+
+, (Joost Swarte: Refthing TO BE FILLED, 1950, 1952)
+
+, (Peter Bil’ak on Refthing TO BE FILLED 1962)
+
+, (Refthing TO BE FILLED, 1921)
+
+, (Refthing TO BE FILLED, 1973)
+
+, (Christian Schwarz: Refthing TO BE FILLED, 1924, 1982)
+
+, (Jan van Krimpen: Refthing TO BE FILLED, 1910, 1979)
+
+, (Rick Poynor on Refthing TO BE FILLED 1995)
+
+, (Refthing TO BE FILLED, 1956)
+
+, (Rudy Vanderlans on Refthing TO BE FILLED 1999)
+
+, (Sjoerd de Roos on Refthing TO BE FILLED 1981)
+
+, (Johns W. Dupont: Refthing TO BE FILLED, 1925, 1962)
+
+, (Ellen Lupton: Refthing TO BE FILLED, 1902, 2000)
+
+, (Refthing TO BE FILLED, 1995)
+
+, (Wim Crouwel: Refthing TO BE FILLED, 1945, 1972)
+
+, (Rudy Vanderlans: Refthing TO BE FILLED, 1924, 1981)
+
+, (Sjoerd de Roos on Refthing TO BE FILLED 1968)
+
+, (Gerrit Noordzij on Refthing TO BE FILLED 1971)
+
+, (Ross Parker on Refthing TO BE FILLED 1999)
+
+, (Harry Sierman: Refthing TO BE FILLED, 1922, 1999)
+
+, (Marshal Mcluhan: Refthing TO BE FILLED, 1928, 1982)Results for "design_ref"
+Defined in module design.py
+Used in design.py
+
+, (Refthing TO BE FILLED, 1968)
+
+, (Refthing TO BE FILLED, 1974)
+
+, (Parker Davies on Refthing TO BE FILLED 1981)
+
+, (Brian Eno on Refthing TO BE FILLED 2000)
+
+, (Refthing TO BE FILLED, 1971)
+
+, (Refthing TO BE FILLED, 1949)
+
+, (Rem Koolhaas: Refthing TO BE FILLED, 1927, 1953)
+
+, (Wim Crouwel on Refthing TO BE FILLED 1977)
+
+, (Karel Treebus on Refthing TO BE FILLED 1991)
+
+, (Umberto Eco: Refthing TO BE FILLED, 1911, 1997)
+
+, (Refthing TO BE FILLED, 1953)
+
+, (Refthing TO BE FILLED, 1945)
+
+, (Refthing TO BE FILLED, 1957)
+
+, (April Greiman: Refthing TO BE FILLED, 1924, 1961)
+
+, (Max Bruinsma: Refthing TO BE FILLED, 1907, 1984)
+
+, (Kennerley Archer, Jr.: Refthing TO BE FILLED, 1906, 1951)
+
+, (Umberto Eco on Refthing TO BE FILLED 1998)
+
+, (Marshal Mcluhan on Refthing TO BE FILLED 1951)
+
+, (Erik Spiekermann: Refthing TO BE FILLED, 1905, 1957)
+
+, (Refthing TO BE FILLED, 1946)

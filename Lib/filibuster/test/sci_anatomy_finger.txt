@@ -1,4 +1,188 @@
+Results for "sci_anatomy_finger"
+Defined in module sciences.py
+Used in sciences.py
 
+ring
+
+ring
+
+ring
+
+index
+
+middle
+
+index
+
+ring
+
+index
+
+index
+
+index
+
+middle
+
+ring
+
+ring
+
+ring
+
+middle
+
+middle
+
+index
+
+middle
+
+index
+
+ringResults for "sci_anatomy_finger"
+Defined in module sciences.py
+Used in sciences.py
+
+index
+
+middle
+
+index
+
+index
+
+ring
+
+middle
+
+ring
+
+index
+
+middle
+
+index
+
+middle
+
+index
+
+ring
+
+index
+
+ring
+
+middle
+
+ring
+
+middle
+
+middle
+
+indexResults for "sci_anatomy_finger"
+Defined in module sciences.py
+Used in sciences.py
+
+index
+
+index
+
+ring
+
+ring
+
+middle
+
+ring
+
+middle
+
+ring
+
+ring
+
+middle
+
+ring
+
+index
+
+index
+
+index
+
+middle
+
+ring
+
+middle
+
+index
+
+index
+
+middleResults for "sci_anatomy_finger"
+Defined in module sciences.py
+Used in sciences.py
+
+index
+
+middle
+
+ring
+
+ring
+
+index
+
+index
+
+ring
+
+index
+
+middle
+
+middle
+
+index
+
+ring
+
+middle
+
+middle
+
+middle
+
+ring
+
+middle
+
+ring
+
+middle
+
+middleResults for "sci_anatomy_finger"
+Defined in module sciences.py
+Used in sciences.py
+
+index
+
+index
+
+middle
+
+middle
+
+index
+
+middle
+
+ring
 
 index
 
@@ -10,11 +194,59 @@ middle
 
 middle
 
-middle
+ring
 
 index
 
 middle
+
+index
+
+index
+
+middle
+
+ring
+
+indexResults for "sci_anatomy_finger"
+Defined in module sciences.py
+Used in sciences.py
+
+middle
+
+ring
+
+ring
+
+middle
+
+middle
+
+middle
+
+index
+
+ring
+
+middle
+
+ring
+
+middle
+
+index
+
+index
+
+middle
+
+ring
+
+middle
+
+index
+
+index
 
 index
 

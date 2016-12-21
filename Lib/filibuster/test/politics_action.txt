@@ -1,21 +1,253 @@
+Results for "politics_action"
+Defined in module politics.py
+Used in politics.py
 
+involved in bribes coverup
 
-involved in donations investigation
+named in donations coverup
 
-cleared of sex investigation
+involved in tax trial
 
-involved in sex trial
+named in Caldecott, Polk and Ryan tapes
 
-named in murder coverup
+named in arms export investigation
 
-cleared of bribes tapes
+named in encryption investigation
 
-involved in personnel booby-trap investigation
+cleared of conventional booby-trap investigation
 
-cleared of corruption charges
+named in tax investigation
 
-involved in gun control investigation
+cleared of bribes charges
+
+named in murder investigation
+
+involved in arts subsidies investigation
+
+cleared of arms export investigation
+
+cleared of personnel ICBM investigation
+
+cleared of payoff charges
+
+cleared of tax tapes
+
+cleared of adoption trial
 
 involved in secret payments coverup
 
-cleared of donations charges
+involved in arms export charges
+
+named in phone tap trial
+
+cleared of corruption tapesResults for "politics_action"
+Defined in module politics.py
+Used in politics.py
+
+named in murder coverup
+
+named in gun control trial
+
+named in arms export charges
+
+named in sex trial
+
+named in sex coverup
+
+involved in donations investigation
+
+cleared of primitive missile tapes
+
+involved in arms export charges
+
+named in donations tapes
+
+involved in secret payments charges
+
+named in donations tapes
+
+involved in drug charges
+
+named in sex tapes
+
+cleared of plastic bomb charges
+
+named in phone tap charges
+
+named in murder investigation
+
+named in agriculture subsidies coverup
+
+named in corruption tapes
+
+cleared of tax tapes
+
+cleared of rocket investigationResults for "politics_action"
+Defined in module politics.py
+Used in politics.py
+
+named in the Cooperative Trust investigation
+
+cleared of encryption trial
+
+cleared of tax charges
+
+named in donations tapes
+
+cleared of drug coverup
+
+involved in drug charges
+
+named in adoption trial
+
+involved in drug charges
+
+involved in murder charges
+
+involved in secret payments trial
+
+named in sex investigation
+
+named in phone tap investigation
+
+involved in gun control charges
+
+involved in adoption charges
+
+cleared of corruption charges
+
+named in bribes charges
+
+named in drug charges
+
+cleared of tax investigation
+
+involved in bribes coverup
+
+involved in sex tapesResults for "politics_action"
+Defined in module politics.py
+Used in politics.py
+
+named in adoption tapes
+
+named in banana subsidies charges
+
+named in drug investigation
+
+named in adoption charges
+
+cleared of encryption investigation
+
+cleared of encryption trial
+
+named in secret payments charges
+
+cleared of encryption charges
+
+named in drug investigation
+
+named in phone tap investigation
+
+cleared of arts subsidies investigation
+
+cleared of encryption charges
+
+involved in donations investigation
+
+named in murder tapes
+
+named in corruption trial
+
+involved in drug tapes
+
+named in tax investigation
+
+involved in banana subsidies investigation
+
+named in trade subsidies investigation
+
+named in phone tap investigationResults for "politics_action"
+Defined in module politics.py
+Used in politics.py
+
+named in gun control coverup
+
+cleared of corruption charges
+
+involved in murder investigation
+
+named in donations investigation
+
+cleared of gun control tapes
+
+cleared of Forbes, Foster and Vanderpool of Palo Alto, CA trial
+
+named in Parker, Franklin & Price investigation
+
+cleared of corruption trial
+
+involved in bribes investigation
+
+involved in tax investigation
+
+cleared of donations investigation
+
+named in secret payments charges
+
+named in phone tap tapes
+
+named in payoff charges
+
+named in export subsidies charges
+
+cleared of gun control trial
+
+named in tax trial
+
+involved in payoff tapes
+
+cleared of payoff tapes
+
+named in gun control chargesResults for "politics_action"
+Defined in module politics.py
+Used in politics.py
+
+named in encryption charges
+
+involved in adoption trial
+
+named in phone tap coverup
+
+involved in gun control coverup
+
+named in secret payments coverup
+
+cleared of corruption investigation
+
+involved in drug coverup
+
+named in nuclear bomb trial
+
+named in secret payments tapes
+
+named in farm subsidies trial
+
+cleared of payoff trial
+
+involved in PariBas-Raiffeisen Bank investigation
+
+named in murder investigation
+
+involved in sex trial
+
+named in corruption coverup
+
+named in anti-personnel bomb coverup
+
+cleared of donations coverup
+
+involved in gun control trial
+
+involved in payoff investigation
+
+cleared of bribes investigation

@@ -1,10 +1,144 @@
+Results for "car_brand_japan"
+Defined in module automotive.py
+Used in automotive.py
 
+Nissan
+
+Toyota
 
 Nissan
 
 Nissan
 
 Nissan
+
+Nissan
+
+Toyota
+
+Nissan
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+Nissan
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+Toyota
+
+Nissan
+
+NissanResults for "car_brand_japan"
+Defined in module automotive.py
+Used in automotive.py
+
+Nissan
+
+Toyota
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+ToyotaResults for "car_brand_japan"
+Defined in module automotive.py
+Used in automotive.py
+
+Nissan
+
+Nissan
+
+Nissan
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+Nissan
+
+Toyota
+
+Nissan
+
+Nissan
+
+Toyota
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+Nissan
+
+Nissan
+
+Nissan
+
+ToyotaResults for "car_brand_japan"
+Defined in module automotive.py
+Used in automotive.py
+
+Toyota
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+Toyota
 
 Toyota
 
@@ -18,4 +152,102 @@ Toyota
 
 Nissan
 
+Nissan
+
+Nissan
+
+Nissan
+
 Toyota
+
+Toyota
+
+Toyota
+
+Nissan
+
+NissanResults for "car_brand_japan"
+Defined in module automotive.py
+Used in automotive.py
+
+Nissan
+
+Toyota
+
+Toyota
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Nissan
+
+Nissan
+
+Nissan
+
+Toyota
+
+Nissan
+
+Nissan
+
+Nissan
+
+Toyota
+
+Nissan
+
+NissanResults for "car_brand_japan"
+Defined in module automotive.py
+Used in automotive.py
+
+Nissan
+
+Nissan
+
+Nissan
+
+Toyota
+
+Toyota
+
+Toyota
+
+Nissan
+
+Toyota
+
+Nissan
+
+Toyota
+
+Toyota
+
+Toyota
+
+Toyota
+
+Nissan
+
+Toyota
+
+Toyota
+
+Nissan
+
+Toyota
+
+Nissan
+
+Nissan

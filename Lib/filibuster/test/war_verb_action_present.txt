@@ -1,21 +1,253 @@
+Results for "war_verb_action_present"
+Defined in module news.py
+Used in news.py
 
+named in refugees sex charges
+
+help
+
+strike against
 
 infiltrate
 
-discuss possible
+seek
 
-named in command post adoption charges
+infiltrate
+
+strike against
+
+begin talks on
+
+occupy
+
+infiltrate
+
+infiltrate
+
+occupy
+
+deny alleged
+
+strike against
+
+force
+
+help
+
+seek
+
+force
+
+loot
+
+divided onResults for "war_verb_action_present"
+Defined in module news.py
+Used in news.py
+
+deny alleged
+
+defend
+
+occupy
 
 divided on
+
+divided on
+
+discuss possible
+
+infiltrate
+
+divided on
+
+named in territory drug coverup
+
+deny alleged
+
+help
+
+occupy
+
+raid
+
+destroyed by
+
+deny existence of
+
+infiltrate
+
+divided on
+
+force
+
+strike against
+
+divided onResults for "war_verb_action_present"
+Defined in module news.py
+Used in news.py
+
+threaten
+
+deny existence of
+
+force
+
+defend
+
+named in TV crew payoff investigation
+
+threaten
+
+deny alleged
+
+bomb
+
+deny existence of
+
+bomb
+
+strike against
+
+discuss possible
+
+begin talks on
+
+strike against
+
+occupy
+
+divided on
+
+deny existence of
+
+deny alleged
+
+destroyed by
+
+engageResults for "war_verb_action_present"
+Defined in module news.py
+Used in news.py
+
+threaten
 
 raid
 
 discuss possible
 
-named in refineries donations trial
+engage
+
+occupy
+
+loot
+
+threaten
+
+occupy
+
+discuss possible
+
+force
+
+destroyed by
+
+seek
+
+infiltrate
+
+divided on
+
+engage
+
+threaten
+
+named in drug couriers sex investigation
+
+occupy
+
+deny alleged
+
+strike againstResults for "war_verb_action_present"
+Defined in module news.py
+Used in news.py
+
+named in capital donations charges
+
+occupy
+
+infiltrate
+
+strike against
 
 defend
+
+engage
+
+raid
+
+defend
+
+infiltrate
+
+loot
+
+help
+
+defend
+
+strike against
+
+threaten
+
+loot
+
+infiltrate
+
+strike against
+
+engage
+
+bomb
+
+named in elections sex trialResults for "war_verb_action_present"
+Defined in module news.py
+Used in news.py
+
+deny existence of
+
+deny existence of
+
+loot
+
+help
+
+deny alleged
+
+deny alleged
+
+deny existence of
 
 discuss possible
 
 threaten
+
+deny alleged
+
+engage
+
+named in Oslo battle wine subsidies charges
+
+bomb
+
+engage
+
+help
+
+help
+
+deny existence of
+
+divided on
+
+strike against
+
+infiltrate

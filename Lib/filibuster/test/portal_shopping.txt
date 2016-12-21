@@ -1,16 +1,186 @@
+Results for "portal_shopping"
+Defined in module portal.py
+Used in portal.py
 
+Auction
+
+Compare
 
 Compare
 
 WWW Sites
 
 WWW Sites
+
+Shopping
+
+Auction
+
+WWW Sites
+
+Compare
+
+WWW Sites
+
+Shopping
+
+Shopping
+
+Auction
+
+Shopping
+
+WWW Sites
+
+Compare
+
+Shopping
+
+Shopping
+
+Auction
+
+CompareResults for "portal_shopping"
+Defined in module portal.py
+Used in portal.py
+
+Auction
+
+Compare
+
+Compare
+
+WWW Sites
+
+Compare
+
+Shopping
+
+Auction
+
+Shopping
+
+WWW Sites
+
+Auction
+
+WWW Sites
+
+Shopping
+
+Auction
+
+Auction
+
+Auction
+
+Auction
+
+Auction
+
+WWW Sites
+
+Compare
+
+WWW SitesResults for "portal_shopping"
+Defined in module portal.py
+Used in portal.py
+
+Auction
+
+Auction
+
+WWW Sites
+
+Auction
+
+Shopping
+
+Compare
+
+Compare
+
+Compare
+
+WWW Sites
+
+WWW Sites
+
+WWW Sites
+
+Auction
+
+Compare
+
+WWW Sites
+
+Auction
+
+Compare
+
+WWW Sites
+
+Auction
+
+Shopping
+
+CompareResults for "portal_shopping"
+Defined in module portal.py
+Used in portal.py
+
+Shopping
+
+Shopping
+
+Auction
+
+WWW Sites
+
+Shopping
+
+Auction
+
+Auction
+
+WWW Sites
+
+Shopping
+
+Shopping
+
+Shopping
+
+Compare
+
+Shopping
+
+Shopping
+
+Shopping
 
 Compare
 
 Auction
 
+Compare
+
+Compare
+
+ShoppingResults for "portal_shopping"
+Defined in module portal.py
+Used in portal.py
+
 WWW Sites
+
+Shopping
+
+WWW Sites
+
+Auction
+
+Auction
+
+Shopping
 
 WWW Sites
 
@@ -19,3 +189,65 @@ Shopping
 Compare
 
 Auction
+
+Shopping
+
+Auction
+
+WWW Sites
+
+Auction
+
+Auction
+
+Shopping
+
+Compare
+
+Compare
+
+Auction
+
+ShoppingResults for "portal_shopping"
+Defined in module portal.py
+Used in portal.py
+
+WWW Sites
+
+Auction
+
+Shopping
+
+Compare
+
+Shopping
+
+Compare
+
+Auction
+
+WWW Sites
+
+Compare
+
+Auction
+
+Auction
+
+WWW Sites
+
+Auction
+
+Shopping
+
+Auction
+
+WWW Sites
+
+Compare
+
+Auction
+
+Shopping
+
+Shopping

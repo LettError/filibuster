@@ -1,4 +1,150 @@
+Results for "design_theory_verb"
+Defined in module design.py
+Used in design.py
 
+deliberation
+
+midification
+
+personification
+
+digitisation
+
+midification
+
+deliberation
+
+digitisation
+
+industrialisation
+
+quantification
+
+deliberation
+
+industrialisation
+
+industrialisation
+
+industrialisation
+
+quantification
+
+deliberation
+
+industrialisation
+
+midification
+
+quantification
+
+industrialisation
+
+personificationResults for "design_theory_verb"
+Defined in module design.py
+Used in design.py
+
+midification
+
+investigation
+
+investigation
+
+digitisation
+
+industrialisation
+
+quantification
+
+personification
+
+personification
+
+investigation
+
+quantification
+
+deliberation
+
+industrialisation
+
+personification
+
+digitisation
+
+personification
+
+quantification
+
+personification
+
+digitisation
+
+industrialisation
+
+investigationResults for "design_theory_verb"
+Defined in module design.py
+Used in design.py
+
+digitisation
+
+deliberation
+
+deliberation
+
+industrialisation
+
+midification
+
+industrialisation
+
+midification
+
+quantification
+
+midification
+
+deliberation
+
+deliberation
+
+midification
+
+deliberation
+
+industrialisation
+
+digitisation
+
+industrialisation
+
+industrialisation
+
+industrialisation
+
+quantification
+
+personificationResults for "design_theory_verb"
+Defined in module design.py
+Used in design.py
+
+personification
+
+personification
+
+industrialisation
+
+midification
+
+digitisation
+
+midification
+
+personification
+
+personification
+
+midification
 
 personification
 
@@ -6,16 +152,102 @@ digitisation
 
 investigation
 
-industrialisation
-
-quantification
-
-digitisation
-
-digitisation
+investigation
 
 personification
 
 digitisation
 
+investigation
+
+investigation
+
+investigation
+
+investigation
+
+deliberationResults for "design_theory_verb"
+Defined in module design.py
+Used in design.py
+
+industrialisation
+
+investigation
+
+industrialisation
+
+deliberation
+
+quantification
+
 midification
+
+midification
+
+industrialisation
+
+quantification
+
+personification
+
+quantification
+
+digitisation
+
+midification
+
+midification
+
+digitisation
+
+industrialisation
+
+industrialisation
+
+personification
+
+midification
+
+midificationResults for "design_theory_verb"
+Defined in module design.py
+Used in design.py
+
+industrialisation
+
+deliberation
+
+industrialisation
+
+digitisation
+
+quantification
+
+deliberation
+
+digitisation
+
+personification
+
+personification
+
+quantification
+
+deliberation
+
+investigation
+
+industrialisation
+
+digitisation
+
+industrialisation
+
+midification
+
+investigation
+
+digitisation
+
+deliberation
+
+industrialisation

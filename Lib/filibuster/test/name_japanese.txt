@@ -1,21 +1,253 @@
+Results for "name_japanese"
+Defined in module names.py
+Used in auction.py, creditcard.py, names.py, sports.py
 
+Kayaha
 
-Tayuyi
+Sakatito
 
-Kabantita
+Sumoyankan
 
-Yaso
+Mahisha
 
-Yobansho
+Subiban
 
-Yoso
+Sankansan
 
-Mabiya
+Yokishi
 
-Miyosotsu
+Koyisoka
 
-Titsumoka
+Sutasha
 
-Yokanbimi
+Sasoma
 
-Sanma
+Miyobi
+
+Mitiko
+
+Titashi
+
+Santsisan
+
+Sunbima
+
+Sontoho
+
+Tasanyan
+
+Yahoha
+
+Tayobi
+
+SunhihiResults for "name_japanese"
+Defined in module names.py
+Used in auction.py, creditcard.py, names.py, sports.py
+
+Sayimokan
+
+Kashibankan
+
+Sonyi
+
+Tahasho
+
+Mabiyanso
+
+Mashasanho
+
+Suyatsi
+
+Matsishi
+
+Sonkoso
+
+Yomoyahi
+
+Suyu
+
+Sanshaso
+
+Totiha
+
+Titaka
+
+Sanshiyu
+
+Sonbishi
+
+Takaki
+
+Tatimo
+
+Tomoto
+
+YabitaResults for "name_japanese"
+Defined in module names.py
+Used in auction.py, creditcard.py, names.py, sports.py
+
+Tokiyan
+
+Mihotsi
+
+Makoshitsu
+
+Sunki
+
+Yotsi
+
+Yotisan
+
+Koyasan
+
+Kahibanka
+
+Santsu
+
+Yabankan
+
+Tikantsubi
+
+Yoka
+
+Miyo
+
+Tobanto
+
+Kobibishi
+
+Makansan
+
+Sunyo
+
+Komito
+
+Sanshi
+
+YatibanResults for "name_japanese"
+Defined in module names.py
+Used in auction.py, creditcard.py, names.py, sports.py
+
+Koyanto
+
+Yomishiyan
+
+Yoyaya
+
+Mayutasha
+
+Yabanhi
+
+Sushiti
+
+Sanhashi
+
+Kakayan
+
+Sunta
+
+Miyoti
+
+Makoyi
+
+Sobi
+
+Yohayan
+
+Miyokanya
+
+Sashasota
+
+Kota
+
+Tiyankan
+
+Sunbibi
+
+Sohoko
+
+KosanhibanResults for "name_japanese"
+Defined in module names.py
+Used in auction.py, creditcard.py, names.py, sports.py
+
+Tashati
+
+Yatsiti
+
+Suhiyosan
+
+Mikanban
+
+Sonmoyusho
+
+Tosanbi
+
+Saso
+
+Mayuyan
+
+Kama
+
+Sankanhi
+
+Totsi
+
+Toyi
+
+Sunmatsi
+
+Katsi
+
+Miyoyiso
+
+Misanhiya
+
+Yosho
+
+Suntakotsi
+
+Sanhoban
+
+SunyantsuResults for "name_japanese"
+Defined in module names.py
+Used in auction.py, creditcard.py, names.py, sports.py
+
+Yamaka
+
+Sotsikami
+
+Satiho
+
+Sokito
+
+Kohoshoho
+
+Mibiki
+
+Sanmi
+
+Subanyobi
+
+Suhosanho
+
+Komaban
+
+Kotsu
+
+Tokisha
+
+Yatimo
+
+Kayoho
+
+Taha
+
+Koyu
+
+Tayomoyan
+
+Koyan
+
+Mishoti
+
+Tikisan

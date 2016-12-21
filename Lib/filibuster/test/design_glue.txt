@@ -1,4 +1,32 @@
+Results for "design_glue"
+Defined in module design.py
+Used in design.py
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+so
+
+
+
+but
+
+eventhough
+
+eventhough
+
+therefore
 
 
 
@@ -10,11 +38,216 @@ but
 
 
 
+
+
+ratherResults for "design_glue"
+Defined in module design.py
+Used in design.py
+
+
+
 therefore
+
+rather
+
+so
+
+
+
+
 
 
 
 and
 
+and
 
 
+
+
+
+
+
+eventhough
+
+eventhough
+
+
+
+
+
+
+
+
+
+though
+
+Results for "design_glue"
+Defined in module design.py
+Used in design.py
+
+
+
+
+
+
+
+
+
+rather
+
+
+
+rather
+
+therefore
+
+and
+
+and
+
+therefore
+
+though
+
+so
+
+
+
+therefore
+
+
+
+therefore
+
+eventhough
+
+
+
+Results for "design_glue"
+Defined in module design.py
+Used in design.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+eventhough
+
+
+
+though
+
+therefore
+
+though
+
+
+
+though
+
+rather
+
+
+
+rather
+
+rather
+
+but
+
+
+
+eventhoughResults for "design_glue"
+Defined in module design.py
+Used in design.py
+
+
+
+
+
+
+
+rather
+
+
+
+
+
+though
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+though
+
+so
+
+
+
+
+
+
+
+Results for "design_glue"
+Defined in module design.py
+Used in design.py
+
+
+
+
+
+therefore
+
+
+
+
+
+
+
+eventhough
+
+
+
+
+
+but
+
+
+
+though
+
+rather
+
+rather
+
+
+
+
+
+
+
+so
+
+though
+
+rather

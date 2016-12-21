@@ -1,12 +1,184 @@
+Results for "p_events_tech_sx"
+Defined in module corporate.py
+Used in corporate.py, portal.py
 
+dex
+
+View
+
+dex
 
 World
+
+dex
+
+View
+
+World
+
+dex
+
+View
+
+dex
 
 View
 
 View
 
+Bit
+
 World
+
+World
+
+World
+
+dex
+
+View
+
+Bit
+
+ViewResults for "p_events_tech_sx"
+Defined in module corporate.py
+Used in corporate.py, portal.py
+
+dex
+
+View
+
+World
+
+World
+
+World
+
+View
+
+dex
+
+Bit
+
+dex
+
+World
+
+dex
+
+Bit
+
+Bit
+
+View
+
+World
+
+World
+
+dex
+
+Bit
+
+Bit
+
+dexResults for "p_events_tech_sx"
+Defined in module corporate.py
+Used in corporate.py, portal.py
+
+Bit
+
+World
+
+Bit
+
+dex
+
+World
+
+dex
+
+World
+
+dex
+
+View
+
+dex
+
+dex
+
+View
+
+dex
+
+World
+
+Bit
+
+Bit
+
+Bit
+
+dex
+
+World
+
+WorldResults for "p_events_tech_sx"
+Defined in module corporate.py
+Used in corporate.py, portal.py
+
+Bit
+
+View
+
+World
+
+World
+
+World
+
+dex
+
+View
+
+World
+
+dex
+
+World
+
+View
+
+Bit
+
+View
+
+dex
+
+dex
+
+View
+
+dex
+
+World
+
+World
+
+dexResults for "p_events_tech_sx"
+Defined in module corporate.py
+Used in corporate.py, portal.py
+
+View
+
+World
+
+Bit
+
+dex
+
+dex
 
 View
 
@@ -16,6 +188,66 @@ World
 
 Bit
 
+World
+
+World
+
+dex
+
+World
+
+dex
+
+View
+
 Bit
 
 World
+
+Bit
+
+View
+
+ViewResults for "p_events_tech_sx"
+Defined in module corporate.py
+Used in corporate.py, portal.py
+
+Bit
+
+View
+
+Bit
+
+View
+
+World
+
+dex
+
+dex
+
+World
+
+World
+
+World
+
+dex
+
+dex
+
+View
+
+Bit
+
+dex
+
+dex
+
+View
+
+Bit
+
+World
+
+Bit

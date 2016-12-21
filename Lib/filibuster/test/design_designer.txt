@@ -1,21 +1,247 @@
+Results for "design_designer"
+Defined in module design.py
 
+Max Bruinsma
 
-Erik Spiekermann
+Allan Turing
 
-William Gibson
+Paul Barnes
 
-Christian Schwarz
+Eustus Knox Winslow, Jr.
 
-David Bowie
+Jan van Krimpen
+
+Piet Zwart
+
+Allan Turing
+
+Eugene Sloane Parham
+
+Wim T. Schippers
+
+Walter Nikkels
+
+Max Bruinsma
+
+Rudy Vanderlans
+
+Lorainne Wild
+
+Gert Dumbar
+
+Gert Dumbar
+
+Hannes Krüger
+
+Piet Zwart
+
+Stuart Bailey
+
+Winslow Harrison III
+
+David ByrneResults for "design_designer"
+Defined in module design.py
+
+Oswald Cooper
+
+Piet Zwart
+
+Rem Koolhaas
+
+Peter Saville
+
+David Byrne
+
+Ann Burdick
+
+Ellen Lupton
+
+Johnson A. Harrison
+
+David Byrne
+
+Rick Poynor
+
+Karel Treebus
+
+Umberto Eco
+
+Wim Crouwel
+
+Adams Harper III
+
+Oswald Cooper
+
+Ellen Lupton
+
+Brian Eno
+
+Ann Burdick
+
+Rem Koolhaas
+
+Andy WarholResults for "design_designer"
+Defined in module design.py
+
+Rudy Vanderlans
+
+Frank Gehry
+
+Sjoerd de Roos
+
+Stuart Bailey
+
+Stuart Bailey
+
+Clark H. Forbes III
 
 Paul Renner
 
 David Byrne
 
-Peter Bil’ak
+Christian Schwarz
 
-Gert Dumbar
+Andy Warhol
+
+Wim Crouwel
+
+Max Bruinsma
+
+Frank Lloyd Wright
+
+Christian Schwarz
+
+Rick Poynor
+
+Alan Palmer
+
+Paul Barnes
+
+William Gibson
+
+Daniel Jennings
+
+Marshal McluhanResults for "design_designer"
+Defined in module design.py
+
+Don Knuth
+
+Paul Barnes
+
+Fitzsimmons D. Caldecott
+
+Umberto Eco
+
+Karel Treebus
+
+Frank Lloyd Wright
+
+Paul Barnes
+
+Tyler Vanderpool
+
+Johnson Sinclair
+
+Walter Nikkels
+
+Paul Barnes
 
 Erik Spiekermann
 
-Warren Sterling
+Don Knuth
+
+April Greiman
+
+Andy Warhol
+
+Walter Nikkels
+
+Paul Fisher
+
+S. James Carson
+
+Brian Eno
+
+Paul RennerResults for "design_designer"
+Defined in module design.py
+
+Wim Crouwel
+
+Ellen Lupton
+
+Peter Bil’ak
+
+Rick Poynor
+
+C. Peter Fisher
+
+Dawn Barrett
+
+Umberto Eco
+
+William Gibson
+
+Andy Warhol
+
+Harry Sierman
+
+David Vanderpool Upton
+
+Erik Spiekermann
+
+Clark Carnegie
+
+Rem Koolhaas
+
+Rudy Vanderlans
+
+Robin Kinross
+
+Dawn Barrett
+
+Harry Sierman
+
+Gert Dumbar
+
+David ByrneResults for "design_designer"
+Defined in module design.py
+
+Peter Saville
+
+Piet Zwart
+
+Joost Swarte
+
+Robert Knox Riley
+
+Dawn Barrett
+
+Sjoerd de Roos
+
+Louise Sandhaus
+
+Andy Warhol
+
+Umberto Eco
+
+Andy Warhol
+
+Robin Kinross
+
+Christian Schwarz
+
+Paul Barnes
+
+Ann Burdick
+
+Peter Bil’ak
+
+Dawn Barrett
+
+Jan van Krimpen
+
+Peter Saville
+
+Sjoerd de Roos
+
+Frank Gehry

@@ -1,21 +1,253 @@
+Results for "IPO1"
+Defined in module corporate.py
+Used in corporate.py, internet.py, reviews.py
 
+InterNet2000
 
-webAuctionsNow!
+metaBrand2000
 
-webCorp2000
+getVision2000
+
+InterWorks.com
+
+netNetNow!
+
+myTrust2000
+
+CyberWorks.com
+
+HyperTradeonline
+
+metaCorponline
+
+eGroup2000
 
 HyperCorpNow!
 
-EquiBiz.com
+HyperBizonline
 
-HyperVision2000
+metaVisionNow!
 
-goBizNow!
+EquiGrouponline
 
-InterWorksonline
+iBrandonline
 
-metaCorp.com
+goBizonline
 
-goBrandonline
+getSale2000
 
-getVision.com
+iBiz2000
+
+getGroup.com
+
+eGrouponlineResults for "IPO1"
+Defined in module corporate.py
+Used in corporate.py, internet.py, reviews.py
+
+netVision2000
+
+InterBizNow!
+
+myAuctionsNow!
+
+getGroupNow!
+
+iTrust.com
+
+InterSaleonline
+
+HyperNetonline
+
+getNetworkingonline
+
+HyperBrandonline
+
+eCorpNow!
+
+netWorksonline
+
+myGroup.com
+
+CyberNetNow!
+
+InterCorp.com
+
+iNet2000
+
+CyberCorp.com
+
+eBiz.com
+
+goNetworkingNow!
+
+myBank.com
+
+InterNet2000Results for "IPO1"
+Defined in module corporate.py
+Used in corporate.py, internet.py, reviews.py
+
+netBrand2000
+
+iTrustNow!
+
+HyperNetonline
+
+HyperBizNow!
+
+iSaleonline
+
+getWorks2000
+
+iSale2000
+
+InterNetworkingonline
+
+eTrust2000
+
+getWorksNow!
+
+HyperBank2000
+
+goTrust.com
+
+InterNet.com
+
+metaBiz.com
+
+goNetNow!
+
+InterTrust2000
+
+CyberCorp2000
+
+iBankonline
+
+EquiCorp.com
+
+myBank.comResults for "IPO1"
+Defined in module corporate.py
+Used in corporate.py, internet.py, reviews.py
+
+EquiVisiononline
+
+webVisionNow!
+
+eTrust.com
+
+netBrand.com
+
+getSaleonline
+
+mySale2000
+
+CyberNetworking.com
+
+webNetonline
+
+EquiWorksNow!
+
+webWorks.com
+
+netSaleonline
+
+myBrandNow!
+
+eAuctionsonline
+
+netAuctionsonline
+
+metaTrustonline
+
+myBrand.com
+
+myTrustNow!
+
+metaBiz2000
+
+EquiBankonline
+
+EquiAuctions.comResults for "IPO1"
+Defined in module corporate.py
+Used in corporate.py, internet.py, reviews.py
+
+EquiTradeNow!
+
+CyberNet2000
+
+InterBrand.com
+
+InterAuctionsNow!
+
+InterTrustNow!
+
+EquiVisiononline
+
+InterNet.com
+
+netNetonline
+
+myCorpNow!
+
+InterBiz.com
+
+EquiWorks2000
+
+goAuctions.com
+
+getBiz.com
+
+eNet.com
+
+myTrust2000
+
+myWorksNow!
+
+myBrand2000
+
+EquiNet.com
+
+CyberNetNow!
+
+CyberBankonlineResults for "IPO1"
+Defined in module corporate.py
+Used in corporate.py, internet.py, reviews.py
+
+getBiz.com
+
+goVision2000
+
+goBank.com
+
+InterCorp2000
+
+EquiBrand.com
+
+EquiNetworkingNow!
+
+eTrustNow!
+
+getBrandNow!
+
+HyperBiz.com
+
+CyberCorponline
+
+InterVisiononline
+
+InterGrouponline
+
+EquiBrand.com
+
+mySaleNow!
+
+EquiSaleNow!
+
+EquiWorks2000
+
+HyperAuctions2000
+
+EquiBrandNow!
+
+iNetonline
+
+eCorponline

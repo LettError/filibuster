@@ -1,4 +1,144 @@
+Results for "sci_titles_sx"
+Defined in module sciences.py
+Used in literature.py
 
+MD
+
+MP
+
+MP
+
+MP
+
+MRCVS
+
+MD
+
+MO
+
+MRCVS
+
+MRCVS
+
+MRCVS
+
+MO
+
+MP
+
+MA
+
+MA
+
+MD
+
+MA
+
+MRCVS
+
+MRCVS
+
+MA
+
+MPResults for "sci_titles_sx"
+Defined in module sciences.py
+Used in literature.py
+
+MP
+
+RSJF
+
+MO
+
+RSDF
+
+MO
+
+MRCVS
+
+RSIP
+
+MD
+
+MD
+
+MA
+
+MA
+
+MP
+
+MA
+
+MA
+
+RSLY
+
+MD
+
+RSHS
+
+RSLN
+
+MP
+
+MOResults for "sci_titles_sx"
+Defined in module sciences.py
+Used in literature.py
+
+MD
+
+MD
+
+MA
+
+MD
+
+MRCVS
+
+MD
+
+MO
+
+MO
+
+RSFW
+
+MD
+
+MP
+
+MP
+
+MA
+
+RSKV
+
+MO
+
+RSOM
+
+MRCVS
+
+MD
+
+MO
+
+MDResults for "sci_titles_sx"
+Defined in module sciences.py
+Used in literature.py
+
+MA
+
+MA
+
+MD
+
+MA
+
+MD
+
+MD
 
 MRCVS
 
@@ -6,10 +146,32 @@ MO
 
 MA
 
-MRCVS
+MP
+
+MA
+
+RSAE
+
+MD
+
+MO
+
+MA
 
 MP
 
+MA
+
+RSYW
+
+MA
+
+MRCVSResults for "sci_titles_sx"
+Defined in module sciences.py
+Used in literature.py
+
+MA
+
 MO
 
 MO
@@ -18,4 +180,74 @@ MO
 
 MRCVS
 
+MD
+
+MD
+
+RSXP
+
+MP
+
 MRCVS
+
+MD
+
+MRCVS
+
+MRCVS
+
+MRCVS
+
+MA
+
+MD
+
+MA
+
+MRCVS
+
+MD
+
+RSAFResults for "sci_titles_sx"
+Defined in module sciences.py
+Used in literature.py
+
+RSNS
+
+MP
+
+RSXH
+
+MA
+
+MP
+
+RSKD
+
+MA
+
+RSVB
+
+MRCVS
+
+MD
+
+MA
+
+MP
+
+MRCVS
+
+MRCVS
+
+MD
+
+MA
+
+MA
+
+MA
+
+MA
+
+RSRN

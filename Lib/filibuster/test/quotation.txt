@@ -1,21 +1,253 @@
+Results for "quotation"
+Defined in module quotations.py
+Used in articles.py, quotations.py
 
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
 
-Most horror movies are certainly that. ~Brendan Francis
+Every man’s memory is his private literature. ~Aldous Huxley
 
-When once the itch of literature comes over a man, nothing can cure it but the scratching of a pen. But if you have not a pen, I suppose you must scratch any way you can. ~Samuel Lover, Handy Andy, 1842
-
-Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934
-
-When once the itch of literature comes over a man, nothing can cure it but the scratching of a pen. But if you have not a pen, I suppose you must scratch any way you can. ~Samuel Lover, Handy Andy, 1842
-
-A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
-
-A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
 
 Never judge a book by its movie. ~J.W. Eagan
 
-If I find a film dull, I find it infinitely more entertaining to watch the scratches. ~Norman McLaren
+When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman
+
+A sequel is an admission that you’ve been reduced to imitating yourself. ~Don Marquisv
+
+Rated G is nobody gets the girl. PG is the good guy gets the girl. R is the bad guy gets the girl. XXX is everybody gets the girl. ~Author Unknown
+
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
+
+What I’ve learned is that life is too short and movies are too long. ~Denis Leary
+
+Acting: An art which consists of keeping the audience from coughing. ~Ralph Richardson
+
+Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound
+
+Movie-making is the process of turning money into light. All they have at the end of the day is images flickering on a wall. ~John Boorman, Money into Light, 1985
+
+It would have been more logical if silent pictures had grown out of the talkies instead of the other way around. ~Mary Pickford
+
+A play should give you something to think about. When I see a play and understand it the first time, then I know it can’t be much good. ~T.S. Eliot, New York Post, 22 September 1963
+
+The difference between journalism and literature is that journalism is unreadable and literature is not read. ~Oscar Wilde, The Picture of Dorian Gray, 1891
+
+Why should people go out and pay money to see bad films when they can stay home and see bad television for nothing? ~Samuel Goldwyn
 
 Most horror movies are certainly that. ~Brendan Francis
 
+Fiction reveals truths that reality obscures. ~Jessamyn West
+
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
+
+Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934Results for "quotation"
+Defined in module quotations.py
+Used in articles.py, quotations.py
+
+Having your book turned into a movie is like seeing your oxen turned into bouillon cubes. ~John LeCarre
+
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
+
+Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound
+
+Every man’s memory is his private literature. ~Aldous Huxley
+
+When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman
+
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
+
+Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound
+
+It would have been more logical if silent pictures had grown out of the talkies instead of the other way around. ~Mary Pickford
+
+A play should give you something to think about. When I see a play and understand it the first time, then I know it can’t be much good. ~T.S. Eliot, New York Post, 22 September 1963
+
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
+
+Every man’s memory is his private literature. ~Aldous Huxley
+
+Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound
+
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
+
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
+
+It would have been more logical if silent pictures had grown out of the talkies instead of the other way around. ~Mary Pickford
+
+Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934
+
+There’s no thief like a bad movie. ~Sam Ewing
+
+A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
+
+Cinema should make you forget you are sitting in a theater. ~Roman Polanski
+
+Rated G is nobody gets the girl. PG is the good guy gets the girl. R is the bad guy gets the girl. XXX is everybody gets the girl. ~Author UnknownResults for "quotation"
+Defined in module quotations.py
+Used in articles.py, quotations.py
+
+A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
+
+The test of real literature is that it will bear repetition. We read over the same pages again and again, and always with fresh delight. ~Samual McChord Crothers
+
+Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934
+
+Fiction reveals truths that reality obscures. ~Jessamyn West
+
+A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine
+
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
+
+A play should give you something to think about. When I see a play and understand it the first time, then I know it can’t be much good. ~T.S. Eliot, New York Post, 22 September 1963
+
+If I find a film dull, I find it infinitely more entertaining to watch the scratches. ~Norman McLaren
+
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
+
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
+
+I doubt if anything learnt at school is of more value than great literature learnt by heart. ~Richard Livingstone
+
+Most horror movies are certainly that. ~Brendan Francis
+
+I doubt if anything learnt at school is of more value than great literature learnt by heart. ~Richard Livingstone
+
+What I’ve learned is that life is too short and movies are too long. ~Denis Leary
+
+Fiction reveals truths that reality obscures. ~Jessamyn West
+
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
+
 A sequel is an admission that you’ve been reduced to imitating yourself. ~Don Marquisv
+
+What I’ve learned is that life is too short and movies are too long. ~Denis Leary
+
+Acting is like a Halloween mask that you put on. ~River Phoenix
+
+Fiction reveals truths that reality obscures. ~Jessamyn WestResults for "quotation"
+Defined in module quotations.py
+Used in articles.py, quotations.py
+
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
+
+Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934
+
+The difference between journalism and literature is that journalism is unreadable and literature is not read. ~Oscar Wilde, The Picture of Dorian Gray, 1891
+
+A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
+
+If I find a film dull, I find it infinitely more entertaining to watch the scratches. ~Norman McLaren
+
+When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman
+
+Acting: An art which consists of keeping the audience from coughing. ~Ralph Richardson
+
+Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound
+
+Cinema should make you forget you are sitting in a theater. ~Roman Polanski
+
+A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
+
+There are only three ages for women in Hollywood - Babe, District Attorney, and Driving Miss Daisy. ~Goldie Hawn
+
+I’ve spent several years in Hollywood, and I still think the movie heroes are in the audience. ~Wilson Mizner
+
+Rated G is nobody gets the girl. PG is the good guy gets the girl. R is the bad guy gets the girl. XXX is everybody gets the girl. ~Author Unknown
+
+Never judge a book by its movie. ~J.W. Eagan
+
+The test of real literature is that it will bear repetition. We read over the same pages again and again, and always with fresh delight. ~Samual McChord Crothers
+
+Why do critics make such an outcry against tragicomedies? is not life one? ~Augustus William Hare and Julius Charles Hare, Guesses at Truth, by Two Brothers, 1827
+
+When once the itch of literature comes over a man, nothing can cure it but the scratching of a pen. But if you have not a pen, I suppose you must scratch any way you can. ~Samuel Lover, Handy Andy, 1842
+
+A good film is when the price of the dinner, the theatre admission and the babysitter were worth it. ~Alfred Hitchcock
+
+I’ve spent several years in Hollywood, and I still think the movie heroes are in the audience. ~Wilson Mizner
+
+There are only three ages for women in Hollywood - Babe, District Attorney, and Driving Miss Daisy. ~Goldie HawnResults for "quotation"
+Defined in module quotations.py
+Used in articles.py, quotations.py
+
+A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine
+
+What I’ve learned is that life is too short and movies are too long. ~Denis Leary
+
+Every man’s memory is his private literature. ~Aldous Huxley
+
+Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934
+
+Literature is the question minus the answer. ~Roland Barthes
+
+What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951
+
+The test of real literature is that it will bear repetition. We read over the same pages again and again, and always with fresh delight. ~Samual McChord Crothers
+
+A good film is when the price of the dinner, the theatre admission and the babysitter were worth it. ~Alfred Hitchcock
+
+Every man’s memory is his private literature. ~Aldous Huxley
+
+A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine
+
+A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
+
+Acting: An art which consists of keeping the audience from coughing. ~Ralph Richardson
+
+I doubt if anything learnt at school is of more value than great literature learnt by heart. ~Richard Livingstone
+
+The length of a film should be directly related to the endurance of the human bladder. ~Alfred Hitchcock
+
+You know, when I first went into the movies Lionel Barrymore played my grandfather. Later he played my father and finally he played my husband. If he had lived I’m sure I would have played his mother. That's the way it is in Hollywood. The men get younger and the women get older. ~Lillian Gish
+
+A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine
+
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
+
+There’s no thief like a bad movie. ~Sam Ewing
+
+There are only three ages for women in Hollywood - Babe, District Attorney, and Driving Miss Daisy. ~Goldie Hawn
+
+Literature is the question minus the answer. ~Roland BarthesResults for "quotation"
+Defined in module quotations.py
+Used in articles.py, quotations.py
+
+When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman
+
+A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
+
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
+
+Why should people go out and pay money to see bad films when they can stay home and see bad television for nothing? ~Samuel Goldwyn
+
+What I’ve learned is that life is too short and movies are too long. ~Denis Leary
+
+I doubt if anything learnt at school is of more value than great literature learnt by heart. ~Richard Livingstone
+
+What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France
+
+A sequel is an admission that you’ve been reduced to imitating yourself. ~Don Marquisv
+
+Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934
+
+Never judge a book by its movie. ~J.W. Eagan
+
+A play should give you something to think about. When I see a play and understand it the first time, then I know it can’t be much good. ~T.S. Eliot, New York Post, 22 September 1963
+
+A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain
+
+A sequel is an admission that you’ve been reduced to imitating yourself. ~Don Marquisv
+
+A good film is when the price of the dinner, the theatre admission and the babysitter were worth it. ~Alfred Hitchcock
+
+What I’ve learned is that life is too short and movies are too long. ~Denis Leary
+
+Every man’s memory is his private literature. ~Aldous Huxley
+
+If I find a film dull, I find it infinitely more entertaining to watch the scratches. ~Norman McLaren
+
+Rated G is nobody gets the girl. PG is the good guy gets the girl. R is the bad guy gets the girl. XXX is everybody gets the girl. ~Author Unknown
+
+It would have been more logical if silent pictures had grown out of the talkies instead of the other way around. ~Mary Pickford
+
+The length of a film should be directly related to the endurance of the human bladder. ~Alfred Hitchcock

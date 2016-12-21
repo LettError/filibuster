@@ -1,6 +1,28 @@
+Results for "auction_qualification"
+Defined in module auction.py
+Used in auction.py
+
+WOW
+
+WOW
+
+GREAT PRICE
+
+GREAT PRICE
+
+GREAT PRICE
+
+~BLOWOUT SALE~
 
 
 
+- Mint Condition
+
+GREAT PRICE
+
+- Mint Condition
+
+WOW
 
 
 
@@ -12,9 +34,219 @@ L@@K!!
 
 
 
-- Mint Condition
+
+
+
+
+
+
+Results for "auction_qualification"
+Defined in module auction.py
+Used in auction.py
+
+
+
+Limited Time Only
 
 ~BLOWOUT SALE~
 
 
+
+- in excellent condition
+
+
+
+WOW
+
+~BLOWOUT SALE~
+
+
+
+
+
+WOW
+
+L@@K!!
+
+
+
+
+
+- Mint Condition
+
+(needs some work)
+
+L@@K!!
+
+GREAT PRICE
+
+WOW
+
+~BLOWOUT SALE~Results for "auction_qualification"
+Defined in module auction.py
+Used in auction.py
+
+
+
+
+
+- Mint Condition
+
+- in excellent condition
+
+GREAT PRICE
+
+~BLOWOUT SALE~
+
+L@@K!!
+
+
+
+Limited Time Only
+
+L@@K!!
+
+
+
+Limited Time Only
+
+
+
+- in excellent condition
+
+
+
+
+
+
+
+WOW
+
+WOW
+
+Results for "auction_qualification"
+Defined in module auction.py
+Used in auction.py
+
+L@@K!!
+
+Limited Time Only
+
+
+
+(needs some work)
+
+
+
+- in excellent condition
+
+(needs some work)
+
+L@@K!!
+
+
+
+
+
+WOW
+
+Limited Time Only
+
+
+
+(needs some work)
+
+
+
+
+
+- Mint Condition
+
+~BLOWOUT SALE~
+
+GREAT PRICE
+
+GREAT PRICEResults for "auction_qualification"
+Defined in module auction.py
+Used in auction.py
+
+
+
+
+
+
+
+
+
+- Mint Condition
+
+WOW
+
+
+
+(needs some work)
+
+Limited Time Only
+
+~BLOWOUT SALE~
+
+L@@K!!
+
+Limited Time Only
+
+
+
+
+
+
+
+WOW
+
+Limited Time Only
+
+- Mint Condition
+
+
+
+- in excellent conditionResults for "auction_qualification"
+Defined in module auction.py
+Used in auction.py
+
+~BLOWOUT SALE~
+
+- in excellent condition
+
+Limited Time Only
+
+Limited Time Only
+
+L@@K!!
+
+
+
+
+
+- in excellent condition
+
+WOW
+
+
+
+GREAT PRICE
+
+- in excellent condition
+
+L@@K!!
+
+
+
+- in excellent condition
+
+- Mint Condition
+
+Limited Time Only
+
+- Mint Condition
+
+~BLOWOUT SALE~
 

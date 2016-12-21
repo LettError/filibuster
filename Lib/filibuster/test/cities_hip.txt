@@ -1,21 +1,253 @@
-
-
-Berlin
-
-Berlin
-
-Sao Paolo
-
-New York
-
-Sao Paolo
-
-New York
+Results for "cities_hip"
+Defined in module geography.py
+Used in entertainment.py, geography.py
 
 London
+
+London
+
+Den Haag
+
+New York
+
+New York
+
+New York
+
+Sao Paolo
+
+New York
+
+Den Haag
+
+Tokyo
+
+New York
 
 London
 
 Tokyo
+
+Sao Paolo
+
+Berlin
+
+Tokyo
+
+Berlin
+
+Tokyo
+
+London
+
+Den HaagResults for "cities_hip"
+Defined in module geography.py
+Used in entertainment.py, geography.py
+
+Sao Paolo
+
+Den Haag
+
+Berlin
+
+Tokyo
+
+Stockholm
+
+Berlin
+
+Berlin
+
+Den Haag
+
+Sao Paolo
+
+Sao Paolo
+
+Den Haag
+
+Tokyo
+
+Berlin
+
+Stockholm
+
+Tokyo
+
+London
+
+Den Haag
+
+Den Haag
+
+Den Haag
+
+Den HaagResults for "cities_hip"
+Defined in module geography.py
+Used in entertainment.py, geography.py
+
+London
+
+Stockholm
+
+London
+
+New York
+
+New York
+
+Tokyo
+
+Berlin
+
+Sao Paolo
+
+Tokyo
+
+Tokyo
+
+Sao Paolo
+
+London
+
+Sao Paolo
+
+London
+
+Stockholm
+
+London
+
+Stockholm
+
+Stockholm
+
+Den Haag
+
+BerlinResults for "cities_hip"
+Defined in module geography.py
+Used in entertainment.py, geography.py
+
+Stockholm
+
+New York
+
+New York
+
+Tokyo
+
+Tokyo
+
+London
+
+Sao Paolo
+
+Den Haag
+
+Stockholm
+
+Stockholm
+
+New York
+
+Berlin
+
+London
+
+Sao Paolo
+
+New York
+
+Tokyo
+
+Sao Paolo
+
+Den Haag
+
+Stockholm
+
+New YorkResults for "cities_hip"
+Defined in module geography.py
+Used in entertainment.py, geography.py
+
+London
+
+Den Haag
+
+Stockholm
+
+London
+
+Berlin
+
+New York
+
+Berlin
+
+London
+
+London
+
+New York
+
+London
+
+Den Haag
+
+Berlin
+
+London
+
+Berlin
+
+London
+
+Sao Paolo
+
+Berlin
+
+Sao Paolo
+
+TokyoResults for "cities_hip"
+Defined in module geography.py
+Used in entertainment.py, geography.py
+
+Sao Paolo
+
+Tokyo
+
+Sao Paolo
+
+Den Haag
+
+New York
+
+Tokyo
+
+Sao Paolo
+
+Berlin
+
+London
+
+Tokyo
+
+New York
+
+Stockholm
+
+Sao Paolo
+
+New York
+
+London
+
+Berlin
+
+Berlin
+
+London
+
+Berlin
 
 Den Haag

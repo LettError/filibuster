@@ -1,21 +1,253 @@
+Results for "sportsheadline_soccer"
+Defined in module sports.py
+Used in sports.py
 
+Antwerpen vs. Juventus, 3-0.
 
-GoldChampionship: Argentina and Germany.
+WorldCompetition: Luik and Barcelona.
 
-Germany played Argentina, 3-3, Kiev.
+Review: Antwerpen and Brazil for the ITFA HonorChampionship.
 
-Review: Feyenoord and Holland for the ITFA HonorCup.
+Barcelona vs. Lithuania, 4-1.
 
-Real Madrid vs. Antwerpen, 2-3.
+Ajax played Luik, 1-3, Moscow.
 
-Review: Feyenoord and Holland for the BFA ChampionsLeague.
+WorldLeague: Parma and Juventus.
 
-Borussia played Barcelona, 2-0, Bonn.
+Review: the United States and Barcelona for the WhitneyCup.
 
-Brazil played Germany, 2-0, Munich.
+Antwerpen played Ajax, 4-2, Haarlem.
 
-Review: Feyenoord and Parma for the PremierLeague.
+KFA EuroLeague: Juventus and Holland.
 
-Review: Leeds and Parma for the EuroLeague.
+Borussia vs. Holland, 3-1.
 
-PSV - Barcelona, 3-2.
+Review: Holland and Antwerpen for the IOFA PremierCompetition.
+
+IGFA HonorLeague: Manchester United and Germany.
+
+Dynamo played Manchester United, 0-1, Munich.
+
+Brazil vs. Ajax, 5-3.
+
+GoldLeague: Dynamo and Barcelona.
+
+Leeds vs. Real Madrid, 3-3.
+
+Juventus vs. ADO, 0-0.
+
+Review: Manchester United and Juventus for the HFA WesternChampionship.
+
+PremierLeague: Antwerpen and Antwerpen.
+
+Real Madrid played Barcelona, 3-0, Delft.Results for "sportsheadline_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Holland vs. Leeds, 3-2.
+
+Barcelona - PSV, 3-2.
+
+French Polynesia vs. Real Madrid, 3-1.
+
+Ajax - Germany, 3-1.
+
+Holland vs. Ajax, 0-0.
+
+Germany played Antwerpen, 0-1, Bologna.
+
+Parma vs. Antwerpen, 4-3.
+
+Review: Antwerpen and Antwerpen for the WesternCup.
+
+Germany vs. Barcelona, 3-1.
+
+Germany vs. Parma, 2-3.
+
+Review: Holland and ADO for the GFA HonorChampionship.
+
+Antwerpen - Ajax, 0-3.
+
+Dynamo vs. Brazil, 5-2.
+
+Review: ADO and Latvia for the AFA KatsuyokiCup.
+
+Argentina - ADO, 2-2.
+
+HFA HonorChampionship: Leeds and Parma.
+
+PSV played Parma, 3-0, Berlin.
+
+Ajax vs. Feyenoord, 1-2.
+
+Review: Luik and Argentina for the LFA HonorCup.
+
+IMFA WhiteLeague: Real Madrid and Feyenoord.Results for "sportsheadline_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Luik played Dynamo, 4-3, Moscow.
+
+Antwerpen vs. Dynamo, 1-3.
+
+NatComLeague: Real Madrid and Parma.
+
+IMFA WaltersCup: Manchester United and Ajax.
+
+Aruba - Real Madrid, 4-1.
+
+Andorra - Borussia, 3-0.
+
+Review: Barcelona and Holland for the DFA HonorCup.
+
+Brazil vs. Antwerpen, 3-1.
+
+EuroChampionship: Antwerpen and Borussia.
+
+Germany played PSV, 4-3, Hamburg.
+
+Review: Feyenoord and ADO for the IBFA ChampionsChampionship.
+
+Juventus vs. Luik, 1-2.
+
+Juventus vs. PSV, 5-1.
+
+Manchester United vs. Holland, 4-1.
+
+Review: Manchester United and ADO for the ZFA ChampionsLeague.
+
+Borussia vs. Antwerpen, 5-0.
+
+Argentina - Argentina, 3-2.
+
+Borussia vs. Dynamo, 4-3.
+
+PSV vs. Real Madrid, 2-1.
+
+Holland - Argentina, 2-0.Results for "sportsheadline_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Luik vs. Parma, 1-2.
+
+Indonesia played Ajax, 0-0, St. Petersburg.
+
+Ajax vs. Borussia, 0-1.
+
+HFA PremierLeague: Barcelona and Borussia.
+
+PolkCompetition: Antwerpen and Namibia.
+
+Barcelona - PSV, 3-1.
+
+Feyenoord played Bhutan, 0-3, St. Petersburg.
+
+Argentina - Leeds, 5-0.
+
+XFA PremierLeague: Leeds and PSV.
+
+Leeds vs. Luik, 3-3.
+
+Real Madrid played Dynamo, 5-1, Delft.
+
+Ajax - Dynamo, 3-1.
+
+Argentina - Ajax, 4-0.
+
+Review: PSV and Dynamo for the IFA EuroChampionship.
+
+IXFA HonorLeague: Dynamo and Feyenoord.
+
+Holland played Leeds, 5-0, Munich.
+
+Leeds - Manchester United, 0-3.
+
+Review: Argentina and Parma for the ITFA GoldLeague.
+
+Antwerpen played Brazil, 3-2, Moscow.
+
+Review: Thailand and Dynamo for the IFA ChampionsCup.Results for "sportsheadline_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Parma played ADO, 4-1, The Hague.
+
+HonorChampionship: Real Madrid and Ajax.
+
+Review: Juventus and Juventus for the IEFA HonorLeague.
+
+IZFA WorldCompetition: Parma and Leeds.
+
+Review: Juventus and Germany for the YFA GoldCompetition.
+
+PFA PremierChampionship: Leeds and Parma.
+
+PSV vs. Manchester United, 3-1.
+
+KFA GoldLeague: Parma and Brazil.
+
+Feyenoord vs. Real Madrid, 1-2.
+
+Argentina played Leeds, 0-3, Kiev.
+
+ADO vs. Antwerpen, 2-0.
+
+IVFA HonorCompetition: Luik and Luik.
+
+Review: Barcelona and Leeds for the WorldLeague.
+
+Dynamo vs. ADO, 2-1.
+
+Ajax played Borussia, 3-0, Berlin.
+
+Antwerpen played Guadeloupe, 5-0, Rotterdam.
+
+IJFA WorldCompetition: Brazil and Feyenoord.
+
+DFA LawsonCup: Juventus and Leeds.
+
+Review: Feyenoord and Argentina for the HonorCup.
+
+Dynamo vs. Brazil, 3-3.Results for "sportsheadline_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Dynamo played Leeds, 2-3, Moscow.
+
+Argentina vs. Antwerpen, 2-0.
+
+Juventus vs. Feyenoord, 3-2.
+
+Review: Holland and Argentina for the EuroCup.
+
+Brazil - Real Madrid, 0-3.
+
+Holland played Manchester United, 1-0, Milan.
+
+Australia vs. Dynamo, 5-0.
+
+IHFA GoldLeague: Juventus and Borussia.
+
+Dynamo played Luik, 0-2, Munich.
+
+EuroChampionship: ADO and ADO.
+
+IPFA WesternCompetition: Feyenoord and Germany.
+
+Review: Feyenoord and Dynamo for the IRFA PremierLeague.
+
+Ajax - Real Madrid, 4-0.
+
+HonorLeague: Borussia and Juventus.
+
+IJFA WorldLeague: Germany and Argentina.
+
+Antwerpen - Argentina, 3-0.
+
+Review: Real Madrid and Barcelona for the IHFA PremierChampionship.
+
+Juventus vs. Dynamo, 3-1.
+
+Barcelona vs. Luik, 3-0.
+
+WorldCompetition: Barcelona and Leeds.

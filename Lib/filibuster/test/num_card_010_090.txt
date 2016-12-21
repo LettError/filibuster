@@ -1,12 +1,192 @@
+Results for "num_card_010_090"
+Defined in module general.py
+Used in articles.py, general.py
 
+ninety
+
+thirty
+
+thirty
+
+forty
+
+seventy
+
+sixty
+
+fifty
+
+seventy
+
+ninety
+
+ninety
+
+twenty
+
+twenty
+
+eighty
+
+twenty
+
+sixty
+
+twenty
+
+eighty
+
+seventy
+
+forty
+
+fortyResults for "num_card_010_090"
+Defined in module general.py
+Used in articles.py, general.py
+
+ninety
+
+seventy
+
+eighty
+
+forty
+
+seventy
+
+ninety
+
+fifty
+
+thirty
+
+sixty
+
+sixty
+
+forty
+
+twenty
+
+thirty
+
+forty
+
+ninety
+
+thirty
+
+forty
+
+eighty
+
+twenty
+
+seventyResults for "num_card_010_090"
+Defined in module general.py
+Used in articles.py, general.py
+
+twenty
+
+thirty
+
+seventy
+
+thirty
+
+fifty
+
+sixty
+
+eighty
+
+eighty
+
+eighty
+
+fifty
+
+seventy
+
+forty
+
+seventy
+
+fifty
+
+eighty
+
+seventy
+
+seventy
+
+fifty
+
+twenty
+
+fiftyResults for "num_card_010_090"
+Defined in module general.py
+Used in articles.py, general.py
 
 fifty
 
 forty
 
+seventy
+
+eighty
+
 fifty
 
 forty
+
+twenty
+
+ninety
+
+seventy
+
+eighty
+
+twenty
+
+ninety
+
+fifty
+
+thirty
+
+seventy
+
+thirty
+
+thirty
+
+thirty
+
+seventy
+
+fortyResults for "num_card_010_090"
+Defined in module general.py
+Used in articles.py, general.py
+
+ninety
+
+sixty
+
+fifty
+
+twenty
+
+ninety
+
+fifty
+
+fifty
+
+thirty
+
+twenty
 
 seventy
 
@@ -16,6 +196,58 @@ fifty
 
 forty
 
+sixty
+
 forty
+
+twenty
+
+seventy
+
+twenty
+
+twenty
+
+fiftyResults for "num_card_010_090"
+Defined in module general.py
+Used in articles.py, general.py
+
+seventy
+
+seventy
+
+thirty
+
+sixty
+
+ninety
+
+thirty
+
+fifty
+
+ninety
+
+eighty
+
+twenty
+
+sixty
+
+ninety
+
+twenty
+
+fifty
+
+sixty
+
+thirty
+
+thirty
+
+thirty
+
+sixty
 
 forty

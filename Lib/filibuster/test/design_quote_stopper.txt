@@ -1,3 +1,153 @@
+Results for "design_quote_stopper"
+Defined in module design.py
+Used in design.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ed.]
+
+
+
+
+
+
+
+[sic]
+
+[ed.]
+
+
+
+Results for "design_quote_stopper"
+Defined in module design.py
+Used in design.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[...]
+
+
+
+
+
+
+
+
+
+[sic]
+
+
+
+[sic]Results for "design_quote_stopper"
+Defined in module design.py
+Used in design.py
+
+[ed.]
+
+[ed.]
+
+
+
+
+
+
+
+
+
+[...]
+
+[ed.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results for "design_quote_stopper"
+Defined in module design.py
+Used in design.py
+
+
+
+
+
+[...]
+
+
+
+[...]
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11,6 +161,88 @@
 [sic]
 
 
+
+
+
+
+
+Results for "design_quote_stopper"
+Defined in module design.py
+Used in design.py
+
+
+
+
+
+
+
+[ed.]
+
+
+
+
+
+
+
+[...]
+
+
+
+
+
+
+
+
+
+
+
+[ed.]
+
+
+
+[sic]
+
+
+
+
+
+
+
+Results for "design_quote_stopper"
+Defined in module design.py
+Used in design.py
+
+[ed.]
+
+
+
+
+
+[sic]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ed.]
 
 
 

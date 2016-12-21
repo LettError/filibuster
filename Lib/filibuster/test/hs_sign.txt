@@ -1,21 +1,253 @@
+Results for "hs_sign"
+Defined in module horoscope.py
+Used in horoscope.py
 
+Scorpio
 
 Libra
 
-Capricorn
+Libra
 
-Pisces
-
-Virgo
-
-Sagittarius
+Taurus
 
 Aquarius
 
 Capricorn
 
+Aquarius
+
+Aquarius
+
+Taurus
+
+Aries
+
+Scorpio
+
+Capricorn
+
+Taurus
+
+Virgo
+
+Aquarius
+
+Capricorn
+
+Aries
+
+Taurus
+
+Capricorn
+
+CancerResults for "hs_sign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Leo
+
+Leo
+
 Virgo
 
 Pisces
 
+Aquarius
+
+Libra
+
+Sagittarius
+
+Pisces
+
+Aquarius
+
+Aquarius
+
+Aries
+
+Virgo
+
 Gemini
+
+Scorpio
+
+Leo
+
+Virgo
+
+Capricorn
+
+Aquarius
+
+Virgo
+
+GeminiResults for "hs_sign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Aquarius
+
+Virgo
+
+Gemini
+
+Gemini
+
+Capricorn
+
+Cancer
+
+Gemini
+
+Pisces
+
+Aquarius
+
+Taurus
+
+Aries
+
+Aries
+
+Capricorn
+
+Aquarius
+
+Gemini
+
+Libra
+
+Scorpio
+
+Scorpio
+
+Scorpio
+
+AquariusResults for "hs_sign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Virgo
+
+Pisces
+
+Capricorn
+
+Scorpio
+
+Virgo
+
+Cancer
+
+Libra
+
+Gemini
+
+Capricorn
+
+Gemini
+
+Gemini
+
+Aquarius
+
+Libra
+
+Aquarius
+
+Cancer
+
+Cancer
+
+Aries
+
+Scorpio
+
+Scorpio
+
+LeoResults for "hs_sign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Pisces
+
+Leo
+
+Aquarius
+
+Pisces
+
+Leo
+
+Sagittarius
+
+Libra
+
+Sagittarius
+
+Scorpio
+
+Aquarius
+
+Virgo
+
+Scorpio
+
+Scorpio
+
+Capricorn
+
+Taurus
+
+Gemini
+
+Aries
+
+Aquarius
+
+Pisces
+
+GeminiResults for "hs_sign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Pisces
+
+Taurus
+
+Cancer
+
+Aquarius
+
+Sagittarius
+
+Capricorn
+
+Aries
+
+Aquarius
+
+Leo
+
+Pisces
+
+Capricorn
+
+Capricorn
+
+Gemini
+
+Cancer
+
+Scorpio
+
+Scorpio
+
+Aries
+
+Taurus
+
+Cancer
+
+Sagittarius

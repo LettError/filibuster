@@ -1,4 +1,28 @@
+Results for "car_busts"
+Defined in module automotive.py
+Used in automotive.py
 
+junker
+
+junker
+
+junker
+
+junker
+
+jalopy
+
+scrap heap
+
+scrap heap
+
+scrap heap
+
+scrap heap
+
+jalopy
+
+jalopy
 
 junker
 
@@ -10,6 +34,170 @@ jalopy
 
 scrap heap
 
+junker
+
+scrap heap
+
+jalopy
+
+jalopyResults for "car_busts"
+Defined in module automotive.py
+Used in automotive.py
+
+jalopy
+
+scrap heap
+
+jalopy
+
+jalopy
+
+scrap heap
+
+scrap heap
+
+jalopy
+
+jalopy
+
+scrap heap
+
+junker
+
+scrap heap
+
+scrap heap
+
+junker
+
+scrap heap
+
+jalopy
+
+junker
+
+jalopy
+
+junker
+
+scrap heap
+
+jalopyResults for "car_busts"
+Defined in module automotive.py
+Used in automotive.py
+
+junker
+
+junker
+
+scrap heap
+
+junker
+
+junker
+
+jalopy
+
+scrap heap
+
+scrap heap
+
+jalopy
+
+junker
+
+junker
+
+scrap heap
+
+junker
+
+junker
+
+scrap heap
+
+scrap heap
+
+junker
+
+junker
+
+junker
+
+scrap heapResults for "car_busts"
+Defined in module automotive.py
+Used in automotive.py
+
+junker
+
+scrap heap
+
+jalopy
+
+scrap heap
+
+junker
+
+scrap heap
+
+scrap heap
+
+scrap heap
+
+junker
+
+scrap heap
+
+scrap heap
+
+scrap heap
+
+scrap heap
+
+jalopy
+
+scrap heap
+
+jalopy
+
+jalopy
+
+scrap heap
+
+scrap heap
+
+scrap heapResults for "car_busts"
+Defined in module automotive.py
+Used in automotive.py
+
+jalopy
+
+junker
+
+scrap heap
+
+junker
+
+junker
+
+scrap heap
+
+scrap heap
+
+jalopy
+
+scrap heap
+
+junker
+
+scrap heap
+
+scrap heap
+
+scrap heap
+
+jalopy
+
 scrap heap
 
 jalopy
@@ -18,4 +206,48 @@ jalopy
 
 junker
 
+junker
+
+junkerResults for "car_busts"
+Defined in module automotive.py
+Used in automotive.py
+
+junker
+
+scrap heap
+
+scrap heap
+
+junker
+
+junker
+
+junker
+
+junker
+
+junker
+
+junker
+
 jalopy
+
+jalopy
+
+jalopy
+
+junker
+
+scrap heap
+
+junker
+
+junker
+
+junker
+
+jalopy
+
+scrap heap
+
+junker

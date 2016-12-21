@@ -1,21 +1,253 @@
+Results for "university"
+Defined in module sciences.py
+Used in articles.py, design.py, internet.py, literature.py, news.py, sciences.py
 
-
-Oklahoma University
-
-University of Oxford
-
-Colorado University
-
-Oklahoma State University
+Minnesota University
 
 University of Michigan
 
-University of Massachusetts
+Massachusetts State University
 
-North Dakota University
+University of Puerto Rico
+
+Ohio University
+
+Nebraska State University
+
+Montana State University
+
+University of Florence
+
+Sheffield Business School
+
+University of Oxford
 
 Arkansas University
 
+University of Barcelona
+
+Kentucky State University
+
+Bilbao Business School
+
+Ohio State University
+
+Virgin Islands State University
+
+Texas State University
+
+West Virginia State University
+
+Arizona State University
+
+New York State UniversityResults for "university"
+Defined in module sciences.py
+Used in articles.py, design.py, internet.py, literature.py, news.py, sciences.py
+
+Kentucky University
+
+Frankfurt Business School
+
+District Of Columbia State University
+
+Los Angeles Business School
+
+North Dakota University
+
+University of Nashville
+
+Kansas University
+
+University of Lille
+
+University of San Jose
+
+Barcelona Business School
+
+California University
+
+University of Minneapolis
+
+New Mexico State University
+
+University of Massachusetts
+
+Mississippi State University
+
+University of Philadelphia
+
+Tennessee State University
+
+Ohio University
+
+Washington University
+
+Kansas State UniversityResults for "university"
+Defined in module sciences.py
+Used in articles.py, design.py, internet.py, literature.py, news.py, sciences.py
+
+Bonn Business School
+
+University of South Dakota
+
+New Hampshire State University
+
+Edinburgh Business School
+
+Maryland University
+
+University of Wisconsin
+
 Virginia University
 
-University of Louisiana
+Nevada State University
+
+Maastricht Business School
+
+New Jersey State University
+
+Idaho State University
+
+New Hampshire University
+
+University of Frankfurt
+
+Paris Business School
+
+Utah State University
+
+University of Georgia
+
+University of Berlin
+
+Wisconsin University
+
+University of Oregon
+
+University of LouisianaResults for "university"
+Defined in module sciences.py
+Used in articles.py, design.py, internet.py, literature.py, news.py, sciences.py
+
+University of Massachusetts
+
+University of Arizona
+
+University of Barcelona
+
+Connecticut State University
+
+Toulouse Business School
+
+Nevada University
+
+University of Utrecht
+
+California State University
+
+University of Kansas
+
+University of Washington
+
+Washington State University
+
+Indiana University
+
+New York State University
+
+Indiana State University
+
+Montana University
+
+Bilbao Business School
+
+University of Iowa
+
+Kansas University
+
+Delaware University
+
+University of AlaskaResults for "university"
+Defined in module sciences.py
+Used in articles.py, design.py, internet.py, literature.py, news.py, sciences.py
+
+University of Gouda
+
+Liege Business School
+
+Texas University
+
+University of London
+
+University of London
+
+University of Edinburgh
+
+Washington University
+
+Minnesota State University
+
+Barcelona Business School
+
+Maine State University
+
+Arkansas University
+
+South Dakota State University
+
+Madrid Business School
+
+District Of Columbia University
+
+Iowa State University
+
+Arnhem Business School
+
+University of New Hampshire
+
+California State University
+
+Rhode Island State University
+
+University of BonnResults for "university"
+Defined in module sciences.py
+Used in articles.py, design.py, internet.py, literature.py, news.py, sciences.py
+
+University of Alaska
+
+Indiana State University
+
+Iowa University
+
+West Virginia University
+
+Connecticut University
+
+Wyoming University
+
+Iowa University
+
+University of Marseilles
+
+Leeds Business School
+
+Connecticut University
+
+University of Idaho
+
+Hawaii State University
+
+Leeds Business School
+
+University of Wyoming
+
+University of Oklahoma
+
+Nevada State University
+
+University of Denver
+
+University of London
+
+Florence Business School
+
+Alaska University

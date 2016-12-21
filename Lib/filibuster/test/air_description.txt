@@ -1,21 +1,247 @@
+Results for "air_description"
+Defined in module aerospace.py
 
+KLM McDonnell Douglas MD13 WideBody
 
-KLM MD13
+Delta McDonnell Douglas MD14
 
-KLM B 747-100
+AsianRoyal B 787-100 HighTop
 
-Delta Airbus 400X Luxury Liner
+AirAir McDonnell Douglas MD5
 
-Air France B 707-400 LuxuryWing
+SAS MD18 LuxuryWing
 
-KLM McDonnell Douglas MD17 LuxuryWing
+SAS MD8 WideWing
 
-Continental Boeing 797
+GlobalAir DC11
 
-Sky Team Airbus 300S HighTop
+SwissAir McDonnell Douglas MD6
 
-Lufthansa B 717-300 F
+Sky Team B 787-400 LuxuryWing
 
-EuroCargo MD16
+KLM McDonnell Douglas MD4
 
-Continental MD14 X
+Sky Team MD5
+
+Lufthansa Boeing 707
+
+EuroGlobe B 787-300
+
+SAS Boeing 797 Y
+
+SwissAir DC15 LuxuryWing
+
+Lufthansa DC10
+
+GrandCharters DC10
+
+Sky Team Airbus 500E
+
+Sky Team Airbus 200U
+
+SAS McDonnell Douglas MD14 IResults for "air_description"
+Defined in module aerospace.py
+
+Air France Boeing 777
+
+Continental Boeing 767
+
+KLM Airbus 400W O
+
+Delta DC8 HighTop
+
+SwissAir MD13 A
+
+PanFrance MD15
+
+KLM DC14
+
+SAS DC11 RoyalTop
+
+KLM B 727-500 WideWing
+
+SAS MD11 LuxuryWing
+
+Lufthansa B 757-100 Luxury Liner
+
+SAS B 727-400
+
+KLM B 727-300 WideWing
+
+Sky Team Airbus 400Z
+
+Delta Boeing 707 HighTop
+
+SAS B 717-300
+
+SAS Boeing 717 FroufrouTop
+
+KLM McDonnell Douglas MD19 WideBody
+
+Sky Team Airbus 200X LuxuryWing
+
+GlobeGrand DC15 HighTopResults for "air_description"
+Defined in module aerospace.py
+
+Delta Airbus 500O
+
+KLM MD12
+
+KLM Airbus 400Q WideBody
+
+CargoCargo MD8 LuxuryWing
+
+Delta B 737-300
+
+Delta Airbus 600L
+
+Lufthansa MD11
+
+Continental B 707-300 HighTop
+
+KLM B 717-100
+
+KLM McDonnell Douglas MD4 GoldTop
+
+PanGlobal MD9
+
+Delta DC12 WideWing
+
+GrandCargoAirways B 787-300 HighTop
+
+KLM McDonnell Douglas MD8 HighTop
+
+Sky Team Boeing 717
+
+TransAir Airbus 200O WideWing
+
+Air France B 777-300 ExcellenceTop
+
+Delta B 727-200 LuxuryWing
+
+KLM B 787-200 LuxuryWing
+
+SwissAir Airbus 200F HighTopResults for "air_description"
+Defined in module aerospace.py
+
+GlobeGrand McDonnell Douglas MD16 Y
+
+Sky Team Boeing 757 WideBody
+
+SwissAir MD15
+
+Virgin Atlantic MD10 HighTop
+
+KLM B 727-500
+
+SAS McDonnell Douglas MD6
+
+AmericanCharters Boeing 767 HighTop
+
+EuroTravel MD7
+
+KLM DC15 LuxuryWing
+
+Continental DC10
+
+Delta Airbus 300N WideWing
+
+SAS Airbus 100T Luxury Liner
+
+KLM DC10
+
+KLM Airbus 500S WideWing
+
+Air France McDonnell Douglas MD18 Z
+
+KLM MD11
+
+Sky Team Boeing 747 Luxury Liner
+
+Continental McDonnell Douglas MD18
+
+KLM DC10
+
+Lufthansa DC9 LuxuryWingResults for "air_description"
+Defined in module aerospace.py
+
+Sky Team Airbus 100C
+
+Delta MD11 WideWing
+
+SAS Airbus 500B WideWing
+
+KLM McDonnell Douglas MD18 HighTop
+
+SAS B 707-100 Luxury Liner
+
+SwissAir Boeing 707 HighTop
+
+Sky Team Boeing 727 WideBody
+
+SAS MD4
+
+Sky Team Airbus 100B Luxury Liner
+
+SAS B 717-300 Luxury Liner
+
+Virgin Atlantic Boeing 797 EnvoyTop
+
+Continental McDonnell Douglas MD6 Z
+
+KLM Airbus 600F Luxury Liner
+
+Delta DC15 WideBody
+
+Continental MD10
+
+KLM B 717-300
+
+AirFrance Boeing 757
+
+NationalWorldAtlantic B 767-100 Luxury Liner
+
+KLM B 727-500 WideBody
+
+SAS Boeing 747 Luxury LinerResults for "air_description"
+Defined in module aerospace.py
+
+Delta MD16
+
+KLM DC11 WideWing
+
+KLM Airbus 200V AmbassadorTop
+
+RoyalScandinavianWings B 707-100 LuxuryWing
+
+KLM McDonnell Douglas MD16
+
+Delta MD12
+
+KLM DC14 X
+
+Delta Airbus 300C
+
+CanadaAir Boeing 787 HighTop
+
+AirTravel B 757-400 Luxury Liner
+
+Delta Airbus 100W WideBody
+
+Continental McDonnell Douglas MD4
+
+GlobeBulk DC15 HighTop
+
+AmericanAirways MD17 HighTop
+
+Virgin Atlantic B 737-400 WideWing
+
+KLM MD8 WideBody
+
+SwissAir B 787-500
+
+Air France Airbus 100Z HighTop
+
+SwissAir B 777-400 Luxury Liner
+
+KLM B 717-100 LuxuryWing

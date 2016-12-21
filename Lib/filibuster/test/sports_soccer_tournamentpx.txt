@@ -1,21 +1,253 @@
+Results for "sports_soccer_tournamentpx"
+Defined in module sports.py
+Used in sports.py
 
+Suntokanto
 
 Euro
 
 Gold
 
+Euro
+
+Euro
+
+Euro
+
+Gold
+
+Champions
+
+Gold
+
+TransTron
+
 Premier
 
 Honor
 
-Blockland
+Yayikihi
+
+Honor
+
+Honor
+
+Gold
+
+Champions
+
+Euro
 
 World
+
+PremierResults for "sports_soccer_tournamentpx"
+Defined in module sports.py
+Used in sports.py
+
+Gold
+
+Euro
+
+Euro
+
+Champions
 
 Honor
 
 Western
 
+Katsu
+
+Gold
+
+Western
+
+Champions
+
+Champions
+
+Gold
+
+World
+
+Premier
+
+Gold
+
+Champions
+
+Western
+
+Gold
+
+Euro
+
+SantoResults for "sports_soccer_tournamentpx"
+Defined in module sports.py
+Used in sports.py
+
+MacArthur
+
+World
+
+Euro
+
+Premier
+
 Champions
 
 Premier
+
+Gold
+
+Honor
+
+Honor
+
+Premier
+
+Satsuha
+
+World
+
+World
+
+Honor
+
+Champions
+
+Euro
+
+Champions
+
+Gold
+
+Yotoyi
+
+WorldResults for "sports_soccer_tournamentpx"
+Defined in module sports.py
+Used in sports.py
+
+Gold
+
+Western
+
+Gold
+
+Premier
+
+Champions
+
+Champions
+
+Champions
+
+Premier
+
+Gold
+
+Champions
+
+Jennings
+
+Champions
+
+Gold
+
+Honor
+
+Champions
+
+Gold
+
+Honor
+
+Premier
+
+Euro
+
+EuroResults for "sports_soccer_tournamentpx"
+Defined in module sports.py
+Used in sports.py
+
+Honor
+
+World
+
+Gold
+
+Toyanmi
+
+Gold
+
+Honor
+
+Champions
+
+Sumo
+
+Premier
+
+Premier
+
+Honor
+
+Western
+
+Bourne
+
+Western
+
+Western
+
+World
+
+World
+
+Carnegie
+
+Premier
+
+EuroResults for "sports_soccer_tournamentpx"
+Defined in module sports.py
+Used in sports.py
+
+Gold
+
+Euro
+
+Honor
+
+Western
+
+BioTron
+
+Sohoyan
+
+Vanderpool
+
+World
+
+Polk
+
+NatCorp
+
+Parham
+
+Honor
+
+WestCom
+
+Premier
+
+Honor
+
+Caldecott
+
+Gold
+
+Champions
+
+Euro
+
+Euro

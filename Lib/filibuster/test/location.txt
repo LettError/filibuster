@@ -1,16 +1,164 @@
-
-
-Tokyo
+Results for "location"
+Defined in module geography.py
+Used in design.py, financial.py, horoscope.py, jargon.py, news.py, sports.py
 
 Atlanta, GA
 
-Tokyo
+London
 
-Sao Paolo
+Herndon, VA
 
-Sao Paolo
+London
+
+Reston, VA
+
+Menlo Park, CA
+
+Menlo Park, CA
+
+Berlin
+
+Den Haag
+
+Herndon, VA
+
+Stockholm
+
+Den Haag
+
+Berlin
+
+London
 
 New York
+
+Menlo Park, CA
+
+Den Haag
+
+New York
+
+Sunnyvale, CA
+
+LondonResults for "location"
+Defined in module geography.py
+Used in design.py, financial.py, horoscope.py, jargon.py, news.py, sports.py
+
+Reston, VA
+
+Reston, VA
+
+Palo Alto, CA
+
+Berlin
+
+Sao Paolo
+
+Menlo Park, CA
+
+Redwood City, CA
+
+Palo Alto, CA
+
+Sunnyvale, CA
+
+Menlo Park, CA
+
+Sunnyvale, CA
+
+Tokyo
+
+Berlin
+
+New York, NY
+
+Stockholm
+
+Sunnyvale, CA
+
+Sunnyvale, CA
+
+Reston, VA
+
+Herndon, VA
+
+BerlinResults for "location"
+Defined in module geography.py
+Used in design.py, financial.py, horoscope.py, jargon.py, news.py, sports.py
+
+Berlin
+
+New York, NY
+
+Den Haag
+
+Sunnyvale, CA
+
+New York, NY
+
+London
+
+Sao Paolo
+
+Menlo Park, CA
+
+New York
+
+London
+
+Reston, VA
+
+Sao Paolo
+
+New York, NY
+
+Herndon, VA
+
+Palo Alto, CA
+
+Den Haag
+
+Stockholm
+
+Den Haag
+
+Herndon, VA
+
+Palo Alto, CAResults for "location"
+Defined in module geography.py
+Used in design.py, financial.py, horoscope.py, jargon.py, news.py, sports.py
+
+Reston, VA
+
+New York, NY
+
+Reston, VA
+
+New York, NY
+
+Atlanta, GA
+
+New York
+
+New York
+
+Redwood City, CA
+
+Boston, MA
+
+Redwood City, CA
+
+Sunnyvale, CA
+
+Sao Paolo
+
+Boston, MA
+
+Atlanta, GA
+
+New York
+
+Sunnyvale, CA
 
 New York, NY
 
@@ -18,4 +166,88 @@ New York
 
 Tokyo
 
+Palo Alto, CAResults for "location"
+Defined in module geography.py
+Used in design.py, financial.py, horoscope.py, jargon.py, news.py, sports.py
+
+Sao Paolo
+
+Redwood City, CA
+
+Den Haag
+
+Berlin
+
+Tokyo
+
+Tokyo
+
+Berlin
+
+New York
+
+Berlin
+
+Den Haag
+
+Tokyo
+
+Sunnyvale, CA
+
+Redwood City, CA
+
+Sunnyvale, CA
+
+Berlin
+
+Palo Alto, CA
+
+Den Haag
+
 Menlo Park, CA
+
+Boston, MA
+
+Reston, VAResults for "location"
+Defined in module geography.py
+Used in design.py, financial.py, horoscope.py, jargon.py, news.py, sports.py
+
+Boston, MA
+
+Den Haag
+
+Menlo Park, CA
+
+New York
+
+Den Haag
+
+New York
+
+New York, NY
+
+New York, NY
+
+Berlin
+
+Tokyo
+
+Reston, VA
+
+New York
+
+Berlin
+
+Tokyo
+
+Boston, MA
+
+Berlin
+
+Atlanta, GA
+
+Herndon, VA
+
+New York, NY
+
+Sao Paolo

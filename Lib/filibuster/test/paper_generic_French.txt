@@ -1,4 +1,56 @@
+Results for "paper_generic_French"
+Defined in module journalism.py
+Used in journalism.py
 
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+QuotidienResults for "paper_generic_French"
+Defined in module journalism.py
+Used in journalism.py
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Le Monde
 
 Le Monde
 
@@ -14,8 +66,188 @@ Quotidien
 
 Quotidien
 
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+QuotidienResults for "paper_generic_French"
+Defined in module journalism.py
+Used in journalism.py
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
 Quotidien
 
 Le Monde
 
 Le Monde
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+QuotidienResults for "paper_generic_French"
+Defined in module journalism.py
+Used in journalism.py
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Le Monde
+
+Le Monde
+
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Le Monde
+
+Le Monde
+
+Le Monde
+
+Le MondeResults for "paper_generic_French"
+Defined in module journalism.py
+Used in journalism.py
+
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Le Monde
+
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Le MondeResults for "paper_generic_French"
+Defined in module journalism.py
+Used in journalism.py
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Quotidien
+
+Le Monde
+
+Le Monde
+
+Quotidien
+
+Le Monde
+
+Quotidien
+
+Quotidien
+
+Quotidien

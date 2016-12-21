@@ -1,4 +1,18 @@
+Results for "jobs_bullshit_rank"
+Defined in module staff.py
+Used in staff.py
 
+Manager
+
+Director
+
+Manager
+
+Manager
+
+Manager
+
+Manager
 
 Director
 
@@ -12,7 +26,225 @@ Director
 
 Director
 
+Director
+
 Manager
+
+Manager
+
+Manager
+
+Director
+
+Manager
+
+Manager
+
+DirectorResults for "jobs_bullshit_rank"
+Defined in module staff.py
+Used in staff.py
+
+Manager
+
+Director
+
+Director
+
+Director
+
+Director
+
+Director
+
+Manager
+
+Manager
+
+Director
+
+Manager
+
+Manager
+
+Director
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Director
+
+ManagerResults for "jobs_bullshit_rank"
+Defined in module staff.py
+Used in staff.py
+
+Director
+
+Director
+
+Manager
+
+Manager
+
+Manager
+
+Manager
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Manager
+
+Manager
+
+Manager
+
+Manager
+
+Director
+
+Manager
+
+Director
+
+DirectorResults for "jobs_bullshit_rank"
+Defined in module staff.py
+Used in staff.py
+
+Manager
+
+Director
+
+Manager
+
+Manager
+
+Director
+
+Director
+
+Manager
+
+Manager
+
+Director
+
+Director
+
+Director
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Director
+
+Director
+
+Manager
+
+Director
+
+ManagerResults for "jobs_bullshit_rank"
+Defined in module staff.py
+Used in staff.py
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Manager
+
+Manager
+
+Manager
+
+Director
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Manager
+
+Director
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Director
+
+DirectorResults for "jobs_bullshit_rank"
+Defined in module staff.py
+Used in staff.py
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Director
+
+Manager
+
+Manager
+
+Director
+
+Director
+
+Manager
+
+Manager
+
+Director
+
+Director
+
+Director
+
+Manager
+
+Director
+
+Director
 
 Manager
 

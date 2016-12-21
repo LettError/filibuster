@@ -1,21 +1,247 @@
+Results for "amount_many"
+Defined in module general.py
 
+too many
+
+many
+
+a large number
+
+too many
+
+a large group
+
+many
+
+a large group
+
+too many
+
+a lot
 
 a lot
 
 dozens
 
-dozens
+a large number
 
-dozens
+a lot
+
+too many
+
+a lot
+
+too many
 
 a large number
 
-a large number
+dozens
+
+a lot
+
+a large numberResults for "amount_many"
+Defined in module general.py
+
+dozens
+
+many
+
+a large group
 
 a large number
 
 a large group
 
+too many
+
+many
+
+a large group
+
+many
+
+many
+
+a large group
+
+a lot
+
+dozens
+
+many
+
+many
+
+too many
+
+dozens
+
+a lot
+
+many
+
+too manyResults for "amount_many"
+Defined in module general.py
+
+a large number
+
+too many
+
+a large group
+
+too many
+
+dozens
+
+many
+
+too many
+
 a lot
 
 too many
+
+many
+
+a lot
+
+a large group
+
+a lot
+
+a large number
+
+too many
+
+many
+
+a large group
+
+too many
+
+dozens
+
+dozensResults for "amount_many"
+Defined in module general.py
+
+a lot
+
+dozens
+
+a lot
+
+a lot
+
+a large number
+
+a large group
+
+many
+
+dozens
+
+a lot
+
+a large number
+
+many
+
+dozens
+
+too many
+
+many
+
+a large number
+
+dozens
+
+a lot
+
+a lot
+
+dozens
+
+a lotResults for "amount_many"
+Defined in module general.py
+
+a lot
+
+dozens
+
+many
+
+a lot
+
+a large group
+
+too many
+
+dozens
+
+many
+
+too many
+
+many
+
+a lot
+
+a lot
+
+a large group
+
+dozens
+
+dozens
+
+too many
+
+a large number
+
+dozens
+
+too many
+
+a lotResults for "amount_many"
+Defined in module general.py
+
+many
+
+many
+
+dozens
+
+dozens
+
+many
+
+dozens
+
+too many
+
+a lot
+
+too many
+
+dozens
+
+a large number
+
+a large group
+
+too many
+
+a large number
+
+too many
+
+dozens
+
+a large number
+
+too many
+
+a large number
+
+a large group

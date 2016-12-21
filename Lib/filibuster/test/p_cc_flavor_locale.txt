@@ -1,4 +1,148 @@
+Results for "p_cc_flavor_locale"
+Defined in module creditcard.py
+Used in creditcard.py
 
+Euro
+
+Asia
+
+Asia
+
+Asia
+
+HK
+
+Asia
+
+US
+
+Asia
+
+Asia
+
+Asia
+
+Euro
+
+US
+
+HK
+
+Euro
+
+Euro
+
+Euro
+
+HK
+
+Asia
+
+HK
+
+EuroResults for "p_cc_flavor_locale"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Asia
+
+HK
+
+Asia
+
+Asia
+
+Asia
+
+US
+
+Euro
+
+HK
+
+HK
+
+HK
+
+Euro
+
+US
+
+US
+
+HK
+
+Asia
+
+US
+
+Asia
+
+Euro
+
+Asia
+
+HKResults for "p_cc_flavor_locale"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Asia
+
+Euro
+
+Asia
+
+HK
+
+HK
+
+HK
+
+HK
+
+Euro
+
+US
+
+Euro
+
+Euro
+
+Euro
+
+Euro
+
+HK
+
+HK
+
+Euro
+
+US
+
+US
+
+Asia
+
+USResults for "p_cc_flavor_locale"
+Defined in module creditcard.py
+Used in creditcard.py
+
+HK
+
+Asia
+
+Euro
+
+Euro
+
+Asia
+
+Euro
+
+Euro
+
+Asia
 
 US
 
@@ -8,7 +152,95 @@ HK
 
 Euro
 
+Asia
+
+HK
+
+HK
+
+HK
+
+HK
+
+Asia
+
+Asia
+
+HKResults for "p_cc_flavor_locale"
+Defined in module creditcard.py
+Used in creditcard.py
+
 Euro
+
+US
+
+HK
+
+HK
+
+Euro
+
+US
+
+Euro
+
+Asia
+
+HK
+
+Asia
+
+Euro
+
+Euro
+
+Euro
+
+Asia
+
+US
+
+HK
+
+HK
+
+US
+
+HK
+
+AsiaResults for "p_cc_flavor_locale"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Euro
+
+HK
+
+HK
+
+HK
+
+HK
+
+HK
+
+US
+
+Asia
+
+Asia
+
+US
+
+Asia
+
+Euro
+
+Asia
+
+Euro
+
+US
 
 HK
 
@@ -16,6 +248,6 @@ US
 
 Euro
 
-HK
+US
 
-Euro
+US

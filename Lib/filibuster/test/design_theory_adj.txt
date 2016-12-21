@@ -1,21 +1,253 @@
+Results for "design_theory_adj"
+Defined in module design.py
+Used in design.py
 
+random
 
-modernist
+erratic
 
-modernist
+formal
+
+technological
+
+formal
+
+technological
+
+gender oriented
+
+cognitive
+
+lateral
+
+cognitive
+
+counter cultural
+
+immaterial
+
+environmental
+
+random
+
+cognitive
+
+relevant
+
+relevant
+
+digital
+
+material
+
+cognitiveResults for "design_theory_adj"
+Defined in module design.py
+Used in design.py
 
 environmental
 
 counter cultural
 
-scientific
+intellectual
 
-theoretical
-
-counter cultural
+erratic
 
 modernist
 
+random
+
+relevant
+
+erratic
+
+erratic
+
+modernist
+
+immaterial
+
+formal
+
 cognitive
 
-vernacular
+sustainable
+
+sustainable
+
+recursive
+
+erratic
+
+digital
+
+counter cultural
+
+gender orientedResults for "design_theory_adj"
+Defined in module design.py
+Used in design.py
+
+erratic
+
+modernist
+
+technological
+
+ethnic
+
+scientific
+
+feminist
+
+counter cultural
+
+techno
+
+scientific
+
+random
+
+problematic
+
+expressive
+
+gender oriented
+
+random
+
+cognitive
+
+investigative
+
+formal
+
+lateral
+
+aesthetical
+
+formalResults for "design_theory_adj"
+Defined in module design.py
+Used in design.py
+
+theoretical
+
+investigative
+
+aesthetical
+
+aesthetical
+
+recursive
+
+immaterial
+
+technological
+
+cognitive
+
+relevant
+
+environmental
+
+ethnic
+
+scientific
+
+cultural
+
+intuitive
+
+aesthetical
+
+intellectual
+
+investigative
+
+environmental
+
+aesthetical
+
+relevantResults for "design_theory_adj"
+Defined in module design.py
+Used in design.py
+
+relevant
+
+immaterial
+
+immaterial
+
+cognitive
+
+critical
+
+critical
+
+aesthetical
+
+intuitive
+
+digital
+
+aesthetical
+
+pre-existing
+
+lateral
+
+ethnic
+
+critical
+
+environmental
+
+recursive
+
+intuitive
+
+expressive
+
+pre-existing
+
+grayResults for "design_theory_adj"
+Defined in module design.py
+Used in design.py
+
+virtual
+
+pre-existing
+
+lateral
+
+material
+
+gender oriented
+
+cognitive
+
+formal
+
+digital
+
+modernist
+
+problematic
+
+technological
+
+intellectual
+
+sustainable
+
+feminist
+
+gender oriented
+
+intellectual
+
+cultural
+
+cultural
+
+critical
+
+immaterial

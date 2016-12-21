@@ -1,4 +1,10 @@
+Results for "odd_descriptor"
+Defined in module boymechanic.py
+Used in boymechanic.py
 
+stained
+
+electric
 
 homemade
 
@@ -7,6 +13,78 @@ homemade
 homemade
 
 homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+electric
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+brokenResults for "odd_descriptor"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+electric
+
+homemade
+
+homemade
+
+embossed
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemadeResults for "odd_descriptor"
+Defined in module boymechanic.py
+Used in boymechanic.py
 
 homemade
 
@@ -16,6 +94,160 @@ photovoltaic
 
 homemade
 
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+atmospheric
+
+homemade
+
+stained
+
+homemade
+
+homemade
+
+homemadeResults for "odd_descriptor"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+broken
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
 electric
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+broken
+
+homemade
+
+embossed
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+electric
+
+homemadeResults for "odd_descriptor"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+tarnished
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+atmospheric
+
+homemadeResults for "odd_descriptor"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+stained
+
+homemade
+
+stained
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+electric
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
+
+homemade
 
 homemade

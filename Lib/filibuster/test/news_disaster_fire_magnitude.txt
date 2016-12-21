@@ -1,10 +1,178 @@
+Results for "news_disaster_fire_magnitude"
+Defined in module news.py
+Used in news.py
 
+persisting
+
+persisting
+
+forest
+
+persisting
+
+persisting
+
+persisting
+
+severe
+
+persisting
 
 persisting
 
 severe
 
 severe
+
+forest
+
+severe
+
+severe
+
+forest
+
+severe
+
+forest
+
+forest
+
+forest
+
+persistingResults for "news_disaster_fire_magnitude"
+Defined in module news.py
+Used in news.py
+
+persisting
+
+persisting
+
+forest
+
+persisting
+
+severe
+
+severe
+
+severe
+
+persisting
+
+persisting
+
+severe
+
+persisting
+
+forest
+
+persisting
+
+persisting
+
+persisting
+
+persisting
+
+persisting
+
+persisting
+
+severe
+
+forestResults for "news_disaster_fire_magnitude"
+Defined in module news.py
+Used in news.py
+
+forest
+
+forest
+
+persisting
+
+persisting
+
+forest
+
+severe
+
+persisting
+
+severe
+
+severe
+
+persisting
+
+severe
+
+persisting
+
+severe
+
+severe
+
+forest
+
+severe
+
+persisting
+
+severe
+
+forest
+
+severeResults for "news_disaster_fire_magnitude"
+Defined in module news.py
+Used in news.py
+
+persisting
+
+severe
+
+persisting
+
+severe
+
+persisting
+
+severe
+
+forest
+
+severe
+
+severe
+
+severe
+
+persisting
+
+forest
+
+severe
+
+forest
+
+persisting
+
+persisting
+
+persisting
+
+forest
+
+persisting
+
+forestResults for "news_disaster_fire_magnitude"
+Defined in module news.py
+Used in news.py
+
+persisting
+
+persisting
 
 severe
 
@@ -17,5 +185,69 @@ severe
 severe
 
 persisting
+
+persisting
+
+persisting
+
+persisting
+
+severe
+
+forest
+
+persisting
+
+forest
+
+forest
+
+severe
+
+severe
+
+persisting
+
+severeResults for "news_disaster_fire_magnitude"
+Defined in module news.py
+Used in news.py
+
+persisting
+
+persisting
+
+severe
+
+severe
+
+forest
+
+forest
+
+severe
+
+persisting
+
+severe
+
+severe
+
+forest
+
+severe
+
+persisting
+
+forest
+
+severe
+
+persisting
+
+persisting
+
+persisting
+
+forest
 
 forest

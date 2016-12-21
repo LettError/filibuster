@@ -1,21 +1,253 @@
+Results for "p_figures_pop"
+Defined in module general.py
+Used in design.py, general.py, internet.py
 
+kremlin
 
 bongwater
+
+raven
+
+bert
+
+bert
+
+bigben
+
+kermit
+
+raven
+
+hiro
+
+xrayspex
+
+snowcrash
+
+batman
+
+raven
+
+kremlin
+
+mentos
+
+corvette
+
+spiderman
+
+blitzen
+
+dancer
+
+dasherResults for "p_figures_pop"
+Defined in module general.py
+Used in design.py, general.py, internet.py
+
+bigben
+
+snowcrash
+
+enterprise
+
+kremlin
+
+bongwater
+
+dasher
+
+wallace
+
+hiro
+
+gromit
+
+elcamino
+
+laracroft
+
+xrayspex
+
+cupid
+
+batman
+
+bert
+
+vixen
+
+vixen
+
+blitzen
+
+bigbird
+
+bongwaterResults for "p_figures_pop"
+Defined in module general.py
+Used in design.py, general.py, internet.py
+
+enterprise
+
+dasher
+
+wallace
+
+bigben
+
+batman
+
+hal9000
+
+cadillac
+
+ernie
+
+elcamino
+
+bert
+
+thunderbird
+
+robin
+
+robin
+
+mentos
+
+kermit
+
+snowcrash
+
+hiro
 
 wallace
 
 enterprise
 
-cadillac
+donnerResults for "p_figures_pop"
+Defined in module general.py
+Used in design.py, general.py, internet.py
+
+xrayspex
+
+hal9000
+
+comet
+
+enterprise
+
+prancer
+
+spiderman
+
+laracroft
 
 batman
 
-lavalamp
+cadillac
 
-dasher
+snowcrash
+
+laracroft
+
+raven
+
+cupid
+
+wallace
+
+blitzen
+
+donner
 
 ernie
 
+greenlantern
+
 vixen
 
+elcaminoResults for "p_figures_pop"
+Defined in module general.py
+Used in design.py, general.py, internet.py
+
+prancer
+
+comet
+
+mentos
+
+moulinrouge
+
+bert
+
+hiro
+
+blitzen
+
+snowcrash
+
+pikachu
+
+bigbird
+
+hiro
+
+bigben
+
+bigbird
+
 bladerunner
+
+thunderbird
+
+bert
+
+robin
+
+raven
+
+xrayspex
+
+elcaminoResults for "p_figures_pop"
+Defined in module general.py
+Used in design.py, general.py, internet.py
+
+vixen
+
+enterprise
+
+donner
+
+bongwater
+
+bigben
+
+bigbird
+
+bert
+
+raven
+
+gromit
+
+dasher
+
+pikachu
+
+kremlin
+
+snowcrash
+
+moulinrouge
+
+lavalamp
+
+moulinrouge
+
+ernie
+
+raven
+
+cadillac
+
+gromit

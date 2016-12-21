@@ -1,3 +1,7 @@
+Results for "p_corporateform"
+Defined in module corporate.py
+Used in corporate.py, names.py
+
 
 
 
@@ -8,7 +12,231 @@ PLC
 
 
 
+
+
+
+
+, Inc.
+
+
+
+
+
+
+
 Inc.
+
+Inc.
+
+
+
+
+
+Inc.
+
+
+
+
+
+
+
+GmBHResults for "p_corporateform"
+Defined in module corporate.py
+Used in corporate.py, names.py
+
+
+
+
+
+
+
+
+
+Inc.
+
+, Inc.
+
+
+
+
+
+, Inc.
+
+PLC
+
+
+
+
+
+, Inc.
+
+LLC
+
+
+
+
+
+
+
+PLC
+
+
+
+LLCResults for "p_corporateform"
+Defined in module corporate.py
+Used in corporate.py, names.py
+
+
+
+
+
+Inc.
+
+Inc.
+
+
+
+
+
+Inc.
+
+
+
+GmBH
+
+Inc.
+
+Inc.
+
+
+
+GmBH
+
+
+
+
+
+Inc.
+
+Inc.
+
+
+
+
+
+LLCResults for "p_corporateform"
+Defined in module corporate.py
+Used in corporate.py, names.py
+
+
+
+PLC
+
+PLC
+
+, Inc.
+
+, Inc.
+
+
+
+Inc.
+
+Inc.
+
+PLC
+
+Inc.
+
+
+
+Inc.
+
+
+
+
+
+GmBH
+
+
+
+S.A.
+
+GmBH
+
+
+
+, Inc.Results for "p_corporateform"
+Defined in module corporate.py
+Used in corporate.py, names.py
+
+LLC
+
+GmBH
+
+S.A.
+
+S.A.
+
+
+
+
+
+
+
+S.A.
+
+
+
+
+
+, Inc.
+
+
+
+
+
+LLC
+
+, Inc.
+
+
+
+PLC
+
+PLC
+
+
+
+Results for "p_corporateform"
+Defined in module corporate.py
+Used in corporate.py, names.py
+
+
+
+PLC
+
+S.A.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S.A.
+
+
 
 
 
@@ -17,5 +245,9 @@ LLC
 
 
 
+
+LLC
+
+PLC
 
 LLC

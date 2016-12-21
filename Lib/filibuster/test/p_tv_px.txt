@@ -1,10 +1,8 @@
+Results for "p_tv_px"
+Defined in module journalism.py
+Used in journalism.py
 
-
-C
-
-C
-
-N
+B
 
 C
 
@@ -12,6 +10,16 @@ N
 
 N
 
+A
+
+C
+
+A
+
+B
+
+A
+
 C
 
 N
@@ -19,3 +27,227 @@ N
 C
 
 C
+
+A
+
+B
+
+B
+
+N
+
+C
+
+A
+
+CResults for "p_tv_px"
+Defined in module journalism.py
+Used in journalism.py
+
+N
+
+A
+
+A
+
+N
+
+C
+
+C
+
+A
+
+N
+
+N
+
+A
+
+A
+
+A
+
+N
+
+A
+
+N
+
+B
+
+C
+
+N
+
+N
+
+NResults for "p_tv_px"
+Defined in module journalism.py
+Used in journalism.py
+
+A
+
+N
+
+N
+
+N
+
+C
+
+B
+
+C
+
+B
+
+A
+
+C
+
+N
+
+A
+
+C
+
+B
+
+N
+
+B
+
+C
+
+A
+
+A
+
+NResults for "p_tv_px"
+Defined in module journalism.py
+Used in journalism.py
+
+B
+
+B
+
+A
+
+N
+
+N
+
+B
+
+N
+
+A
+
+B
+
+A
+
+C
+
+A
+
+B
+
+B
+
+N
+
+A
+
+A
+
+B
+
+B
+
+BResults for "p_tv_px"
+Defined in module journalism.py
+Used in journalism.py
+
+B
+
+B
+
+N
+
+A
+
+A
+
+N
+
+C
+
+N
+
+C
+
+C
+
+N
+
+B
+
+A
+
+N
+
+A
+
+B
+
+A
+
+N
+
+C
+
+AResults for "p_tv_px"
+Defined in module journalism.py
+Used in journalism.py
+
+N
+
+B
+
+N
+
+B
+
+A
+
+B
+
+A
+
+A
+
+A
+
+N
+
+A
+
+B
+
+N
+
+C
+
+N
+
+A
+
+C
+
+B
+
+N
+
+B

@@ -1,21 +1,253 @@
+Results for "book_title"
+Defined in module literature.py
+Used in book_reference.py, literature.py
 
-
-"Pride and Mild Amusement" by Jane Austen
-
-"Prejudice and Consolation" by Jane Austen
-
-"Consolation and Depression" by Jane Austen
-
-"Anger and Depression" by Jane Austen
-
-"Fury and Mild Amusement" by Jane Austen
-
-"Pride and Prejudice" by Jane Austen
-
-"Prejudice and Pride" by Jane Austen
-
-"Mild Amusement and Anger" by Jane Austen
+"Consolation and Anger" by Jane Austen
 
 "Stubborness and Mild Amusement" by Jane Austen
 
+"Pride and Anger" by Jane Austen
+
+"Pride and Fury" by Jane Austen
+
+"Fury and Depression" by Jane Austen
+
+"Consolation and Consolation" by Jane Austen
+
+"Pride and Fury" by Jane Austen
+
+"Consolation and Consolation" by Jane Austen
+
+"Fury and Depression" by Jane Austen
+
+"Depression and Depression" by Jane Austen
+
+"Anger and Prejudice" by Jane Austen
+
+"Fury and Prejudice" by Jane Austen
+
+"Mild Amusement and Consolation" by Jane Austen
+
+"Depression and Stubborness" by Jane Austen
+
+"Depression and Prejudice" by Jane Austen
+
+"Pride and Consolation" by Jane Austen
+
+"Depression and Mild Amusement" by Jane Austen
+
+"Prejudice and Pride" by Jane Austen
+
+"Pride and Pride" by Jane Austen
+
+"Consolation and Consolation" by Jane AustenResults for "book_title"
+Defined in module literature.py
+Used in book_reference.py, literature.py
+
 "Prejudice and Depression" by Jane Austen
+
+"Stubborness and Anger" by Jane Austen
+
+"Stubborness and Prejudice" by Jane Austen
+
+"Mild Amusement and Mild Amusement" by Jane Austen
+
+"Fury and Fury" by Jane Austen
+
+"Depression and Mild Amusement" by Jane Austen
+
+"Mild Amusement and Fury" by Jane Austen
+
+"Pride and Fury" by Jane Austen
+
+"Pride and Mild Amusement" by Jane Austen
+
+"Mild Amusement and Consolation" by Jane Austen
+
+"Pride and Stubborness" by Jane Austen
+
+"Stubborness and Depression" by Jane Austen
+
+"Mild Amusement and Fury" by Jane Austen
+
+"Mild Amusement and Pride" by Jane Austen
+
+"Mild Amusement and Fury" by Jane Austen
+
+"Anger and Prejudice" by Jane Austen
+
+"Prejudice and Anger" by Jane Austen
+
+"Depression and Pride" by Jane Austen
+
+"Fury and Stubborness" by Jane Austen
+
+"Consolation and Depression" by Jane AustenResults for "book_title"
+Defined in module literature.py
+Used in book_reference.py, literature.py
+
+"Stubborness and Fury" by Jane Austen
+
+"Fury and Prejudice" by Jane Austen
+
+"Prejudice and Prejudice" by Jane Austen
+
+"Depression and Fury" by Jane Austen
+
+"Fury and Consolation" by Jane Austen
+
+"Stubborness and Depression" by Jane Austen
+
+"Consolation and Fury" by Jane Austen
+
+"Depression and Anger" by Jane Austen
+
+"Depression and Prejudice" by Jane Austen
+
+"Stubborness and Stubborness" by Jane Austen
+
+"Mild Amusement and Anger" by Jane Austen
+
+"Stubborness and Fury" by Jane Austen
+
+"Anger and Fury" by Jane Austen
+
+"Mild Amusement and Depression" by Jane Austen
+
+"Fury and Stubborness" by Jane Austen
+
+"Fury and Consolation" by Jane Austen
+
+"Pride and Stubborness" by Jane Austen
+
+"Consolation and Depression" by Jane Austen
+
+"Mild Amusement and Mild Amusement" by Jane Austen
+
+"Mild Amusement and Consolation" by Jane AustenResults for "book_title"
+Defined in module literature.py
+Used in book_reference.py, literature.py
+
+"Stubborness and Prejudice" by Jane Austen
+
+"Pride and Anger" by Jane Austen
+
+"Pride and Anger" by Jane Austen
+
+"Fury and Consolation" by Jane Austen
+
+"Anger and Stubborness" by Jane Austen
+
+"Anger and Anger" by Jane Austen
+
+"Anger and Consolation" by Jane Austen
+
+"Stubborness and Prejudice" by Jane Austen
+
+"Mild Amusement and Consolation" by Jane Austen
+
+"Prejudice and Anger" by Jane Austen
+
+"Mild Amusement and Pride" by Jane Austen
+
+"Consolation and Anger" by Jane Austen
+
+"Mild Amusement and Prejudice" by Jane Austen
+
+"Consolation and Stubborness" by Jane Austen
+
+"Pride and Consolation" by Jane Austen
+
+"Consolation and Stubborness" by Jane Austen
+
+"Depression and Anger" by Jane Austen
+
+"Pride and Prejudice" by Jane Austen
+
+"Stubborness and Mild Amusement" by Jane Austen
+
+"Fury and Fury" by Jane AustenResults for "book_title"
+Defined in module literature.py
+Used in book_reference.py, literature.py
+
+"Depression and Prejudice" by Jane Austen
+
+"Stubborness and Anger" by Jane Austen
+
+"Anger and Depression" by Jane Austen
+
+"Depression and Consolation" by Jane Austen
+
+"Prejudice and Mild Amusement" by Jane Austen
+
+"Pride and Anger" by Jane Austen
+
+"Depression and Stubborness" by Jane Austen
+
+"Depression and Mild Amusement" by Jane Austen
+
+"Pride and Prejudice" by Jane Austen
+
+"Prejudice and Consolation" by Jane Austen
+
+"Anger and Consolation" by Jane Austen
+
+"Mild Amusement and Stubborness" by Jane Austen
+
+"Anger and Anger" by Jane Austen
+
+"Anger and Fury" by Jane Austen
+
+"Stubborness and Stubborness" by Jane Austen
+
+"Stubborness and Depression" by Jane Austen
+
+"Anger and Mild Amusement" by Jane Austen
+
+"Stubborness and Consolation" by Jane Austen
+
+"Anger and Anger" by Jane Austen
+
+"Pride and Pride" by Jane AustenResults for "book_title"
+Defined in module literature.py
+Used in book_reference.py, literature.py
+
+"Anger and Stubborness" by Jane Austen
+
+"Consolation and Prejudice" by Jane Austen
+
+"Fury and Prejudice" by Jane Austen
+
+"Stubborness and Mild Amusement" by Jane Austen
+
+"Anger and Mild Amusement" by Jane Austen
+
+"Anger and Fury" by Jane Austen
+
+"Mild Amusement and Prejudice" by Jane Austen
+
+"Prejudice and Depression" by Jane Austen
+
+"Prejudice and Anger" by Jane Austen
+
+"Pride and Stubborness" by Jane Austen
+
+"Stubborness and Stubborness" by Jane Austen
+
+"Anger and Stubborness" by Jane Austen
+
+"Anger and Anger" by Jane Austen
+
+"Depression and Depression" by Jane Austen
+
+"Prejudice and Consolation" by Jane Austen
+
+"Anger and Mild Amusement" by Jane Austen
+
+"Anger and Mild Amusement" by Jane Austen
+
+"Depression and Pride" by Jane Austen
+
+"Consolation and Pride" by Jane Austen
+
+"Prejudice and Pride" by Jane Austen

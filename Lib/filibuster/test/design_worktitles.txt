@@ -1,21 +1,253 @@
+Results for "design_worktitles"
+Defined in module design.py
+Used in design.py, letterror.py
 
+Untitled and Untitled
 
-Corvette
+San Francisco
 
-Seattle
+Untitled and Untitled
 
-Bigbird and Hiro
+Bert and Miami I
 
-Untitled and Communications
+Chicago
 
-Mentos and Electronics 2056
+Philadelphia
 
-Data Processing
+Pipe vs. Untitled
 
-Telephone vs. Cash Register
+Piggy
 
-San Jose
+Edison
 
-Houston and Xrayspex V
+Edison vs. Baltimore
 
-Bigbird
+Elcamino and Elcamino
+
+Dancer vs. Houston 2029
+
+Untitled
+
+Untitled and Cupid
+
+Untitled VI
+
+Pikachu and Detroit
+
+Untitled and Untitled
+
+Cadillac IX
+
+Cash Register and Pittsburgh
+
+MentosResults for "design_worktitles"
+Defined in module design.py
+Used in design.py, letterror.py
+
+Nashville
+
+Cadillac and Untitled
+
+Greenlantern and Untitled 2037
+
+Bert and Untitled
+
+Chicago vs. Kansas City
+
+Spiderman
+
+Hal9000 vs. Philadelphia 2015
+
+Boston
+
+Dasher vs. Untitled
+
+Calculator
+
+Xrayspex and Pittsburgh
+
+Ernie and Underwriters
+
+San Francisco and Manufacturing
+
+Untitled
+
+Nashville
+
+Pikachu and Untitled
+
+Untitled
+
+New York and Thunderbird 2050
+
+Cash Register
+
+Borg and Electric IResults for "design_worktitles"
+Defined in module design.py
+Used in design.py, letterror.py
+
+Denver vs. Untitled
+
+Untitled vs. Communications
+
+Snowcrash and Hiro
+
+Robin
+
+Chicago and Untitled
+
+Appliance and Untitled
+
+Dallas vs. Philadelphia
+
+Untitled
+
+Telephone and Appliance
+
+Automobiles
+
+Untitled vs. Data Processing
+
+Moulinrouge and Batman
+
+Untitled
+
+Data Processing and Dancer 1979
+
+Hiro
+
+Communications and Untitled
+
+Washington
+
+Payroll
+
+Kremlin and Communications
+
+Kansas City vs. BorgResults for "design_worktitles"
+Defined in module design.py
+Used in design.py, letterror.py
+
+Atlanta vs. Wallace
+
+Ernie vs. Steel
+
+Seattle vs. Kansas City
+
+Payroll vs. Boston 1968
+
+New York and Machinery
+
+Dallas
+
+Calculator vs. Untitled
+
+Communications and Untitled
+
+Chicago
+
+Seattle vs. Untitled 1977
+
+Snowcrash vs. Untitled
+
+Electronics
+
+Washington
+
+Cupid vs. Denver
+
+Calculator and Underwriters
+
+Payroll vs. Oil & Gas
+
+Untitled and Spiderman
+
+New York and Untitled
+
+Memphis
+
+UntitledResults for "design_worktitles"
+Defined in module design.py
+Used in design.py, letterror.py
+
+Untitled vs. Untitled IX
+
+Kermit V
+
+Borg vs. Untitled 1968
+
+Telephone and Untitled
+
+Robin
+
+Untitled vs. Baltimore II
+
+Underwriters vs. Raven
+
+Untitled and Untitled 2050
+
+Greenlantern vs. Untitled
+
+Wallace and Untitled
+
+Untitled vs. Laracroft
+
+Untitled
+
+Untitled
+
+Bert and Mining
+
+Untitled
+
+San Francisco 2021
+
+Baltimore
+
+Appliance vs. Bongwater
+
+Payroll
+
+Untitled vs. LavalampResults for "design_worktitles"
+Defined in module design.py
+Used in design.py, letterror.py
+
+Untitled vs. Untitled
+
+Communications vs. Untitled
+
+Untitled and Corvette
+
+Comet and Philadelphia
+
+Boston
+
+Kansas City vs. Edison
+
+San Jose and Untitled
+
+Telephone vs. Untitled 2010
+
+Washington vs. Appliance
+
+Seattle vs. Data Processing
+
+Untitled and Communications 2055
+
+Untitled vs. San Jose 1982
+
+Boston vs. San Francisco
+
+Telephone vs. Untitled 1990
+
+Washington vs. Seattle
+
+Memphis vs. Seattle
+
+Chicago and Freight III
+
+Untitled vs. Detroit 1995
+
+Electronics
+
+Communications

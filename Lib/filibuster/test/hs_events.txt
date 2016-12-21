@@ -1,21 +1,253 @@
+Results for "hs_events"
+Defined in module horoscope.py
+Used in horoscope.py
 
+major changes
 
-unexpected news
+changes in your Ascendant scorpio
 
-death
+major changes
 
-changes in your Professional efficiency
+major changes
 
-death
+good luck
 
-unexpected news
+upheaval
+
+major changes
+
+upheaval
+
+news from afar
+
+upheaval
+
+major changes
 
 changes in your Domestic partner
 
+death
+
+unexpected news
+
+good luck
+
+major changes
+
+news from afar
+
+changes in your Domestic situation
+
+good luck
+
+news from afarResults for "hs_events"
+Defined in module horoscope.py
+Used in horoscope.py
+
+unexpected news
+
+upheaval
+
+death
+
+unexpected news
+
+unexpected news
+
+death
+
+major changes
+
+major changes
+
+unexpected news
+
+upheaval
+
+major changes
+
+news from afar
+
+upheaval
+
+news from afar
+
+upheaval
+
+good luck
+
+major changes
+
+major changes
+
+good luck
+
+changes in your Domestic partnerResults for "hs_events"
+Defined in module horoscope.py
+Used in horoscope.py
+
+changes in your Romantic life
+
+upheaval
+
+changes in your Marital status
+
+upheaval
+
+upheaval
+
 changes in your Professional efficiency
+
+changes in your Personal productivity
+
+changes in your Ascendant gemini
+
+major changes
+
+unexpected news
+
+death
+
+changes in your Professional efficiency
+
+major changes
+
+major changes
+
+good luck
+
+news from afar
+
+major changes
+
+changes in your Professional efficiency
+
+changes in your Significant other
+
+major changesResults for "hs_events"
+Defined in module horoscope.py
+Used in horoscope.py
+
+good luck
+
+unexpected news
+
+major changes
+
+good luck
+
+major changes
+
+unexpected news
+
+unexpected news
+
+upheaval
+
+good luck
+
+unexpected news
+
+news from afar
+
+upheaval
+
+major changes
+
+changes in your Romantic life
+
+death
+
+upheaval
+
+death
+
+death
+
+upheaval
+
+changes in your Home lifeResults for "hs_events"
+Defined in module horoscope.py
+Used in horoscope.py
+
+news from afar
+
+upheaval
+
+major changes
+
+death
+
+death
+
+major changes
+
+changes in your Romantic life
+
+unexpected news
+
+upheaval
+
+major changes
+
+news from afar
+
+upheaval
+
+major changes
+
+news from afar
+
+changes in your Two dollars and fifty cents
+
+death
+
+news from afar
+
+changes in your Romantic life
+
+news from afar
+
+deathResults for "hs_events"
+Defined in module horoscope.py
+Used in horoscope.py
+
+unexpected news
+
+unexpected news
+
+good luck
+
+changes in your Marital status
+
+upheaval
+
+changes in your Professional efficiency
+
+changes in your Passion
+
+unexpected news
 
 news from afar
 
 unexpected news
 
+upheaval
+
 good luck
+
+major changes
+
+unexpected news
+
+major changes
+
+unexpected news
+
+changes in your Personal portfolio
+
+death
+
+major changes
+
+unexpected news

@@ -1,21 +1,253 @@
+Results for "paper_generic_English"
+Defined in module journalism.py
+Used in journalism.py, portal.py
 
+Globe
 
-World
+Companion
 
-Daily
+Post
 
-Intelligencer
+Tribune
 
-Recorder
+Sentinel
 
-Independent
-
-Fact
+Telegram
 
 Focus
 
+Courier
+
+Independent
+
+Enquirer
+
+Impact
+
+Advocate
+
+Yeoman
+
+Fact
+
+Impact
+
+Progressive
+
+Telegram
+
+Review
+
+Today
+
+QuarterlyResults for "paper_generic_English"
+Defined in module journalism.py
+Used in journalism.py, portal.py
+
+Eagle
+
+Quorum
+
+Register
+
+Free-Press
+
+Telegram
+
+Free-Press
+
 Reader
+
+Statesman
+
+Register
+
+Quorum
+
+Progressive
+
+Dispatch
+
+Globe
+
+Progress
+
+Daily
+
+Herald
+
+Times
+
+Industrial
+
+Herald
+
+WorkerResults for "paper_generic_English"
+Defined in module journalism.py
+Used in journalism.py, portal.py
+
+Bugle
+
+Worker
+
+Tribune
+
+Sun
+
+Globe
+
+Informer
+
+Spirit
+
+Star
+
+Advocate
+
+Gazette
+
+Recorder
+
+Orbit
+
+Post
+
+Notice
+
+Register
+
+Worker
+
+Today
+
+Tribune
+
+Chronicle
+
+FinancialResults for "paper_generic_English"
+Defined in module journalism.py
+Used in journalism.py, portal.py
+
+Picayune
+
+Daily
+
+Mercury
+
+Quorum
+
+Leader
+
+Recorder
+
+World
+
+World
+
+Quarterly
+
+Picayune
+
+Press
+
+Voice
+
+Financial
+
+Advocate
+
+Voice
+
+Journal
+
+Herald
+
+Constitution
+
+Press
+
+EagleResults for "paper_generic_English"
+Defined in module journalism.py
+Used in journalism.py, portal.py
+
+Gazette
+
+Weekly
+
+Bugle
+
+Statesman
+
+Telegram
+
+Reader
+
+Review
+
+Mercury
+
+Times
+
+Industrial
+
+Industrial
+
+Recorder
+
+Forward
+
+Today
+
+Independent
+
+Today
+
+Veritas
+
+Weekly
+
+Chronicle
+
+MonitorResults for "paper_generic_English"
+Defined in module journalism.py
+Used in journalism.py, portal.py
+
+Dispatch
 
 Observer
 
+Companion
+
+Weekly
+
+Reporter
+
 Gazette
+
+Telegram
+
+Press
+
+Eagle
+
+Observer
+
+Weekly
+
+Impact
+
+Times
+
+Register
+
+Telegram
+
+Telegraph
+
+Financial
+
+Advocate
+
+Statesman
+
+Voice

@@ -1,21 +1,253 @@
+Results for "design_theory_short"
+Defined in module design.py
+Used in design.py
 
+immaterial philosophy: personal hygiene products for HyperTrust2000
 
-random improvisation in information typography: the corporate information architecture for InterTel
+early formal criticism
 
-the installation “Houston and Untitled” (BAT November 2006)
+new material digitisation
 
-the video installation “Oil vs. Cadillac” (Adobe Magazine March 2010)
+the branding for Yotiyomi-Sushayi Company
 
-virtual meme
+the installation for InterTron
 
-investigative experimentation in design: personal hygiene products “Untitled and Raven”
+the branding for InterTech
 
-refthing TO BE FILLED: a book for Sanyu-Kakantsu
+the information strategy for Tamatsu-Sakanha Corporation
 
-modernist meme
+theoretical investigation
 
-cognitive reasoning: the image store for Dow Treasury Group
+the information strategy for SunTech
 
-erratic improvisation: a book for TransTron
+a book “Untitled and Untitled”
 
-non-refthing TO BE FILLED
+modernist semiotics: the video installation for webNetworking2000
+
+refthing TO BE FILLED
+
+counter cultural photography
+
+personal hygiene products for SkyTech
+
+gender oriented perception: the branding “Raven vs. Edison”
+
+erratic performance
+
+formal vernacular
+
+the installation for First Cooperative Bank
+
+early formal statement
+
+feminist modernismResults for "design_theory_short"
+Defined in module design.py
+Used in design.py
+
+refthing TO BE FILLED
+
+problematic performance
+
+neo-problematic communication
+
+non-erratic typography in typography
+
+the installation “New York and Telephone” (Graphis October 2003)
+
+digital criticism in typography
+
+the installation for Sontiyi-Kosan Inc.
+
+vernacular creation in graphic design
+
+ethno-erratic cognition
+
+technological vision in typography
+
+a book for Mayuya
+
+scientific vision: the advertising concept for CyberSale.com
+
+theoretical thinking
+
+neo-scientific vernacular in architecture
+
+gender oriented thinking in graphic design: a book for Takanbi-Kasomatsi
+
+the corporate information architecture “Untitled vs. Bongwater”
+
+refthing TO BE FILLED
+
+gender oriented meme
+
+investigative vision in architecture
+
+sustainable performance in graphic designResults for "design_theory_short"
+Defined in module design.py
+Used in design.py
+
+refthing TO BE FILLED
+
+technological modernism in design: the product planning “Machinery and Bert”
+
+early cognitive evaluation
+
+intuitive cognition
+
+formal thinking
+
+gender oriented theory in architecture
+
+investigative vision: the product planning “Untitled vs. Minneapolis” (Acro [AKPO] June 2005)
+
+the advertising concept “Industry and Untitled” (Icographic May 2004)
+
+critical philosophy: the work for Toha
+
+ethnic cliché: the video installation “Untitled vs. Untitled” (Argos December 2011)
+
+random intuition in design
+
+material midification: an article “Industry”
+
+feminist perception
+
+new virtual typography
+
+gender oriented finance in architecture
+
+techno evaluation
+
+material beauty
+
+expressive typography in design: the product planning “Houston and Lavalamp” (Druk October 2010)
+
+early refthing TO BE FILLED
+
+the image concept “Payroll vs. New York”Results for "design_theory_short"
+Defined in module design.py
+Used in design.py
+
+sustainable pop-culture: the work “Kansas City and Untitled”
+
+random creation
+
+lateral resistance
+
+refthing TO BE FILLED: the piece “Prancer and Edison”
+
+new refthing TO BE FILLED
+
+the advertising concept “Untitled vs. Untitled IX” (Adobe Magazine November 2009)
+
+a book for goBiz.com
+
+the product planning “Appliance vs. Untitled”
+
+theoretical experimentation in typography: the performance art piece for Orange (a Matrix company)
+
+lateral photography
+
+aesthetical revival in typography: the image concept “Seattle vs. Hiro” (Architext Design October 2005)
+
+digital design
+
+neo-refthing TO BE FILLED
+
+immaterial reasoning in design
+
+the monograph for SkyTel
+
+intuitive concept
+
+relevant revival
+
+recursive modernism
+
+intellectual vision
+
+the information concept “Untitled and Untitled” (Kak August 2007)Results for "design_theory_short"
+Defined in module design.py
+Used in design.py
+
+ethno-sustainable programming in information graphic design
+
+refthing TO BE FILLED
+
+the work for Dow Treasury Pension Fund
+
+neo-aesthetical detail in architecture
+
+ethno-formal photography in graphic design
+
+early virtual theorem in information graphic design
+
+pre-existing reasoning
+
+aesthetical beauty
+
+immaterial intuition in architecture
+
+vernacular cognition
+
+refthing TO BE FILLED
+
+cultural vision: the branding for WestTron
+
+critical evaluation in information architecture
+
+neo-immaterial quantification
+
+cognitive design theory
+
+ethno-scientific improvisation
+
+critical investigation
+
+critical beauty in information typography
+
+the retrospect “Chicago”
+
+modernist resistance: the installation “Underwriters vs. Electronics”Results for "design_theory_short"
+Defined in module design.py
+Used in design.py
+
+the installation “San Francisco and Wallace”
+
+the installation for AmpAmp (Liverpool)
+
+the corporate information architecture for IronOver/EquiBankonline Inc.)
+
+neo-problematic revival
+
+new vernacular detail
+
+material concept: personal hygiene products for Kobankan Inc.
+
+vernacular cognition: the performance art piece for Werk (an Over company)
+
+the product planning “Industry and Greenlantern”
+
+expressive investigation: the product placement “Memphis and Greenlantern”
+
+erratic semiotics: the product planning for Sanmihoma-Katsitsubi PLC
+
+problematic semiotics
+
+post-lateral visualisation in typography
+
+post-random industrialisation
+
+erratic visualisation
+
+early ethnic performance in typography
+
+the product placement “San Jose and Untitled” (DaDa October 2005)
+
+refthing TO BE FILLED
+
+pre-existing composition
+
+digital evaluation
+
+the branding for MediTron

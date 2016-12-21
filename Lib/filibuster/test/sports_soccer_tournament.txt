@@ -1,21 +1,253 @@
+Results for "sports_soccer_tournament"
+Defined in module sports.py
+Used in sports.py
 
+IZFA WesternCup
 
-GoldChampionship
+IFFA PremierCompetition
 
-ZFA SunhitaChampionship
+IGFA WorldLeague
 
-GoldCup
+XFA PremierChampionship
+
+WorldChampionship
+
+WorldChampionship
+
+EuroCup
+
+IWFA GoldChampionship
+
+IDFA TahashiCompetition
 
 GoldCompetition
 
-ICFA PremierCompetition
+OFA PremierChampionship
 
-VFA GoldLeague
+GoldCompetition
 
-IIFA EuroLeague
+ZFA AmeriTechLeague
 
-GFA WesternCup
+IEFA EuroLeague
+
+IIFA HonorLeague
+
+IEFA WorldCup
+
+IWFA GoldCup
+
+ICFA HonorChampionship
+
+MediTelChampionship
+
+IPFA BryantChampionshipResults for "sports_soccer_tournament"
+Defined in module sports.py
+Used in sports.py
+
+MihakaLeague
+
+WorldCup
+
+QFA WesternLeague
+
+ChampionsChampionship
+
+TFA EuroCup
+
+HonorChampionship
+
+IVFA WesternCompetition
+
+IGFA HonorChampionship
+
+IUFA WesternCompetition
+
+IUFA YabantaChampionship
+
+GoldChampionship
+
+PremierChampionship
+
+IBFA ChampionsCup
+
+OFA ChampionsLeague
+
+EuroCompetition
+
+MFA ChampionsChampionship
+
+ChampionsChampionship
+
+PFA ChampionsChampionship
+
+XFA GoldCompetition
+
+IZFA TransCorpLeagueResults for "sports_soccer_tournament"
+Defined in module sports.py
+Used in sports.py
+
+IFA WesternCompetition
+
+IIFA EuroCup
+
+ChampionsCup
+
+JFA ChampionsChampionship
+
+WhitneyLeague
+
+IUFA WorldCup
+
+YFA ChampionsCup
+
+INFA GoldLeague
+
+KFA ChampionsCup
+
+IBFA HonorLeague
+
+HarrisonChampionship
+
+RFA WorldCup
+
+IZFA GoldChampionship
+
+MFA GoldLeague
+
+WorldCup
+
+PremierLeague
+
+IIFA HonorCup
+
+IGFA GoldChampionship
+
+IFFA GoldCompetition
+
+WorldCompetitionResults for "sports_soccer_tournament"
+Defined in module sports.py
+Used in sports.py
+
+IFFA WorldChampionship
 
 ChampionsLeague
 
-ISFA HonorLeague
+HonorCup
+
+ILFA WesternLeague
+
+IOFA WorldCompetition
+
+EuroCompetition
+
+RyanCup
+
+IWFA WesternCup
+
+WesternLeague
+
+ChampionsLeague
+
+WorldLeague
+
+GoldCompetition
+
+EuroChampionship
+
+ITFA ChampionsCompetition
+
+IDFA PremierChampionship
+
+WFA PremierCompetition
+
+EuroCompetition
+
+MikayimiLeague
+
+ChampionsCompetition
+
+KFA PremierCompetitionResults for "sports_soccer_tournament"
+Defined in module sports.py
+Used in sports.py
+
+UFA PremierChampionship
+
+ChampionsChampionship
+
+WorldLeague
+
+EFA GoldCup
+
+IGFA HonorCompetition
+
+EuroCup
+
+IBFA WesternLeague
+
+EuroLeague
+
+ChampionsLeague
+
+UFA WesternLeague
+
+ZFA GoldCompetition
+
+WorldChampionship
+
+PremierCompetition
+
+PremierCompetition
+
+PremierChampionship
+
+HonorCup
+
+LFA WorldLeague
+
+ChampionsLeague
+
+ITFA WesternCup
+
+WesternChampionshipResults for "sports_soccer_tournament"
+Defined in module sports.py
+Used in sports.py
+
+IVFA WorldCompetition
+
+PFA HonorChampionship
+
+HFA ChampionsLeague
+
+WesternCompetition
+
+KashaLeague
+
+OFA EuroCompetition
+
+IOFA WorldCompetition
+
+ISFA WorldLeague
+
+EuroCompetition
+
+WesternChampionship
+
+EuroLeague
+
+ChampionsChampionship
+
+WorldCompetition
+
+IQFA EuroCup
+
+IZFA InterTechCompetition
+
+ChampionsLeague
+
+ChampionsCup
+
+IGFA EuroLeague
+
+EuroCup
+
+FFA WesternCompetition

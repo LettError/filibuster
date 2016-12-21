@@ -1,14 +1,190 @@
-
+Results for "sci_anatomy_human_transplant"
+Defined in module sciences.py
+Used in sciences.py
 
 digit
 
 gut
+
+kidney
+
+kidney
+
+liver
+
+digit
+
+heart
+
+liver
+
+gut
+
+kidney
+
+kidney
+
+kidney
+
+tendon
+
+liver
+
+digit
+
+liver
+
+liver
+
+heart
+
+kidney
+
+kidneyResults for "sci_anatomy_human_transplant"
+Defined in module sciences.py
+Used in sciences.py
+
+gut
+
+artery
+
+tendon
+
+gut
+
+gut
+
+tendon
+
+tendon
+
+heart
+
+tendon
+
+liver
+
+artery
+
+digit
+
+artery
+
+artery
+
+artery
+
+artery
+
+kidney
+
+digit
+
+digit
+
+tendonResults for "sci_anatomy_human_transplant"
+Defined in module sciences.py
+Used in sciences.py
+
+liver
+
+liver
 
 liver
 
 gut
 
 tendon
+
+gut
+
+gut
+
+liver
+
+heart
+
+digit
+
+tendon
+
+gut
+
+kidney
+
+liver
+
+digit
+
+artery
+
+kidney
+
+kidney
+
+heart
+
+heartResults for "sci_anatomy_human_transplant"
+Defined in module sciences.py
+Used in sciences.py
+
+heart
+
+tendon
+
+gut
+
+gut
+
+kidney
+
+gut
+
+heart
+
+heart
+
+kidney
+
+heart
+
+digit
+
+liver
+
+artery
+
+artery
+
+kidney
+
+heart
+
+artery
+
+liver
+
+artery
+
+arteryResults for "sci_anatomy_human_transplant"
+Defined in module sciences.py
+Used in sciences.py
+
+digit
+
+gut
+
+digit
+
+digit
+
+kidney
+
+liver
+
+liver
+
+digit
 
 tendon
 
@@ -19,3 +195,59 @@ heart
 kidney
 
 heart
+
+artery
+
+tendon
+
+artery
+
+heart
+
+heart
+
+artery
+
+arteryResults for "sci_anatomy_human_transplant"
+Defined in module sciences.py
+Used in sciences.py
+
+artery
+
+tendon
+
+heart
+
+artery
+
+artery
+
+liver
+
+liver
+
+heart
+
+kidney
+
+tendon
+
+liver
+
+digit
+
+liver
+
+kidney
+
+digit
+
+liver
+
+heart
+
+gut
+
+heart
+
+liver

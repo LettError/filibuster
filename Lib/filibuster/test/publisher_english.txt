@@ -1,21 +1,253 @@
+Results for "publisher_english"
+Defined in module book_reference.py
+Used in book_reference.py
 
+Plenum Publishing, New York
+
+Oklahoma University
+
+Oxford University Press
+
+Unman Hyman: London
+
+Cambridge MA: Bradford/MIT Press
 
 Routledge and Kegan Paul
 
+Bloomington, London
+
+Hutchinson and Cambridge: Harvard University Press
+
+Routledge and Kegan Paul
+
+Bloomington, London
+
 Swinburne University of Technology
+
+Thoemmes Press
+
+Swinburne University of Technology
+
+Thoemmes Press, Bristol, U.K. and Washington, D.C.
+
+Oklahoma University
 
 Oklahoma University
 
 Swinburne University of Technology
 
+Swinburne University of Technology
+
+Oklahoma University
+
+Cambridge MA: Bradford/MIT PressResults for "publisher_english"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Bloomington, London
+
+Plenum Publishing, New York
+
+Thoemmes Press
+
+Cornell University Press, Ithaca, New York
+
+Secker & Warburg, Kent
+
+Cornell University Press, Ithaca, New York
+
+Oxford University Press
+
+Swinburne University of Technology
+
+Secker & Warburg, Kent
+
+Plenum Publishing, New York
+
+Macmillan: London
+
+Macmillan: London
+
+Routledge and Kegan Paul
+
+University of Pennsylvania Press, Philadelphia
+
+Oklahoma University
+
+Thoemmes Press
+
+Plenum Publishing, New York
+
+Routledge and Kegan Paul
+
+Oxford University Press
+
+Macmillan: LondonResults for "publisher_english"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Oklahoma University
+
+Oklahoma University
+
+Swinburne University of Technology
+
+Routledge and Kegan Paul
+
+Cornell University Press, Ithaca, New York
+
+Oklahoma University
+
 Hutchinson and Cambridge: Harvard University Press
 
+Unman Hyman: London
+
+Cornell University Press, Ithaca, New York
+
+Routledge and Kegan Paul
+
+Unman Hyman: London
+
+Hutchinson and Cambridge: Harvard University Press
+
+Swinburne University of Technology
+
+Unman Hyman: London
+
+Cambridge MA: Bradford/MIT Press
+
+Routledge and Kegan Paul
+
+Plenum Publishing, New York
+
+Oklahoma University
+
+Secker & Warburg, Kent
+
+Macmillan: LondonResults for "publisher_english"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Thoemmes Press
+
+Oxford University Press
+
+Oxford University Press
+
+Cornell University Press, Ithaca, New York
+
+Swinburne University of Technology
+
+Swinburne University of Technology
+
+Routledge and Kegan Paul
+
+Thoemmes Press, Bristol, U.K. and Washington, D.C.
+
+Cornell University Press, Ithaca, New York
+
+Oklahoma University
+
+Thoemmes Press
+
+Plenum Publishing, New York
+
+Bloomington, London
+
+Routledge and Kegan Paul
+
+Cambridge MA: Bradford/MIT Press
+
+Cambridge MA: Bradford/MIT Press
+
+Cornell University Press, Ithaca, New York
+
+Cambridge MA: Bradford/MIT Press
+
+University of Pennsylvania Press, Philadelphia
+
+Hutchinson and Cambridge: Harvard University PressResults for "publisher_english"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Swinburne University of Technology
+
+Oklahoma University
+
+Oxford University Press
+
+University of Pennsylvania Press, Philadelphia
+
+Hutchinson and Cambridge: Harvard University Press
+
+Oxford University Press
+
+University of Pennsylvania Press, Philadelphia
+
 Macmillan: London
+
+Hutchinson and Cambridge: Harvard University Press
+
+Cornell University Press, Ithaca, New York
+
+Thoemmes Press
+
+Cornell University Press, Ithaca, New York
+
+Thoemmes Press
+
+Cornell University Press, Ithaca, New York
+
+Oklahoma University
+
+Oxford University Press
+
+Cambridge MA: Bradford/MIT Press
+
+Thoemmes Press, Bristol, U.K. and Washington, D.C.
+
+Oxford University Press
+
+Unman Hyman: LondonResults for "publisher_english"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Hutchinson and Cambridge: Harvard University Press
+
+Thoemmes Press
+
+Secker & Warburg, Kent
+
+Thoemmes Press
+
+Swinburne University of Technology
+
+Oxford University Press
+
+University of Pennsylvania Press, Philadelphia
+
+Oxford University Press
+
+Bloomington, London
 
 Macmillan: London
 
 Cornell University Press, Ithaca, New York
 
-Cornell University Press, Ithaca, New York
+Thoemmes Press, Bristol, U.K. and Washington, D.C.
+
+Swinburne University of Technology
+
+Thoemmes Press
 
 Macmillan: London
+
+Plenum Publishing, New York
+
+Cambridge MA: Bradford/MIT Press
+
+Cornell University Press, Ithaca, New York
+
+Bloomington, London
+
+Bloomington, London

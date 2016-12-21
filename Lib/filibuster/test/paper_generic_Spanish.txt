@@ -1,4 +1,18 @@
+Results for "paper_generic_Spanish"
+Defined in module journalism.py
+Used in journalism.py
 
+El Diario
+
+El Diario
+
+El Sol
+
+El Sol
+
+El Universal
+
+El Tiempo
 
 El Sol
 
@@ -6,12 +20,56 @@ El Tiempo
 
 El Universal
 
+El Mundo
+
+El Diario
+
+El Sol
+
+El Diario
+
+El Sol
+
+El Diario
+
+El Sol
+
+El Mundo
+
+El Mundo
+
+El Tiempo
+
+El UniversalResults for "paper_generic_Spanish"
+Defined in module journalism.py
+Used in journalism.py
+
+El Tiempo
+
+El Diario
+
+El Universal
+
+El Tiempo
+
+El Sol
+
+El Diario
+
+El Tiempo
+
 El Universal
 
 El Diario
 
 El Sol
 
+El Mundo
+
+El Tiempo
+
+El Tiempo
+
 El Sol
 
 El Diario
@@ -19,3 +77,177 @@ El Diario
 El Sol
 
 El Diario
+
+El Tiempo
+
+El Diario
+
+El SolResults for "paper_generic_Spanish"
+Defined in module journalism.py
+Used in journalism.py
+
+El Universal
+
+El Sol
+
+El Universal
+
+El Sol
+
+El Universal
+
+El Mundo
+
+El Universal
+
+El Universal
+
+El Diario
+
+El Mundo
+
+El Universal
+
+El Tiempo
+
+El Tiempo
+
+El Tiempo
+
+El Sol
+
+El Diario
+
+El Sol
+
+El Universal
+
+El Sol
+
+El MundoResults for "paper_generic_Spanish"
+Defined in module journalism.py
+Used in journalism.py
+
+El Universal
+
+El Universal
+
+El Diario
+
+El Tiempo
+
+El Sol
+
+El Diario
+
+El Universal
+
+El Mundo
+
+El Diario
+
+El Sol
+
+El Tiempo
+
+El Sol
+
+El Tiempo
+
+El Mundo
+
+El Tiempo
+
+El Tiempo
+
+El Diario
+
+El Universal
+
+El Sol
+
+El DiarioResults for "paper_generic_Spanish"
+Defined in module journalism.py
+Used in journalism.py
+
+El Universal
+
+El Universal
+
+El Universal
+
+El Sol
+
+El Mundo
+
+El Diario
+
+El Mundo
+
+El Universal
+
+El Universal
+
+El Sol
+
+El Sol
+
+El Sol
+
+El Mundo
+
+El Universal
+
+El Mundo
+
+El Tiempo
+
+El Diario
+
+El Tiempo
+
+El Tiempo
+
+El SolResults for "paper_generic_Spanish"
+Defined in module journalism.py
+Used in journalism.py
+
+El Diario
+
+El Tiempo
+
+El Universal
+
+El Mundo
+
+El Tiempo
+
+El Diario
+
+El Sol
+
+El Diario
+
+El Diario
+
+El Sol
+
+El Universal
+
+El Sol
+
+El Diario
+
+El Diario
+
+El Sol
+
+El Sol
+
+El Universal
+
+El Diario
+
+El Diario
+
+El Sol

@@ -1,4 +1,12 @@
+Results for "p_news_name"
+Defined in module corporate.py
+Used in internet.py
 
+Info
+
+Vision
+
+Data
 
 Data
 
@@ -6,11 +14,7 @@ Info
 
 Vision
 
-Vision
-
-Info
-
-News
+Data
 
 Info
 
@@ -19,3 +23,231 @@ News
 Vision
 
 News
+
+News
+
+Vision
+
+News
+
+Vision
+
+Info
+
+News
+
+Data
+
+Info
+
+VisionResults for "p_news_name"
+Defined in module corporate.py
+Used in internet.py
+
+Data
+
+Info
+
+News
+
+Data
+
+Vision
+
+Info
+
+News
+
+News
+
+Data
+
+Data
+
+Vision
+
+Info
+
+Data
+
+Vision
+
+Data
+
+Vision
+
+Vision
+
+Info
+
+Data
+
+DataResults for "p_news_name"
+Defined in module corporate.py
+Used in internet.py
+
+Info
+
+Data
+
+Data
+
+Info
+
+Vision
+
+Data
+
+News
+
+Info
+
+Data
+
+Vision
+
+Info
+
+Vision
+
+News
+
+Info
+
+Data
+
+Vision
+
+Vision
+
+Data
+
+Info
+
+NewsResults for "p_news_name"
+Defined in module corporate.py
+Used in internet.py
+
+Data
+
+Data
+
+Vision
+
+Info
+
+Info
+
+Info
+
+Vision
+
+Info
+
+Info
+
+Info
+
+News
+
+News
+
+Info
+
+News
+
+Data
+
+Data
+
+Data
+
+Vision
+
+Vision
+
+VisionResults for "p_news_name"
+Defined in module corporate.py
+Used in internet.py
+
+Data
+
+News
+
+Info
+
+News
+
+Vision
+
+Info
+
+Data
+
+Vision
+
+Vision
+
+Data
+
+Vision
+
+Data
+
+Info
+
+Data
+
+Vision
+
+Vision
+
+Data
+
+Data
+
+Data
+
+NewsResults for "p_news_name"
+Defined in module corporate.py
+Used in internet.py
+
+Data
+
+News
+
+Vision
+
+Data
+
+Data
+
+News
+
+Data
+
+Data
+
+Info
+
+Info
+
+News
+
+Vision
+
+Info
+
+Info
+
+Info
+
+Vision
+
+News
+
+Info
+
+Info
+
+Info

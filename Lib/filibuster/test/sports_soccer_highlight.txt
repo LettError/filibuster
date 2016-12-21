@@ -1,21 +1,253 @@
+Results for "sports_soccer_highlight"
+Defined in module sports.py
+Used in sports.py
 
+announced it acquired Gagnon from for 30 million.
 
-Mitchell scored his 6th goal this season after a great assist by Jønne. Jønne recently joined the team after a transfer from Luik.
+Gomez scored his 4th goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from Borussia.
 
-Lee left the match after 16 minutes after injuring his knee.
+Kohayo scored his 1st goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from Manchester United.
 
-Von doof left the match after 39 minutes after injuring his knee.
+Jackson left the match after 23 minutes after injuring his knee.
 
-Jønne left the match after 13 minutes after injuring his knee.
+The 2nd minute into the second half Françoise was given yellow by referee Schoffenteich, his second one this season.
 
-announced it acquired Pierre from for 14 million.
+The 7th minute into the second half Lloyd was given yellow by referee Kaye, his second one this season.
 
-The 7th minute into the second half Martin was given yellow by referee Bäckingerberg, his second one this season.
+Clark left the match after 29 minutes after injuring his knee.
 
-Lee left the match after 12 minutes after injuring his knee.
+Jean scored his 1st goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from PSV.
 
-The 5th minute into the second half Mason was given yellow by referee Fischerlerfeltlerkopf, his second one this season.
+The 6th minute into the second half Jeanne was given yellow by referee Lee, his second one this season.
 
-The 4th minute into the second half Marinski was given yellow by referee Sasohomi, his second one this season.
+McMillen scored his 7th goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from Manchester United.
 
-Stormby scored his 6th goal this season after a great assist by Jønne. Jønne recently joined the team after a transfer from Leeds.
+Duvall left the match after 25 minutes after injuring his knee.
+
+announced it acquired Ramírez from for 7 million.
+
+The 7th minute into the second half Pagréwski was given yellow by referee Fischmund, his second one this season.
+
+Françoise left the match after 15 minutes after injuring his knee.
+
+announced it acquired Bennett from for 28 million.
+
+Mitchell scored his 4th goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from Juventus.
+
+The 9th minute into the second half Miyusan was given yellow by referee Young, his second one this season.
+
+announced it acquired Sanyobima from for 26 million.
+
+Baker left the match after 10 minutes after injuring his knee.
+
+The 9th minute into the second half Marsh was given yellow by referee Jeanne, his second one this season.Results for "sports_soccer_highlight"
+Defined in module sports.py
+Used in sports.py
+
+Williams left the match after 14 minutes after injuring his knee.
+
+Jean scored his 2nd goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Argentina.
+
+announced it acquired Marlowe from for 3 million.
+
+announced it acquired Mitahi from for 17 million.
+
+Miller left the match after 29 minutes after injuring his knee.
+
+Janssen left the match after 25 minutes after injuring his knee.
+
+Taylor scored his 4th goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Dynamo.
+
+announced it acquired Yotsuho from for 21 million.
+
+Schreckerheim scored his 8th goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Ajax.
+
+The 3rd minute into the second half Stormby was given yellow by referee Susotsuki, his second one this season.
+
+Morris left the match after 34 minutes after injuring his knee.
+
+Baker left the match after 42 minutes after injuring his knee.
+
+The 7th minute into the second half François was given yellow by referee Abbott, his second one this season.
+
+announced it acquired Lee from for 21 million.
+
+Jean scored his 2nd goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Borussia.
+
+The 2nd minute into the second half Harvey was given yellow by referee Sonhatsi, his second one this season.
+
+The 3rd minute into the second half Anderson was given yellow by referee White, his second one this season.
+
+Zóchi scored his 1st goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Germany.
+
+The 5th minute into the second half Richards was given yellow by referee François, his second one this season.
+
+The 3rd minute into the second half Gomez was given yellow by referee Ditz, his second one this season.Results for "sports_soccer_highlight"
+Defined in module sports.py
+Used in sports.py
+
+The 6th minute into the second half Suarez was given yellow by referee Reyes, his second one this season.
+
+announced it acquired Adams from for 25 million.
+
+Jean left the match after 13 minutes after injuring his knee.
+
+The 6th minute into the second half Françoise was given yellow by referee Pierre, his second one this season.
+
+The 5th minute into the second half Heimerleland was given yellow by referee Markentalerburg, his second one this season.
+
+Schliehand scored his 7th goal this season after a great assist by Chan. Chan recently joined the team after a transfer from Holland.
+
+Matthews left the match after 33 minutes after injuring his knee.
+
+Pierre scored his 9th goal this season after a great assist by Chan. Chan recently joined the team after a transfer from Leeds.
+
+announced it acquired Keaney from for 28 million.
+
+Anderson left the match after 4 minutes after injuring his knee.
+
+announced it acquired Schneider from for 26 million.
+
+announced it acquired Stormby from for 15 million.
+
+announced it acquired Jean from for 26 million.
+
+Webb left the match after 26 minutes after injuring his knee.
+
+The 7th minute into the second half Ward was given yellow by referee Rwandi, his second one this season.
+
+The 4th minute into the second half Jean was given yellow by referee Vazquez, his second one this season.
+
+Walker left the match after 34 minutes after injuring his knee.
+
+Sanshotsiyi left the match after 22 minutes after injuring his knee.
+
+Françoise left the match after 13 minutes after injuring his knee.
+
+Adams scored his 1st goal this season after a great assist by Chan. Chan recently joined the team after a transfer from Ajax.Results for "sports_soccer_highlight"
+Defined in module sports.py
+Used in sports.py
+
+announced it acquired Ward from for 16 million.
+
+White left the match after 3 minutes after injuring his knee.
+
+Marinski scored his 3rd goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from Luxembourg.
+
+announced it acquired Pwolley from for 30 million.
+
+announced it acquired Barker from for 28 million.
+
+Gray left the match after 11 minutes after injuring his knee.
+
+The 3rd minute into the second half Yasan was given yellow by referee Von heimermann, his second one this season.
+
+The 4th minute into the second half Thompson was given yellow by referee Philipe, his second one this season.
+
+The 7th minute into the second half Marshall was given yellow by referee Deppmund, his second one this season.
+
+The 3rd minute into the second half Bell was given yellow by referee Schorlenstadt, his second one this season.
+
+Hussain scored his 9th goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from Real Madrid.
+
+Pierre scored his 6th goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from Antwerpen.
+
+Thomas left the match after 17 minutes after injuring his knee.
+
+announced it acquired McNaville from for 25 million.
+
+announced it acquired Kobayashi from for 13 million.
+
+Young scored his 7th goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from Argentina.
+
+Patel left the match after 35 minutes after injuring his knee.
+
+Sánchez scored his 8th goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from ADO.
+
+Sonsansha scored his 9th goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from Brazil.
+
+Ortiz scored his 2nd goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from Latvia.Results for "sports_soccer_highlight"
+Defined in module sports.py
+Used in sports.py
+
+Tokanho scored his 7th goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Parma.
+
+The 8th minute into the second half Jeanne was given yellow by referee Matthews, his second one this season.
+
+The 5th minute into the second half Fisher was given yellow by referee Müllenmannauer, his second one this season.
+
+Smith scored his 2nd goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Holland.
+
+The 8th minute into the second half Bell was given yellow by referee Jean, his second one this season.
+
+announced it acquired Schanken from for 13 million.
+
+Jeanne scored his 7th goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Antwerpen.
+
+announced it acquired Hughes from for 18 million.
+
+Pagréwski left the match after 20 minutes after injuring his knee.
+
+Yoshi left the match after 37 minutes after injuring his knee.
+
+Françoise scored his 6th goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from PSV.
+
+Philipe scored his 1st goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Holland.
+
+The 5th minute into the second half Pierre was given yellow by referee Williams, his second one this season.
+
+Mitchell scored his 4th goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Feyenoord.
+
+Morris left the match after 24 minutes after injuring his knee.
+
+Martin scored his 5th goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Ajax.
+
+announced it acquired Martin from for 11 million.
+
+The 2nd minute into the second half Roberts was given yellow by referee Wilkinson, his second one this season.
+
+The 6th minute into the second half Françoise was given yellow by referee Mibiso, his second one this season.
+
+Von breiererstadterstrauss left the match after 44 minutes after injuring his knee.Results for "sports_soccer_highlight"
+Defined in module sports.py
+Used in sports.py
+
+announced it acquired Johnson from for 27 million.
+
+Campbell left the match after 37 minutes after injuring his knee.
+
+Suh scored his 9th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Manchester United.
+
+Mitota left the match after 17 minutes after injuring his knee.
+
+announced it acquired Schuhenfuss from for 23 million.
+
+announced it acquired Rutkowski from for 10 million.
+
+Schreinbein scored his 7th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Marshall Islands.
+
+announced it acquired Williams from for 19 million.
+
+Patel left the match after 27 minutes after injuring his knee.
+
+announced it acquired Jean from for 11 million.
+
+The 5th minute into the second half Reage was given yellow by referee Robinson, his second one this season.
+
+The 4th minute into the second half Shaw was given yellow by referee Michaelson, his second one this season.
+
+Singh left the match after 19 minutes after injuring his knee.
+
+announced it acquired Bell from for 19 million.
+
+announced it acquired Owen from for 16 million.
+
+announced it acquired Pagréwski from for 17 million.
+
+Suh scored his 7th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Manchester United.
+
+announced it acquired Depperheim from for 17 million.
+
+Knight scored his 8th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from ADO.
+
+Brown scored his 2nd goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Luik.

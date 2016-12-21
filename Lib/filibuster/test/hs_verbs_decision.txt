@@ -1,21 +1,253 @@
+Results for "hs_verbs_decision"
+Defined in module horoscope.py
+Used in horoscope.py
 
+ignore
 
-take pride in
+share
 
-be suspicious of
+share
 
-be suspicious of
-
-pay close attention to
+contemplate
 
 reevaluate
 
+reconsider
+
+share
+
+reflect on
+
+stand firm on
+
+share
+
 contemplate
+
+share
 
 pay close attention to
 
 ignore
 
+reflect on
+
+reflect on
+
+take pride in
+
 pay close attention to
 
+reevaluate
+
+contemplateResults for "hs_verbs_decision"
+Defined in module horoscope.py
+Used in horoscope.py
+
+reevaluate
+
+reevaluate
+
+ignore
+
+pay close attention to
+
+reconsider
+
+reconsider
+
+take pride in
+
+ignore
+
+take pride in
+
+contemplate
+
+reconsider
+
 share
+
+be suspicious of
+
+share
+
+take pride in
+
+share
+
+share
+
+take pride in
+
+reflect on
+
+reevaluateResults for "hs_verbs_decision"
+Defined in module horoscope.py
+Used in horoscope.py
+
+ignore
+
+reconsider
+
+stand firm on
+
+contemplate
+
+pay close attention to
+
+take pride in
+
+be suspicious of
+
+reflect on
+
+stand firm on
+
+be suspicious of
+
+pay close attention to
+
+ignore
+
+share
+
+ignore
+
+reflect on
+
+reevaluate
+
+take pride in
+
+ignore
+
+contemplate
+
+be suspicious ofResults for "hs_verbs_decision"
+Defined in module horoscope.py
+Used in horoscope.py
+
+ignore
+
+be suspicious of
+
+contemplate
+
+stand firm on
+
+contemplate
+
+reconsider
+
+pay close attention to
+
+stand firm on
+
+take pride in
+
+reevaluate
+
+be suspicious of
+
+reflect on
+
+reflect on
+
+stand firm on
+
+reconsider
+
+take pride in
+
+pay close attention to
+
+take pride in
+
+ignore
+
+take pride inResults for "hs_verbs_decision"
+Defined in module horoscope.py
+Used in horoscope.py
+
+ignore
+
+ignore
+
+ignore
+
+stand firm on
+
+share
+
+reflect on
+
+reflect on
+
+contemplate
+
+reconsider
+
+take pride in
+
+take pride in
+
+share
+
+contemplate
+
+reflect on
+
+contemplate
+
+stand firm on
+
+be suspicious of
+
+contemplate
+
+share
+
+be suspicious ofResults for "hs_verbs_decision"
+Defined in module horoscope.py
+Used in horoscope.py
+
+take pride in
+
+take pride in
+
+contemplate
+
+reconsider
+
+stand firm on
+
+be suspicious of
+
+reconsider
+
+reconsider
+
+ignore
+
+stand firm on
+
+contemplate
+
+be suspicious of
+
+ignore
+
+reevaluate
+
+reevaluate
+
+ignore
+
+ignore
+
+reevaluate
+
+share
+
+take pride in

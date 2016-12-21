@@ -1,21 +1,253 @@
-
+Results for "sports_victoryflavor"
+Defined in module sports.py
+Used in sports.py
 
 as expected
 
 surprisingly
 
-- get this -
+barely
+
+easily
+
+as expected
 
 - get this -
+
+as expected
+
+as expected
+
+- get this -
+
+surprisingly
+
+surprisingly
+
+barely
+
+barely
+
+easily
+
+as expected
+
+barely
+
+easily
+
+easily
+
+- get this -
+
+easilyResults for "sports_victoryflavor"
+Defined in module sports.py
+Used in sports.py
 
 easily
 
 barely
 
+easily
+
+- get this -
+
+- get this -
+
+easily
+
+easily
+
+easily
+
+- get this -
+
+surprisingly
+
 as expected
+
+barely
+
+barely
+
+barely
+
+barely
+
+easily
 
 easily
 
 as expected
 
+barely
+
+barelyResults for "sports_victoryflavor"
+Defined in module sports.py
+Used in sports.py
+
 surprisingly
+
+surprisingly
+
+as expected
+
+barely
+
+- get this -
+
+- get this -
+
+barely
+
+surprisingly
+
+- get this -
+
+as expected
+
+barely
+
+surprisingly
+
+barely
+
+easily
+
+surprisingly
+
+as expected
+
+as expected
+
+barely
+
+easily
+
+easilyResults for "sports_victoryflavor"
+Defined in module sports.py
+Used in sports.py
+
+easily
+
+surprisingly
+
+barely
+
+- get this -
+
+barely
+
+- get this -
+
+barely
+
+barely
+
+easily
+
+easily
+
+as expected
+
+- get this -
+
+barely
+
+surprisingly
+
+surprisingly
+
+easily
+
+surprisingly
+
+easily
+
+easily
+
+- get this -Results for "sports_victoryflavor"
+Defined in module sports.py
+Used in sports.py
+
+surprisingly
+
+barely
+
+barely
+
+as expected
+
+as expected
+
+- get this -
+
+- get this -
+
+barely
+
+as expected
+
+barely
+
+surprisingly
+
+- get this -
+
+as expected
+
+surprisingly
+
+- get this -
+
+- get this -
+
+easily
+
+easily
+
+surprisingly
+
+surprisinglyResults for "sports_victoryflavor"
+Defined in module sports.py
+Used in sports.py
+
+easily
+
+as expected
+
+easily
+
+surprisingly
+
+as expected
+
+easily
+
+surprisingly
+
+- get this -
+
+surprisingly
+
+easily
+
+- get this -
+
+barely
+
+easily
+
+easily
+
+easily
+
+surprisingly
+
+as expected
+
+barely
+
+barely
+
+barely

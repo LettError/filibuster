@@ -1,21 +1,253 @@
+Results for "jobs_jr_directors"
+Defined in module staff.py
+Used in staff.py
 
+Assistant Design Manager
 
-Technology Director
-
-Senior Production Director
-
-Production Director
-
-Production Director
-
-Marketing Director
+Assistant Technology Director
 
 Design Director
 
-Senior Production Director
+Design Director
 
-Art Director
+Deputy Creative Director
+
+Creative Director
+
+Sales Director
+
+Assistant Creative Manager
+
+Senior Design Manager
 
 Assistant Art Manager
 
+Deputy Technology Manager
+
+Assistant Creative Manager
+
+Assistant Sales Manager
+
+Technology Director
+
 Marketing Director
+
+Marketing Director
+
+Art Director
+
+Assistant Production Manager
+
+Junior Sales Manager
+
+Design DirectorResults for "jobs_jr_directors"
+Defined in module staff.py
+Used in staff.py
+
+Design Director
+
+Marketing Director
+
+Marketing Director
+
+Junior Design Director
+
+Marketing Director
+
+Marketing Director
+
+Assistant Art Director
+
+Production Director
+
+Technology Director
+
+Marketing Director
+
+Creative Director
+
+Executive Sales Manager
+
+Art Director
+
+Technology Director
+
+Executive Creative Director
+
+Associate Production Manager
+
+Deputy Technology Manager
+
+Design Director
+
+Sales Director
+
+Sales DirectorResults for "jobs_jr_directors"
+Defined in module staff.py
+Used in staff.py
+
+Technology Director
+
+Sales Director
+
+Sales Director
+
+Sales Director
+
+Assistant Technology Director
+
+Junior Technology Director
+
+Production Director
+
+Technology Director
+
+Senior Technology Director
+
+Design Director
+
+Executive Design Manager
+
+Assistant Design Director
+
+Senior Production Director
+
+Senior Marketing Director
+
+Associate Technology Director
+
+Art Director
+
+Deputy Creative Manager
+
+Executive Marketing Manager
+
+Design Director
+
+Creative DirectorResults for "jobs_jr_directors"
+Defined in module staff.py
+Used in staff.py
+
+Technology Director
+
+Junior Technology Director
+
+Sales Director
+
+Executive Art Manager
+
+Assistant Production Manager
+
+Associate Technology Director
+
+Senior Sales Director
+
+Design Director
+
+Executive Design Director
+
+Junior Creative Director
+
+Junior Technology Manager
+
+Senior Marketing Director
+
+Art Director
+
+Production Director
+
+Assistant Sales Manager
+
+Senior Technology Director
+
+Assistant Art Director
+
+Senior Design Director
+
+Senior Design Manager
+
+Executive Art ManagerResults for "jobs_jr_directors"
+Defined in module staff.py
+Used in staff.py
+
+Design Director
+
+Associate Sales Manager
+
+Assistant Creative Manager
+
+Senior Design Director
+
+Sales Director
+
+Creative Director
+
+Executive Design Manager
+
+Senior Art Director
+
+Production Director
+
+Technology Director
+
+Junior Production Manager
+
+Creative Director
+
+Junior Production Director
+
+Sales Director
+
+Creative Director
+
+Art Director
+
+Creative Director
+
+Associate Creative Director
+
+Sales Director
+
+Deputy Production DirectorResults for "jobs_jr_directors"
+Defined in module staff.py
+Used in staff.py
+
+Senior Art Director
+
+Art Director
+
+Art Director
+
+Technology Director
+
+Technology Director
+
+Creative Director
+
+Design Director
+
+Junior Technology Manager
+
+Assistant Production Director
+
+Deputy Design Director
+
+Associate Production Director
+
+Junior Technology Director
+
+Technology Director
+
+Design Director
+
+Associate Production Director
+
+Creative Director
+
+Design Director
+
+Junior Art Manager
+
+Creative Director
+
+Junior Marketing Manager

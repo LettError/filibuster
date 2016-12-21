@@ -1,21 +1,253 @@
+Results for "war_affiliatedtarget"
+Defined in module news.py
+Used in news.py
 
+troops
 
-shops
+TV crew
 
-embassy
+communications
+
+communications
+
+command post
+
+TV station
 
 pipelines
+
+ICMS dumps
+
+central committee
+
+spy satellite
+
+intelligence
 
 university
 
 drug couriers
 
+central committee
+
+university
+
+mass graves
+
+territory
+
+factories
+
+TV crew
+
+embassyResults for "war_affiliatedtarget"
+Defined in module news.py
+Used in news.py
+
+safe areas
+
 communications
+
+elections
+
+shops
+
+TV crew
+
+troop pull-out
+
+communications
+
+intelligence
+
+intelligence
+
+territory
+
+nuclear ICMS dumps
+
+intelligence
+
+laserguided rocket dumps
+
+elections
+
+safe areas
+
+communications
+
+command post
+
+factories
+
+elections
+
+communicationsResults for "war_affiliatedtarget"
+Defined in module news.py
+Used in news.py
+
+mass graves
+
+oil
+
+safe areas
+
+nuclear facilities
+
+troop pull-out
+
+mass graves
+
+central committee
+
+pipelines
+
+central committee
+
+elections
+
+university
+
+troops
+
+capital
+
+TV crew
+
+nuclear facilities
+
+TV crew
+
+factories
+
+refugees
+
+pipelines
+
+intelligenceResults for "war_affiliatedtarget"
+Defined in module news.py
+Used in news.py
+
+refugees
+
+TV crew
+
+central committee
+
+nuclear facilities
+
+mass graves
+
+refugees
+
+troop pull-out
+
+mass graves
+
+university
+
+communications
+
+pipelines
+
+pipelines
+
+primitive bomb dumps
+
+nuclear facilities
+
+TV crew
+
+central committee
+
+factories
+
+pipelines
+
+mass graves
+
+oilResults for "war_affiliatedtarget"
+Defined in module news.py
+Used in news.py
+
+troops
+
+pipelines
+
+communications
+
+troop pull-out
+
+pipelines
 
 spy satellite
 
+troop pull-out
+
+command post
+
+nuclear facilities
+
+embassy
+
+university
+
+territory
+
+factories
+
 refineries
 
-TV station
+shops
+
+oil
+
+refineries
+
+drug couriers
+
+pipelines
+
+drug couriersResults for "war_affiliatedtarget"
+Defined in module news.py
+Used in news.py
+
+booby-trap dumps
+
+elections
+
+territory
+
+troop pull-out
+
+intelligence
+
+mass graves
+
+capital
+
+refineries
+
+territory
+
+troops
+
+nuclear missile transports
+
+biological missile transports
+
+embassy
+
+elections
 
 communications
+
+communications
+
+elections
+
+factories
+
+embassy
+
+TV station

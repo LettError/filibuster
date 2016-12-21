@@ -1,4 +1,56 @@
+Results for "politics_section"
+Defined in module politics.py
 
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Election
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Election
+
+The White House
+
+Election
+
+The White House
+
+Politics
+
+Politics
+
+Politics
+
+Election
+
+Politics
+
+PoliticsResults for "politics_section"
+Defined in module politics.py
+
+Politics
+
+Politics
+
+Politics
+
+The White House
+
+Politics
 
 Politics
 
@@ -14,8 +66,182 @@ Politics
 
 Politics
 
+Politics
+
+The White House
+
 Election
 
 Politics
 
 Politics
+
+Politics
+
+Politics
+
+The White HouseResults for "politics_section"
+Defined in module politics.py
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Election
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Election
+
+Politics
+
+PoliticsResults for "politics_section"
+Defined in module politics.py
+
+Politics
+
+Politics
+
+Politics
+
+Election
+
+Election
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+The White House
+
+The White House
+
+Politics
+
+Politics
+
+Election
+
+Politics
+
+Election
+
+Politics
+
+Politics
+
+PoliticsResults for "politics_section"
+Defined in module politics.py
+
+Politics
+
+Election
+
+Politics
+
+Election
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+The White House
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+PoliticsResults for "politics_section"
+Defined in module politics.py
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+The White House
+
+Politics
+
+Politics
+
+Politics
+
+The White House
+
+Politics
+
+Politics
+
+Politics
+
+Politics
+
+Election
+
+Election
+
+Politics
+
+Politics
+
+Election

@@ -1,21 +1,253 @@
+Results for "p_cc_flavor"
+Defined in module creditcard.py
+Used in creditcard.py
 
+Fina
 
-Reli
+HK
 
-Noble
+Bi
 
-E
+Bi
 
-Friendly
+Tatsubi
 
-Twin
+Mondo
+
+Debt
+
+Access
+
+Polite
+
+Polite
+
+Toshito
+
+Over
+
+Fina
+
+Petroli
+
+YVF
 
 Euro
 
+Twin
+
+Inter
+
+Mondo
+
+NiceResults for "p_cc_flavor"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Petro
+
+Exi
+
+Friendly
+
+Gold
+
+Spiri
+
+Access
+
+Sakikotsi
+
+Super
+
+Pure
+
+Hyper
+
+Euro
+
+US
+
+Major
+
+Pure
+
+Trio
+
+Minto
+
 Media
+
+Courtesy
+
+Minor
+
+ExoResults for "p_cc_flavor"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Petroli
+
+Sterling
+
+Chem
+
+Holy
+
+Fast
+
+Member
+
+Bi
 
 Gas
 
-Diner
+US
+
+Fast
+
+Specu
+
+Petroli
+
+Media
+
+Member
+
+God
+
+Family
+
+Duo
+
+Polite
 
 Quatro
+
+DinerResults for "p_cc_flavor"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Pure
+
+Major
+
+Digi
+
+Change
+
+Diner
+
+Hyper
+
+Live
+
+E
+
+Net
+
+Member
+
+Change
+
+Kash
+
+PalladiumDollar
+
+Chemi
+
+Holy
+
+Trio
+
+Hyper
+
+Exi
+
+Terminal
+
+TriResults for "p_cc_flavor"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Petro
+
+Kototsu
+
+Store
+
+Kobi
+
+Debt
+
+Diner
+
+Exo
+
+Market
+
+Friendli
+
+Direct
+
+Nice
+
+Sterling
+
+Sterling
+
+Super
+
+Exo
+
+Minto
+
+Tri
+
+Exo
+
+Petroli
+
+MondoResults for "p_cc_flavor"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Petroli
+
+DQ
+
+Pin
+
+Plasti
+
+Tikoti
+
+Fast
+
+Gas
+
+Courtesy
+
+God
+
+Diner
+
+Fina
+
+Asia
+
+Pin
+
+Media
+
+Tobanmishi
+
+Super
+
+Bi
+
+US
+
+Kash
+
+Yosobanma

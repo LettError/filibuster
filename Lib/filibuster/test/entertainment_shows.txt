@@ -1,21 +1,253 @@
+Results for "entertainment_shows"
+Defined in module entertainment.py
+Used in entertainment.py
 
-
-Martin Murphy Recital
-
-Walter López plays Jazz
-
-The Diary of Craig Rogers
-
-Maarten Wilson in Concert
+Atlanta!
 
 Words of War
 
-Andrea Martin Night Live
+Craig Harrison, Jr. Tonight
 
-The Carl Morris Late Show
+Tyler Eberenberg plays Jazz
 
-The Erik Jacques Show
+Andrea Kayishoha plays Jazz
 
-Michigan Boys
+The Emily Harvey Show
 
-Susan Murray, Jr. in Concert
+Words of War
+
+Utah Boys
+
+Isabel Schuherle Recital
+
+George Bauermund Recital
+
+Japanese State Ballet
+
+Nigel Feldman Night Live
+
+The Color Magenta
+
+Nashville – The Musical
+
+Marcus Tremblay in New York Concert Hall
+
+Tyler Macktropf Tonight
+
+Japanese State Ballet
+
+Paul Cook in Concert
+
+Kentucky Boys
+
+Connie Tisho TonightResults for "entertainment_shows"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Charles Kohiko hits Broadway
+
+Ohio Boys
+
+The Walter Carter Show
+
+Laura Lee Night Live
+
+V. Miles Phillips Immortal
+
+The Diary of Madeleine Meyerson
+
+Elizabeth W. Mitchell hits Broadway
+
+The Bill Françoise Show
+
+Minnesota Boys
+
+Bethany Côté Night Live
+
+Erik Rutkowski plays Jazz
+
+Victor Totoho in Tokyo Concert Hall
+
+The Bridget Scheufentropp Late Show
+
+Oregon Boys
+
+Ross P. Tito Immortal
+
+Japanese State Ballet
+
+Maarten D. Françoise Night Live
+
+Erik Chapman plays Jazz
+
+Sasha Wilson Tonight
+
+Atlanta – The MusicalResults for "entertainment_shows"
+Defined in module entertainment.py
+Used in entertainment.py
+
+The Diary of James R. Handersjen
+
+Petra Heimauerfuss Recital
+
+Isabel Palmer Night Live
+
+The Josie Zóchi Show
+
+Arkansas Boys
+
+The Color Red
+
+Dallas – The Musical
+
+The Ross Bell Late Show
+
+The Color Black
+
+Ian Suh in Concert
+
+Martin Rodríguez hits Broadway
+
+San Jose – The Musical
+
+Rosemary Timoshatsu in Stockholm Concert Hall
+
+Words of War
+
+Words of War
+
+Words of War
+
+The Connie Gagnon Show
+
+Miles R. Schulerteich Recital
+
+Baltimore!
+
+Los Angeles!Results for "entertainment_shows"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Emily Wilkinson IV plays Jazz
+
+Scott Martin Tonight
+
+Jeremy François Night Live
+
+Siobhan Walker-Matsuti in Concert
+
+Zoe Philipe in Concert
+
+Emily Bauererler in Concert
+
+Daphne F. Philipe in Stockholm Concert Hall
+
+Theresa Richardson plays Jazz
+
+Daphne Mauerdorf in Concert
+
+Nan Jean, Jr. Recital
+
+The Eloise Baker Show
+
+Colorado Boys
+
+Words of War
+
+Mary McNaville hits Broadway
+
+The Theresa Lee Late Show
+
+Anna Gagnon Tonight
+
+Denver – The Musical
+
+Russian State Ballet
+
+New Hampshire Boys
+
+Theresa Jeanne in Sao Paolo Concert HallResults for "entertainment_shows"
+Defined in module entertainment.py
+Used in entertainment.py
+
+The Color Cyan
+
+Japanese State Ballet
+
+Arab State Ballet
+
+Isabel J. François in Concert
+
+The Carmen Soto Show
+
+Carmen Schwankelenbein-Reage Tonight
+
+Josie Dooftal in Sao Paolo Theater
+
+F. Petr Wynn Immortal
+
+Words of War
+
+Victor Murray Night Live
+
+Tomasso Schlieerhof plays Jazz
+
+Irwin Bell Tonight
+
+The Ingeborg Chan Show
+
+The Diary of Anna Sánchez
+
+Liz Harrison Tonight
+
+Kate Begum-Lee Immortal
+
+Alaska Boys
+
+Claudia Muñoz-García Immortal
+
+American State Ballet
+
+Philadelphia – The MusicalResults for "entertainment_shows"
+Defined in module entertainment.py
+Used in entertainment.py
+
+The Siobhan Reage Show
+
+Laura Ditzmann hits Broadway
+
+The Diary of Dara Von schweinertalauer
+
+Bethany Ellis in London Concert Hall
+
+Philip Williams in Tokyo Theater
+
+Words of War
+
+W. Bob François in Den Haag Concert Hall
+
+The Diary of Nan Titsi
+
+The Torben Pierre Show
+
+Memphis!
+
+Canadian State Ballet
+
+Canadian State Ballet
+
+Nashville!
+
+Leigh Hochtropp Night Live
+
+Erik Rutkowski in Concert
+
+Dara Martin in Tokyo Concert Hall
+
+Arch Richardson in Concert
+
+Erin Lee hits Broadway
+
+Courtney Patel plays Jazz
+
+Arab State Ballet

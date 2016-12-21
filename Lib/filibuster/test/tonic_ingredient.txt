@@ -1,4 +1,150 @@
+Results for "tonic_ingredient"
+Defined in module medical.py
+Used in medical.py
 
+Liver
+
+Sea-Weed
+
+Sea-Weed
+
+Liver
+
+Vegetable
+
+Vegetable
+
+Marrow
+
+Vegetable
+
+Bile
+
+Liver
+
+Sea-Weed
+
+Vegetable
+
+Bile
+
+Bile
+
+Marrow
+
+Liver
+
+Marrow
+
+Marrow
+
+Bile
+
+VegetableResults for "tonic_ingredient"
+Defined in module medical.py
+Used in medical.py
+
+Sea-Weed
+
+Vegetable
+
+Marrow
+
+Marrow
+
+Bile
+
+Bile
+
+Liver
+
+Sea-Weed
+
+Marrow
+
+Vegetable
+
+Vegetable
+
+Marrow
+
+Marrow
+
+Sea-Weed
+
+Marrow
+
+Sea-Weed
+
+Liver
+
+Vegetable
+
+Bile
+
+MarrowResults for "tonic_ingredient"
+Defined in module medical.py
+Used in medical.py
+
+Vegetable
+
+Bile
+
+Liver
+
+Marrow
+
+Bile
+
+Sea-Weed
+
+Marrow
+
+Liver
+
+Bile
+
+Bile
+
+Bile
+
+Marrow
+
+Vegetable
+
+Vegetable
+
+Vegetable
+
+Bile
+
+Marrow
+
+Sea-Weed
+
+Vegetable
+
+LiverResults for "tonic_ingredient"
+Defined in module medical.py
+Used in medical.py
+
+Vegetable
+
+Vegetable
+
+Bile
+
+Sea-Weed
+
+Bile
+
+Marrow
+
+Vegetable
+
+Liver
+
+Sea-Weed
 
 Liver
 
@@ -8,14 +154,100 @@ Marrow
 
 Bile
 
-Liver
-
-Bile
-
-Bile
-
-Bile
+Sea-Weed
 
 Sea-Weed
 
 Liver
+
+Bile
+
+Marrow
+
+Liver
+
+VegetableResults for "tonic_ingredient"
+Defined in module medical.py
+Used in medical.py
+
+Liver
+
+Vegetable
+
+Marrow
+
+Liver
+
+Bile
+
+Bile
+
+Bile
+
+Vegetable
+
+Vegetable
+
+Vegetable
+
+Marrow
+
+Marrow
+
+Sea-Weed
+
+Bile
+
+Vegetable
+
+Bile
+
+Marrow
+
+Liver
+
+Sea-Weed
+
+Sea-WeedResults for "tonic_ingredient"
+Defined in module medical.py
+Used in medical.py
+
+Sea-Weed
+
+Bile
+
+Vegetable
+
+Bile
+
+Bile
+
+Vegetable
+
+Liver
+
+Vegetable
+
+Sea-Weed
+
+Vegetable
+
+Vegetable
+
+Vegetable
+
+Sea-Weed
+
+Marrow
+
+Bile
+
+Marrow
+
+Liver
+
+Sea-Weed
+
+Liver
+
+Vegetable

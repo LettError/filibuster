@@ -1,21 +1,253 @@
+Results for "war_groups"
+Defined in module news.py
+Used in news.py
 
+PSV hooligans
 
-Secret Service officials
+Union workers
 
-Croat hooligans
+DEA officers
 
-Treasury agents
+Union workers
 
-DEA officials
+Ajax hooligans
 
 NRA members
 
+NSA officials
+
+Union workers
+
+Malawi hooligans
+
+Union workers
+
+Basques, ETA
+
+Union workers
+
+FBI agents
+
+NRA members
+
+Cultmembers
+
+Cultmembers
+
+Treasury agents
+
+Union workers
+
+Basques, ETA
+
+Federal Bureau of Heroin, Marijuana and Marijuana officersResults for "war_groups"
+Defined in module news.py
+Used in news.py
+
+Union workers
+
+Basques, ETA
+
+CIA officials
+
+NRA members
+
+Basques, ETA
+
+Secret Service agents
+
 Tamil Tigers
+
+Basques, ETA
+
+Swedish separatists
+
+FBI officials
+
+Cultmembers
+
+Cultmembers
+
+NSA officials
+
+Secret Service officers
+
+CIA officials
+
+Portugese separatists
+
+Tamil Tigers
+
+Croat separatists
+
+Tamil Tigers
+
+Brazil hooligansResults for "war_groups"
+Defined in module news.py
+Used in news.py
+
+Cultmembers
 
 Germany hooligans
 
-Leeds hooligans
+Tamil Tigers
 
-Serb hooligans
+Cultmembers
+
+Cultmembers
+
+Croat separatists
+
+Dutch separatists
+
+DEA officers
+
+Russian hooligans
+
+Secret Service agents
+
+Basques, ETA
+
+Union workers
 
 ADO hooligans
+
+Tamil Tigers
+
+Treasury officers
+
+NRA members
+
+Feyenoord hooligans
+
+Cultmembers
+
+Leeds hooligans
+
+Secret Service officersResults for "war_groups"
+Defined in module news.py
+Used in news.py
+
+NRA members
+
+Basques, ETA
+
+NRA members
+
+Finnish separatists
+
+ADO hooligans
+
+NRA members
+
+Danish hooligans
+
+Portugese separatists
+
+NSA agents
+
+Tamil Tigers
+
+Tamil Tigers
+
+Swiss hooligans
+
+Tamil Tigers
+
+NRA members
+
+Manchester United hooligans
+
+Union workers
+
+DEA officers
+
+Danish hooligans
+
+Tamil Tigers
+
+Tamil TigersResults for "war_groups"
+Defined in module news.py
+Used in news.py
+
+Treasury officials
+
+NRA members
+
+Maltesian hooligans
+
+Treasury agents
+
+Union workers
+
+German separatists
+
+Turkish hooligans
+
+Austrian separatists
+
+NSA officials
+
+Dutch separatists
+
+Tamil Tigers
+
+Basques, ETA
+
+Treasury officers
+
+DEA officials
+
+NSA officials
+
+Cultmembers
+
+Federal Bureau of Drugs, Heroin and Heroin officials
+
+CIA officers
+
+Swedish separatists
+
+CultmembersResults for "war_groups"
+Defined in module news.py
+Used in news.py
+
+Tamil Tigers
+
+Juventus hooligans
+
+Italian separatists
+
+Parma hooligans
+
+Basques, ETA
+
+Cultmembers
+
+Borussia hooligans
+
+Tamil Tigers
+
+Cultmembers
+
+Maltesian hooligans
+
+Dynamo hooligans
+
+Union workers
+
+Federal Bureau of Cocaine, Cocaine and Scissors agents
+
+French hooligans
+
+Serb separatists
+
+NSA officials
+
+Spanish separatists
+
+Cultmembers
+
+NRA members
+
+PSV hooligans

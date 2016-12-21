@@ -1,4 +1,50 @@
+Results for "car_brand_loyalty"
+Defined in module automotive.py
 
+Freaky Ford
+
+Heavy Chevy
+
+Heavy Chevy
+
+Studly Stude
+
+Heavy Chevy
+
+Purrin Pontiac
+
+Heavy Chevy
+
+Heavy Chevy
+
+Mopar Machine
+
+Studly Stude
+
+Freaky Ford
+
+Studly Stude
+
+Heavy Chevy
+
+Heavy Chevy
+
+Studly Stude
+
+Mopar Machine
+
+Heavy Chevy
+
+Purrin Pontiac
+
+Mopar Machine
+
+Purrin PontiacResults for "car_brand_loyalty"
+Defined in module automotive.py
+
+Freaky Ford
+
+Freaky Ford
 
 Mopar Machine
 
@@ -10,12 +56,192 @@ Freaky Ford
 
 Studly Stude
 
+Studly Stude
+
+Purrin Pontiac
+
+Mopar Machine
+
+Mopar Machine
+
+Mopar Machine
+
+Studly Stude
+
+Mopar Machine
+
+Heavy Chevy
+
+Mopar Machine
+
+Purrin Pontiac
+
+Purrin Pontiac
+
+Purrin Pontiac
+
+Mopar MachineResults for "car_brand_loyalty"
+Defined in module automotive.py
+
+Heavy Chevy
+
 Mopar Machine
 
 Studly Stude
 
 Freaky Ford
 
+Freaky Ford
+
+Heavy Chevy
+
+Mopar Machine
+
+Studly Stude
+
+Heavy Chevy
+
+Purrin Pontiac
+
+Heavy Chevy
+
+Mopar Machine
+
+Purrin Pontiac
+
+Mopar Machine
+
+Freaky Ford
+
+Mopar Machine
+
+Purrin Pontiac
+
+Heavy Chevy
+
+Freaky Ford
+
+Studly StudeResults for "car_brand_loyalty"
+Defined in module automotive.py
+
+Freaky Ford
+
+Purrin Pontiac
+
+Heavy Chevy
+
+Studly Stude
+
+Purrin Pontiac
+
+Studly Stude
+
+Heavy Chevy
+
+Purrin Pontiac
+
+Heavy Chevy
+
+Mopar Machine
+
+Studly Stude
+
+Freaky Ford
+
+Studly Stude
+
+Heavy Chevy
+
+Freaky Ford
+
+Heavy Chevy
+
+Mopar Machine
+
+Freaky Ford
+
+Studly Stude
+
+Mopar MachineResults for "car_brand_loyalty"
+Defined in module automotive.py
+
+Studly Stude
+
+Purrin Pontiac
+
+Studly Stude
+
 Purrin Pontiac
 
 Purrin Pontiac
+
+Studly Stude
+
+Purrin Pontiac
+
+Purrin Pontiac
+
+Studly Stude
+
+Studly Stude
+
+Freaky Ford
+
+Freaky Ford
+
+Freaky Ford
+
+Studly Stude
+
+Freaky Ford
+
+Studly Stude
+
+Studly Stude
+
+Freaky Ford
+
+Mopar Machine
+
+Purrin PontiacResults for "car_brand_loyalty"
+Defined in module automotive.py
+
+Heavy Chevy
+
+Heavy Chevy
+
+Mopar Machine
+
+Studly Stude
+
+Heavy Chevy
+
+Purrin Pontiac
+
+Purrin Pontiac
+
+Freaky Ford
+
+Studly Stude
+
+Studly Stude
+
+Studly Stude
+
+Heavy Chevy
+
+Mopar Machine
+
+Studly Stude
+
+Heavy Chevy
+
+Mopar Machine
+
+Freaky Ford
+
+Purrin Pontiac
+
+Studly Stude
+
+Heavy Chevy

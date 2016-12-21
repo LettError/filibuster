@@ -1,4 +1,24 @@
+Results for "sportsverb_wins_pl"
+Defined in module sports.py
+Used in sports.py
 
+demolishes
+
+trounces
+
+trounces
+
+shuts out
+
+demolishes
+
+over
+
+demolishes
+
+beats
+
+beats
 
 takes
 
@@ -6,16 +26,228 @@ trounces
 
 beats
 
+blanks
+
+over
+
+blitzes
+
+takes
+
+over
+
+trounces
+
+takes
+
+beatsResults for "sportsverb_wins_pl"
+Defined in module sports.py
+Used in sports.py
+
+over
+
+takes
+
+trounces
+
+takes
+
 shuts out
+
+blanks
+
+beats
+
+trounces
+
+takes
+
+trounces
+
+blitzes
+
+takes
+
+over
+
+over
+
+blanks
+
+shuts out
+
+takes
+
+shuts out
+
+shuts out
+
+beatsResults for "sportsverb_wins_pl"
+Defined in module sports.py
+Used in sports.py
+
+beats
+
+demolishes
+
+shuts out
+
+trounces
+
+over
+
+takes
+
+trounces
+
+trounces
+
+blitzes
+
+shuts out
+
+trounces
+
+trounces
+
+demolishes
 
 beats
 
 blitzes
 
-shuts out
+over
+
+over
+
+trounces
+
+demolishes
+
+beatsResults for "sportsverb_wins_pl"
+Defined in module sports.py
+Used in sports.py
+
+demolishes
+
+blanks
+
+takes
 
 beats
 
 blanks
 
+over
+
+demolishes
+
+blanks
+
+trounces
+
+beats
+
 blitzes
+
+beats
+
+blitzes
+
+beats
+
+shuts out
+
+takes
+
+over
+
+beats
+
+over
+
+demolishesResults for "sportsverb_wins_pl"
+Defined in module sports.py
+Used in sports.py
+
+trounces
+
+over
+
+shuts out
+
+trounces
+
+over
+
+trounces
+
+demolishes
+
+trounces
+
+demolishes
+
+blanks
+
+shuts out
+
+beats
+
+blitzes
+
+over
+
+over
+
+over
+
+blanks
+
+takes
+
+trounces
+
+shuts outResults for "sportsverb_wins_pl"
+Defined in module sports.py
+Used in sports.py
+
+trounces
+
+blitzes
+
+takes
+
+blanks
+
+demolishes
+
+shuts out
+
+over
+
+over
+
+demolishes
+
+blanks
+
+takes
+
+beats
+
+blanks
+
+beats
+
+blitzes
+
+blanks
+
+demolishes
+
+blitzes
+
+shuts out
+
+takes

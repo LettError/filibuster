@@ -1,14 +1,110 @@
+Results for "sports_record"
+Defined in module sports.py
+Used in sports.py
 
+second
 
-3rd
+2nd
+
+Silver
 
 Bronze
 
 1st
 
+first
+
+1st
+
+first
+
+second
+
+1st
+
+Gold
+
+WR
+
+3rd
+
+third
+
+first
+
+Bronze
+
+Gold
+
+Bronze
+
+3rd
+
+secondResults for "sports_record"
+Defined in module sports.py
+Used in sports.py
+
+3rd
+
+second
+
+Bronze
+
+Bronze
+
+Gold
+
+first
+
+Gold
+
+Gold
+
+3rd
+
+first
+
 1st
 
 1st
+
+third
+
+2nd
+
+Bronze
+
+Bronze
+
+1st
+
+Bronze
+
+Silver
+
+1stResults for "sports_record"
+Defined in module sports.py
+Used in sports.py
+
+second
+
+1st
+
+Gold
+
+WR
+
+third
+
+1st
+
+first
+
+third
+
+2nd
+
+2nd
 
 first
 
@@ -16,6 +112,142 @@ first
 
 third
 
+Gold
+
+3rd
+
+third
+
+Silver
+
+2nd
+
+1st
+
+1stResults for "sports_record"
+Defined in module sports.py
+Used in sports.py
+
+first
+
+first
+
+WR
+
+first
+
+Silver
+
+WR
+
+1st
+
+3rd
+
+first
+
+Silver
+
+Gold
+
+Bronze
+
+first
+
 WR
 
 3rd
+
+Silver
+
+WR
+
+Bronze
+
+3rd
+
+SilverResults for "sports_record"
+Defined in module sports.py
+Used in sports.py
+
+third
+
+2nd
+
+third
+
+1st
+
+Gold
+
+1st
+
+1st
+
+Silver
+
+Gold
+
+second
+
+third
+
+Bronze
+
+second
+
+second
+
+1st
+
+Silver
+
+Silver
+
+Gold
+
+second
+
+SilverResults for "sports_record"
+Defined in module sports.py
+Used in sports.py
+
+Bronze
+
+WR
+
+2nd
+
+second
+
+third
+
+Gold
+
+2nd
+
+Silver
+
+first
+
+Bronze
+
+second
+
+first
+
+Bronze
+
+WR
+
+first
+
+1st
+
+Gold
+
+2nd
+
+first
+
+first

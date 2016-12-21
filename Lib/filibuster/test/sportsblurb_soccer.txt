@@ -1,21 +1,253 @@
+Results for "sportsblurb_soccer"
+Defined in module sports.py
+Used in sports.py
 
+Review: Brazil and Barcelona for the IOFA PremierCompetition.<br>Tiertropf left the match after 43 minutes after injuring his knee. didn't too well in the IZFA CaldecottChampionship but the new players Vanderbeck and Rwandi are working miracles.
 
-Leeds played Real Madrid, 5-0, Frankfurt.<br> announced it acquired Jackson from for 17 million. didn't too well in the IOFA GoldChampionship but the new players Stromby and Young are working miracles.
+EFA HonorCup: Holland and Holland.<br>The 1st minute into the second half Tremblay was given yellow by referee Anderson, his second one this season. didn't too well in the TFA EuroChampionship but the new players Mahati and Lewis are working miracles.
 
-RFA WorldLeague: Juventus and Dynamo.<br>The 8th minute into the second half Turner was given yellow by referee Martin, his second one this season. is doing very well in the ChampionsCup.
+Germany played Borussia, 1-1, Maastricht.<br>The 5th minute into the second half Kashoshoho was given yellow by referee Taylor, his second one this season. is doing very well in the IRFA WorldChampionship.
 
-Review: Barcelona and Real Madrid for the ChampionsLeague.<br>Clark left the match after 4 minutes after injuring his knee. didn't too well in the IYFA GoldLeague but the new players Vilår and Françoise are working miracles.
+Feyenoord played Germany, 3-0, Rotterdam.<br> announced it acquired Phillips from for 19 million. didn't too well in the IKFA PremierCup but the new players Müllauerstadtenstadt and Campbell are working miracles.
 
-Barcelona - Argentina, 3-2.<br> announced it acquired Kaye from for 24 million. didn't too well in the WorldLeague but the new players Mayoyansha and Jeanne are working miracles.
+HonorLeague: Luik and Dynamo.<br>Clarke scored his 7th goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from PSV. didn't too well in the WorldLeague but the new players Suh and Pierre are working miracles.
 
-XFA ChampionsChampionship: Borussia and Luik.<br>Sunso left the match after 3 minutes after injuring his knee.
+Review: Germany and Luik for the SohikaCompetition.<br>The 3rd minute into the second half Schiffen was given yellow by referee Lloyd, his second one this season.
 
-Review: Brazil and Germany for the WorldChampionship.<br>Russell left the match after 37 minutes after injuring his knee.
+Review: PSV and Germany for the HonorCup.<br> announced it acquired Von tierermund from for 5 million. is doing very well in the EuroLeague.
 
-Holland vs. Brazil, 5-0.<br> announced it acquired Mitchell from for 8 million. didn't too well in the SunTronLeague but the new players Fitzpatrick and Torres are working miracles.
+Manchester United played PSV, 3-1, Bologna.<br>Scheschler left the match after 36 minutes after injuring his knee.
 
-Review: Barcelona and Dynamo for the ChampionsCompetition.<br>Pérez left the match after 20 minutes after injuring his knee.
+Antwerpen - PSV, 5-3.<br> announced it acquired Gibbs from for 28 million. is doing very well in the WhiteCup.
 
-Review: Namibia and PSV for the ChampionsCup.<br>Bennett scored his 4th goal this season after a great assist by Jønne. Jønne recently joined the team after a transfer from Juventus. is doing very well in the ISFA WorldLeague.
+Borussia vs. Luik, 4-1.<br>Schuelenland scored his 9th goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from Brazil. is doing very well in the HonorChampionship.
 
-Antwerpen vs. Real Madrid, 3-2.<br>Smith left the match after 14 minutes after injuring his knee.
+Review: Borussia and Brazil for the EuroCup.<br>Wright scored his 2nd goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from Antwerpen.
+
+Holland played Brazil, 3-0, Rotterdam.<br>Khan scored his 2nd goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from Lebanon.
+
+Review: Parma and Ajax for the PFA ChampionsLeague.<br>Sanbanbi left the match after 17 minutes after injuring his knee. is doing very well in the IVFA WorldCompetition.
+
+Review: Feyenoord and Borussia for the WesternCompetition.<br>Palmer left the match after 17 minutes after injuring his knee. didn't too well in the INFA EuroCup but the new players François and Fnimble are working miracles.
+
+PSV - Ajax, 2-0.<br> announced it acquired Wrombley from for 28 million. didn't too well in the RFA GoldCompetition but the new players Brown and Khan are working miracles.
+
+Luik vs. ADO, 3-1.<br>The 9th minute into the second half Françoise was given yellow by referee Marinski, his second one this season. didn't too well in the AFA ChampionsLeague but the new players Pierre and Lee are working miracles.
+
+Borussia played PSV, 0-1, Eindhoven.<br>Davis scored his 2nd goal this season after a great assist by Fitzpatrick. Fitzpatrick recently joined the team after a transfer from Barcelona.
+
+Argentina played Parma, 4-2, Bologna.<br> announced it acquired McMillen from for 8 million.
+
+Review: Argentina and Leeds for the ILFA PremierLeague.<br> announced it acquired Pierre from for 25 million.
+
+WesternCompetition: Luik and Brazil.<br>The 9th minute into the second half Bäck was given yellow by referee Stormby, his second one this season.Results for "sportsblurb_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Review: Leeds and Iran for the WorldChampionship.<br>Davis scored his 8th goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Parma.
+
+Review: Dynamo and Feyenoord for the ChampionsLeague.<br> announced it acquired Baker from for 28 million. is doing very well in the YFA ChampionsCompetition.
+
+Review: Holland and Holland for the KFA WesternCup.<br>Schischen left the match after 1 minutes after injuring his knee.
+
+IMFA WorldChampionship: Argentina and Argentina.<br> announced it acquired Wilson from for 9 million.
+
+Juventus - Borussia, 1-2.<br> announced it acquired Flores from for 25 million.
+
+PSV played Germany, 4-2, St. Petersburg.<br> announced it acquired Jacques from for 12 million.
+
+HFA ChampionsChampionship: Luik and Feyenoord.<br>Kelly scored his 7th goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Holland. is doing very well in the ChampionsCup.
+
+Antwerpen vs. ADO, 0-0.<br> announced it acquired Jønne from for 10 million.
+
+Borussia vs. Argentina, 1-3.<br>The 7th minute into the second half Mannmanntropf was given yellow by referee Mackenbachenhand, his second one this season.
+
+Review: Argentina and Ajax for the HonorCompetition.<br>Cook scored his 8th goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Brazil. is doing very well in the HonorLeague.
+
+Poland played Holland, 3-2, Eindhoven.<br>Yotama left the match after 21 minutes after injuring his knee.
+
+Review: Cyprus and Dynamo for the ITFA ChampionsCup.<br>Schiffentropp scored his 9th goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Germany.
+
+Dynamo - Brazil, 5-2.<br>Jenkins scored his 3rd goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Brazil.
+
+Review: ADO and Dynamo for the WorldChampionship.<br> announced it acquired Lee from for 16 million. didn't too well in the RFA EuroCompetition but the new players Sutoho and Mills are working miracles.
+
+Leeds played PSV, 3-3, Rotterdam.<br>Jones scored his 9th goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Luik. didn't too well in the PremierCompetition but the new players Barnes and Schwankentropf are working miracles.
+
+ChampionsLeague: Leeds and Real Madrid.<br> announced it acquired Françoise from for 18 million.
+
+Antwerpen vs. Ajax, 4-0.<br> announced it acquired Sabanmita from for 4 million.
+
+Real Madrid vs. Juventus, 0-3.<br>Campbell scored his 6th goal this season after a great assist by Jacques. Jacques recently joined the team after a transfer from Germany.
+
+IWFA WorldCup: Barcelona and Leeds.<br>Zóchi left the match after 16 minutes after injuring his knee.
+
+Germany vs. PSV, 4-0.<br>Schoffen left the match after 44 minutes after injuring his knee.Results for "sportsblurb_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Review: Luik and Holland for the WorldChampionship.<br>Wilson scored his 5th goal this season after a great assist by Chan. Chan recently joined the team after a transfer from ADO. didn't too well in the YFA EuroChampionship but the new players Clark and Morris are working miracles.
+
+Germany vs. Dynamo, 1-2.<br>Rodríguez scored his 8th goal this season after a great assist by Chan. Chan recently joined the team after a transfer from Anguilla.
+
+Germany played Juventus, 1-1, St. Petersburg.<br>Santos scored his 6th goal this season after a great assist by Chan. Chan recently joined the team after a transfer from Holland.
+
+Leeds played Parma, 3-0, St. Petersburg.<br>The 6th minute into the second half Ditzmanntropp was given yellow by referee James, his second one this season. didn't too well in the HonorCompetition but the new players Janssen and Jones are working miracles.
+
+Brazil - Luik, 2-2.<br> announced it acquired Schneider from for 25 million.
+
+Parma vs. PSV, 3-1.<br> announced it acquired Stiefelen from for 9 million.
+
+HonorCup: Manchester United and Feyenoord.<br>The 8th minute into the second half King was given yellow by referee Münchenstrauss, his second one this season. is doing very well in the IDFA GoldCompetition.
+
+Mongolia - Ajax, 1-2.<br>Sotsi left the match after 7 minutes after injuring his knee.
+
+GoldCup: Borussia and PSV.<br>King left the match after 5 minutes after injuring his knee.
+
+Holland played ADO, 4-1, Berlin.<br> announced it acquired Campbell from for 12 million. didn't too well in the PremierChampionship but the new players Tiya and Jean are working miracles.
+
+Dynamo - Brazil, 0-2.<br>Cox left the match after 38 minutes after injuring his knee. is doing very well in the EuroCup.
+
+Juventus vs. ADO, 2-0.<br> announced it acquired Mitchell from for 19 million. is doing very well in the SunmimitoChampionship.
+
+Review: Holland and Leeds for the WorldChampionship.<br>Larssen left the match after 28 minutes after injuring his knee. didn't too well in the LFA ChampionsLeague but the new players Philipe and White are working miracles.
+
+ADO - Manchester United, 1-0.<br>The 8th minute into the second half Edwards was given yellow by referee Makashibi, his second one this season.
+
+Luik played Parma, 3-3, St. Petersburg.<br>Sonshayan scored his 4th goal this season after a great assist by Chan. Chan recently joined the team after a transfer from Germany. didn't too well in the AFA WestComLeague but the new players Allen and Hackelenfelt are working miracles.
+
+ADO played PSV, 4-2, Moscow.<br>Thomas left the match after 37 minutes after injuring his knee. is doing very well in the AFA ChampionsCompetition.
+
+Tajikistan vs. Argentina, 5-1.<br> announced it acquired Jønne from for 9 million. didn't too well in the ZFA GoldChampionship but the new players Vanderkeere and Kochen are working miracles.
+
+Borussia - Real Madrid, 3-1.<br>Jeanne scored his 3rd goal this season after a great assist by Chan. Chan recently joined the team after a transfer from PSV.
+
+Parma - Germany, 3-1.<br>Johnson left the match after 2 minutes after injuring his knee. didn't too well in the HonorLeague but the new players Von brand and Jacques are working miracles.
+
+Manchester United vs. Antwerpen, 3-0.<br>The 4th minute into the second half Muñoz was given yellow by referee Lam, his second one this season. is doing very well in the EuroLeague.Results for "sportsblurb_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Ajax played Brazil, 3-3, St. Petersburg.<br> announced it acquired Lagererlestadt from for 21 million.
+
+IAFA HonorLeague: Real Madrid and Borussia.<br>The 5th minute into the second half Pérez was given yellow by referee Yoshiyu, his second one this season.
+
+Review: Germany and Germany for the IHFA PremierChampionship.<br> announced it acquired Jackson from for 6 million. didn't too well in the IYFA HonorCompetition but the new players Schescherhand and White are working miracles.
+
+Barcelona - Antwerpen, 3-1.<br>The 8th minute into the second half Timi was given yellow by referee King, his second one this season. didn't too well in the IOFA EuroLeague but the new players Zóchi and Von bacherlisee are working miracles.
+
+VFA EuroCup: Germany and British Virgin Islands.<br> announced it acquired Matsukisho from for 13 million.
+
+Manchester United vs. Antwerpen, 2-3.<br> announced it acquired Miyaso from for 8 million. didn't too well in the MillsCup but the new players Mills and Powell are working miracles.
+
+Dynamo vs. Juventus, 4-0.<br> announced it acquired Vanderkeere from for 17 million. didn't too well in the WesternChampionship but the new players Roberts and Schlie are working miracles.
+
+Review: Feyenoord and Borussia for the IYFA ChampionsCup.<br>The 8th minute into the second half Adams was given yellow by referee Philipe, his second one this season.
+
+Argentina - Holland, 3-2.<br> announced it acquired Jenkins from for 17 million. is doing very well in the UFA CarnegieCup.
+
+Barcelona - Argentina, 2-0.<br>Jenkins left the match after 28 minutes after injuring his knee.
+
+Review: Parma and Italy for the INFA EuroLeague.<br>The 8th minute into the second half Adenenbürglerkopf was given yellow by referee Marlowe, his second one this season.
+
+Germany vs. Manchester United, 2-0.<br>Maso scored his 1st goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from Leeds.
+
+Review: Antwerpen and ADO for the OFA InterCorpChampionship.<br>The 3rd minute into the second half Fnimble was given yellow by referee Philipe, his second one this season.
+
+Barcelona vs. Manchester United, 4-0.<br> announced it acquired Mason from for 19 million.
+
+Review: Holland and Holland for the MFA HonorCompetition.<br> announced it acquired Sonmi from for 24 million.
+
+Parma played Ecuador, 5-3, Moscow.<br> announced it acquired Kaye from for 20 million. didn't too well in the IMFA PremierChampionship but the new players Arleracker and Palmer are working miracles.
+
+Virgin Islands - Borussia, 3-2.<br>The 8th minute into the second half Marlowe was given yellow by referee Williams, his second one this season.
+
+Manchester United - Holland, 5-0.<br>Vazquez scored his 3rd goal this season after a great assist by Tisho. Tisho recently joined the team after a transfer from Antwerpen.
+
+Brazil - Ajax, 3-0.<br>Martin left the match after 11 minutes after injuring his knee. didn't too well in the ChampionsCompetition but the new players Kwon and Hernández are working miracles.
+
+Parma - Antwerpen, 3-0.<br>Handersjen left the match after 17 minutes after injuring his knee. is doing very well in the WesternCompetition.Results for "sportsblurb_soccer"
+Defined in module sports.py
+Used in sports.py
+
+ChampionsCup: Argentina and Parma.<br> announced it acquired Davidoff from for 14 million.
+
+Holland - Luik, 5-1.<br> announced it acquired Morgan from for 16 million. didn't too well in the ChampionsLeague but the new players Williams and Pierre are working miracles.
+
+Review: Luik and PSV for the PFA GoldChampionship.<br>The 9th minute into the second half Lam was given yellow by referee Marlowe, his second one this season. is doing very well in the HonorChampionship.
+
+Antwerpen vs. Real Madrid, 1-3.<br> announced it acquired Gibbs from for 15 million.
+
+Brazil - Barcelona, 2-2.<br>The 4th minute into the second half Ali was given yellow by referee Thomas, his second one this season.
+
+Review: Parma and Juventus for the BFA HonorCompetition.<br> announced it acquired Schankler from for 8 million. is doing very well in the SFA TahohoLeague.
+
+Brazil played Luik, 5-3, Milan.<br>The 7th minute into the second half Hughes was given yellow by referee Sunhosho, his second one this season.
+
+Parma played ADO, 3-2, Hamburg.<br>The 6th minute into the second half Mustcado was given yellow by referee Meyerson, his second one this season.
+
+Luik - Holland, 1-3.<br>The 3rd minute into the second half Jean was given yellow by referee Lee, his second one this season.
+
+Manchester United played Antwerpen, 3-0, Moscow.<br>Françoise left the match after 2 minutes after injuring his knee.
+
+Argentina vs. Holland, 3-2.<br>The 2nd minute into the second half Brown was given yellow by referee Yoko, his second one this season. is doing very well in the XFA HonorCup.
+
+Review: PSV and Luik for the BioComChampionship.<br>Anderson scored his 3rd goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Ajax. didn't too well in the EuroLeague but the new players Hall and Mustcado are working miracles.
+
+Review: PSV and Brazil for the EuroCompetition.<br>Abbott scored his 1st goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Ajax.
+
+ISFA EuroCompetition: Feyenoord and Guadeloupe.<br>The 1st minute into the second half Clark was given yellow by referee Vogel, his second one this season.
+
+Antwerpen vs. Brazil, 5-1.<br> announced it acquired Meyerson from for 8 million. is doing very well in the TiyanyanCup.
+
+Luik vs. Borussia, 3-3.<br>The 5th minute into the second half Brandhand was given yellow by referee Webb, his second one this season.
+
+PremierChampionship: Germany and Antwerpen.<br>Rodríguez scored his 2nd goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Germany.
+
+Leeds - Luik, 0-0.<br> announced it acquired Stevens from for 5 million. is doing very well in the VFA HonorChampionship.
+
+Feyenoord played Ajax, 4-2, Frankfurt.<br> announced it acquired Koyoyaban from for 9 million.
+
+Review: Germany and Borussia for the WesternLeague.<br>Kelly scored his 3rd goal this season after a great assist by Martínez. Martínez recently joined the team after a transfer from Holland. didn't too well in the RFA WesternChampionship but the new players Abbott and Jiménez are working miracles.Results for "sportsblurb_soccer"
+Defined in module sports.py
+Used in sports.py
+
+Luik played ADO, 4-3, Milan.<br>The 6th minute into the second half Suh was given yellow by referee Kohisansho, his second one this season.
+
+South Africa - Real Madrid, 2-2.<br> announced it acquired Schwankerfuss from for 16 million.
+
+Holland vs. Brazil, 3-1.<br> announced it acquired James from for 28 million. didn't too well in the ChampionsChampionship but the new players Gray and Wynn are working miracles.
+
+HonorChampionship: ADO and Antwerpen.<br>Torres scored his 5th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Germany. didn't too well in the IOFA PremierCup but the new players Totiban and Cox are working miracles.
+
+Antwerpen played Parma, 4-0, Milan.<br> announced it acquired Miller from for 22 million. didn't too well in the HonorLeague but the new players Schliemanntal and Abbott are working miracles.
+
+Review: Brazil and PSV for the PremierLeague.<br>Pagréwski left the match after 28 minutes after injuring his knee. didn't too well in the IBFA GoldLeague but the new players Mitchell and Anderson are working miracles.
+
+Feyenoord vs. Feyenoord, 3-0.<br>Marinski scored his 5th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Brazil. didn't too well in the GoldChampionship but the new players Owen and Hussain are working miracles.
+
+Borussia - PSV, 5-2.<br> announced it acquired Jeanne from for 28 million.
+
+Ajax vs. Luik, 4-2.<br>Owen left the match after 41 minutes after injuring his knee.
+
+Dynamo played Brazil, 1-1, Rotterdam.<br> announced it acquired Schuffingertal from for 3 million.
+
+Belarus - Leeds, 5-1.<br> announced it acquired James from for 29 million. is doing very well in the NFA ChampionsLeague.
+
+Review: Luik and Argentina for the GoldCup.<br>Anderson scored his 5th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Antwerpen. didn't too well in the YFA WesternCup but the new players Keaney and Nobelman are working miracles.
+
+IJFA HonorChampionship: Feyenoord and Juventus.<br>The 3rd minute into the second half Clark was given yellow by referee Kelly, his second one this season. is doing very well in the XFA PremierCup.
+
+Argentina - Borussia, 4-2.<br>Miller scored his 3rd goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Feyenoord. didn't too well in the SFA GoldCup but the new players Clark and Collins are working miracles.
+
+Luik played Argentina, 1-2, Florence.<br>Fischerleseeinger left the match after 43 minutes after injuring his knee.
+
+Borussia played Real Madrid, 1-0, Frankfurt.<br> announced it acquired Pierre from for 16 million. didn't too well in the HonorCompetition but the new players Barker and Davis are working miracles.
+
+GoldCompetition: ADO and Paraguay.<br>Stiefeltal scored his 8th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from Holland. didn't too well in the KFA EuroChampionship but the new players Vogel and Roy are working miracles.
+
+Germany vs. Brazil, 3-0.<br> announced it acquired Philipe from for 9 million. is doing very well in the NFA TransTechCup.
+
+FFA WorldCompetition: PSV and Dynamo.<br>Baker scored his 4th goal this season after a great assist by Mason. Mason recently joined the team after a transfer from PSV.
+
+HonorCup: Brazil and Dynamo.<br>The 8th minute into the second half Scheufentropf was given yellow by referee Frime, his second one this season.

@@ -1,6 +1,50 @@
+Results for "j_verb"
+Defined in module jargon.py
 
+monetize
+
+monetize
+
+brand
 
 architect
+
+brand
+
+revenate
+
+revenate
+
+architect
+
+monetize
+
+monetize
+
+architect
+
+monetize
+
+revenate
+
+monetize
+
+revenate
+
+monetize
+
+architect
+
+revenate
+
+brand
+
+repurposeResults for "j_verb"
+Defined in module jargon.py
+
+repurpose
+
+brand
 
 monetize
 
@@ -8,13 +52,195 @@ brand
 
 revenate
 
-monetize
+repurpose
+
+architect
 
 monetize
 
 monetize
 
 brand
+
+brand
+
+brand
+
+brand
+
+revenate
+
+brand
+
+architect
+
+repurpose
+
+repurpose
+
+monetize
+
+brandResults for "j_verb"
+Defined in module jargon.py
+
+architect
+
+revenate
+
+brand
+
+revenate
+
+monetize
+
+repurpose
+
+monetize
+
+brand
+
+repurpose
+
+revenate
+
+brand
+
+architect
+
+monetize
+
+architect
+
+revenate
+
+repurpose
+
+architect
+
+revenate
+
+repurpose
+
+brandResults for "j_verb"
+Defined in module jargon.py
+
+brand
+
+repurpose
+
+architect
+
+architect
+
+repurpose
+
+brand
+
+monetize
+
+revenate
+
+architect
+
+repurpose
+
+revenate
+
+repurpose
+
+monetize
+
+monetize
+
+revenate
+
+revenate
+
+repurpose
+
+architect
+
+monetize
+
+architectResults for "j_verb"
+Defined in module jargon.py
+
+revenate
+
+monetize
+
+architect
+
+brand
+
+brand
+
+architect
+
+brand
+
+brand
+
+monetize
+
+repurpose
+
+repurpose
+
+architect
+
+brand
+
+repurpose
+
+architect
+
+architect
+
+monetize
+
+brand
+
+monetize
+
+monetizeResults for "j_verb"
+Defined in module jargon.py
+
+brand
+
+brand
+
+brand
+
+monetize
+
+monetize
+
+monetize
+
+revenate
+
+brand
+
+monetize
+
+repurpose
+
+brand
+
+architect
+
+repurpose
+
+repurpose
+
+brand
+
+repurpose
+
+architect
+
+revenate
 
 repurpose
 

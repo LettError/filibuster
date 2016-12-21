@@ -1,21 +1,253 @@
+Results for "war_verb_action"
+Defined in module news.py
+Used in news.py
 
+loot
+
+infiltrate
+
+help
+
+strike against
+
+defend
+
+destroyed by
+
+deny alleged
+
+expose
+
+to engage
+
+occupy
+
+split up over
+
+occupy
+
+strike deal on
+
+deny existence
+
+raid
+
+threaten
+
+help
+
+seek
+
+make move towards
+
+deny existence ofResults for "war_verb_action"
+Defined in module news.py
+Used in news.py
+
+threaten
+
+deny existence of
+
+strike against
+
+seek
+
+raid
+
+occupy
+
+deny existence of
+
+destroy
+
+destroy
+
+deny existence
+
+to engage
+
+named in press laserguided missile charges
+
+strike against
+
+force
+
+threaten
+
+deny existence of
+
+expose
+
+strike against
+
+threaten
+
+seekResults for "war_verb_action"
+Defined in module news.py
+Used in news.py
+
+split up over
+
+to start talks on
+
+named in embassy phone tap tapes
+
+strike against
+
+strike deal on
 
 to help
 
+make move towards
+
+expose
+
+infiltrate
+
+raid
+
+bomb
+
+discuss possible
+
+make move towards
+
+infiltrate
+
+occupy
+
+advise
+
+deny existence
+
+force
+
+destroy
+
+renew talks onResults for "war_verb_action"
+Defined in module news.py
+Used in news.py
+
+split up over
+
+bomb
+
+strike against
+
+split up over
+
+begin talks on
+
+destroyed by
+
+divided on
+
 strike deal on
+
+to help
+
+destroy
+
+force
+
+raid
+
+split up over
+
+occupy
+
+renew talks on
+
+bomb
+
+deny existence of
+
+surround
+
+destroyed by
+
+helpResults for "war_verb_action"
+Defined in module news.py
+Used in news.py
+
+destroyed by
+
+destroyed by
+
+destroy
+
+discuss possible
+
+expose
+
+bomb
+
+seek
+
+split up over
+
+threaten
+
+begin talks on
+
+force
+
+bomb
+
+raid
+
+split up over
+
+destroyed by
+
+expose
+
+help
+
+discuss possible
+
+strike against
+
+split up overResults for "war_verb_action"
+Defined in module news.py
+Used in news.py
+
+divided on
+
+help
+
+strike deal on
+
+renew talks on
+
+threaten
+
+surround
+
+engage
+
+surround
 
 bomb
 
 infiltrate
 
-discuss possible
+help
 
-deny existence
+to start talks on
 
-seek
+advise
 
-deny existence
+loot
 
-split up over
+begin talks on
 
-deny alleged
+infiltrate
+
+occupy
+
+to engage
+
+help
+
+to help

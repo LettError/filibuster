@@ -1,4 +1,92 @@
+Results for "car_power_designators"
+Defined in module automotive.py
+Used in automotive.py
 
+ponies
+
+horses
+
+horses
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+horses
+
+horses
+
+horses
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+horses
+
+ponies
+
+horsesResults for "car_power_designators"
+Defined in module automotive.py
+Used in automotive.py
+
+horses
+
+ponies
+
+horses
+
+horses
+
+horses
+
+ponies
+
+horses
+
+horses
+
+ponies
+
+horses
+
+horses
+
+horses
+
+ponies
+
+horses
+
+horses
+
+ponies
+
+ponies
+
+ponies
+
+horses
+
+horsesResults for "car_power_designators"
+Defined in module automotive.py
+Used in automotive.py
+
+horses
 
 horses
 
@@ -12,10 +100,154 @@ ponies
 
 horses
 
+horses
+
+horses
+
+ponies
+
+ponies
+
 ponies
 
 horses
 
 horses
+
+ponies
+
+horses
+
+ponies
+
+horses
+
+horses
+
+horsesResults for "car_power_designators"
+Defined in module automotive.py
+Used in automotive.py
+
+horses
+
+horses
+
+ponies
+
+ponies
+
+horses
+
+horses
+
+horses
+
+horses
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+horses
+
+horses
+
+horses
+
+horses
+
+horses
+
+horses
+
+ponies
+
+poniesResults for "car_power_designators"
+Defined in module automotive.py
+Used in automotive.py
+
+ponies
+
+horses
+
+horses
+
+horses
+
+horses
+
+ponies
+
+ponies
+
+horses
+
+horses
+
+horses
+
+horses
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+horses
+
+horses
+
+horses
+
+ponies
+
+horsesResults for "car_power_designators"
+Defined in module automotive.py
+Used in automotive.py
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+horses
+
+horses
+
+horses
+
+horses
+
+horses
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+ponies
+
+horses
+
+ponies
+
+ponies
+
+ponies
+
+ponies
 
 ponies

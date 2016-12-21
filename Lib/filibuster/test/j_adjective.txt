@@ -1,21 +1,253 @@
+Results for "j_adjective"
+Defined in module jargon.py
+Used in articles.py, jargon.py, portal.py, staff.py
 
+cobranded
 
-secure
+strategic
 
-repurposed
+strategic
 
-end-to-end
+inline
+
+e-commerce
+
+narrowband
+
+end-user
 
 bricks and mortar
 
-just-in-time
-
-front-end
-
 repurposed
 
 front-end
 
-collateral
+server-side
+
+narrowband
+
+narrowband
+
+integrated
+
+integrated
+
+OEM
+
+key
+
+strategic
+
+online
+
+front-endResults for "j_adjective"
+Defined in module jargon.py
+Used in articles.py, jargon.py, portal.py, staff.py
+
+repurposed
+
+inline
+
+gateway
+
+portable
+
+real-time
+
+vertical
+
+portable
+
+strategic
 
 client-side
+
+cobranded
+
+trailblazing
+
+front-end
+
+end-user
+
+integrated
+
+integrated
+
+inline
+
+key
+
+strategic
+
+trailblazing
+
+client-sideResults for "j_adjective"
+Defined in module jargon.py
+Used in articles.py, jargon.py, portal.py, staff.py
+
+repurposed
+
+bricks and mortar
+
+gateway
+
+inline
+
+top-down
+
+front-end
+
+narrowband
+
+bricks and mortar
+
+gateway
+
+narrowband
+
+end-to-end
+
+real-time
+
+cobranded
+
+trailblazing
+
+interactive
+
+real-time
+
+end-user
+
+end-to-end
+
+strategic
+
+trailblazingResults for "j_adjective"
+Defined in module jargon.py
+Used in articles.py, jargon.py, portal.py, staff.py
+
+real-time
+
+top-down
+
+bricks and mortar
+
+repurposed
+
+vertical
+
+end-user
+
+broadband
+
+secure
+
+top-down
+
+end-to-end
+
+proprietary
+
+bricks and mortar
+
+OEM
+
+collateral
+
+turnkey
+
+real-time
+
+end-user
+
+broadband
+
+server-side
+
+cobrandedResults for "j_adjective"
+Defined in module jargon.py
+Used in articles.py, jargon.py, portal.py, staff.py
+
+top-down
+
+OEM
+
+OEM
+
+front-end
+
+online
+
+bricks and mortar
+
+real-time
+
+OEM
+
+end-user
+
+top-down
+
+secure
+
+catalyst
+
+end-user
+
+trailblazing
+
+portable
+
+server-side
+
+OEM
+
+end-to-end
+
+narrowband
+
+onlineResults for "j_adjective"
+Defined in module jargon.py
+Used in articles.py, jargon.py, portal.py, staff.py
+
+bricks and mortar
+
+collateral
+
+end-user
+
+turnkey
+
+broadband
+
+inline
+
+repurposed
+
+portable
+
+collateral
+
+e-commerce
+
+end-user
+
+trailblazing
+
+cobranded
+
+catalyst
+
+catalyst
+
+interactive
+
+collateral
+
+end-to-end
+
+server-side
+
+trailblazing

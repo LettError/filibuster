@@ -1,21 +1,253 @@
+Results for "sci_elements"
+Defined in module sciences.py
+Used in general.py, internet.py, portal.py
 
+Tin
+
+Tin
+
+Argon
+
+Tin
+
+Rhodium
+
+Lead
+
+Lead
+
+Silver
+
+Ununnilium
+
+Ununbium
+
+Argon
+
+Xenon
+
+Cadmium
+
+Radon
 
 Neon
 
+Tantalum
+
+Lead
+
+Tin
+
+Lead
+
+SeaborgiumResults for "sci_elements"
+Defined in module sciences.py
+Used in general.py, internet.py, portal.py
+
+Indium
+
+Iridium
+
+Molybdenum
+
+Manganese
+
 Rhenium
 
+Thallium
+
+Zirconium
+
+Iron
+
+Bismuth
+
+Iridium
+
+Xenon
+
+Rutherfordium
+
+Titanium
+
+Palladium
+
 Aluminum
+
+Helium
+
+Bismuth
+
+Neon
+
+Vanadium
+
+HeliumResults for "sci_elements"
+Defined in module sciences.py
+Used in general.py, internet.py, portal.py
+
+Bohrium
+
+Radon
+
+Lead
+
+Meitnerium
+
+Iron
+
+Gold
+
+Tantalum
+
+Radon
+
+Vanadium
+
+Lead
+
+Bismuth
+
+Gallium
+
+Radon
+
+Aluminum
+
+Argon
+
+Tantalum
+
+Lead
+
+Titanium
+
+Neon
+
+RadonResults for "sci_elements"
+Defined in module sciences.py
+Used in general.py, internet.py, portal.py
+
+Neon
+
+Thallium
+
+Xenon
+
+Bismuth
+
+Palladium
+
+Krypton
+
+Tin
+
+Argon
+
+Thallium
+
+Lead
+
+Ununnilium
+
+Aluminum
+
+Iron
+
+Indium
+
+Helium
+
+Bohrium
+
+Xenon
+
+Seaborgium
+
+Gold
+
+NickelResults for "sci_elements"
+Defined in module sciences.py
+Used in general.py, internet.py, portal.py
+
+Bismuth
+
+Iridium
+
+Platinum
+
+Krypton
+
+Zinc
+
+Argon
+
+Dubnium
+
+Gallium
+
+Xenon
 
 Xenon
 
 Unununium
 
-Bismuth
+Radon
 
-Lead
+Iridium
 
-Lead
+Rhenium
 
-Lead
+Chromium
+
+Zirconium
+
+Fitzsimmonsium
 
 Mercury
+
+Neon
+
+KryptonResults for "sci_elements"
+Defined in module sciences.py
+Used in general.py, internet.py, portal.py
+
+Indium
+
+Rhenium
+
+Indium
+
+Thallium
+
+Scandium
+
+Adamsium
+
+Iridium
+
+Gold
+
+Bismuth
+
+Gallium
+
+Aluminum
+
+Bismuth
+
+Tungsten
+
+Gold
+
+Krypton
+
+Neon
+
+Thallium
+
+Argon
+
+Titanium
+
+Manganese

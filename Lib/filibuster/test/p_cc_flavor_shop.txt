@@ -1,21 +1,253 @@
+Results for "p_cc_flavor_shop"
+Defined in module creditcard.py
+Used in creditcard.py
 
+Fast
 
-XS
+E
+
+Digi
+
+Excel
+
+Access
+
+Excel
+
+Fast
+
+Shop
+
+Digi
+
+Shop
 
 Shop
 
 Fast
 
+Shop
+
+XS
+
+XS
+
 Excel
 
 Excel
+
+E
+
+E
+
+ShopResults for "p_cc_flavor_shop"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Excel
+
+Fast
+
+Excel
+
+Fast
+
+Access
+
+Fast
+
+XS
+
+XS
+
+Fast
+
+Access
+
+Shop
+
+Shop
+
+E
+
+Fast
 
 Store
+
+Fast
+
+Shop
+
+Digi
+
+E
+
+FastResults for "p_cc_flavor_shop"
+Defined in module creditcard.py
+Used in creditcard.py
+
+XS
+
+E
+
+Access
+
+Store
+
+E
+
+Excel
+
+Digi
+
+XS
+
+Access
+
+Market
+
+Store
+
+Market
+
+Excel
+
+E
+
+Store
+
+E
+
+E
+
+Shop
+
+Shop
+
+AccessResults for "p_cc_flavor_shop"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Digi
+
+Fast
+
+Market
+
+Fast
+
+Digi
+
+Shop
+
+Excel
+
+Market
+
+XS
+
+Store
+
+Market
+
+Market
+
+Access
+
+E
+
+Digi
+
+Fast
+
+Digi
+
+Store
+
+Fast
+
+XSResults for "p_cc_flavor_shop"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Digi
+
+Digi
+
+Store
+
+Market
+
+Digi
+
+Access
+
+Access
+
+Shop
+
+Fast
+
+Store
+
+E
+
+Store
+
+XS
+
+XS
+
+Digi
+
+Digi
+
+Fast
+
+XS
+
+Digi
+
+FastResults for "p_cc_flavor_shop"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Access
+
+Market
+
+Market
+
+Excel
+
+E
 
 Digi
 
 Market
 
-Digi
+Store
+
+XS
+
+Access
+
+Market
+
+E
+
+Shop
+
+E
+
+Access
+
+Store
+
+Shop
+
+E
+
+Fast
 
 E

@@ -1,4 +1,58 @@
+Results for "p_cc_flavor_common"
+Defined in module creditcard.py
+Used in creditcard.py
 
+Family
+
+Diner
+
+Uni
+
+Uni
+
+Member
+
+Family
+
+Diner
+
+Media
+
+Member
+
+Uni
+
+Family
+
+Uni
+
+Direct
+
+Media
+
+Direct
+
+Uni
+
+Diner
+
+Member
+
+Direct
+
+FamilyResults for "p_cc_flavor_common"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Family
+
+Diner
+
+Media
+
+Direct
+
+Family
 
 Media
 
@@ -6,16 +60,194 @@ Media
 
 Diner
 
+Member
+
+Uni
+
 Direct
+
+Media
+
+Diner
+
+Member
+
+Uni
+
+Media
+
+Diner
+
+Diner
+
+Diner
+
+UniResults for "p_cc_flavor_common"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Family
+
+Direct
+
+Family
+
+Diner
+
+Member
+
+Diner
+
+Family
+
+Direct
+
+Media
+
+Media
+
+Uni
+
+Diner
+
+Member
+
+Member
+
+Family
+
+Diner
+
+Media
+
+Diner
+
+Diner
+
+FamilyResults for "p_cc_flavor_common"
+Defined in module creditcard.py
+Used in creditcard.py
 
 Family
 
 Media
 
+Member
+
+Uni
+
+Direct
+
+Media
+
 Family
+
+Member
+
+Family
+
+Diner
+
+Direct
+
+Family
+
+Diner
+
+Direct
+
+Diner
+
+Media
+
+Member
+
+Member
+
+Uni
+
+MediaResults for "p_cc_flavor_common"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Family
+
+Direct
+
+Family
+
+Family
+
+Uni
+
+Uni
+
+Diner
+
+Direct
 
 Media
 
 Direct
 
+Diner
+
+Diner
+
+Diner
+
+Member
+
+Family
+
 Direct
+
+Uni
+
+Uni
+
+Family
+
+FamilyResults for "p_cc_flavor_common"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Member
+
+Member
+
+Family
+
+Diner
+
+Direct
+
+Family
+
+Family
+
+Diner
+
+Family
+
+Member
+
+Diner
+
+Uni
+
+Family
+
+Uni
+
+Uni
+
+Media
+
+Diner
+
+Media
+
+Uni
+
+Member

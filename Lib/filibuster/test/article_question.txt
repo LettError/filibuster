@@ -1,21 +1,253 @@
+Results for "article_question"
+Defined in module articles.py
+Used in articles.py
 
+Does that happen often?
 
-What about it?
+Does that happen often?
 
-How can we achieve that?
+Can you elaborate on that?
 
-How to increase that awareness?
+Would it happen again?
 
-What if there is no such thing?
+Wondering how?
 
 How to deal with that fact?
 
-How to get there?
+Wondering how?
+
+How to increase that awareness?
+
+Why?
+
+And why?
+
+How to deal with that fact?
+
+What does that phrasing mean?
+
+Wondering how?
+
+What about it?
+
+How to increase that awareness?
+
+Can you elaborate on that?
+
+Can you elaborate on that?
 
 What if there is no such thing?
+
+What does that phrasing mean?
+
+What does that phrasing mean?Results for "article_question"
+Defined in module articles.py
+Used in articles.py
+
+Would it happen again?
+
+What does that phrasing mean?
+
+And why?
+
+What does that phrasing mean?
+
+And why?
+
+How to get there?
+
+And why?
+
+Wondering how?
+
+Would it happen again?
+
+What does that phrasing mean?
+
+What are the implications of that?
+
+What does that phrasing mean?
+
+Why?
+
+What if there is no such thing?
+
+How to increase that awareness?
+
+How to get there?
+
+Can you elaborate on that?
+
+How to get there?
+
+Why?
+
+How to deal with that fact?Results for "article_question"
+Defined in module articles.py
+Used in articles.py
+
+What are the implications of that?
+
+How can we achieve that?
+
+Can you elaborate on that?
+
+Does that happen often?
+
+How to increase that awareness?
 
 How to get there?
 
 Would it happen again?
 
+What does that phrasing mean?
+
 And why?
+
+What about it?
+
+And why?
+
+Can you elaborate on that?
+
+How to get there?
+
+How to deal with that fact?
+
+Can you elaborate on that?
+
+Does that happen often?
+
+What if there is no such thing?
+
+Does that happen often?
+
+How to get there?
+
+Wondering how?Results for "article_question"
+Defined in module articles.py
+Used in articles.py
+
+And why?
+
+Would it happen again?
+
+What if there is no such thing?
+
+What about it?
+
+Would it happen again?
+
+What about it?
+
+Would it happen again?
+
+What if there is no such thing?
+
+Does that happen often?
+
+What are the implications of that?
+
+Wondering how?
+
+How to increase that awareness?
+
+What are the implications of that?
+
+Can you elaborate on that?
+
+Wondering how?
+
+What does that phrasing mean?
+
+Wondering how?
+
+What about it?
+
+Does that happen often?
+
+And why?Results for "article_question"
+Defined in module articles.py
+Used in articles.py
+
+How to deal with that fact?
+
+What if there is no such thing?
+
+How to increase that awareness?
+
+What about it?
+
+Why?
+
+How can we achieve that?
+
+Would it happen again?
+
+How to deal with that fact?
+
+How can we achieve that?
+
+Wondering how?
+
+Can you elaborate on that?
+
+How to increase that awareness?
+
+Can you elaborate on that?
+
+And why?
+
+Wondering how?
+
+What if there is no such thing?
+
+Why?
+
+Does that happen often?
+
+What if there is no such thing?
+
+What about it?Results for "article_question"
+Defined in module articles.py
+Used in articles.py
+
+How can we achieve that?
+
+Can you elaborate on that?
+
+What are the implications of that?
+
+What if there is no such thing?
+
+Why?
+
+How to increase that awareness?
+
+Does that happen often?
+
+How to deal with that fact?
+
+How can we achieve that?
+
+And why?
+
+How to get there?
+
+How can we achieve that?
+
+What are the implications of that?
+
+And why?
+
+How to deal with that fact?
+
+How to get there?
+
+How can we achieve that?
+
+How to get there?
+
+Wondering how?
+
+How to deal with that fact?

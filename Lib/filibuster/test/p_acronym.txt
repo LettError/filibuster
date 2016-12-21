@@ -1,21 +1,253 @@
+Results for "p_acronym"
+Defined in module creditcard.py
+Used in creditcard.py, filibuster.py, internet.py
 
+WMK
+
+VRU
+
+BMY
+
+TXD
+
+YE
+
+BH
+
+YV
+
+VO
+
+DCL
+
+RL
+
+LBJ
+
+BQ
+
+GN
+
+OEE
+
+DB
+
+BLI
+
+RT
+
+AUF
+
+CVG
+
+KVGResults for "p_acronym"
+Defined in module creditcard.py
+Used in creditcard.py, filibuster.py, internet.py
+
+LHO
+
+DD
+
+VJP
+
+LP
+
+PMH
+
+UJ
+
+FYZ
+
+IJ
+
+RN
+
+LG
+
+JNK
+
+KW
+
+WQN
+
+JU
+
+FS
+
+VX
+
+QKS
+
+LDX
+
+NH
+
+LSResults for "p_acronym"
+Defined in module creditcard.py
+Used in creditcard.py, filibuster.py, internet.py
+
+LOW
+
+HB
+
+GWB
+
+EC
+
+AOS
+
+DS
+
+TW
+
+IMS
+
+PT
+
+ZC
+
+RJ
+
+LFC
+
+BK
+
+CA
+
+YY
+
+BWK
+
+FLY
 
 RO
 
-OSS
+XCX
 
-PFK
+PAResults for "p_acronym"
+Defined in module creditcard.py
+Used in creditcard.py, filibuster.py, internet.py
 
-PM
+PQ
 
-UTV
+AQN
 
-PKT
+IQ
 
-ZA
+VF
 
-HIJ
+VMK
 
-OP
+NL
 
-CC
+JG
+
+IV
+
+SR
+
+NK
+
+BD
+
+TT
+
+KA
+
+TFQ
+
+UZC
+
+MN
+
+BC
+
+QI
+
+JEI
+
+PXResults for "p_acronym"
+Defined in module creditcard.py
+Used in creditcard.py, filibuster.py, internet.py
+
+QQQ
+
+LQ
+
+VP
+
+WY
+
+NZU
+
+HGW
+
+VG
+
+LTP
+
+GSX
+
+BX
+
+BAG
+
+CF
+
+DZ
+
+KKI
+
+WTK
+
+JHX
+
+MLU
+
+KQO
+
+UY
+
+AFEResults for "p_acronym"
+Defined in module creditcard.py
+Used in creditcard.py, filibuster.py, internet.py
+
+QR
+
+LU
+
+ML
+
+OI
+
+TP
+
+NCL
+
+YFI
+
+AHB
+
+OMO
+
+XH
+
+YP
+
+YO
+
+DRM
+
+URF
+
+ALI
+
+YDT
+
+SZ
+
+UWM
+
+CYX
+
+YI

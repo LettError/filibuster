@@ -1,8 +1,191 @@
+Results for "bank_co_description_sing"
+Defined in module corporate.py
 
+investment bank
+
+a bank
+
+broker
+
+investment bank
+
+broker
+
+a bank
+
+a financial institution
+
+a financial institution
+
+a financial institution
+
+a financial institution
+
+investment bank
+
+a financial institution
+
+a financial institution
+
+a bank
 
 investment bank
 
 investment bank
+
+broker
+
+a financial institution
+
+broker
+
+brokerResults for "bank_co_description_sing"
+Defined in module corporate.py
+
+a bank
+
+a financial institution
+
+a bank
+
+investment bank
+
+broker
+
+a bank
+
+a financial institution
+
+investment bank
+
+a bank
+
+a financial institution
+
+a financial institution
+
+a bank
+
+a financial institution
+
+a bank
+
+a financial institution
+
+a financial institution
+
+a financial institution
+
+broker
+
+a financial institution
+
+brokerResults for "bank_co_description_sing"
+Defined in module corporate.py
+
+a bank
+
+a financial institution
+
+broker
+
+a bank
+
+a bank
+
+a financial institution
+
+a financial institution
+
+investment bank
+
+a bank
+
+a financial institution
+
+a financial institution
+
+a bank
+
+a bank
+
+broker
+
+a bank
+
+investment bank
+
+broker
+
+broker
+
+a bank
+
+brokerResults for "bank_co_description_sing"
+Defined in module corporate.py
+
+a financial institution
+
+broker
+
+a financial institution
+
+a financial institution
+
+a bank
+
+a financial institution
+
+investment bank
+
+a financial institution
+
+investment bank
+
+a financial institution
+
+a bank
+
+a financial institution
+
+broker
+
+broker
+
+broker
+
+a financial institution
+
+a bank
+
+broker
+
+a bank
+
+a financial institutionResults for "bank_co_description_sing"
+Defined in module corporate.py
+
+a financial institution
+
+investment bank
+
+a financial institution
+
+broker
+
+a bank
+
+a financial institution
+
+a bank
+
+a bank
+
+broker
+
+a financial institution
+
+a financial institution
 
 investment bank
 
@@ -10,12 +193,55 @@ a bank
 
 investment bank
 
+investment bank
+
 a financial institution
 
 investment bank
 
 a financial institution
 
+broker
+
+investment bankResults for "bank_co_description_sing"
+Defined in module corporate.py
+
+a bank
+
+broker
+
+broker
+
+a financial institution
+
+investment bank
+
+broker
+
+investment bank
+
+investment bank
+
 a financial institution
 
 a bank
+
+a financial institution
+
+a bank
+
+a bank
+
+investment bank
+
+a financial institution
+
+a bank
+
+broker
+
+a financial institution
+
+a bank
+
+a financial institution

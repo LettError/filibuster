@@ -1,21 +1,247 @@
+Results for "sports_football_match"
+Defined in module sports.py
 
+The Atlanta Beavers vs. the San Jose Raiders
 
-The Boston Sharks vs. the Memphis Cowboys
+The Columbus (Monroe County) Indians vs. the Dallas Geese
 
-The Atlanta Beavers vs. the Seattle Tigers
+The Denver Geese vs. the Baltimore Dolphins
 
-The Philadelphia Bears vs. the Ohio Sharks
+The Houston Ducks vs. the Columbus (Caldecott County) Dogs
 
-The Philadelphia Tigers vs. the Essex County Ducks
+The Detroit Sharks vs. the Baltimore Buffalo
 
-The Kansas City Raiders vs. the San Jose Cowboys
+The Miami Geese vs. the Minneapolis Geese
 
-The Lawrenceford, Essex County Doctors vs. the Denver Hornets
+The Winslow Beavers vs. the Maryland Indians
 
-The Philadelphia Bears vs. the Stern (Norfolk County) Bears
+The Detroit Buffalo vs. the Illinois Doctors
 
-The Pittsburgh Slaves vs. the Los Angeles Hornets
+The Virgin Islands Buffalo vs. the Atlanta Dogs
 
-The Seattle Sharks vs. the Chicago Jets
+The Sterling Soldiers vs. the Dallas Geese
 
-The Philadelphia Soldiers vs. the Dallas Bears
+The Miami Jets vs. the Atlanta Cowboys
+
+The Denver Beavers vs. the Florida Magicians
+
+The Minneapolis Raiders vs. the Taylordale Ducks
+
+The Cape Peterport (Washington County) Raiders vs. the Lawrenceport Cowboys
+
+The Miami Buffalo vs. the Chicago Buffalo
+
+The New Calder Ducks vs. the Rhode Island Slaves
+
+The Iowa Beavers vs. the Columbus Dogs
+
+The Indiana Cowboys vs. the Miami Geese
+
+The Hawaii Geese vs. the Washington Buffalo
+
+The Lincoln Doctors vs. the Memphis DucksResults for "sports_football_match"
+Defined in module sports.py
+
+The Minneapolis Cowboys vs. the Memphis Bears
+
+The Williamsford Dolphins vs. the New York Wildcats
+
+The Miami Doctors vs. the Harrisdale, Monroe County Doctors
+
+The San Jose Dolphins vs. the Lincoln, Sussex County Sharks
+
+The Kansas City Tigers vs. the Washington Wildcats
+
+The Bryant, Elwood County Bears vs. the New York Indians
+
+The Los Angeles Ducks vs. the Memphis Beavers
+
+The Philadelphia Buffalo vs. the Washington Raiders
+
+The Chicago Dogs vs. the New York Dogs
+
+The Lincoln (Essex County) Doctors vs. the Chesterburgh Dogs
+
+The West Virginia Sharks vs. the Kentucky Ducks
+
+The West Virginia Soldiers vs. the Los Angeles Bears
+
+The Nashville Magicians vs. the Lincoln, Suffolk County Doctors
+
+The Minnesota Buffalo vs. the Chicago Ducks
+
+The Pittsburgh Wildcats vs. the Chicago Raiders
+
+The Boston Indians vs. the Houston Buffalo
+
+The Lincoln (Elwood County) Tigers vs. the New York Geese
+
+The Lincoln Wildcats vs. the Louisiana Tigers
+
+The Puerto Rico Bears vs. the New York Tigers
+
+The Davenport Soldiers vs. the Miami IndiansResults for "sports_football_match"
+Defined in module sports.py
+
+The Los Angeles Hornets vs. the Los Angeles Magicians
+
+The Boston Slaves vs. the Utah Doctors
+
+The Washington Slaves vs. the Pittsburgh Dogs
+
+The Maryland Jets vs. the New York Raiders
+
+The Rhode Island Bears vs. the Maryland Hornets
+
+The Boston Dolphins vs. the Minneapolis Tigers
+
+The Johnstown Wildcats vs. the South Carolina Dolphins
+
+The Baltimore Magicians vs. the Florida Doctors
+
+The West Sterling Indians vs. the Chicago Magicians
+
+The Wyoming Ducks vs. the Atlanta Ducks
+
+The Baltimore Bears vs. the New York Bears
+
+The Philadelphia Soldiers vs. the New Jersey Ducks
+
+The Atlanta Bears vs. the Washington Beavers
+
+The Knox County Dogs vs. the Baltimore Wildcats
+
+The Kansas City Beavers vs. the Middleport Raiders
+
+The Miami Dolphins vs. the Blockland Magicians
+
+The Atlanta Buffalo vs. the Washington Doctors
+
+The Petertown Raiders vs. the Philadelphia Geese
+
+The Pittsburgh Tigers vs. the Minneapolis Cowboys
+
+The Georgia Wildcats vs. the Houston JetsResults for "sports_football_match"
+Defined in module sports.py
+
+The Houston Wildcats vs. the Baltimore Dolphins
+
+The San Francisco Soldiers vs. the San Francisco Slaves
+
+The Dallas Soldiers vs. the Baltimore Ducks
+
+The San Francisco Dogs vs. the Suffolk County Soldiers
+
+The Houston Tigers vs. the Houston Wildcats
+
+The San Jose Tigers vs. the Memphis Dogs
+
+The Dallas Buffalo vs. the New York Soldiers
+
+The Los Angeles Buffalo vs. the Houston Dolphins
+
+The Detroit Dogs vs. the Nashville Ducks
+
+The North Pinefield Wildcats vs. the South Peterville Ducks
+
+The Columbus, Orange County Doctors vs. the Monroe County Wildcats
+
+The Baltimore Geese vs. the Baltimore Dolphins
+
+The Florida Jets vs. the Seattle Magicians
+
+The Winslow, Sussex County Hornets vs. the San Francisco Tigers
+
+The Seattle Hornets vs. the Seattle Raiders
+
+The Memphis Dogs vs. the Lincoln, Essex County Hornets
+
+The New Jersey Geese vs. the Texas Indians
+
+The Nashville Buffalo vs. the Baltimore Slaves
+
+The Washington Doctors vs. the Dallas Hornets
+
+The Baltimore Jets vs. the Miami BuffaloResults for "sports_football_match"
+Defined in module sports.py
+
+The Louisiana Soldiers vs. the Seattle Buffalo
+
+The Kansas City Indians vs. the Pennsylvania Bears
+
+The Chicago Raiders vs. the New York Slaves
+
+The Forbes Doctors vs. the Memphis Dolphins
+
+The Maine Dolphins vs. the San Francisco Geese
+
+The Mildale, Norfolk County Bears vs. the Miami Hornets
+
+The Florida Dogs vs. the Montana Ducks
+
+The Miami Magicians vs. the Chicago Raiders
+
+The Seattle Wildcats vs. the Washington Dolphins
+
+The Massachusetts Hornets vs. the East Polk Dogs
+
+The Detroit Geese vs. the South Dakota Sharks
+
+The San Jose Dolphins vs. the San Jose Beavers
+
+The Mount Parker Dolphins vs. the Philadelphia Wildcats
+
+The West Virginia Geese vs. the Pittsburgh Wildcats
+
+The Stanley Dolphins vs. the North Johnshill Doctors
+
+The Iowa Jets vs. the Houston Tigers
+
+The Kansas City Jets vs. the MacArthur (Fairfax County) Hornets
+
+The Hawaii Jets vs. the Mount Clark Beavers
+
+The Denver Dogs vs. the California Indians
+
+The Lawson (Montgomery County) Buffalo vs. the Houston SharksResults for "sports_football_match"
+Defined in module sports.py
+
+The Pittsburgh Jets vs. the Boston Geese
+
+The Lincoln, Jefferson County Bears vs. the New Harrison Cowboys
+
+The Caldecott Indians vs. the Columbus, Adams County Tigers
+
+The Philadelphia Soldiers vs. the Detroit Magicians
+
+The Nebraska Dolphins vs. the Washington Raiders
+
+The Springfield, Orange County Dolphins vs. the Pittsburgh Geese
+
+The Orange County Cowboys vs. the Baltimore Wildcats
+
+The Kansas City Tigers vs. the South Carolina Sharks
+
+The Bedforddale Sharks vs. the Overdale (Sussex County) Dogs
+
+The Missouri Beavers vs. the Columbus (Montgomery County) Jets
+
+The Maine Hornets vs. the Los Angeles Doctors
+
+The San Jose Raiders vs. the Seattle Wildcats
+
+The Kansas City Dogs vs. the Lincoln, Suffolk County Wildcats
+
+The Minneapolis Hornets vs. the Baltimore Slaves
+
+The Nashville Tigers vs. the Georgeford Raiders
+
+The Los Angeles Magicians vs. the Fredericksburg Jets
+
+The Los Angeles Wildcats vs. the Nashville Wildcats
+
+The Chicago Raiders vs. the Kentucky Slaves
+
+The Boston Bears vs. the Illinois Indians
+
+The Missouri Dolphins vs. the New Jersey Doctors

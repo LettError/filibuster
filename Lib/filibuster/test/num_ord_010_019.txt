@@ -1,14 +1,240 @@
+Results for "num_ord_010_019"
+Defined in module general.py
+Used in articles.py, general.py, horoscope.py
 
+seventeenth
 
-tenth
+eleventh
 
 thirteenth
 
 twelfth
 
+eighteenth
+
+fourteenth
+
+fourteenth
+
+thirteenth
+
+tenth
+
+sixteenth
+
+twelfth
+
+twelfth
+
+twelfth
+
+fifteenth
+
+eleventh
+
+thirteenth
+
+twelfth
+
+seventeenth
+
+seventeenth
+
+sixteenthResults for "num_ord_010_019"
+Defined in module general.py
+Used in articles.py, general.py, horoscope.py
+
+sixteenth
+
+seventeenth
+
+sixteenth
+
+eighteenth
+
+thirteenth
+
+eleventh
+
+tenth
+
+fifteenth
+
+fourteenth
+
+eleventh
+
+eighteenth
+
+thirteenth
+
+tenth
+
+twelfth
+
+thirteenth
+
+eleventh
+
+fifteenth
+
+eighteenth
+
+sixteenth
+
+nineteenthResults for "num_ord_010_019"
+Defined in module general.py
+Used in articles.py, general.py, horoscope.py
+
+tenth
+
+tenth
+
+sixteenth
+
+fourteenth
+
+thirteenth
+
+eighteenth
+
+seventeenth
+
 fourteenth
 
 seventeenth
+
+seventeenth
+
+tenth
+
+tenth
+
+twelfth
+
+tenth
+
+seventeenth
+
+nineteenth
+
+sixteenth
+
+eleventh
+
+sixteenth
+
+eleventhResults for "num_ord_010_019"
+Defined in module general.py
+Used in articles.py, general.py, horoscope.py
+
+sixteenth
+
+nineteenth
+
+twelfth
+
+fourteenth
+
+eighteenth
+
+tenth
+
+fourteenth
+
+eighteenth
+
+nineteenth
+
+fourteenth
+
+seventeenth
+
+nineteenth
+
+fourteenth
+
+sixteenth
+
+thirteenth
+
+eighteenth
+
+tenth
+
+sixteenth
+
+seventeenth
+
+eleventhResults for "num_ord_010_019"
+Defined in module general.py
+Used in articles.py, general.py, horoscope.py
+
+thirteenth
+
+eleventh
+
+nineteenth
+
+fifteenth
+
+eighteenth
+
+twelfth
+
+eighteenth
+
+seventeenth
+
+seventeenth
+
+seventeenth
+
+tenth
+
+seventeenth
+
+sixteenth
+
+fourteenth
+
+fifteenth
+
+seventeenth
+
+nineteenth
+
+tenth
+
+fifteenth
+
+nineteenthResults for "num_ord_010_019"
+Defined in module general.py
+Used in articles.py, general.py, horoscope.py
+
+eleventh
+
+fourteenth
+
+seventeenth
+
+fifteenth
+
+fourteenth
+
+thirteenth
+
+sixteenth
+
+fourteenth
+
+tenth
+
+fifteenth
+
+eighteenth
+
+eighteenth
 
 eighteenth
 
@@ -16,6 +242,12 @@ nineteenth
 
 tenth
 
-tenth
+twelfth
 
 sixteenth
+
+fifteenth
+
+fifteenth
+
+eighteenth

@@ -8,11 +8,11 @@
 evb        - note: only one dictionary named 'content' allowed per module
         this limitation is to speed up loading
 
-3.0.1    - added some more collected mottos for filibuster
+4.0    - added some more collected mottos for filibuster
 evb
 """
 
-__version__ = '3.0.1'
+__version__ = '4.0'
 __author__ = "someone"
 
 # ------------------------------------------------------

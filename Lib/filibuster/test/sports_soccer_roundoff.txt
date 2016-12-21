@@ -1,21 +1,253 @@
+Results for "sports_soccer_roundoff"
+Defined in module sports.py
+Used in sports.py
 
+didn't too well in the GoldLeague but the new players McNaville and Schneider are working miracles.
 
-is doing very well in the PremierChampionship.
+didn't too well in the IRFA PremierCup but the new players Suarez and King are working miracles.
 
-didn't too well in the YFA GoldChampionship but the new players Kaho and Martin are working miracles.
+is doing very well in the GoldLeague.
 
-is doing very well in the KasanCup.
+is doing very well in the JFA GoldLeague.
 
-didn't too well in the IJFA PremierChampionship but the new players Cook and Takati are working miracles.
+is doing very well in the CFA HonorChampionship.
 
-didn't too well in the ITFA PremierCup but the new players Marinski and Fernandez are working miracles.
+is doing very well in the PremierCup.
 
-didn't too well in the HonorCup but the new players Mayima and Schafmannteicherbach are working miracles.
+didn't too well in the LFA HonorCompetition but the new players Johnson and Nobelman are working miracles.
 
-is doing very well in the DavenportChampionship.
+didn't too well in the INFA PolkCup but the new players François and Von bauererburgerlerberg are working miracles.
+
+didn't too well in the ChampionsChampionship but the new players Sushikan and Sánchez are working miracles.
+
+didn't too well in the EuroChampionship but the new players Françoise and Hussain are working miracles.
+
+didn't too well in the WorldCompetition but the new players Harrison and Thompson are working miracles.
+
+didn't too well in the MatsihasanCompetition but the new players Frime and Münchberg are working miracles.
+
+is doing very well in the EuroCompetition.
+
+is doing very well in the YFA WesternCup.
+
+didn't too well in the IVFA ChampionsCompetition but the new players Gibbs and Johnson are working miracles.
+
+didn't too well in the MFA WestCorpCompetition but the new players François and Begum are working miracles.
+
+is doing very well in the PremierCompetition.
+
+didn't too well in the HonorCup but the new players Kwon and Johnson are working miracles.
+
+didn't too well in the HonorChampionship but the new players Li and Ångstrøm are working miracles.
+
+didn't too well in the HonorChampionship but the new players DiLorenzo and Campbell are working miracles.Results for "sports_soccer_roundoff"
+Defined in module sports.py
+Used in sports.py
+
+didn't too well in the QFA PremierLeague but the new players Fernandez and Schwankingerland are working miracles.
+
+didn't too well in the FFA HonorLeague but the new players Marlowe and Fernandez are working miracles.
+
+is doing very well in the IXFA WesternCup.
+
+is doing very well in the IJFA HonorCompetition.
+
+is doing very well in the AFA HonorCup.
+
+is doing very well in the IHFA GoldCompetition.
+
+didn't too well in the WorldChampionship but the new players Jones and Frime are working miracles.
+
+didn't too well in the GoldLeague but the new players Suarez and Price are working miracles.
+
+didn't too well in the AFA ChampionsCup but the new players Lin and Clarke are working miracles.
 
 is doing very well in the WesternChampionship.
 
-didn't too well in the PremierCup but the new players Visigoth and Miyubi are working miracles.
+didn't too well in the ChampionsLeague but the new players Pierre and Russell are working miracles.
 
-is doing very well in the HFA HonorChampionship.
+didn't too well in the CFA WesternLeague but the new players Cho and Jacques are working miracles.
+
+didn't too well in the ICFA EuroCup but the new players Russell and Adenerbürg are working miracles.
+
+didn't too well in the HonorCompetition but the new players López and Price are working miracles.
+
+didn't too well in the PremierCup but the new players Suh and Smith are working miracles.
+
+didn't too well in the IKFA ChampionsChampionship but the new players Sunmi and Philipe are working miracles.
+
+is doing very well in the ChampionsLeague.
+
+is doing very well in the ChampionsCompetition.
+
+is doing very well in the IRFA WorldChampionship.
+
+is doing very well in the HFA WesternLeague.Results for "sports_soccer_roundoff"
+Defined in module sports.py
+Used in sports.py
+
+didn't too well in the TFA PremierLeague but the new players Martínez and Dominguez are working miracles.
+
+is doing very well in the PremierCup.
+
+is doing very well in the WesternCompetition.
+
+is doing very well in the UFA ChampionsCup.
+
+is doing very well in the EuroCompetition.
+
+didn't too well in the OFA WorldLeague but the new players Scott and Schankenstuhl are working miracles.
+
+is doing very well in the WorldCup.
+
+is doing very well in the WorldLeague.
+
+didn't too well in the HonorLeague but the new players Holmes and Robinson are working miracles.
+
+didn't too well in the IBFA PremierCompetition but the new players Ellis and Morgan are working miracles.
+
+didn't too well in the IOFA PremierCup but the new players Marsh and Schuffer are working miracles.
+
+didn't too well in the EFA SanhiCompetition but the new players Hall and Khan are working miracles.
+
+didn't too well in the DFA EuroCompetition but the new players Chapman and Devries are working miracles.
+
+didn't too well in the FisherLeague but the new players Stiefel and Butler are working miracles.
+
+is doing very well in the ICFA HonorChampionship.
+
+didn't too well in the WorldCompetition but the new players Mason and Robinson are working miracles.
+
+didn't too well in the EuroLeague but the new players Davis and Mason are working miracles.
+
+is doing very well in the WFA HonorCup.
+
+didn't too well in the UFA WesternChampionship but the new players Ruiz and Jean are working miracles.
+
+didn't too well in the MatsushaLeague but the new players Jean and Katsuyi are working miracles.Results for "sports_soccer_roundoff"
+Defined in module sports.py
+Used in sports.py
+
+is doing very well in the WesternCompetition.
+
+is doing very well in the WesternCompetition.
+
+didn't too well in the IFFA WorldCompetition but the new players Vanderkeere and Knight are working miracles.
+
+is doing very well in the ChampionsLeague.
+
+is doing very well in the ChampionsCompetition.
+
+is doing very well in the WorldCup.
+
+is doing very well in the TransTelCompetition.
+
+is doing very well in the GoldCompetition.
+
+didn't too well in the HonorChampionship but the new players Smith and Jean are working miracles.
+
+is doing very well in the IDFA WesternLeague.
+
+is doing very well in the GoldCup.
+
+is doing very well in the EuroLeague.
+
+didn't too well in the ITFA SunTechCup but the new players Kako and Turner are working miracles.
+
+didn't too well in the ChampionsCompetition but the new players Holmes and Arl are working miracles.
+
+didn't too well in the PremierCup but the new players McMillen and Li are working miracles.
+
+is doing very well in the IUFA HonorLeague.
+
+didn't too well in the GoldLeague but the new players Keaney and Wilkinson are working miracles.
+
+is doing very well in the HonorCompetition.
+
+is doing very well in the ChampionsLeague.
+
+is doing very well in the ChampionsLeague.Results for "sports_soccer_roundoff"
+Defined in module sports.py
+Used in sports.py
+
+is doing very well in the HonorCompetition.
+
+didn't too well in the HonorCompetition but the new players Jean and Kaye are working miracles.
+
+is doing very well in the WorldLeague.
+
+is doing very well in the IVFA TabankobanLeague.
+
+didn't too well in the HonorChampionship but the new players Suh and Roberts are working miracles.
+
+didn't too well in the YatsiCompetition but the new players Mitchell and Begum are working miracles.
+
+didn't too well in the PremierLeague but the new players Tomiyu and Jeanne are working miracles.
+
+didn't too well in the IOFA PremierCompetition but the new players Jeanne and Hoffman are working miracles.
+
+is doing very well in the IYFA WorldChampionship.
+
+didn't too well in the ChampionsCup but the new players Müncherle and Schneider are working miracles.
+
+didn't too well in the IJFA ChampionsCompetition but the new players Webb and Dortentropp are working miracles.
+
+is doing very well in the JohnsCompetition.
+
+is doing very well in the WorldCup.
+
+is doing very well in the JenningsCompetition.
+
+didn't too well in the IIFA PremierCup but the new players Cooper and Stromby are working miracles.
+
+is doing very well in the EuroCompetition.
+
+didn't too well in the KFA PremierCompetition but the new players Pwolley and Kelly are working miracles.
+
+is doing very well in the IBFA WesternCup.
+
+didn't too well in the PremierChampionship but the new players Marinski and Yatiyo are working miracles.
+
+didn't too well in the EuroCup but the new players Larssen and Stormby are working miracles.Results for "sports_soccer_roundoff"
+Defined in module sports.py
+Used in sports.py
+
+didn't too well in the GoldCup but the new players Philipe and Baker are working miracles.
+
+is doing very well in the IRFA HonorCompetition.
+
+didn't too well in the EuroCup but the new players Von breiererdorfelentropf and Bäckerbach are working miracles.
+
+is doing very well in the WestComCup.
+
+is doing very well in the PremierCup.
+
+is doing very well in the IVFA WesternCup.
+
+is doing very well in the JohnsCup.
+
+is doing very well in the IGFA ChampionsCup.
+
+is doing very well in the EuroLeague.
+
+is doing very well in the CFA WesternCup.
+
+didn't too well in the IGFA EuroCup but the new players Handersjen and Álvarez are working miracles.
+
+is doing very well in the WesternCompetition.
+
+is doing very well in the WesternCup.
+
+didn't too well in the OFA SkyComCompetition but the new players Fisher and Campbell are working miracles.
+
+didn't too well in the ChampionsCompetition but the new players Miller and Green are working miracles.
+
+didn't too well in the PremierCompetition but the new players Barker and Carter are working miracles.
+
+is doing very well in the IKFA PremierCup.
+
+didn't too well in the WesternCompetition but the new players Tiefmark and McNaville are working miracles.
+
+didn't too well in the WesternCup but the new players Davidoff and Suarez are working miracles.
+
+didn't too well in the IJFA AmeriTelCup but the new players Davidoff and Thompson are working miracles.

@@ -1,6 +1,22 @@
-
+Results for "p_eurobank_px1"
+Defined in module financial.py
+Used in financial.py
 
 Credit-Lyonnais
+
+ABN-AMRO
+
+Royal
+
+Royal
+
+ING
+
+Deutsche
+
+ING
+
+ING
 
 Royal
 
@@ -8,7 +24,85 @@ Royal
 
 Deutsche
 
+PariBas
+
+Deutsche
+
+Deutsche
+
+Credit-Lyonnais
+
+Deutsche
+
 ING
+
+PariBas
+
+Royal
+
+PariBasResults for "p_eurobank_px1"
+Defined in module financial.py
+Used in financial.py
+
+ABN-AMRO
+
+ING
+
+Credit-Lyonnais
+
+ABN-AMRO
+
+Royal
+
+ABN-AMRO
+
+Royal
+
+ING
+
+ABN-AMRO
+
+ABN-AMRO
+
+ING
+
+ABN-AMRO
+
+Credit-Lyonnais
+
+Royal
+
+Deutsche
+
+Royal
+
+ABN-AMRO
+
+ABN-AMRO
+
+ING
+
+Credit-LyonnaisResults for "p_eurobank_px1"
+Defined in module financial.py
+Used in financial.py
+
+ABN-AMRO
+
+ABN-AMRO
+
+Deutsche
+
+ING
+
+ING
+
+Credit-Lyonnais
+
+PariBas
+
+Credit-Lyonnais
+
+Credit-Lyonnais
 
 ING
 
@@ -16,6 +110,144 @@ ABN-AMRO
 
 Deutsche
 
+Deutsche
+
+Credit-Lyonnais
+
+ABN-AMRO
+
+Deutsche
+
+Deutsche
+
+PariBas
+
+ABN-AMRO
+
+PariBasResults for "p_eurobank_px1"
+Defined in module financial.py
+Used in financial.py
+
+Royal
+
+Royal
+
+ING
+
+PariBas
+
+Royal
+
+ING
+
+ING
+
+ING
+
+ABN-AMRO
+
+ABN-AMRO
+
+PariBas
+
+ABN-AMRO
+
+ING
+
+ABN-AMRO
+
+PariBas
+
+Royal
+
+Royal
+
+ABN-AMRO
+
+PariBas
+
+RoyalResults for "p_eurobank_px1"
+Defined in module financial.py
+Used in financial.py
+
+Credit-Lyonnais
+
+ABN-AMRO
+
+Royal
+
+ABN-AMRO
+
+ABN-AMRO
+
+ABN-AMRO
+
+Deutsche
+
+Credit-Lyonnais
+
+ABN-AMRO
+
+PariBas
+
+PariBas
+
+Deutsche
+
+Credit-Lyonnais
+
+PariBas
+
+PariBas
+
+ABN-AMRO
+
+ABN-AMRO
+
+Deutsche
+
+Deutsche
+
+ABN-AMROResults for "p_eurobank_px1"
+Defined in module financial.py
+Used in financial.py
+
+Deutsche
+
+ING
+
+Deutsche
+
+Credit-Lyonnais
+
+ABN-AMRO
+
+Deutsche
+
+Deutsche
+
 Royal
 
 PariBas
+
+ING
+
+PariBas
+
+Royal
+
+ABN-AMRO
+
+ING
+
+ABN-AMRO
+
+ING
+
+Royal
+
+ING
+
+PariBas
+
+Credit-Lyonnais

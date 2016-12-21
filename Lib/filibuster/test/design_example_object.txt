@@ -1,8 +1,31 @@
+Results for "design_example_object"
+Defined in module design.py
 
+book
 
-small press edition for Paul Jennings in 1940
+book on Brian Eno
+
+small press edition for Polk Bourne, Jr. in 1906
 
 advertisement
+
+small press edition for Patrick Johns Foster, Jr. in 1932
+
+book on Lorainne Wild
+
+small press edition for W. Caldecott Harrison in 1914
+
+book on Foster Clark
+
+book on Karel Treebus
+
+advertisement
+
+advertisement
+
+book on Piet Zwart
+
+small press edition for Emerson Bryant in 1925
 
 advertisement
 
@@ -12,10 +35,213 @@ book cover
 
 book
 
-small press edition for Foster Carson in 1941
-
-book on Louise Sandhaus
-
-small press edition for Lyndon Harper in 1922
+book cover
 
 advertisement
+
+book on Rem KoolhaasResults for "design_example_object"
+Defined in module design.py
+
+book on Dawn Barrett
+
+book
+
+book cover
+
+book on Andy Warhol
+
+advertisement
+
+book
+
+advertisement
+
+book on David Byrne
+
+book cover
+
+book
+
+book cover
+
+book
+
+book on Bill Kennerley Calder
+
+book
+
+book cover
+
+book cover
+
+book cover
+
+small press edition for T. Paul Adams in 1917
+
+small press edition for John Morgan Dunbar in 1937
+
+small press edition for Hollings Harper Sinclair in 1944Results for "design_example_object"
+Defined in module design.py
+
+book
+
+small press edition for Ted Lawson in 1932
+
+small press edition for George Winslow IV in 1906
+
+book
+
+book cover
+
+book cover
+
+book on MacArthur Caldecott
+
+book
+
+book
+
+book on Dawn Barrett
+
+advertisement
+
+advertisement
+
+book cover
+
+advertisement
+
+book cover
+
+advertisement
+
+small press edition for Dick D. White in 1907
+
+book on Gert Dumbar
+
+advertisement
+
+book on Brian EnoResults for "design_example_object"
+Defined in module design.py
+
+advertisement
+
+book on Ellen Lupton
+
+book cover
+
+book
+
+book
+
+advertisement
+
+small press edition for Brad Vanderpool in 1911
+
+book on Peter Bil’ak
+
+book on Christian Schwarz
+
+book
+
+small press edition for David Morgan in 1958
+
+small press edition for Bill Sinclair in 1933
+
+book on Rem Koolhaas
+
+small press edition for Sloane Johns, Jr. in 1952
+
+book
+
+book cover
+
+advertisement
+
+book
+
+advertisement
+
+small press edition for Blockland Price in 1950Results for "design_example_object"
+Defined in module design.py
+
+book on Bill Jennings
+
+book on Allan Turing
+
+book
+
+book on Rudy Vanderlans
+
+book on Rudy Vanderlans
+
+small press edition for Acheson Polk in 1902
+
+book cover
+
+book on Rem Koolhaas
+
+small press edition for Bob Kennerley in 1903
+
+book
+
+book on Ann Burdick
+
+book
+
+small press edition for Morgan M. Tate in 1902
+
+small press edition for Tyler Morgan in 1958
+
+book on Allan Turing
+
+advertisement
+
+book
+
+book cover
+
+advertisement
+
+small press edition for Rowe Riley in 1934Results for "design_example_object"
+Defined in module design.py
+
+advertisement
+
+book on Rem Koolhaas
+
+book cover
+
+book
+
+small press edition for MacArthur Parham in 1944
+
+book cover
+
+book cover
+
+book on Sjoerd de Roos
+
+book
+
+small press edition for Craig Whitney Stern in 1922
+
+small press edition for Peter H. Bushnell in 1947
+
+book on Rudy Vanderlans
+
+small press edition for James T. MacArthur in 1954
+
+book
+
+book
+
+book cover
+
+book on Walter Nikkels
+
+advertisement
+
+book cover
+
+small press edition for Sinclair Bushnell, Jr. in 1937

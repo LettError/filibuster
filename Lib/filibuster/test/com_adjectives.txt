@@ -1,21 +1,253 @@
+Results for "com_adjectives"
+Defined in module commercial.py
+Used in commercial.py
 
+****
 
-concentrated
+greasy
 
-stronger
+serious
 
-nano
+international
+
+diseased
+
+international
+
+european
+
+Xtra-Lite
+
+!!
+
+hand picked
+
+macro
+
+strong
+
+international
+
+@
+
+pro
+
+All-american
+
+wet
+
+bang
+
+strong
+
+yukResults for "com_adjectives"
+Defined in module commercial.py
+Used in commercial.py
+
+real
+
+demo
+
+@
+
+national
+
+Teal
+
+Day-Glo
+
+prohibitive
+
+Breezy
+
+electronic
+
+hypodermic
 
 mini
 
-Wide
+wet
 
-cristalised
+Friendly
 
-Green
+icky
+
+First
+
+serious
+
+fecal
+
+marketing
+
+New
+
+hand pickedResults for "com_adjectives"
+Defined in module commercial.py
+Used in commercial.py
+
+pre-packaged
+
+pre-packaged
+
+only
+
+White
+
+washable
+
+Cheezy
+
+Vacuum
+
+Hi-cal
+
+gr33n
+
+politically correct
+
+Black
+
+retroactive
+
+adaptable
+
+more
+
+big
+
+Hi-cal
+
+personal
+
+Unique
+
+nano
+
+BlackResults for "com_adjectives"
+Defined in module commercial.py
+Used in commercial.py
+
+american
+
+*
+
+Vacuum
+
+massive
+
+Used
+
+washable
+
+hypodermic
+
+special
+
+digital
+
+radical
+
+excellent
+
+reduced
+
+caffein free
+
+freez-dried
+
+greasy
+
+gr33n
+
+washing
+
+politically correct
+
+personal
+
+@Results for "com_adjectives"
+Defined in module commercial.py
+Used in commercial.py
+
+Low calories
+
+washable
+
+Å
+
+stronger
+
+nu & improovd
+
+politically correct
+
+freez-dried
+
+?
+
+techno
+
+!!
+
+!
+
+*
+
+freez-dried
+
+Friendly
+
+retroactive
+
+h3110!
+
+super
+
+micro
+
+personal
+
+miniResults for "com_adjectives"
+Defined in module commercial.py
+Used in commercial.py
 
 yuk
 
-Transparant!
+artificial
 
-four star!
+extra strength
+
+country style
+
+Teal
+
+New
+
+adaptable
+
+cristalised
+
+White
+
+giga
+
+EXTRA
+
+Cheezy
+
+sexy
+
+Now!
+
+extra wide
+
+Xtra-Lite
+
+direct
+
+Recycled
+
+excellent
+
+hand picked

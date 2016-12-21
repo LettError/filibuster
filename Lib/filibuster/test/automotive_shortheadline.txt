@@ -1,21 +1,253 @@
+Results for "automotive_shortheadline"
+Defined in module automotive.py
+Used in automotive.py
 
+Cadillac
 
-T-bucket
+Toyota 429 Super Cobra Jet
 
-Ford
-
-Saab
-
-Renault
-
-Audi
-
-Galaxie 500, 327 Turbo-Fire
-
-Goat, 340 Six Pack
+Saab Boss 302
 
 Mercedes
 
+Saab
+
+Cadillac LT-1 350
+
+Pontiac 426 Hemi
+
+Citroën 429 Super Cobra Jet
+
+Ford Boss 302
+
+Nissan
+
+Impala
+
+’32 Ford, 440 Wedge
+
 ’67 Chevelle
 
-Shelby Cobra, 327 Turbo-Fire
+Nissan
+
+Nissan
+
+Cadillac
+
+Stang
+
+Volvo Rat motor
+
+Ford
+
+Galaxie 500, 426 HemiResults for "automotive_shortheadline"
+Defined in module automotive.py
+Used in automotive.py
+
+Citroën
+
+T-bucket, 327 Turbo-Fire
+
+Citroën
+
+Chevy II, Boss 302
+
+’32 Ford
+
+Audi
+
+’67 Chevelle
+
+Galaxie 500, LT-1 350
+
+Mercedes
+
+Ford
+
+Pontiac
+
+Hi boy roadster
+
+Toyota
+
+Mercedes
+
+Citroën Boss 302
+
+Stang, Boss 302
+
+’57 Chevy, 429 Super Cobra Jet
+
+Nissan
+
+Volvo
+
+FordResults for "automotive_shortheadline"
+Defined in module automotive.py
+Used in automotive.py
+
+Ford
+
+Citroën
+
+Ford
+
+Volvo
+
+Volvo Rat motor
+
+Ford
+
+Cadillac
+
+Cadillac
+
+’55 Merc, Rat motor
+
+Renault
+
+Fairlane, Flathead V8
+
+Pontiac
+
+Ford
+
+Audi
+
+Ford 409
+
+Pontiac 429 Super Cobra Jet
+
+Nissan
+
+Nissan
+
+Shelby Cobra, 340 Six Pack
+
+Stang, Boss 302Results for "automotive_shortheadline"
+Defined in module automotive.py
+Used in automotive.py
+
+Shelby Cobra
+
+Cadillac
+
+Pontiac
+
+Citroën
+
+Vette
+
+Pontiac Flathead V8
+
+Stang, 340 Six Pack
+
+Nissan
+
+Volvo
+
+Citroën
+
+’67 Chevelle
+
+Willys coupe
+
+Vette, 429 Super Cobra Jet
+
+Renault
+
+Nissan
+
+Renault
+
+Vette
+
+Ford 340 Six Pack
+
+Cadillac
+
+Galaxie 500Results for "automotive_shortheadline"
+Defined in module automotive.py
+Used in automotive.py
+
+Charger, 426 Hemi
+
+Nissan
+
+Audi
+
+GT 350, Flathead V8
+
+Goat, 409
+
+Audi
+
+Pontiac
+
+Citroën
+
+’55 Merc, LT-1 350
+
+Fairlane, Boss 302
+
+Pontiac
+
+’67 Chevelle, 409
+
+Toyota
+
+Pontiac
+
+Pontiac
+
+Pontiac
+
+Cadillac
+
+Cadillac
+
+Charger
+
+Pontiac 426 HemiResults for "automotive_shortheadline"
+Defined in module automotive.py
+Used in automotive.py
+
+Cadillac Rat motor
+
+’55 Merc
+
+Nissan
+
+Renault LT-1 350
+
+Galaxie 500, 327 Turbo-Fire
+
+Renault
+
+Cadillac
+
+Fairlane, Rat motor
+
+Nissan
+
+Renault 340 Six Pack
+
+Volkswagen
+
+Renault
+
+’32 Ford
+
+Goat
+
+Citroën 429 Super Cobra Jet
+
+Duece
+
+Audi Rat motor
+
+Hi boy roadster, Rat motor
+
+Chevy II
+
+Pontiac

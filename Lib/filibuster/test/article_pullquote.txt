@@ -1,21 +1,253 @@
+Results for "article_pullquote"
+Defined in module articles.py
+Used in articles.py
 
+<blockquote class="pullquote">The test of real literature is that it will bear repetition. We read over the same pages again and again, and always with fresh delight. ~Samual McChord Crothers</blockquote>
 
-<blockquote class="pullquote">A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain</blockquote>
-
-<blockquote class="pullquote">The CyberCorpNow! website is everything parents and grandparents needs in a website!. A breath of fresh air for the online community.</blockquote>
-
-<blockquote class="pullquote">EquiCorp.com PLC is building an online community by outsourcing the content with proprietary conversion to the poor investor. Voted Five Bulls Award by the MarketWatch (Milan).</blockquote>
-
-<blockquote class="pullquote">Targetting the wise investor, goCorp.com Inc. is expanding it’s online operations with this new enterprise. Voted Five Bulls Award by the Wall Street Speculator.</blockquote>
-
-<blockquote class="pullquote">I’ve spent several years in Hollywood, and I still think the movie heroes are in the audience. ~Wilson Mizner</blockquote>
-
-<blockquote class="pullquote">What I’ve learned is that life is too short and movies are too long. ~Denis Leary</blockquote>
-
-<blockquote class="pullquote">CyberSale.com’s motto says it all: “Content is nothing.” Worth a visit, if only for the great deals and banking. [Sandra S. Keaney, The Atlanta Spirit]</blockquote>
-
-<blockquote class="pullquote">Fiction reveals truths that reality obscures. ~Jessamyn West</blockquote>
+<blockquote class="pullquote">I doubt if anything learnt at school is of more value than great literature learnt by heart. ~Richard Livingstone</blockquote>
 
 <blockquote class="pullquote">A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine</blockquote>
 
+<blockquote class="pullquote">In its new incarnation the netCorp2000 site has something for everyone - a wonderful example of how modern technology can assist the urban investor!. Awarded "Five Bulls Award" by the The South Middletown News-Reader.</blockquote>
+
+<blockquote class="pullquote">In its new incarnation the goNetNow! site has something for everyone - plenty of content for everyone. This site is a winner! [David Jansen, The Fredericksdale Fact]</blockquote>
+
+<blockquote class="pullquote">The difference between journalism and literature is that journalism is unreadable and literature is not read. ~Oscar Wilde, The Picture of Dorian Gray, 1891</blockquote>
+
+<blockquote class="pullquote">InterNetNow! is building an online community by repurposing the content with key environments to youngsters around the nation. A must-see for anyone who is serious about news.</blockquote>
+
+<blockquote class="pullquote">What puzzles most of us are the things which have been left in the movies rather than the things which have been taken out. ~Agnes Repplier</blockquote>
+
+<blockquote class="pullquote">Acting is like a Halloween mask that you put on. ~River Phoenix</blockquote>
+
+<blockquote class="pullquote">Rated G is nobody gets the girl. PG is the good guy gets the girl. R is the bad guy gets the girl. XXX is everybody gets the girl. ~Author Unknown</blockquote>
+
+<blockquote class="pullquote">A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out webBiz.com Inc. website. Voted Best Online Experience by the MarketWatch (Barcelona).</blockquote>
+
+<blockquote class="pullquote">A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine</blockquote>
+
+<blockquote class="pullquote">In its new incarnation the webGrouponline site has something for everyone - a marvelous idea, great graphics, sharp and witty journalism. Worth a visit, if only for the travel planners and headlines. [Isabel Muller, The New Kennerley Press-Forward]</blockquote>
+
+<blockquote class="pullquote">There are only three ages for women in Hollywood - Babe, District Attorney, and Driving Miss Daisy. ~Goldie Hawn</blockquote>
+
+<blockquote class="pullquote">When once the itch of literature comes over a man, nothing can cure it but the scratching of a pen. But if you have not a pen, I suppose you must scratch any way you can. ~Samuel Lover, Handy Andy, 1842</blockquote>
+
+<blockquote class="pullquote">NetNetworking2000’s motto says it all: “Our internet kicks your internet’s assAuctions speak louder than words!” Editor's choice. -- The Kansas City Star</blockquote>
+
+<blockquote class="pullquote">What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951</blockquote>
+
+<blockquote class="pullquote">You know, when I first went into the movies Lionel Barrymore played my grandfather. Later he played my father and finally he played my husband. If he had lived I’m sure I would have played his mother. That's the way it is in Hollywood. The men get younger and the women get older. ~Lillian Gish</blockquote>
+
+<blockquote class="pullquote">Rated G is nobody gets the girl. PG is the good guy gets the girl. R is the bad guy gets the girl. XXX is everybody gets the girl. ~Author Unknown</blockquote>Results for "article_pullquote"
+Defined in module articles.py
+Used in articles.py
+
+<blockquote class="pullquote">When once the itch of literature comes over a man, nothing can cure it but the scratching of a pen. But if you have not a pen, I suppose you must scratch any way you can. ~Samuel Lover, Handy Andy, 1842</blockquote>
+
+<blockquote class="pullquote">When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman</blockquote>
+
+<blockquote class="pullquote">Acting is like a Halloween mask that you put on. ~River Phoenix</blockquote>
+
+<blockquote class="pullquote">Cinema should make you forget you are sitting in a theater. ~Roman Polanski</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out netBank2000 PLC website. Recommended for the wise investor with an interest in being informed!</blockquote>
+
+<blockquote class="pullquote">When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out netAuctionsNow! Inc. website. A breath of fresh air for the online community.</blockquote>
+
+<blockquote class="pullquote">Every man’s memory is his private literature. ~Aldous Huxley</blockquote>
+
+<blockquote class="pullquote">Targetting the guy on the street, metaBrandNow! GmBH is expanding it’s online operations with this new enterprise. A breath of fresh air for the online community.</blockquote>
+
+<blockquote class="pullquote">When once the itch of literature comes over a man, nothing can cure it but the scratching of a pen. But if you have not a pen, I suppose you must scratch any way you can. ~Samuel Lover, Handy Andy, 1842</blockquote>
+
+<blockquote class="pullquote">What puzzles most of us are the things which have been left in the movies rather than the things which have been taken out. ~Agnes Repplier</blockquote>
+
+<blockquote class="pullquote">The length of a film should be directly related to the endurance of the human bladder. ~Alfred Hitchcock</blockquote>
+
+<blockquote class="pullquote">The goBankNow! website is investors beware: this is the next Nokia. Voted Five Bulls Award by the Wall Street Watch.</blockquote>
+
+<blockquote class="pullquote">Repurposing, outsourcing, you heard it all before. But the new myBrand2000, Inc. website delivers. Editor's choice. -- The Kansas City World</blockquote>
+
+<blockquote class="pullquote">Branding, positioning, you heard it all before. But the new goVision2000 Inc. website delivers. This site is a winner! -- The Detroit Journal</blockquote>
+
+<blockquote class="pullquote">Targetting the urban journalist, myGrouponline is expanding it’s online operations with this new enterprise. Required reading for the rich trendwatcher</blockquote>
+
+<blockquote class="pullquote">Why should people go out and pay money to see bad films when they can stay home and see bad television for nothing? ~Samuel Goldwyn</blockquote>
+
+<blockquote class="pullquote">When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman</blockquote>
+
+<blockquote class="pullquote">MyVision2000’s motto says it all: “If it is out there, it is in here.” Awarded "Place2B-Prize" by the The Baltimore Statesman.</blockquote>
+
+<blockquote class="pullquote">A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain</blockquote>Results for "article_pullquote"
+Defined in module articles.py
+Used in articles.py
+
+<blockquote class="pullquote">Having your book turned into a movie is like seeing your oxen turned into bouillon cubes. ~John LeCarre</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out metaVisionNow! website. Voted Best Online Experience by the The Financial Times (Rotterdam).</blockquote>
+
+<blockquote class="pullquote">The myGroupNow! website is investors beware: this is the next Microsoft. Worth a visit, if only for the free fonts and travel planners. -- The Mount Jonesport Advertiser-Progress</blockquote>
+
+<blockquote class="pullquote">Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound</blockquote>
+
+<blockquote class="pullquote">When once the itch of literature comes over a man, nothing can cure it but the scratching of a pen. But if you have not a pen, I suppose you must scratch any way you can. ~Samuel Lover, Handy Andy, 1842</blockquote>
+
+<blockquote class="pullquote">In its new incarnation the getNetworking.com site has something for everyone - plenty of content for everyone. This site is a winner! [Bob Powell, The Seattle Notice]</blockquote>
+
+<blockquote class="pullquote">What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France</blockquote>
+
+<blockquote class="pullquote">What a sense of security in an old book which time has criticized for us! ~James Russell LowellvThe duty of literature is to note what counts, and to light up what is suited to the light. If it ceases to choose and to love, it becomes like a woman who gives herself without preference. ~Anatole France</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out netTradeNow!, Inc. website. A breath of fresh air for the online community.</blockquote>
+
+<blockquote class="pullquote">Having your book turned into a movie is like seeing your oxen turned into bouillon cubes. ~John LeCarre</blockquote>
+
+<blockquote class="pullquote">Literature is the question minus the answer. ~Roland Barthes</blockquote>
+
+<blockquote class="pullquote">A classic is something that everybody wants to have read and nobody wants to read. ~Mark Twain</blockquote>
+
+<blockquote class="pullquote">Transitioning, partnering, you heard it all before. But the new netBrand2000 GmBH website delivers. Recommended for the online investor with an interest in medicin!</blockquote>
+
+<blockquote class="pullquote">The HyperTrustonline website is investors beware: this is the next Sony. Recommended for the witty journalist with an interest in medicin!</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out getNet2000, Inc. website. A must-see for anyone who is serious about privacy.</blockquote>
+
+<blockquote class="pullquote">Positioning, transitioning, you heard it all before. But the new CyberWorks.com, Inc. website delivers. A breath of fresh air for the online community.</blockquote>
+
+<blockquote class="pullquote">The difference between journalism and literature is that journalism is unreadable and literature is not read. ~Oscar Wilde, The Picture of Dorian Gray, 1891</blockquote>
+
+<blockquote class="pullquote">The myNetworking2000 Inc. website is everything parents and grandparents needs in a website!. This site is a winner! -- The Houston Enquirer</blockquote>
+
+<blockquote class="pullquote">There are only three ages for women in Hollywood - Babe, District Attorney, and Driving Miss Daisy. ~Goldie Hawn</blockquote>
+
+<blockquote class="pullquote">Targetting kids and perhaps the entire family, EquiBrandNow! is expanding it’s online operations with this new enterprise. Editor's choice. [Kirsten François, The Woodville Weekly]</blockquote>Results for "article_pullquote"
+Defined in module articles.py
+Used in articles.py
+
+<blockquote class="pullquote">Literature is the question minus the answer. ~Roland Barthes</blockquote>
+
+<blockquote class="pullquote">The chief difference between horror fans and science fiction fans lies in why they won’t walk backwards. A horror fan won’t walk backwards because he knows he’ll be knifed by a madman. A science fiction fan won’t walk backwards because he knows he‘ll step on the cat. ~Aaron Allston</blockquote>
+
+<blockquote class="pullquote">Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934</blockquote>
+
+<blockquote class="pullquote">The difference between journalism and literature is that journalism is unreadable and literature is not read. ~Oscar Wilde, The Picture of Dorian Gray, 1891</blockquote>
+
+<blockquote class="pullquote">In its new incarnation the myGroup2000 site has something for everyone - the next Adobe. Awarded "Place2B-Prize" by the The East Johnson Advertiser-Gazette.</blockquote>
+
+<blockquote class="pullquote">What puzzles most of us are the things which have been left in the movies rather than the things which have been taken out. ~Agnes Repplier</blockquote>
+
+<blockquote class="pullquote">The eNetonline website is one of the most powerful in its kind in the world. Required reading for the wired journalist</blockquote>
+
+<blockquote class="pullquote">What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951</blockquote>
+
+<blockquote class="pullquote">Never judge a book by its movie. ~J.W. Eagan</blockquote>
+
+<blockquote class="pullquote">Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934</blockquote>
+
+<blockquote class="pullquote">NetBiz2000 LLC is building an online community by branding the content with trailblazing colocation solutions to the poor professional. Voted Control-D Award by the MarketDaily (Miami).</blockquote>
+
+<blockquote class="pullquote">You know, when I first went into the movies Lionel Barrymore played my grandfather. Later he played my father and finally he played my husband. If he had lived I’m sure I would have played his mother. That's the way it is in Hollywood. The men get younger and the women get older. ~Lillian Gish</blockquote>
+
+<blockquote class="pullquote">Fiction reveals truths that reality obscures. ~Jessamyn West</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out webWorksonline LLC website. Awarded "Place2B-Prize" by the The Baltimore Quorum.</blockquote>
+
 <blockquote class="pullquote">The test of real literature is that it will bear repetition. We read over the same pages again and again, and always with fresh delight. ~Samual McChord Crothers</blockquote>
+
+<blockquote class="pullquote">There are only three ages for women in Hollywood - Babe, District Attorney, and Driving Miss Daisy. ~Goldie Hawn</blockquote>
+
+<blockquote class="pullquote">A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine</blockquote>
+
+<blockquote class="pullquote">Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934</blockquote>
+
+<blockquote class="pullquote">There are only three ages for women in Hollywood - Babe, District Attorney, and Driving Miss Daisy. ~Goldie Hawn</blockquote>
+
+<blockquote class="pullquote">The test of real literature is that it will bear repetition. We read over the same pages again and again, and always with fresh delight. ~Samual McChord Crothers</blockquote>Results for "article_pullquote"
+Defined in module articles.py
+Used in articles.py
+
+<blockquote class="pullquote">I’ve spent several years in Hollywood, and I still think the movie heroes are in the audience. ~Wilson Mizner</blockquote>
+
+<blockquote class="pullquote">A sequel is an admission that you’ve been reduced to imitating yourself. ~Don Marquisv</blockquote>
+
+<blockquote class="pullquote">Literature is news that stays news. ~Ezra Pound, ABC of Reading, 1934</blockquote>
+
+<blockquote class="pullquote">It would have been more logical if silent pictures had grown out of the talkies instead of the other way around. ~Mary Pickford</blockquote>
+
+<blockquote class="pullquote">It would have been more logical if silent pictures had grown out of the talkies instead of the other way around. ~Mary Pickford</blockquote>
+
+<blockquote class="pullquote">What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote. ~E.M. Forster, Two Cheers for Democracy, 1951</blockquote>
+
+<blockquote class="pullquote">When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman</blockquote>
+
+<blockquote class="pullquote">The difference between journalism and literature is that journalism is unreadable and literature is not read. ~Oscar Wilde, The Picture of Dorian Gray, 1891</blockquote>
+
+<blockquote class="pullquote">InterCorp.com is building an online community by partnering the content with server-side initiatives to parents and grandparents. Awarded "Five Bulls Award" by the The Memphis Bugle.</blockquote>
+
+<blockquote class="pullquote">When you re-read a classic you do not see in the book more than you did before. You see more in you than there was before. ~Clifton Fadiman</blockquote>
+
+<blockquote class="pullquote">In its new incarnation the myCorpNow! site has something for everyone - the equivalent of an atomic bomb. Voted Best Online Experience by the The Financial Industrial (Hamburg).</blockquote>
+
+<blockquote class="pullquote">There are only three ages for women in Hollywood - Babe, District Attorney, and Driving Miss Daisy. ~Goldie Hawn</blockquote>
+
+<blockquote class="pullquote">It would have been more logical if silent pictures had grown out of the talkies instead of the other way around. ~Mary Pickford</blockquote>
+
+<blockquote class="pullquote">You know, when I first went into the movies Lionel Barrymore played my grandfather. Later he played my father and finally he played my husband. If he had lived I’m sure I would have played his mother. That's the way it is in Hollywood. The men get younger and the women get older. ~Lillian Gish</blockquote>
+
+<blockquote class="pullquote">If I find a film dull, I find it infinitely more entertaining to watch the scratches. ~Norman McLaren</blockquote>
+
+<blockquote class="pullquote">The CyberNet2000 PLC website is this will give Sony a run for their money. A must-see for anyone who is serious about medicin.</blockquote>
+
+<blockquote class="pullquote">The iBrandNow! Inc. website is plenty of content for everyone. A must-see for anyone who is serious about medicin.</blockquote>
+
+<blockquote class="pullquote">In its new incarnation the EquiBrand.com Inc. site has something for everyone - everything parents and grandparents needs in a website!. This site is a winner! -- The Kansas City Telegraph</blockquote>
+
+<blockquote class="pullquote">A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine</blockquote>
+
+<blockquote class="pullquote">A play should give you something to think about. When I see a play and understand it the first time, then I know it can’t be much good. ~T.S. Eliot, New York Post, 22 September 1963</blockquote>Results for "article_pullquote"
+Defined in module articles.py
+Used in articles.py
+
+<blockquote class="pullquote">What I’ve learned is that life is too short and movies are too long. ~Denis Leary</blockquote>
+
+<blockquote class="pullquote">The InterWorks.com GmBH website is everything kids and perhaps the entire family needs in a website!. This site is a winner! -- The Minneapolis Impact</blockquote>
+
+<blockquote class="pullquote">A classic is a book that has never finished saying what it has to say. ~Italo Calvino, The Literature Machine</blockquote>
+
+<blockquote class="pullquote">Having your book turned into a movie is like seeing your oxen turned into bouillon cubes. ~John LeCarre</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out iNetNow! website. Recommended for the guy on the street with an interest in shopping!</blockquote>
+
+<blockquote class="pullquote">A play should give you something to think about. When I see a play and understand it the first time, then I know it can’t be much good. ~T.S. Eliot, New York Post, 22 September 1963</blockquote>
+
+<blockquote class="pullquote">Positioning, branding, you heard it all before. But the new netCorp2000 website delivers. Required reading for youngsters around the nation</blockquote>
+
+<blockquote class="pullquote">Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound</blockquote>
+
+<blockquote class="pullquote">INet2000 LLC is building an online community by repurposing the content with front-end synergy to the wise shopper. Editor's choice. [Giovanni Françoise, The Woodtown Times-Advocate]</blockquote>
+
+<blockquote class="pullquote">Acting is like a Halloween mask that you put on. ~River Phoenix</blockquote>
+
+<blockquote class="pullquote">Looking for something new and exciting? Check out getNetworking2000 S.A. website. Required reading for the stressed professional</blockquote>
+
+<blockquote class="pullquote">Rated G is nobody gets the girl. PG is the good guy gets the girl. R is the bad guy gets the girl. XXX is everybody gets the girl. ~Author Unknown</blockquote>
+
+<blockquote class="pullquote">Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound</blockquote>
+
+<blockquote class="pullquote">Great literature is simply language charged with meaning to the utmost possible degree. ~Ezra Pound</blockquote>
+
+<blockquote class="pullquote">Targetting the poor trendwatcher, netTradeonline is expanding it’s online operations with this new enterprise. Editor's choice. [Jasper Begum, The Georgedale Informer]</blockquote>
+
+<blockquote class="pullquote">I doubt if anything learnt at school is of more value than great literature learnt by heart. ~Richard Livingstone</blockquote>
+
+<blockquote class="pullquote">In its new incarnation the metaNet.com LLC site has something for everyone - plenty of content for everyone. Required reading for the witty shopper</blockquote>
+
+<blockquote class="pullquote">Movie-making is the process of turning money into light. All they have at the end of the day is images flickering on a wall. ~John Boorman, Money into Light, 1985</blockquote>
+
+<blockquote class="pullquote">In its new incarnation the eTrust2000 site has something for everyone - more content than meets the eye!. Worth a visit, if only for the health databases and travel planners. -- The Kansas City Informer</blockquote>
+
+<blockquote class="pullquote">WebBizNow! is building an online community by branding the content with real-time providers to the poor investor. This site is a winner! [Zoe Jenkins-Yotokiyo, The Overvale Free-Press-Sun]</blockquote>

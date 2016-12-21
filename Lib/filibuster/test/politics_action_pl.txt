@@ -1,21 +1,253 @@
+Results for "politics_action_pl"
+Defined in module politics.py
+Used in politics.py
 
+visit stricken area
 
-questioned in safe areas tapes
+criticise encryption law
 
-criticise secret payments proposal
+oppose tactical booby-trap plan
 
-criticise chemical landmine proposal
+criticise arms export bill
 
-criticise secret payments proposal
+cleared of the Chemical Bank charges
 
-oppose murder law
+visit flooded area
 
-oppose corruption bill
+ratify donations laws
 
-involved in bribes charges
+criticise murder proposal
+
+named in bribes tapes
+
+questioned in factories investigation
+
+OK encryption bill
+
+visit flooded area
+
+named in tax charges
+
+cleared of farm subsidies tapes
+
+oppose trade subsidies proposal
+
+questioned in spy satellite trial
+
+OK corruption laws
+
+OK drug plan
+
+named in payoff tapes
+
+oppose the Deutsche Finanz Banque of Luxembourg proposalResults for "politics_action_pl"
+Defined in module politics.py
+Used in politics.py
+
+welcome drug legislation
+
+visit Florida savaged by minor tremors area
+
+oppose trade subsidies plan
+
+visit stricken area
+
+visit Tokyo wracked by minor tremors area
+
+questioned in oil charges
+
+oppose secret payments legislation
+
+oppose ICMS legislation
+
+criticise donations plan
+
+OK encryption laws
+
+questioned in TV crew coverup
+
+visit flooded area
+
+cleared of encryption coverup
+
+welcome drug proposal
+
+OK murder plan
+
+criticise gun control plan
+
+cleared of payoff charges
+
+visit San Francisco suffers minor tremors area
+
+oppose missile bill
+
+criticise drug billResults for "politics_action_pl"
+Defined in module politics.py
+Used in politics.py
+
+OK adoption bill
+
+cleared of gun control coverup
+
+OK payoff legislation
+
+questioned in command post charges
+
+welcome the Fireman's Trust laws
+
+visit flooded area
+
+involved in drug coverup
+
+questioned in drug couriers tapes
+
+criticise bribes bill
+
+visit flooded area
+
+ratify gun control proposal
+
+criticise encryption law
+
+OK bribes plan
+
+questioned in TV crew tapes
+
+named in payoff tapes
+
+welcome secret payments legislation
+
+criticise bribes law
+
+OK secret payments bill
+
+named in phone tap tapes
+
+named in agriculture subsidies tapesResults for "politics_action_pl"
+Defined in module politics.py
+Used in politics.py
+
+OK sex proposal
+
+OK murder bill
+
+OK phone tap legislation
+
+criticise drug proposal
+
+OK bribes law
+
+welcome encryption laws
+
+oppose laserguided landmine plan
+
+OK payoff plan
+
+questioned in spy satellite coverup
+
+welcome Davies, White & Bourne proposal
+
+criticise booby-trap plan
+
+OK landmine legislation
+
+ratify farm subsidies bill
+
+questioned in oil trial
+
+visit northern California wracked by earthquake area
+
+involved in sex coverup
+
+oppose encryption legislation
+
+welcome arms export laws
+
+ratify murder plan
+
+visit flooded areaResults for "politics_action_pl"
+Defined in module politics.py
+Used in politics.py
 
 criticise arms export proposal
 
-oppose phone tap proposal
+welcome corruption plan
 
-cleared of bribes tapes
+criticise adoption proposal
+
+ratify adoption legislation
+
+criticise encryption legislation
+
+visit flooded area
+
+visit stricken area
+
+questioned in TV station coverup
+
+OK laserguided landmine legislation
+
+visit stricken area
+
+visit the Carribean savaged by minor tremors area
+
+criticise drug bill
+
+ratify the Federal Pension Fund of Toronto laws
+
+welcome phone tap proposal
+
+oppose laserguided ICMS law
+
+visit India pummeled by massive earthquake area
+
+cleared of donations trial
+
+welcome encryption legislation
+
+criticise the Cooperative Group laws
+
+visit flooded areaResults for "politics_action_pl"
+Defined in module politics.py
+Used in politics.py
+
+named in gun control coverup
+
+oppose encryption law
+
+oppose adoption laws
+
+OK tax laws
+
+visit flooded area
+
+visit flooded area
+
+oppose bribes plan
+
+oppose sex laws
+
+OK sex proposal
+
+criticise chemical rocket proposal
+
+questioned in factories charges
+
+ratify arms export laws
+
+oppose agriculture subsidies proposal
+
+involved in adoption coverup
+
+OK plastic ICMS laws
+
+visit flooded area
+
+oppose drug plan
+
+named in tax investigation
+
+involved in laserguided bomb charges
+
+named in gun control charges

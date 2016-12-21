@@ -1,21 +1,205 @@
+Results for "eurobank_residence"
+Defined in module financial.py
+Used in financial.py
 
+Guernsey
 
 Luxembourg
 
 Luxembourg
 
-Zürich
+Luxembourg
+
+Luxembourg
+
+Dresden
 
 France
 
-Zürich
+Luxembourg
+
+Dresden
+
+Dresden
+
+Luxembourg
+
+Dresden
+
+London
+
+London
+
+LondonResults for "eurobank_residence"
+Defined in module financial.py
+Used in financial.py
 
 France
-
-Zürich
 
 France
 
 Dresden
 
+France
+
+Luxembourg
+
+Luxembourg
+
+Luxembourg
+
 Dresden
+
+France
+
+Dresden
+
+France
+
+London
+
+Guernsey
+
+Luxembourg
+
+FranceResults for "eurobank_residence"
+Defined in module financial.py
+Used in financial.py
+
+Guernsey
+
+London
+
+Dresden
+
+Dresden
+
+Guernsey
+
+London
+
+London
+
+Dresden
+
+France
+
+France
+
+Luxembourg
+
+France
+
+London
+
+London
+
+France
+
+GuernseyResults for "eurobank_residence"
+Defined in module financial.py
+Used in financial.py
+
+Guernsey
+
+London
+
+London
+
+Luxembourg
+
+France
+
+London
+
+London
+
+Guernsey
+
+Dresden
+
+France
+
+Dresden
+
+Luxembourg
+
+London
+
+Guernsey
+
+Dresden
+
+France
+
+LuxembourgResults for "eurobank_residence"
+Defined in module financial.py
+Used in financial.py
+
+Dresden
+
+Dresden
+
+Guernsey
+
+Luxembourg
+
+Guernsey
+
+Guernsey
+
+Guernsey
+
+Luxembourg
+
+London
+
+Guernsey
+
+Luxembourg
+
+Dresden
+
+London
+
+Dresden
+
+Luxembourg
+
+LuxembourgResults for "eurobank_residence"
+Defined in module financial.py
+Used in financial.py
+
+Dresden
+
+France
+
+Guernsey
+
+Luxembourg
+
+France
+
+Luxembourg
+
+Luxembourg
+
+France
+
+London
+
+London
+
+Guernsey
+
+Guernsey
+
+Luxembourg
+
+London
+
+Guernsey
+
+France
+
+London

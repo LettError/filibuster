@@ -1,21 +1,253 @@
+Results for "city_and_state"
+Defined in module geography.py
+Used in geography.py, legal.py
 
+New York, NY
+
+Sunnyvale, CA
+
+New York, NY
+
+Redwood City, CA
 
 Boston, MA
 
-Reston, VA
+Boston, MA
+
+Sunnyvale, CA
+
+Redwood City, CA
 
 Menlo Park, CA
 
-New York, NY
-
-New York, NY
-
-Boston, MA
+Reston, VA
 
 Palo Alto, CA
 
 Palo Alto, CA
-
-Boston, MA
 
 Atlanta, GA
+
+Atlanta, GA
+
+Redwood City, CA
+
+Herndon, VA
+
+Palo Alto, CA
+
+Menlo Park, CA
+
+Herndon, VA
+
+New York, NYResults for "city_and_state"
+Defined in module geography.py
+Used in geography.py, legal.py
+
+Boston, MA
+
+Boston, MA
+
+Palo Alto, CA
+
+Boston, MA
+
+Palo Alto, CA
+
+Redwood City, CA
+
+Reston, VA
+
+Reston, VA
+
+Reston, VA
+
+Boston, MA
+
+Herndon, VA
+
+Menlo Park, CA
+
+Atlanta, GA
+
+New York, NY
+
+Menlo Park, CA
+
+Reston, VA
+
+Boston, MA
+
+Redwood City, CA
+
+Sunnyvale, CA
+
+Palo Alto, CAResults for "city_and_state"
+Defined in module geography.py
+Used in geography.py, legal.py
+
+Sunnyvale, CA
+
+New York, NY
+
+Atlanta, GA
+
+Sunnyvale, CA
+
+Reston, VA
+
+Redwood City, CA
+
+Menlo Park, CA
+
+Atlanta, GA
+
+Sunnyvale, CA
+
+Boston, MA
+
+Herndon, VA
+
+New York, NY
+
+Sunnyvale, CA
+
+Herndon, VA
+
+Boston, MA
+
+Sunnyvale, CA
+
+Palo Alto, CA
+
+Redwood City, CA
+
+Palo Alto, CA
+
+Palo Alto, CAResults for "city_and_state"
+Defined in module geography.py
+Used in geography.py, legal.py
+
+Sunnyvale, CA
+
+Redwood City, CA
+
+Redwood City, CA
+
+Sunnyvale, CA
+
+Redwood City, CA
+
+Sunnyvale, CA
+
+Atlanta, GA
+
+Menlo Park, CA
+
+Sunnyvale, CA
+
+Atlanta, GA
+
+Boston, MA
+
+Palo Alto, CA
+
+Herndon, VA
+
+Atlanta, GA
+
+Redwood City, CA
+
+Redwood City, CA
+
+New York, NY
+
+Sunnyvale, CA
+
+New York, NY
+
+Herndon, VAResults for "city_and_state"
+Defined in module geography.py
+Used in geography.py, legal.py
+
+Atlanta, GA
+
+Menlo Park, CA
+
+Boston, MA
+
+Menlo Park, CA
+
+Sunnyvale, CA
+
+Reston, VA
+
+Herndon, VA
+
+Reston, VA
+
+Boston, MA
+
+Sunnyvale, CA
+
+Sunnyvale, CA
+
+Sunnyvale, CA
+
+New York, NY
+
+Sunnyvale, CA
+
+Herndon, VA
+
+Sunnyvale, CA
+
+Boston, MA
+
+Menlo Park, CA
+
+Atlanta, GA
+
+Redwood City, CAResults for "city_and_state"
+Defined in module geography.py
+Used in geography.py, legal.py
+
+Herndon, VA
+
+Redwood City, CA
+
+Sunnyvale, CA
+
+Sunnyvale, CA
+
+Reston, VA
+
+Boston, MA
+
+Redwood City, CA
+
+Reston, VA
+
+Redwood City, CA
+
+Atlanta, GA
+
+New York, NY
+
+Boston, MA
+
+Redwood City, CA
+
+New York, NY
+
+Herndon, VA
+
+Palo Alto, CA
+
+Palo Alto, CA
+
+Herndon, VA
+
+Herndon, VA
+
+Herndon, VA

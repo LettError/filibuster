@@ -1,6 +1,192 @@
+Results for "cities_German"
+Defined in module geography.py
+Used in geography.py, sports.py
 
+Berlin
 
 Munich
+
+Frankfurt
+
+Frankfurt
+
+Hamburg
+
+Frankfurt
+
+Munich
+
+Berlin
+
+Hamburg
+
+Bonn
+
+Hamburg
+
+Munich
+
+Munich
+
+Munich
+
+Hamburg
+
+Bonn
+
+Frankfurt
+
+Hamburg
+
+Bonn
+
+MunichResults for "cities_German"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Bonn
+
+Hamburg
+
+Frankfurt
+
+Hamburg
+
+Munich
+
+Munich
+
+Hamburg
+
+Frankfurt
+
+Frankfurt
+
+Munich
+
+Bonn
+
+Berlin
+
+Berlin
+
+Bonn
+
+Berlin
+
+Hamburg
+
+Frankfurt
+
+Hamburg
+
+Frankfurt
+
+FrankfurtResults for "cities_German"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Hamburg
+
+Frankfurt
+
+Berlin
+
+Hamburg
+
+Frankfurt
+
+Frankfurt
+
+Hamburg
+
+Hamburg
+
+Bonn
+
+Munich
+
+Hamburg
+
+Munich
+
+Munich
+
+Munich
+
+Hamburg
+
+Frankfurt
+
+Munich
+
+Munich
+
+Frankfurt
+
+FrankfurtResults for "cities_German"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Bonn
+
+Bonn
+
+Hamburg
+
+Bonn
+
+Berlin
+
+Bonn
+
+Hamburg
+
+Hamburg
+
+Frankfurt
+
+Munich
+
+Berlin
+
+Hamburg
+
+Berlin
+
+Frankfurt
+
+Bonn
+
+Bonn
+
+Frankfurt
+
+Berlin
+
+Hamburg
+
+HamburgResults for "cities_German"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Berlin
+
+Hamburg
+
+Berlin
+
+Bonn
+
+Hamburg
+
+Frankfurt
+
+Bonn
+
+Bonn
+
+Frankfurt
 
 Munich
 
@@ -8,14 +194,60 @@ Berlin
 
 Berlin
 
+Bonn
+
+Berlin
+
+Bonn
+
+Munich
+
+Bonn
+
+Bonn
+
+Frankfurt
+
+BonnResults for "cities_German"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Munich
+
+Munich
+
+Bonn
+
 Hamburg
 
 Frankfurt
 
+Berlin
+
+Munich
+
 Frankfurt
+
+Berlin
+
+Berlin
+
+Berlin
+
+Berlin
 
 Hamburg
 
+Munich
+
 Hamburg
 
-Frankfurt
+Munich
+
+Bonn
+
+Munich
+
+Berlin
+
+Berlin

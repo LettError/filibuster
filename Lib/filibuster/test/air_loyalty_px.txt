@@ -1,14 +1,174 @@
+Results for "air_loyalty_px"
+Defined in module aerospace.py
+Used in aerospace.py
 
+Air
+
+Loyalty
 
 Ambassador
 
+World
+
+Ambassador
+
+Customer
+
+World
+
+Loyalty
+
 SilverWing
+
+Loyalty
+
+Air
+
+Air
+
+Ambassador
+
+Customer
+
+Customer
+
+Ambassador
+
+Ambassador
+
+Customer
+
+Air
+
+AmbassadorResults for "air_loyalty_px"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Friendship
+
+SilverWing
+
+World
+
+Loyalty
+
+SilverWing
+
+Friendship
+
+World
+
+Loyalty
+
+World
+
+Air
+
+Customer
+
+Friendship
+
+World
+
+Loyalty
+
+Loyalty
+
+SilverWing
+
+World
+
+Air
+
+SilverWing
+
+LoyaltyResults for "air_loyalty_px"
+Defined in module aerospace.py
+Used in aerospace.py
+
+World
+
+Loyalty
+
+Air
+
+Customer
+
+Friendship
+
+Ambassador
+
+World
+
+Friendship
+
+World
+
+Customer
+
+Loyalty
+
+Loyalty
 
 SilverWing
 
 Customer
 
+World
+
 Friendship
+
+Friendship
+
+Ambassador
+
+Customer
+
+SilverWingResults for "air_loyalty_px"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Friendship
+
+Customer
+
+Friendship
+
+Loyalty
+
+Friendship
+
+Loyalty
+
+Loyalty
+
+Air
+
+Friendship
+
+World
+
+Friendship
+
+Friendship
+
+Friendship
+
+World
+
+Ambassador
+
+Customer
+
+World
+
+Ambassador
+
+Friendship
+
+SilverWingResults for "air_loyalty_px"
+Defined in module aerospace.py
+Used in aerospace.py
 
 Friendship
 
@@ -16,6 +176,78 @@ Friendship
 
 Air
 
+Loyalty
+
+Ambassador
+
+Air
+
+Air
+
+World
+
+Ambassador
+
+SilverWing
+
+World
+
+Friendship
+
+Ambassador
+
+Customer
+
+World
+
+Friendship
+
+Ambassador
+
+Customer
+
+Loyalty
+
+FriendshipResults for "air_loyalty_px"
+Defined in module aerospace.py
+Used in aerospace.py
+
+SilverWing
+
+Ambassador
+
+World
+
+Friendship
+
+Customer
+
+Ambassador
+
+SilverWing
+
+World
+
+Loyalty
+
+Air
+
+Air
+
 Friendship
 
 SilverWing
+
+Air
+
+Ambassador
+
+Air
+
+Loyalty
+
+Customer
+
+Loyalty
+
+Ambassador

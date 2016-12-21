@@ -1,6 +1,28 @@
-
+Results for "cities_French"
+Defined in module geography.py
+Used in geography.py
 
 Marseilles
+
+Liege
+
+Marseilles
+
+Lyon
+
+Lille
+
+Toulouse
+
+Toulouse
+
+Marseilles
+
+Paris
+
+Liege
+
+Toulouse
 
 Toulouse
 
@@ -8,9 +30,71 @@ Paris
 
 Toulouse
 
+Lyon
+
+Liege
+
+Paris
+
+Lille
+
+Marseilles
+
+LiegeResults for "cities_French"
+Defined in module geography.py
+Used in geography.py
+
+Toulouse
+
+Paris
+
+Liege
+
+Lille
+
+Lille
+
+Toulouse
+
+Marseilles
+
+Marseilles
+
+Paris
+
+Paris
+
+Marseilles
+
+Paris
+
+Paris
+
+Toulouse
+
+Lille
+
+Toulouse
+
+Lyon
+
+Toulouse
+
+Liege
+
+LiegeResults for "cities_French"
+Defined in module geography.py
+Used in geography.py
+
 Marseilles
 
 Lille
+
+Marseilles
+
+Lille
+
+Paris
 
 Paris
 
@@ -18,4 +102,152 @@ Liege
 
 Lyon
 
+Paris
+
+Paris
+
+Paris
+
 Lille
+
+Paris
+
+Toulouse
+
+Liege
+
+Lille
+
+Toulouse
+
+Marseilles
+
+Lyon
+
+MarseillesResults for "cities_French"
+Defined in module geography.py
+Used in geography.py
+
+Lille
+
+Lille
+
+Lille
+
+Liege
+
+Lille
+
+Lyon
+
+Liege
+
+Marseilles
+
+Liege
+
+Lyon
+
+Lyon
+
+Paris
+
+Marseilles
+
+Marseilles
+
+Lyon
+
+Liege
+
+Lille
+
+Lille
+
+Lyon
+
+ParisResults for "cities_French"
+Defined in module geography.py
+Used in geography.py
+
+Paris
+
+Liege
+
+Marseilles
+
+Toulouse
+
+Marseilles
+
+Lille
+
+Paris
+
+Lille
+
+Paris
+
+Marseilles
+
+Marseilles
+
+Paris
+
+Liege
+
+Liege
+
+Paris
+
+Lille
+
+Paris
+
+Lyon
+
+Liege
+
+LyonResults for "cities_French"
+Defined in module geography.py
+Used in geography.py
+
+Marseilles
+
+Toulouse
+
+Toulouse
+
+Lyon
+
+Lyon
+
+Toulouse
+
+Paris
+
+Lyon
+
+Lille
+
+Paris
+
+Lyon
+
+Toulouse
+
+Marseilles
+
+Marseilles
+
+Toulouse
+
+Liege
+
+Lyon
+
+Paris
+
+Marseilles
+
+Lyon

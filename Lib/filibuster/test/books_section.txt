@@ -1,21 +1,247 @@
+Results for "books_section"
+Defined in module book_reference.py
 
+Tyler Wilkinson
 
-Surprise
+Elderly
 
-Book
+Home
 
-Valentine
-
-Children books
-
-Health and Home
-
-AAA
+New in print
 
 Adventure
 
+New
+
+Thriller
+
+Subscriptions
+
+Daphne Young-Lin
+
+Authors
+
+Elderly
+
+Travel
+
+Children books
+
+Weekly
+
+New in print
+
+Travel
+
+Valentine
+
 Design
+
+Typography
+
+OpinionResults for "books_section"
+Defined in module book_reference.py
+
+AAA
+
+Goodies
+
+Horror
+
+Adventure
+
+Travel
+
+Goodies
+
+Thriller
+
+Design
+
+Authors
+
+New
+
+Goodies
+
+Book
+
+Healthy cooking
+
+Classics
+
+Surprise
 
 Food
 
+School
+
 Health and Home
+
+Graduation
+
+Franco ThompsonResults for "books_section"
+Defined in module book_reference.py
+
+Kirsten Françoise
+
+Design
+
+Magazine
+
+New
+
+School
+
+Valentine
+
+Surprise
+
+Interior
+
+Elderly
+
+Society
+
+Arch Fisher
+
+Thriller
+
+Graduation
+
+Sci-Fi
+
+Book
+
+Book
+
+Food
+
+Justine Chapman
+
+Detective
+
+TravelResults for "books_section"
+Defined in module book_reference.py
+
+Children books
+
+Adventure
+
+Tricia Shaw
+
+Detective
+
+Graduation
+
+Sci-Fi
+
+Sci-Fi
+
+Sci-Fi
+
+New
+
+Surprise
+
+Fair
+
+Adventure
+
+Parental
+
+Detective
+
+Market
+
+Ian Chan
+
+Graduation
+
+Book
+
+Book
+
+GoodiesResults for "books_section"
+Defined in module book_reference.py
+
+Skeleton
+
+Goodies
+
+Stock
+
+Goodies
+
+Brad Webb
+
+Opinion
+
+Parental
+
+Sci-Fi
+
+Detective
+
+Travel
+
+Karen Jenkins
+
+Laura Webb
+
+Detective
+
+Education
+
+Valentine
+
+Health and Home
+
+Graduation
+
+Authors
+
+New in print
+
+MagazineResults for "books_section"
+Defined in module book_reference.py
+
+Goodies
+
+Children books
+
+Book
+
+Typography
+
+Interior
+
+Design
+
+Fantasy
+
+Healthy cooking
+
+Surprise
+
+New in print
+
+Detective
+
+New
+
+New in print
+
+Design
+
+Elderly
+
+School
+
+Valentine
+
+Book
+
+Health and Home
+
+New in print

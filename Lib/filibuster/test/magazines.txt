@@ -1,21 +1,253 @@
+Results for "magazines"
+Defined in module journalism.py
+Used in design.py, entertainment.py
 
+Wall Street Watcher
 
-District Of Columbia Update
+The Financial Yeoman (Madrid)
 
-Today Speculator
+Baseball Journal
 
-Sports Watcher
+West Virginia Speculator
 
-District Of Columbia Week
+Sports Daily
 
-The San Jose Informer
+Sports Journal
 
-El Diario
+Family Watcher
 
-NBA Journal
+Champs Update
 
-Europe Daily
+Alabama Watcher
 
-Wall Street Update
+Education World
 
-Mississippi Watch
+Kansas Week
+
+The Financial Telegraph (Dallas)
+
+Olympics Week
+
+The Liverpool Investor
+
+Hobby Journal
+
+Il Messagero
+
+New Mexico Journal
+
+Football Journal
+
+Montana Speculator
+
+Phone WeekResults for "magazines"
+Defined in module journalism.py
+Used in design.py, entertainment.py
+
+California Journal
+
+Fair Speculator
+
+MarketDaily (Baltimore)
+
+Sports this week Week
+
+Wisconsin Watcher
+
+Wall Street World
+
+Pennsylvania Watch
+
+Suits Update
+
+Krant
+
+Quotidien
+
+North Dakota Daily
+
+Maine Watch
+
+Arkansas Update
+
+Home Update
+
+Georgia Daily
+
+The Winslow Reader
+
+The Munich Investor
+
+New Mexico World
+
+Suits Watch
+
+The Gouda InvestorResults for "magazines"
+Defined in module journalism.py
+Used in design.py, entertainment.py
+
+Illinois Daily
+
+The North Georgevale Today
+
+The Glasgow Investor
+
+The London Constitution
+
+The Winslow Informer
+
+The Course Watch
+
+Oregon Speculator
+
+Ohio Watcher
+
+World Championship Journal
+
+Allgemeine
+
+The Mount Williamshill Notice
+
+The Baltimore Monitor
+
+The Glasgow Investor
+
+Tennessee World
+
+My life Speculator
+
+My life Daily
+
+The Course Watch
+
+The Financial Review (Milan)
+
+Football Watch
+
+Asia SpeculatorResults for "magazines"
+Defined in module journalism.py
+Used in design.py, entertainment.py
+
+Show Speculator
+
+Olympics Watcher
+
+The Enquirer
+
+Design Speculator
+
+Baseball Daily
+
+Family Watcher
+
+Sports Update
+
+Med World
+
+Bones Watcher
+
+Regatta Journal
+
+Sports Update
+
+Wall Street Speculator
+
+Sports Daily
+
+iPad Week
+
+Florida Update
+
+Living Speculator
+
+Wall Street Speculator
+
+Sailing Watch
+
+Boston Journal
+
+El UniversalResults for "magazines"
+Defined in module journalism.py
+Used in design.py, entertainment.py
+
+Guy Stuff Watch
+
+Kentucky Journal
+
+The Memphis Reader
+
+Illinois Watcher
+
+The Manchester Statesman
+
+Facebook Watcher
+
+Sports Daily
+
+Asia Watch
+
+Oregon Update
+
+My life Update
+
+The World of Sports Journal
+
+Olympics Speculator
+
+MarketWatch (Lille)
+
+Ohio Watch
+
+Idaho Watch
+
+Wall Street Speculator
+
+Nebraska Speculator
+
+The Frankfurt Investor
+
+The Detroit Today
+
+Sailing WatcherResults for "magazines"
+Defined in module journalism.py
+Used in design.py, entertainment.py
+
+Kentucky Week
+
+Arizona Watch
+
+New sports Week
+
+Bones Watcher
+
+My life Journal
+
+The Los Angeles Mirror
+
+Soul Speculator
+
+Home Week
+
+Krant
+
+The Financial Informer (San Francisco)
+
+Colorado Watcher
+
+MarketSpeculator (Liege)
+
+The Financial Quarterly (Edinburgh)
+
+Runner up Speculator
+
+The Barcelona Investor
+
+The Pinevale Review
+
+The Frankfurt Investor
+
+Home Update
+
+Soccer Watch
+
+Quotidien

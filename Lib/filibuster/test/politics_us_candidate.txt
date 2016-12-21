@@ -1,21 +1,253 @@
+Results for "politics_us_candidate"
+Defined in module politics.py
+Used in politics.py
 
+Bill F. Gates
 
-Paul A. Johnson, Jr.
+Knox Sinclair
 
-Caldecott Dupont
+Bill F. Gates
 
-Gerald B. Carnegie, Jr.
+Morgan Caldecott
+
+Paul Forbes, Jr.
 
 Larry Flynt
 
-Davenport Markham, Jr.
+Bill F. Gates
 
-Brad Parker
+Bill F. Gates
 
-Greg Morgan
+Craig Parker
+
+Carson Davenport, Jr.
+
+Philip A. Forbes
+
+Howard Hughes
+
+Howard Hughes
+
+Franklin D. Roosevelt
+
+Larry Flynt
+
+Martin M. Vanderpool
+
+C. Martin Davies III
+
+Bill F. Gates
+
+Howard Hughes
+
+Larry FlyntResults for "politics_us_candidate"
+Defined in module politics.py
+Used in politics.py
+
+Hollings Forbes Bushnell
+
+Eustus Polk
+
+Chad Walters Dunbar
+
+Bill F. Gates
+
+Howard Hughes
+
+Stewart Parham III
+
+Brad Carnegie
+
+Earl C. Davenport
+
+Whitney Morgan
+
+Franklin D. Roosevelt
+
+Bill F. Gates
+
+Bob Whitney Fitzsimmons
+
+Howard Hughes
+
+Franklin D. Roosevelt
+
+Larry Flynt
+
+Howard Hughes
+
+Larry Flynt
+
+Larry Flynt
+
+Peter M. Carson
+
+Bob Emerson CalderResults for "politics_us_candidate"
+Defined in module politics.py
+Used in politics.py
+
+Burton Markham Carnegie
+
+Bill F. Gates
+
+Franklin D. Roosevelt
+
+Knox Harrison
+
+Walter Polk
+
+Bill F. Gates
+
+Bill N. Parham
+
+Franklin D. Roosevelt
+
+Bill F. Gates
+
+George Johns
+
+Bob Whitney Johnson
+
+Stern Johnson
+
+Sinclair Tate
+
+Larry Flynt
+
+Richard Stanley Polk
+
+Bill F. Gates
+
+Philip W. Sterling
+
+Larry Flynt
+
+Howard Hughes
+
+Bill F. GatesResults for "politics_us_candidate"
+Defined in module politics.py
+Used in politics.py
+
+Anthony Jennings
+
+Larry Flynt
+
+Bill F. Gates
+
+Dwight Jennings
+
+Franklin D. Roosevelt
+
+Howard Hughes
+
+John Bourne
+
+Eustus Davenport
+
+Robert Stern
+
+Larry Flynt
+
+Everett Sloane
+
+Franklin D. Roosevelt
+
+Larry Flynt
+
+Hollings Lawson Parker
+
+G. Walters Walters
+
+George Vanderpool Forbes
+
+Franklin D. Roosevelt
+
+Eugene Polk
+
+Dick Caldecott
+
+T. Ronald VanderpoolResults for "politics_us_candidate"
+Defined in module politics.py
+Used in politics.py
+
+Bill F. Gates
+
+George Archer
+
+Carnegie Sterling
 
 Howard Hughes
 
 Bill F. Gates
 
 Franklin D. Roosevelt
+
+Greg Carnegie Carson
+
+Franklin D. Roosevelt
+
+Bill Forbes Stanley
+
+Howard Hughes
+
+Bill F. Gates
+
+Larry Flynt
+
+Larry Flynt
+
+Walters Emerson
+
+F. Brad Palmer
+
+Walter Davies
+
+Ted H. Johnson
+
+Howard Hughes
+
+Warren Mills
+
+Walters CaldecottResults for "politics_us_candidate"
+Defined in module politics.py
+Used in politics.py
+
+Bill F. Gates
+
+Harper Riley, Jr.
+
+Jennings D. Lawson
+
+D. Earl White
+
+Larry Flynt
+
+Franklin D. Roosevelt
+
+Howard Hughes
+
+Larry Flynt
+
+Bill F. Gates
+
+Brad R. Sterling
+
+Michael Acheson
+
+T. Sinclair MacArthur
+
+Whitney Whitney
+
+Dunbar Winslow
+
+Larry Flynt
+
+Bill F. Gates
+
+Bill F. Gates
+
+Larry Flynt
+
+Franklin D. Roosevelt
+
+Patrick Davenport Tate

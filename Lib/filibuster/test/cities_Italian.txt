@@ -1,10 +1,12 @@
-
+Results for "cities_Italian"
+Defined in module geography.py
+Used in geography.py, sports.py
 
 Florence
 
-Milan
+Rome
 
-Bologna
+Florence
 
 Rome
 
@@ -12,6 +14,164 @@ Milan
 
 Florence
 
+Rome
+
+Bologna
+
+Milan
+
+Bologna
+
+Milan
+
+Florence
+
+Milan
+
+Rome
+
+Rome
+
+Florence
+
+Florence
+
+Bologna
+
+Rome
+
+RomeResults for "cities_Italian"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Bologna
+
+Bologna
+
+Milan
+
+Milan
+
+Bologna
+
+Florence
+
+Milan
+
+Rome
+
+Rome
+
+Rome
+
+Rome
+
+Rome
+
+Milan
+
+Rome
+
+Bologna
+
+Milan
+
+Bologna
+
+Rome
+
+Bologna
+
+FlorenceResults for "cities_Italian"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Rome
+
+Milan
+
+Rome
+
+Florence
+
+Florence
+
+Rome
+
+Florence
+
+Bologna
+
+Milan
+
+Bologna
+
+Florence
+
+Florence
+
+Florence
+
+Florence
+
+Florence
+
+Florence
+
+Milan
+
+Rome
+
+Rome
+
+BolognaResults for "cities_Italian"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Florence
+
+Bologna
+
+Bologna
+
+Bologna
+
+Bologna
+
+Milan
+
+Florence
+
+Rome
+
+Bologna
+
+Bologna
+
+Bologna
+
+Milan
+
+Florence
+
+Milan
+
+Florence
+
+Florence
+
+Milan
+
+Rome
+
+Bologna
+
+FlorenceResults for "cities_Italian"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Florence
+
 Florence
 
 Florence
@@ -19,3 +179,75 @@ Florence
 Bologna
 
 Bologna
+
+Bologna
+
+Rome
+
+Rome
+
+Bologna
+
+Milan
+
+Florence
+
+Rome
+
+Florence
+
+Florence
+
+Rome
+
+Rome
+
+Rome
+
+Rome
+
+Florence
+
+FlorenceResults for "cities_Italian"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Rome
+
+Milan
+
+Milan
+
+Rome
+
+Bologna
+
+Florence
+
+Bologna
+
+Rome
+
+Bologna
+
+Rome
+
+Florence
+
+Bologna
+
+Bologna
+
+Rome
+
+Rome
+
+Milan
+
+Bologna
+
+Milan
+
+Milan
+
+Florence

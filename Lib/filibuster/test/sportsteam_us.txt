@@ -1,21 +1,253 @@
+Results for "sportsteam_us"
+Defined in module sports.py
+Used in auction.py, sports.py
 
+New Middleton Magicians
 
-Nashville Cowboys
+Nebraska Cowboys
 
-Houston Indians
+New Pinevale Doctors
 
-Washington Geese
+Pittsburgh Slaves
 
-Columbus, Cook County Buffalo
+San Jose Magicians
 
-Miltown Cowboys
+Georgia Soldiers
 
-San Francisco Slaves
+Overdale (Orange County) Dolphins
 
-Adamsville Dolphins
+New Overville Doctors
 
-Franklin Beavers
+Dallas Dogs
 
-Houston Sharks
+Dallas Doctors
 
-Houston Slaves
+Springfield (Cook County) Bears
+
+Columbus (Montgomery County) Soldiers
+
+Memphis Indians
+
+Minneapolis Bears
+
+New Rivertown (Knox County) Buffalo
+
+New York Cowboys
+
+Detroit Jets
+
+Iowa Tigers
+
+Williamstown Soldiers
+
+New Woodburg MagiciansResults for "sportsteam_us"
+Defined in module sports.py
+Used in auction.py, sports.py
+
+Georgia Dolphins
+
+Columbus, Cook County Geese
+
+Texas Wildcats
+
+San Jose Bears
+
+Williamsonvale Raiders
+
+Woodburg, Monroe County Soldiers
+
+Virginia Beavers
+
+Boston Hornets
+
+Los Angeles Doctors
+
+Seattle Magicians
+
+Nashville Soldiers
+
+New York Beavers
+
+Georgia Beavers
+
+Dallas Magicians
+
+Georgia Wildcats
+
+Houston Hornets
+
+Boston Geese
+
+Williamstown, Essex County Cowboys
+
+San Jose Soldiers
+
+Kansas City DoctorsResults for "sportsteam_us"
+Defined in module sports.py
+Used in auction.py, sports.py
+
+Milville Hornets
+
+Springfield, Monroe County Beavers
+
+Puerto Rico Wildcats
+
+Philadelphia Sharks
+
+Kansas Beavers
+
+Houston Cowboys
+
+Springfield (Elwood County) Soldiers
+
+Denver Jets
+
+Springfield Raiders
+
+New York Buffalo
+
+Los Angeles Slaves
+
+Utah Dolphins
+
+New York Geese
+
+Boston Sharks
+
+Columbus, Suffolk County Slaves
+
+West Virginia Doctors
+
+Houston Buffalo
+
+Georgeport Soldiers
+
+Colorado Tigers
+
+Miami BeaversResults for "sportsteam_us"
+Defined in module sports.py
+Used in auction.py, sports.py
+
+Mississippi Cowboys
+
+Arkansas Raiders
+
+Minneapolis Doctors
+
+Memphis Jets
+
+Washington Beavers
+
+Detroit Jets
+
+Houston Magicians
+
+Baltimore Hornets
+
+Arizona Sharks
+
+Wisconsin Hornets
+
+Dallas Raiders
+
+Detroit Slaves
+
+Atlanta Slaves
+
+Pittsburgh Buffalo
+
+Miami Bears
+
+San Jose Magicians
+
+Seattle Bears
+
+Boston Indians
+
+Nebraska Indians
+
+Minneapolis DoctorsResults for "sportsteam_us"
+Defined in module sports.py
+Used in auction.py, sports.py
+
+Nashville Soldiers
+
+Atlanta Dogs
+
+Mount Winslow Sharks
+
+San Jose Wildcats
+
+Adams County Bears
+
+Texas Jets
+
+Joneshill Raiders
+
+Puerto Rico Beavers
+
+Lincoln Doctors
+
+Miami Magicians
+
+Miami Dolphins
+
+Boston Indians
+
+Seattle Sharks
+
+New Stanley Wildcats
+
+Detroit Wildcats
+
+Baltimore Ducks
+
+Kentucky Indians
+
+West Virginia Indians
+
+Montana Bears
+
+Adamsport TigersResults for "sportsteam_us"
+Defined in module sports.py
+Used in auction.py, sports.py
+
+Philadelphia Dolphins
+
+Houston Wildcats
+
+Alaska Hornets
+
+Maryland Hornets
+
+Puerto Rico Dogs
+
+Houston Bears
+
+Hawaii Magicians
+
+Pittsburgh Geese
+
+Pittsburgh Magicians
+
+Memphis Buffalo
+
+Ohio Cowboys
+
+Philadelphia Indians
+
+Forbes Sharks
+
+Monroe County Doctors
+
+South Dakota Slaves
+
+San Jose Soldiers
+
+Virginia Magicians
+
+Knox County Cowboys
+
+Johnsport, Orange County Sharks
+
+Houston Soldiers

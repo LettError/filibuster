@@ -1,21 +1,253 @@
+Results for "event_shortheadline"
+Defined in module event.py
+Used in entertainment.py
 
+Big Opera Events
 
-Grand Opera Museum
+Annual Stamp Museum
 
-Tiny Embroidery Events
+Grand City Days
 
-Rotterdam Painting Festival
+Regional Carnival Museum
 
-Bilbao Sculpture Anniversary
+Spain Chicken Days
 
-Grand Cooking Aquarium
+Turkey Hiking Awards
 
-Final Urban Anniversary
+Rome Carnival Celebrations
 
-Big Painting Theater
+World Painting Casino
 
-Regional Dinner Awards
+Family Market Tour
 
-Frankfurt Meetings Tour
+Madrid Hobby Anniversary
 
-Local Bat Anniversary
+Final Food Events
+
+Family Travel Casino
+
+Family Sculpture Concerts
+
+PC Embroidery Show
+
+Svalbard and Jan Mayen Islands Film Awards
+
+Family Sports Aquarium
+
+Final Music Celebrations
+
+Tiny Trade Conference
+
+Liege Opera Anniversary
+
+Bologna Jazz AwardsResults for "event_shortheadline"
+Defined in module event.py
+Used in entertainment.py
+
+Heard Island Help Aid Aquarium
+
+Gibraltar Urban Awards
+
+Big Film Show
+
+Grand Film Anniversary
+
+Liberia Lemming Concerts
+
+Annual Knitting Concerts
+
+Family Trade Events
+
+Regional Painting Casino
+
+Mauritius Sculpture Casino
+
+South Sandwich Islands Stamp Concerts
+
+Annual Food Awards
+
+Grand Automotive Casino
+
+PC Embroidery Awards
+
+Liege Watersports Museum
+
+Benin Help Aid Awards
+
+Liege Knitting Concerts
+
+Eindhoven Tetris Museum
+
+Bilbao Watersports Festival
+
+Family Stamp Oscars
+
+Local Architecture MuseumResults for "event_shortheadline"
+Defined in module event.py
+Used in entertainment.py
+
+Tiny Carnival Concerts
+
+Iceland Film Museum
+
+Vanuatu Jazz Casino
+
+Big Snake Days
+
+Big Food Tour
+
+Annual Knitting Aquarium
+
+Final Sports Tour
+
+Amsterdam Coyote Lustrum
+
+The United States Hobby Awards
+
+Ce Horse Celebrations
+
+Cyber IPhone Days
+
+Tiny SXSW Awards
+
+Family Watersports Museum
+
+Local Knitting Events
+
+World Opera Days
+
+Grand Jazz Theater
+
+Tiny Educate Oscars
+
+Annual Architecture Theater
+
+Family Architecture Festival
+
+Barcelona Sports ConcertsResults for "event_shortheadline"
+Defined in module event.py
+Used in entertainment.py
+
+Bilbao Cooking Conference
+
+Aruba Film Museum
+
+Family SXSW Festival
+
+Grand Rat Celebrations
+
+Rotterdam Education Events
+
+Milan Education Conference
+
+Regional Rabbit Theater
+
+Family SXSW Events
+
+Sierra Leone Sculpture Oscars
+
+Mac Film Theater
+
+Family Trade Show
+
+Faroe Islands Sunflower Conference
+
+Final Architecture Conference
+
+Seattle Painting Celebrations
+
+Final Trade Show
+
+Bangladesh Jazz Show
+
+Big Opera Days
+
+Annual Dolphin Festival
+
+Tiny Automotive Conference
+
+Mozambique Parts EventsResults for "event_shortheadline"
+Defined in module event.py
+Used in entertainment.py
+
+World Food Conference
+
+Local Art Museum
+
+Grand Sunflower Aquarium
+
+Dallas Sports Conference
+
+Italy Watersports Conference
+
+Tiny Urban Conference
+
+Big Automotive Oscars
+
+World Carnival Casino
+
+American Samoa Help Aid Tour
+
+Ukraine Travel Anniversary
+
+PC Stamp Awards
+
+Final Travel Show
+
+Family Sports Exhibition
+
+Toulouse Typography Celebrations
+
+Delft City Conference
+
+Madrid Knitting Theater
+
+Ce Food Festival
+
+Family Art Tour
+
+Minneapolis Embroidery Show
+
+Final Sports FestivalResults for "event_shortheadline"
+Defined in module event.py
+Used in entertainment.py
+
+Final Painting Days
+
+Family House Celebrations
+
+Annual Cooking Lustrum
+
+Tiny Stamp Show
+
+Niger Urban Tour
+
+Regional Jazz Show
+
+Regional Collectors Anniversary
+
+Annual Knitting Anniversary
+
+World Film Tour
+
+Family Travel Concerts
+
+Local City Museum
+
+World Knitting Conference
+
+Grand City Festival
+
+Family Help Aid Concerts
+
+Marseilles Sports Casino
+
+Atlanta Jazz Conference
+
+Annual Watersports Awards
+
+Ce Cooking Days
+
+Madrid Eagle Tour
+
+Lille Typography Anniversary

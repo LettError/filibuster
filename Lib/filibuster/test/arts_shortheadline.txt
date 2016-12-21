@@ -1,21 +1,247 @@
+Results for "arts_shortheadline"
+Defined in module entertainment.py
 
+Final Automotive Show
 
-Tiny Chicken Awards
+Martinique Opera Aquarium
 
-Mac Painting Events
+Regional Trade Awards
 
-World Sports Oscars
+Big Hobby Days
 
-World Real Estate Celebrations
+World Login Celebrations
 
-Israel Hobby Aquarium
+Finland Watersports Exhibition
 
-Family Trade Concerts
+Final Education Oscars
 
-Annual SXSW Celebrations
+World Typography Conference
 
-PC Music Tour
+Annual Sculpture Oscars
 
-Family Opera Show
+Berlin Food Theater
 
-Wallis and Futuna Islands Typography Events
+Regional Trade Lustrum
+
+Com Education Lustrum
+
+Final Jazz Show
+
+London Sculpture Conference
+
+Macedonia Opera Tour
+
+Com Typography Awards
+
+Com Help Aid Anniversary
+
+Annual Watersports Conference
+
+Regional Hobby Casino
+
+Regional Sports EventsResults for "arts_shortheadline"
+Defined in module entertainment.py
+
+Local Knitting Days
+
+Ce Knitting Oscars
+
+Tiny Painting Oscars
+
+Final Travel Anniversary
+
+World Watersports Show
+
+Tiny Carnival Anniversary
+
+Grand Sculpture Awards
+
+Tiny Opera Tour
+
+Belarus Automotive Awards
+
+Denver Education Aquarium
+
+Local Knitting Conference
+
+Ce House Oscars
+
+Tiny Opera Museum
+
+Big Trade Show
+
+Big Rat Festival
+
+Nauru Bank Exhibition
+
+Local Automotive Days
+
+World Bison Tour
+
+Final Painting Casino
+
+World Architecture AwardsResults for "arts_shortheadline"
+Defined in module entertainment.py
+
+Local Education Museum
+
+Cyber Food Celebrations
+
+World Hobby Lustrum
+
+Czech Republic Embroidery Days
+
+Rome House Celebrations
+
+Cyber Travel Festival
+
+Norfolk Island Food Anniversary
+
+Grand Cat Anniversary
+
+Luxembourg Hobby Concerts
+
+Tiny Music Oscars
+
+Annual Sculpture Tour
+
+Annual Embroidery Tour
+
+Big Jazz Concerts
+
+Final Education Museum
+
+Barcelona Education Awards
+
+Com Cooking Conference
+
+Andorra Hobby Celebrations
+
+Final House Casino
+
+Annual Cooking Events
+
+Final Automotive DaysResults for "arts_shortheadline"
+Defined in module entertainment.py
+
+Annual Carnival Anniversary
+
+Cyber Music Conference
+
+Greenland SXSW Events
+
+Pakistan Watersports Concerts
+
+Local Watersports Festival
+
+World Urban Conference
+
+Tuvalu Stamp Oscars
+
+Local Knitting Oscars
+
+Mac Sculpture Show
+
+Malta Urban Festival
+
+Local Trade Awards
+
+Local Phone Show
+
+World Stamp Festival
+
+Grand Painting Conference
+
+China Automotive Aquarium
+
+Local Music Awards
+
+World SXSW Theater
+
+Kiribati Urban Theater
+
+World Real Estate Exhibition
+
+Regional Tennis TourResults for "arts_shortheadline"
+Defined in module entertainment.py
+
+Grand Stamp Concerts
+
+Antigua and Barbuda Collectors Awards
+
+Big Jazz Oscars
+
+Tiny Automotive Theater
+
+Annual Jazz Theater
+
+Indonesia House Show
+
+Rome Painting Theater
+
+Madrid Architecture Days
+
+Malawi Art Oscars
+
+Regional Stamp Casino
+
+Regional Typography Museum
+
+Cyber Jazz Concerts
+
+Barcelona Typography Theater
+
+Iceland Opera Anniversary
+
+Final Music Lustrum
+
+Family Film Oscars
+
+Florence Snake Exhibition
+
+Local Hobby Tour
+
+Grand Opera Festival
+
+New York Urban OscarsResults for "arts_shortheadline"
+Defined in module entertainment.py
+
+Final Dolphin Theater
+
+Local Login Anniversary
+
+Bilbao SXSW Theater
+
+Final Travel Tour
+
+Nauru SXSW Awards
+
+Haarlem Embroidery Oscars
+
+World Music Conference
+
+Madrid Cooking Casino
+
+Papua New Guinea Hobby Theater
+
+World House Tour
+
+Argentina Opera Days
+
+Tiny Opera Exhibition
+
+Local Knitting Events
+
+Madagascar Bird Conference
+
+Tiny Jazz Events
+
+Liege Sunflower Theater
+
+Tiny Education Days
+
+Regional Jazz Casino
+
+Final SXSW Anniversary
+
+Local House Aquarium

@@ -1,21 +1,253 @@
+Results for "entertainment_construct"
+Defined in module entertainment.py
+Used in entertainment.py
 
+What said Claudia?
 
-Rome Real Estate Show
+Karla Sanya: Don’t miss
 
-Popwatch today
+Words of War
 
-Sandra Hall Immortal
+Books
 
-Inside Movies this month
+Books
 
-Niue Carnival Concerts
+Annual Food Show
 
-Atlanta – The Musical
+The Scene tonight
 
-Popwatch today
+Dining this month
 
-Liechtenstein Embroidery Celebrations
+Sneak Preview this week
+
+Annual SXSW Museum
+
+American State Ballet
+
+The Scene tonight
+
+Karla playes Carmen
+
+Ted Wynn-Brown in Concert
+
+A cheap night out in New York
+
+The Theresa Jacques Late Show
+
+The year 2015 in Catch-Phrases
+
+New published
+
+A cheap night out in Tokyo
+
+The year 2015 in Catch-PhrasesResults for "entertainment_construct"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Connie Von schischerler hits Broadway
+
+Peter Matthews Says Yes to Leigh’s invite
+
+Inside Movies this week
+
+W. Bill Thomas plays Jazz
+
+A cheap night out in Berlin
+
+Story tonight
+
+Inside TV today
+
+Claudia B. Knight in London Concert Hall
+
+Theater today
+
+The year 2015 in Catch-Phrases
+
+Premieres today
+
+The year 2015 in Catch-Phrases
+
+Popwatch this month
+
+Stuart Carter: Story
+
+Theater this week
+
+Are the phrases “Nauru Watersports Lustrum” / “Arnhem Film Festival” oxymorons?
+
+The Brad W. Soyosanma Show
+
+Grand Sculpture Days
+
+Books
+
+A cheap night out in BerlinResults for "entertainment_construct"
+Defined in module entertainment.py
+Used in entertainment.py
+
+The year 2015 in Catch-Phrases
+
+Books
+
+Lyon Painting Lustrum
+
+Books
+
+Isabel Brown-Tahosho in Den Haag Concert Hall
 
 E-books
 
-Baltimore!
+Sasha Mimiyi Immortal
+
+A cheap night out in Berlin
+
+Zoe A. Green: Sneak Peek
+
+Meet Bridget Takiyo
+
+Literature
+
+Arch Schuelenfuss in Concert
+
+Dancing with stars
+
+The Penny Françoise Late Show
+
+Dancing with stars
+
+Dining tonight
+
+Family Architecture Theater
+
+What said Laura?
+
+Tina Khan plays Jazz
+
+Franco Morgan ImmortalResults for "entertainment_construct"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Denver – The Musical
+
+The Petr Muller Late Show
+
+Dancing with stars
+
+Isabel Li: Musical
+
+Inside TV this month
+
+Inside Movies tonight
+
+Gossip today
+
+Kansas Boys
+
+The Color Red
+
+Books
+
+A cheap night out in Sao Paolo
+
+Eindhoven Housing Festival
+
+Lyon Watersports Aquarium
+
+Madeleine Françoise hits Broadway
+
+Latest shows today
+
+Eloise Griffiths: Dining
+
+Mac Trade Exhibition
+
+Meghan Jacques III: Jazz
+
+A cheap night out in Tokyo
+
+Dancing with starsResults for "entertainment_construct"
+Defined in module entertainment.py
+Used in entertainment.py
+
+The year 2015 in Catch-Phrases
+
+Tiny Trade Show
+
+The Color Green
+
+Rosemary C. Baker Tonight
+
+Phoebe Sunsantsi in Concert
+
+A cheap night out in New York
+
+My library
+
+Premieres this week
+
+Popwatch today
+
+The Franco Rutkowski Late Show
+
+Musical this month
+
+Marseilles Watersports Show
+
+Books
+
+Alexander Muller Immortal
+
+Laura Hunt Immortal
+
+The Daphne Jacques Late Show
+
+The Karla Roy-Watson Late Show
+
+Jen Françoise plays Jazz
+
+Atlanta!
+
+Dancing with starsResults for "entertainment_construct"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Liz Nobelman in London Concert Hall
+
+The Diary of Martin Rutkowski
+
+Are the phrases “Gabon Real Estate Concerts” / “Family Education Exhibition” oxymorons?
+
+Wyoming Boys
+
+A cheap night out in Stockholm
+
+Daphne Gomez in Concert
+
+Dancing with stars
+
+Dancing with stars
+
+The Color Red
+
+Literature
+
+Local Urban Awards
+
+A cheap night out in Berlin
+
+Movie today
+
+Are the phrases “Tiny House Days” / “Local SXSW Celebrations” oxymorons?
+
+Theresa Manningerbein in Concert
+
+Leigh Wilkinson Recital
+
+Words of War
+
+Actors Live today
+
+Nigel Hohtropp Night Live
+
+Lesotho City Days

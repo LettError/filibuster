@@ -1,21 +1,253 @@
+Results for "car_name"
+Defined in module automotive.py
+Used in automotive.py
 
+Toyota
 
-Citroën
+Saab
+
+Citroën 327 Turbo-Fire
+
+Goat, 327 Turbo-Fire
+
+stang, 409
+
+Mercedes
+
+Fairlane, 440 Wedge
+
+Nissan 426 Hemi
 
 Nissan 327 Turbo-Fire
 
 Ford
 
+Ford
+
 Cadillac
+
+Renault
+
+Ford
+
+Pontiac LT-1 350
 
 Audi
 
-Mercedes
+Cadillac Flathead V8
 
-’67 Chevelle, 327 Turbo-Fire
+vette, 440 Wedge
+
+Volvo
+
+’32 Ford, 327 Turbo-FireResults for "car_name"
+Defined in module automotive.py
+Used in automotive.py
+
+Citroën
+
+Pontiac
+
+Renault
+
+Renault
+
+Pontiac 426 Hemi
+
+Shelby Cobra, 409
+
+Cadillac
+
+Willys coupe
+
+Volvo 440 Wedge
+
+Galaxie 500, 327 Turbo-Fire
+
+Citroën
+
+Saab LT-1 350
+
+Volvo 340 Six Pack
+
+Volvo
+
+Pontiac
+
+Volkswagen 426 Hemi
+
+GT 350
+
+Volvo Rat motor
+
+hi boy roadster, Rat motor
+
+’55 MercResults for "car_name"
+Defined in module automotive.py
+Used in automotive.py
+
+Citroën
+
+Pontiac
 
 Nissan
 
 Cadillac
 
-Citroën 429 Super Cobra Jet
+Pontiac
+
+Mercedes
+
+Willys coupe
+
+Cadillac 440 Wedge
+
+Ford
+
+Nissan
+
+GT 350, 440 Wedge
+
+Cadillac
+
+vette
+
+’67 Chevelle, Flathead V8
+
+Ford
+
+duece, 440 Wedge
+
+hi boy roadster, 340 Six Pack
+
+Willys coupe
+
+Toyota
+
+PontiacResults for "car_name"
+Defined in module automotive.py
+Used in automotive.py
+
+Shelby Cobra, Boss 302
+
+Citroën
+
+Volvo LT-1 350
+
+’55 Merc
+
+Volkswagen Flathead V8
+
+Renault
+
+’32 Ford
+
+Toyota
+
+Citroën
+
+Ford
+
+Pontiac
+
+’57 Chevy, 327 Turbo-Fire
+
+Ford
+
+Volkswagen
+
+Audi LT-1 350
+
+Charger, Rat motor
+
+Volvo Rat motor
+
+’67 Chevelle
+
+Ford
+
+FordResults for "car_name"
+Defined in module automotive.py
+Used in automotive.py
+
+Cadillac
+
+Pontiac
+
+Cadillac
+
+’55 Merc, 426 Hemi
+
+Nissan
+
+Pontiac
+
+Ford
+
+Citroën
+
+’57 Chevy
+
+Citroën Flathead V8
+
+Pontiac 429 Super Cobra Jet
+
+’57 Chevy
+
+Pontiac
+
+Pontiac 426 Hemi
+
+Renault
+
+Nissan
+
+Audi 409
+
+Citroën Rat motor
+
+Volvo
+
+SaabResults for "car_name"
+Defined in module automotive.py
+Used in automotive.py
+
+Impala, Rat motor
+
+Volkswagen
+
+Volvo
+
+Cadillac
+
+duece
+
+Saab Boss 302
+
+Pontiac 440 Wedge
+
+Nissan
+
+Fairlane, 327 Turbo-Fire
+
+Toyota 440 Wedge
+
+Audi Rat motor
+
+Renault Boss 302
+
+’32 Ford
+
+Toyota
+
+duece, 429 Super Cobra Jet
+
+’55 Merc, 440 Wedge
+
+Ford
+
+Volvo
+
+Pontiac LT-1 350
+
+vette, Rat motor

@@ -1,4 +1,146 @@
+Results for "colors_adj"
+Defined in module general.py
+Used in general.py
 
+deep
+
+light
+
+
+
+
+
+
+
+
+
+
+
+
+
+light
+
+
+
+
+
+
+
+
+
+
+
+
+
+light
+
+light
+
+
+
+
+
+Results for "colors_adj"
+Defined in module general.py
+Used in general.py
+
+
+
+deep
+
+
+
+
+
+dark
+
+
+
+light
+
+
+
+
+
+
+
+dark
+
+
+
+
+
+
+
+light
+
+
+
+
+
+dark
+
+light
+
+lightResults for "colors_adj"
+Defined in module general.py
+Used in general.py
+
+
+
+deep
+
+
+
+
+
+
+
+
+
+
+
+deep
+
+
+
+
+
+
+
+dark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results for "colors_adj"
+Defined in module general.py
+Used in general.py
+
+
+
+dark
+
+dark
+
+dark
+
+
+
+
+
+deep
 
 light
 
@@ -18,3 +160,94 @@ light
 
 
 
+
+
+deep
+
+
+
+lightResults for "colors_adj"
+Defined in module general.py
+Used in general.py
+
+dark
+
+light
+
+
+
+dark
+
+dark
+
+
+
+dark
+
+
+
+light
+
+deep
+
+
+
+deep
+
+
+
+
+
+
+
+
+
+
+
+deep
+
+
+
+Results for "colors_adj"
+Defined in module general.py
+Used in general.py
+
+dark
+
+
+
+
+
+
+
+
+
+
+
+light
+
+
+
+
+
+dark
+
+light
+
+
+
+
+
+light
+
+
+
+
+
+
+
+
+
+
+
+dark

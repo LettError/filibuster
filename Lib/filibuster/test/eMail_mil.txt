@@ -1,21 +1,253 @@
+Results for "eMail_mil"
+Defined in module internet.py
+Used in internet.py
 
+FloresKI@Aluminum.army.mil
 
-ParkerDM@Titanium.army.mil
+Jones@capricorn.marines.mil
 
-Lin_R@smtp.io.arpa
+AliQ@oedipus.navy.mil
 
-VYashahoko@Argon.defense.mil
+Johnson@ordec.navy.mil
 
-DRichardson@navy.mil
+Sanma@uranus.arpa
 
-Wynn_B@amair.defense.mil
+CarlU@Gallium.pentagon.mil
 
-Mashi@viscor.navy.mil
+Suarez@Indium.sogdar.pentagon.mil
 
-TheresaY@europa.sogzen.airforce.mil
+BKnight@army.mil
 
-KarenK@lucian.darvis.defense.mil
+Johnson@erato.decpat.navy.mil
 
-Santos@ganymede.visam.army.mil
+Schischerliwald@pentagon.mil
 
-LMorgan@pop.libra.pentagon.mil
+YWynn@arcturus.wardac.arpa
+
+Rogers@pentagon.mil
+
+Simpson@thalia.orcor.arpa
+
+Smith@osiris.pentagon.mil
+
+BrownV@cancer.marines.mil
+
+Marsh_I@mars.army.mil
+
+Devries_Z@mail.pollux.lordec.defense.mil
+
+Vogel@scorpio.navy.mil
+
+Dominguez@patam.pentagon.mil
+
+Baker@mail.navy.milResults for "eMail_mil"
+Defined in module internet.py
+Used in internet.py
+
+Jacques@Neon.pentagon.mil
+
+MartinW@Rhodium.army.mil
+
+Komo@pop.hyperion.datfas.arpa
+
+Lee_Z@phobos.arpa
+
+Jacques@marines.mil
+
+Pwolley@mail.defense.mil
+
+L_Clark@mail.Zirconium.marines.mil
+
+ErinB@airforce.mil
+
+Kobayashi@phobos.amlor.defense.mil
+
+Palmer@pop.Bismuth.arpa
+
+Morris@dacdec.pentagon.mil
+
+Barker@datus.defense.mil
+
+Vanderbeck@airforce.mil
+
+Lee@smtp.pisces.comvis.airforce.mil
+
+Mihitaha@mail.Aluminum.arpa
+
+OGonzález@navy.mil
+
+JFrançois@navy.mil
+
+ZScott@army.mil
+
+Smith@pop.mercury.defense.mil
+
+Robinson_S@capricorn.hazwar.arpaResults for "eMail_mil"
+Defined in module internet.py
+Used in internet.py
+
+Davis@styx.visfas.arpa
+
+Koyatitsu@mail.Tin.marines.mil
+
+K_Mitchell@datsac.army.mil
+
+Wynn_U@marines.mil
+
+QLloyd@deimos.warcor.marines.mil
+
+Anderson@Xenon.usus.pentagon.mil
+
+V_Wright@mail.airforce.mil
+
+S_Schusserbürgerler@defense.mil
+
+Vazquez@Krypton.towtow.airforce.mil
+
+Pwolley@mail.defense.mil
+
+XMurphy@patam.airforce.mil
+
+JiménezPN@Bohrium.pentagon.mil
+
+S_Shaw@dardar.defense.mil
+
+Mason@Iron.army.mil
+
+Y_Reage@macus.army.mil
+
+Rutkowski@Iridium.airforce.mil
+
+Zóchi@defense.mil
+
+MibanyuB@Lead.warnor.arpa
+
+T_Butler@leda.army.mil
+
+Wilkinson@narcissus.arpaResults for "eMail_mil"
+Defined in module internet.py
+Used in internet.py
+
+Sanyoha@smtp.Argon.ordac.airforce.mil
+
+Duvall_P@mail.neptune.arpa
+
+N_Von schoschauerkopf@mail.psyche.army.mil
+
+YoshoshiV@Tin.arpa
+
+N_Ramírez@defense.mil
+
+LJean@Helium.army.mil
+
+ReageZF@Aluminum.arpa
+
+Roy@mail.andromeda.matsac.arpa
+
+M_Thompson@mail.macnor.pentagon.mil
+
+MannerlerbergO@mail.Tin.airforce.mil
+
+HillB@Radon.army.mil
+
+Holmes@capricorn.parzen.navy.mil
+
+Torres@mail.Tin.navy.mil
+
+IngeborgB@cygnus.datdac.navy.mil
+
+DFrançois@defense.mil
+
+SoshiN@pop.matpar.marines.mil
+
+WrombleyT@deimos.sogcor.airforce.mil
+
+EllenZ@sphinx.arpa
+
+François@Krypton.arpa
+
+Reyes@navy.milResults for "eMail_mil"
+Defined in module internet.py
+Used in internet.py
+
+SuhJG@airfas.pentagon.mil
+
+GrayMC@Gallium.marines.mil
+
+Martin@ulysses.pentagon.mil
+
+Santos@domsac.pentagon.mil
+
+Vogel_Y@demeter.dardar.army.mil
+
+DPierre@airzen.pentagon.mil
+
+Roy@jupiter.marines.mil
+
+NPhilipe@medea.waram.airforce.mil
+
+Jeanne@ganymede.navy.mil
+
+LloydV@mail.aries.zentow.airforce.mil
+
+KirstenO@mail.Zinc.army.mil
+
+EPrice@airforce.mil
+
+Toshayako_C@ulysses.visdat.airforce.mil
+
+SunyanCU@io.towam.defense.mil
+
+PhilipeO@titan.army.mil
+
+QGomez@hermes.orcor.airforce.mil
+
+Philipe@mail.navy.mil
+
+Kelly@mail.phobos.pentagon.mil
+
+CarlA@ganymede.faslor.arpa
+
+ZJeanne@electra.arpaResults for "eMail_mil"
+Defined in module internet.py
+Used in internet.py
+
+Hussain@Bismuth.sacam.arpa
+
+MaryV@calypso.farnor.pentagon.mil
+
+Maha@smtp.visam.army.mil
+
+NWynn@Aluminum.towmac.army.mil
+
+Marinski@corair.pentagon.mil
+
+Thompson@mail.scorpio.pentagon.mil
+
+HPierre@Radon.zenam.arpa
+
+SusanN@mail.Lead.defense.mil
+
+GFernandez@gemini.decpar.arpa
+
+XCox@Lead.hazpat.navy.mil
+
+AlanO@datus.marines.mil
+
+Suarez@saturn.marines.mil
+
+Pierre_G@Titanium.towsac.marines.mil
+
+MilesJ@ordac.army.mil
+
+GiovanniY@mail.Krypton.defense.mil
+
+Mustcado@machaz.army.mil
+
+Khan@mail.Copper.corpar.marines.mil
+
+E_Sakanmi@smtp.Neon.pathaz.airforce.mil
+
+King@navy.mil
+
+Bell@centaur.sogmac.navy.mil

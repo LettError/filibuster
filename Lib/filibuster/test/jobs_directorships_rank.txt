@@ -1,4 +1,230 @@
+Results for "jobs_directorships_rank"
+Defined in module staff.py
+Used in staff.py
 
+Associate
+
+Junior
+
+Senior
+
+Junior
+
+Executive
+
+Senior
+
+Executive
+
+Junior
+
+Junior
+
+Deputy
+
+Junior
+
+Senior
+
+Executive
+
+Executive
+
+Junior
+
+Assistant
+
+Associate
+
+Executive
+
+Associate
+
+AssistantResults for "jobs_directorships_rank"
+Defined in module staff.py
+Used in staff.py
+
+Junior
+
+Junior
+
+Deputy
+
+Senior
+
+Senior
+
+Associate
+
+Assistant
+
+Associate
+
+Deputy
+
+Assistant
+
+Deputy
+
+Executive
+
+Associate
+
+Junior
+
+Executive
+
+Associate
+
+Junior
+
+Executive
+
+Junior
+
+ExecutiveResults for "jobs_directorships_rank"
+Defined in module staff.py
+Used in staff.py
+
+Executive
+
+Assistant
+
+Senior
+
+Junior
+
+Assistant
+
+Deputy
+
+Executive
+
+Junior
+
+Assistant
+
+Assistant
+
+Senior
+
+Associate
+
+Assistant
+
+Deputy
+
+Executive
+
+Associate
+
+Deputy
+
+Senior
+
+Senior
+
+DeputyResults for "jobs_directorships_rank"
+Defined in module staff.py
+Used in staff.py
+
+Junior
+
+Executive
+
+Assistant
+
+Deputy
+
+Junior
+
+Executive
+
+Executive
+
+Junior
+
+Executive
+
+Assistant
+
+Assistant
+
+Junior
+
+Assistant
+
+Senior
+
+Executive
+
+Senior
+
+Executive
+
+Junior
+
+Junior
+
+ExecutiveResults for "jobs_directorships_rank"
+Defined in module staff.py
+Used in staff.py
+
+Deputy
+
+Junior
+
+Junior
+
+Junior
+
+Junior
+
+Senior
+
+Associate
+
+Deputy
+
+Senior
+
+Assistant
+
+Associate
+
+Associate
+
+Junior
+
+Senior
+
+Executive
+
+Executive
+
+Junior
+
+Associate
+
+Senior
+
+SeniorResults for "jobs_directorships_rank"
+Defined in module staff.py
+Used in staff.py
+
+Associate
+
+Assistant
+
+Associate
+
+Assistant
+
+Executive
+
+Deputy
+
+Junior
 
 Deputy
 
@@ -6,16 +232,22 @@ Executive
 
 Assistant
 
+Associate
+
 Executive
 
+Deputy
+
 Assistant
-
-Deputy
-
-Deputy
 
 Associate
 
 Associate
 
-Assistant
+Deputy
+
+Associate
+
+Junior
+
+Junior

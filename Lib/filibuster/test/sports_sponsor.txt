@@ -1,21 +1,253 @@
+Results for "sports_sponsor"
+Defined in module sports.py
+Used in sports.py
 
+Yasha
 
-InterTech
+NatCom
 
-SunCom
+Winslow
 
-Sterling
+TeleCorp
+
+NatCom
+
+Miyayi
+
+Yamoya
+
+SunTel
+
+AmeriCorp
+
+SkyCom
+
+SkyTron
+
+Koyankayan
+
+Yohishaya
+
+Bryant
+
+Tahiho
+
+Jennings
+
+Morgan
+
+Polk
+
+Mitatihi
+
+YamotaResults for "sports_sponsor"
+Defined in module sports.py
+Used in sports.py
+
+TeleCorp
+
+NatCorp
+
+Archer
+
+Whitney
+
+BioTron
+
+Sanyaki
+
+Sunki
+
+Miyatati
+
+Archer
+
+Mills
+
+Bushnell
+
+Bushnell
+
+Yoma
+
+Price
+
+Tokoma
+
+Emerson
+
+Palmer
+
+Dupont
+
+Toso
+
+CaldecottResults for "sports_sponsor"
+Defined in module sports.py
+Used in sports.py
+
+Sashiha
+
+Komiho
+
+Upton
+
+SkyTel
+
+Sankan
+
+Parker
+
+MediTel
+
+InterCom
+
+Sloane
+
+Ryan
+
+Harrison
+
+Morgan
+
+SunCorp
+
+Kennerley
+
+NatCorp
+
+Mayoshi
+
+Sontsuma
+
+Clark
+
+WestTron
+
+TabitoResults for "sports_sponsor"
+Defined in module sports.py
+Used in sports.py
+
+Samoyami
+
+TeleCom
+
+Forbes
 
 WestTech
 
-Tokiki
+TransTech
 
-BioTron
+SkyCorp
+
+SunTel
+
+SunCorp
+
+SunTel
+
+SunTech
+
+Acheson
+
+Palmer
+
+Davenport
+
+Mikoko
+
+AmeriCom
+
+Suyuso
+
+Koka
+
+Totimo
+
+Sanyukaho
+
+WhiteResults for "sports_sponsor"
+Defined in module sports.py
+Used in sports.py
 
 Toshi
 
 Mills
 
-Polk
+Caldecott
 
-Suya
+Koki
+
+Parham
+
+SkyTron
+
+Matsitsi
+
+Miyanmoyu
+
+Archer
+
+Riley
+
+MediTel
+
+AmeriCorp
+
+InterTech
+
+AmeriTel
+
+Archer
+
+SkyTel
+
+Yayutsiban
+
+Archer
+
+Davies
+
+BioComResults for "sports_sponsor"
+Defined in module sports.py
+Used in sports.py
+
+Fitzsimmons
+
+Kasoyi
+
+TeleTron
+
+Lawson
+
+SunCom
+
+Bourne
+
+Winslow
+
+WestTel
+
+Blockland
+
+SkyTron
+
+Sontsiyito
+
+SunCorp
+
+MacArthur
+
+Parker
+
+Sutsishoko
+
+Sayisantsu
+
+SkyCorp
+
+NatTel
+
+BioCom
+
+MediTel

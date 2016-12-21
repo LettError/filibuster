@@ -1,21 +1,253 @@
+Results for "design_names"
+Defined in module design.py
+Used in design.py
 
+Peter Saville
 
 Wim Crouwel
 
-Rem Koolhaas
+Peter Bil’ak
 
-Martin MacArthur
+Frank Lloyd Wright
 
-William Gibson
+Gerrit Noordzij
 
-Stuart Bailey
+Ellen Lupton
 
-Christian Schwarz
+Jan van Krimpen
 
-Gerald Rowe
+Hollings Sloane
+
+Hollings Knox
+
+Walter Nikkels
 
 Wim T. Schippers
 
+Louise Sandhaus
+
+Max Bruinsma
+
+Peter Bil’ak
+
+Allan Turing
+
+Lorainne Wild
+
+Louise Sandhaus
+
+Dick Dupont
+
+Wim Crouwel
+
+Franklin CarnegieResults for "design_names"
+Defined in module design.py
+Used in design.py
+
+Harper Morgan, Jr.
+
+A. Brad Davenport
+
+Gert Dumbar
+
 Sjoerd de Roos
 
+Rick Poynor
+
+Jan van Krimpen
+
+Eustus Johnson, Jr.
+
+David Byrne
+
+Frank Lloyd Wright
+
+Umberto Eco
+
+Robin Kinross
+
+Upton Acheson
+
+Gerrit Noordzij
+
+William Gibson
+
+Sjoerd de Roos
+
+Daniel Harrison Sloane
+
+Peter Bil’ak
+
+Robin Kinross
+
+Rick Poynor
+
+Gerrit NoordzijResults for "design_names"
+Defined in module design.py
+Used in design.py
+
+Gerrit Noordzij
+
+Tate White
+
+Anthony Davenport
+
+Sjoerd de Roos
+
+Ellen Lupton
+
+Umberto Eco
+
+Ann Burdick
+
+Robin Kinross
+
+Sjoerd de Roos
+
+Ann Burdick
+
+Warren Dupont, Jr.
+
+Rem Koolhaas
+
+David Byrne
+
+David Byrne
+
+Robin Kinross
+
+Brian Eno
+
+Hannes Krüger
+
+Oswald Cooper
+
+Sjoerd de Roos
+
+Joost SwarteResults for "design_names"
+Defined in module design.py
+Used in design.py
+
+Brian Eno
+
+Rick Poynor
+
+Knox Whitney
+
+Brian Eno
+
+Andy Warhol
+
+William Gibson
+
+James Stanley
+
+Piet Zwart
+
+Dawn Barrett
+
+Andy Warhol
+
+Paul Barnes
+
+Rick Poynor
+
+Gert Dumbar
+
+Rick Poynor
+
+Joost Swarte
+
+Robin Kinross
+
+Max Bruinsma
+
+Max Bruinsma
+
+Patrick B. Riley
+
+Frank Lloyd WrightResults for "design_names"
+Defined in module design.py
+Used in design.py
+
+Palmer Sinclair
+
+Robin Kinross
+
+Robin Kinross
+
+Sjoerd de Roos
+
+Hannes Krüger
+
+April Greiman
+
+Sjoerd de Roos
+
+Louise Sandhaus
+
+Dawn Barrett
+
+Andy Warhol
+
+Walter Nikkels
+
+John Harper
+
+Max Bruinsma
+
+Louise Sandhaus
+
+Robin Kinross
+
+Erik Spiekermann
+
+Scott L. Parham
+
+Acheson Johns
+
+Brian Eno
+
+Don KnuthResults for "design_names"
+Defined in module design.py
+Used in design.py
+
+Hannes Krüger
+
 Rudy Vanderlans
+
+Ann Burdick
+
+Peter Walters
+
+Vanderpool V. Carson
+
+Gerrit Noordzij
+
+Louise Sandhaus
+
+Hollings Emerson
+
+Frank Gehry
+
+Joost Swarte
+
+Dawn Barrett
+
+Peter Saville
+
+George Walters
+
+Allan Turing
+
+Lawson Carson
+
+Peter Kennerley Palmer
+
+William Gibson
+
+Paul Renner
+
+Piet Zwart
+
+Don Knuth

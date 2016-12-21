@@ -1,21 +1,253 @@
+Results for "cities_UK"
+Defined in module geography.py
+Used in articles.py, geography.py, journalism.py
 
+Sheffield
+
+Leeds
+
+Manchester
+
+Sheffield
+
+Cambridge
+
+Oxford
+
+Sheffield
+
+Leeds
+
+Liverpool
 
 Edinburgh
 
+Leeds
+
+Cambridge
+
+Sheffield
+
+Sheffield
+
+Leeds
+
+London
+
+Oxford
+
+Oxford
+
+Sheffield
+
+LondonResults for "cities_UK"
+Defined in module geography.py
+Used in articles.py, geography.py, journalism.py
+
+London
+
+Cambridge
+
 Manchester
 
 Manchester
+
+Glasgow
+
+Manchester
+
+Manchester
+
+Leeds
+
+Cambridge
+
+Oxford
+
+Edinburgh
+
+Leeds
+
+Oxford
+
+Sheffield
+
+Oxford
+
+Sheffield
+
+Liverpool
+
+Manchester
+
+Oxford
+
+SheffieldResults for "cities_UK"
+Defined in module geography.py
+Used in articles.py, geography.py, journalism.py
+
+Cambridge
+
+Oxford
+
+Cambridge
+
+Leeds
+
+Leeds
+
+Edinburgh
+
+Leeds
+
+Edinburgh
+
+Oxford
+
+Oxford
+
+London
+
+Sheffield
+
+Edinburgh
+
+London
+
+Leeds
 
 Liverpool
 
 Leeds
 
-Glasgow
+Liverpool
+
+Liverpool
+
+SheffieldResults for "cities_UK"
+Defined in module geography.py
+Used in articles.py, geography.py, journalism.py
+
+London
 
 Glasgow
+
+Oxford
+
+Liverpool
+
+Cambridge
+
+Cambridge
+
+London
+
+Edinburgh
+
+Cambridge
+
+Manchester
+
+Leeds
+
+Manchester
+
+London
+
+Leeds
+
+London
+
+Cambridge
+
+Oxford
+
+Oxford
+
+Liverpool
+
+LeedsResults for "cities_UK"
+Defined in module geography.py
+Used in articles.py, geography.py, journalism.py
+
+Oxford
+
+Manchester
+
+Sheffield
+
+Manchester
+
+London
+
+Liverpool
+
+Glasgow
+
+Cambridge
+
+Cambridge
+
+Oxford
+
+Glasgow
+
+Cambridge
 
 Edinburgh
 
 Manchester
 
+London
+
+Edinburgh
+
+Sheffield
+
+Glasgow
+
+Edinburgh
+
+ManchesterResults for "cities_UK"
+Defined in module geography.py
+Used in articles.py, geography.py, journalism.py
+
+Sheffield
+
+Edinburgh
+
+Oxford
+
+Sheffield
+
+Edinburgh
+
 Cambridge
+
+Sheffield
+
+Leeds
+
+London
+
+London
+
+London
+
+Leeds
+
+Edinburgh
+
+Liverpool
+
+Manchester
+
+Liverpool
+
+Cambridge
+
+Glasgow
+
+Manchester
+
+Glasgow

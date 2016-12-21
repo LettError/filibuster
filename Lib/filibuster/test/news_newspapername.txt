@@ -1,21 +1,247 @@
+Results for "news_newspapername"
+Defined in module news.py
 
+The Sunday News
 
-The Pitts News
-
-The Evening Paper
-
-Arizona Morning News
-
-The Daily Paper
-
-The Chicago Globe
+The Sunday Post
 
 The Evening Globe
 
-The Kansas Globe
+The LA Post
+
+The Indiana Times
+
+The Maine Times
+
+The Break’n News
+
+The Daily Paper
+
+The Morning Chronicle
+
+The Morning Daily
+
+The World Updated
+
+The Pitts Times
+
+The Daily Paper
+
+The Kansas Paper
+
+The Atlanta Times
+
+The Georgia Region
+
+The Wyoming News
+
+The St.Paul Region
+
+Nebraska Morning News
+
+The Hawaii TimesResults for "news_newspapername"
+Defined in module news.py
+
+The Iowa Region
+
+The Oregon Region
+
+The Miami Post
+
+The Evening Post
+
+The Evening Post
+
+The Vineyard News
+
+The NYC Region
+
+The Houston Times
+
+The Morning News
+
+The Alaska Post
+
+The Detroit Globe
+
+The Morning Daily
+
+The Daily Paper
+
+The LA Globe
+
+The Sunday News
+
+The Houston Paper
+
+The Minny Region
+
+The Iowa Paper
+
+The Sunday Update
+
+The Alabama TimesResults for "news_newspapername"
+Defined in module news.py
+
+The Illinois Region
+
+The St.Paul Times
+
+Memphis Morning Journal
+
+The Break’n News
+
+The Baltim Paper
+
+The Idaho Paper
+
+The Morning News
+
+The Iowa Paper
+
+The Daily News
+
+The Morning Post
+
+The Georgia Region
+
+The Florida Times
+
+The St.Paul Post
+
+The Utah Region
+
+The NYC Post
+
+The Sunday Update
+
+The Daily Update
+
+The Philly Globe
+
+The Vermont Globe
+
+Texas Morning NewsResults for "news_newspapername"
+Defined in module news.py
+
+The Montana News
+
+The Daily News
+
+The Dallas Post
+
+The St.Paul Region
+
+The Hawaii Region
+
+The Vermont Globe
+
+The Denver Globe
+
+The Sunday Post
+
+The Idaho Post
+
+The Tisbury Paper
+
+The Boston Region
+
+The Sunday Paper
+
+The Evening News
+
+The Evening Globe
+
+The Morning Daily
+
+Detroit Evening News
 
 The Paper World
 
-The Nebraska Region
+The Minny Post
+
+The Hawaii Paper
+
+The Daily UpdateResults for "news_newspapername"
+Defined in module news.py
+
+The Minny Globe
+
+The Sunday Update
+
+The Evening News
+
+The Evening News
+
+Missouri Evening Journal
+
+The Sunday Paper
+
+The Morning News
+
+The Sunday Paper
+
+Minny Evening Journal
+
+The St.Paul Region
+
+The Washin’ Globe
+
+The Nebraska Globe
+
+The Alaska Times
+
+The Arizona Post
+
+The Kansas Post
+
+The LA Globe
+
+The Tisbury Paper
+
+The Minny Globe
+
+The Chicago Globe
+
+The Paper WorldResults for "news_newspapername"
+Defined in module news.py
 
 The Morning Globe
+
+The Idaho Post
+
+The Evening News
+
+Alabama Evening News
+
+The Updated World
+
+The Texas Region
+
+The Sunday News
+
+The Dallas Region
+
+The Morning Daily
+
+The Alabama Globe
+
+The Tisbury Paper
+
+The Nevada News
+
+The Arkansas Times
+
+The Arizona Globe
+
+The Nebraska Globe
+
+The Sunday Post
+
+The Morning Chronicle
+
+The Evening News
+
+The Texas Globe
+
+The Morning Chronicle

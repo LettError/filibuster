@@ -1,4 +1,150 @@
+Results for "news_disaster_earthquake_magnitude"
+Defined in module news.py
+Used in news.py
 
+minor tremors
+
+massive earthquake
+
+massive earthquake
+
+minor tremors
+
+massive earthquake
+
+minor tremors
+
+minor tremors
+
+minor tremors
+
+massive earthquake
+
+minor tremors
+
+earthquake
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+minor tremors
+
+massive earthquake
+
+minor tremors
+
+minor tremors
+
+massive earthquake
+
+massive earthquakeResults for "news_disaster_earthquake_magnitude"
+Defined in module news.py
+Used in news.py
+
+earthquake
+
+earthquake
+
+minor tremors
+
+minor tremors
+
+minor tremors
+
+earthquake
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+earthquake
+
+minor tremors
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+earthquake
+
+massive earthquakeResults for "news_disaster_earthquake_magnitude"
+Defined in module news.py
+Used in news.py
+
+earthquake
+
+massive earthquake
+
+earthquake
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+minor tremors
+
+massive earthquake
+
+massive earthquake
+
+minor tremors
+
+massive earthquake
+
+earthquake
+
+massive earthquake
+
+massive earthquake
+
+earthquake
+
+massive earthquake
+
+earthquake
+
+earthquake
+
+minor tremors
+
+massive earthquakeResults for "news_disaster_earthquake_magnitude"
+Defined in module news.py
+Used in news.py
+
+minor tremors
+
+earthquake
+
+earthquake
+
+earthquake
+
+minor tremors
+
+earthquake
+
+earthquake
+
+massive earthquake
+
+minor tremors
 
 minor tremors
 
@@ -14,8 +160,94 @@ earthquake
 
 earthquake
 
+minor tremors
+
+massive earthquake
+
+minor tremors
+
+massive earthquakeResults for "news_disaster_earthquake_magnitude"
+Defined in module news.py
+Used in news.py
+
+massive earthquake
+
+earthquake
+
+massive earthquake
+
+earthquake
+
+earthquake
+
+massive earthquake
+
+minor tremors
+
+massive earthquake
+
+earthquake
+
+earthquake
+
+earthquake
+
+massive earthquake
+
+massive earthquake
+
+minor tremors
+
 massive earthquake
 
 minor tremors
 
 earthquake
+
+minor tremors
+
+massive earthquake
+
+minor tremorsResults for "news_disaster_earthquake_magnitude"
+Defined in module news.py
+Used in news.py
+
+massive earthquake
+
+minor tremors
+
+earthquake
+
+massive earthquake
+
+minor tremors
+
+massive earthquake
+
+massive earthquake
+
+minor tremors
+
+minor tremors
+
+minor tremors
+
+earthquake
+
+minor tremors
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+massive earthquake
+
+earthquake
+
+earthquake
+
+massive earthquake
+
+massive earthquake

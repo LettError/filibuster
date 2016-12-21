@@ -1,21 +1,253 @@
-
-
-interview
-
-nice meeting you
-
-interview
-
-q&a
-
-personal
+Results for "interview"
+Defined in module journalism.py
+Used in articles.py, journalism.py, portal.py
 
 the person
 
 query
 
-the person
+behind the person
+
+who is it?
+
+getting personal
+
+who is it?
+
+behind the person
 
 nice meeting you
 
+getting personal
+
+interview
+
+who is it?
+
+personal
+
+interrogation
+
+interview
+
+getting personal
+
+interview
+
+who is it?
+
+query
+
+interview
+
+interrogationResults for "interview"
+Defined in module journalism.py
+Used in articles.py, journalism.py, portal.py
+
+who is it?
+
+getting personal
+
+interview
+
+interview
+
+who is it?
+
+query
+
+getting personal
+
+who is it?
+
+query
+
+nice meeting you
+
+nice meeting you
+
+personal
+
+behind the person
+
+who is it?
+
+interview
+
+who is it?
+
+interrogation
+
+the person
+
+who is it?
+
+queryResults for "interview"
+Defined in module journalism.py
+Used in articles.py, journalism.py, portal.py
+
+nice meeting you
+
+who is it?
+
+interview
+
+who is it?
+
+query
+
+the person
+
+getting personal
+
+interview
+
+personal
+
+personal
+
+the person
+
+behind the person
+
+interview
+
+query
+
 q&a
+
+personal
+
+q&a
+
+personal
+
+query
+
+nice meeting youResults for "interview"
+Defined in module journalism.py
+Used in articles.py, journalism.py, portal.py
+
+behind the person
+
+behind the person
+
+interview
+
+getting personal
+
+q&a
+
+the person
+
+getting personal
+
+who is it?
+
+query
+
+getting personal
+
+q&a
+
+interview
+
+interview
+
+who is it?
+
+who is it?
+
+interview
+
+personal
+
+interview
+
+nice meeting you
+
+queryResults for "interview"
+Defined in module journalism.py
+Used in articles.py, journalism.py, portal.py
+
+interrogation
+
+getting personal
+
+personal
+
+behind the person
+
+personal
+
+interview
+
+interrogation
+
+who is it?
+
+query
+
+nice meeting you
+
+interview
+
+nice meeting you
+
+interrogation
+
+behind the person
+
+behind the person
+
+query
+
+nice meeting you
+
+nice meeting you
+
+nice meeting you
+
+interviewResults for "interview"
+Defined in module journalism.py
+Used in articles.py, journalism.py, portal.py
+
+personal
+
+behind the person
+
+interview
+
+personal
+
+getting personal
+
+interview
+
+interview
+
+q&a
+
+who is it?
+
+q&a
+
+interview
+
+interview
+
+behind the person
+
+behind the person
+
+interview
+
+query
+
+personal
+
+interview
+
+interview
+
+behind the person

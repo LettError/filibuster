@@ -1,21 +1,253 @@
+Results for "book_pseudoscience_title"
+Defined in module literature.py
+Used in literature.py
 
+"Positive multicriticism and Beethoven" by Sinclair, Department of medicin of the University of Kansas
 
-"The role of judaism in eroticism, VIII" by Welby, Dpt. of philosphy of the University of Bonn
+"Agnosticism, Feynman and Marais" by Emily Martínez
 
-"Ethno-protestantism and agnosticism (1793-1894)" by Welby, Department of liberal arts of the Arizona University
+"The influence of late catholocism on philosphy, V" by Emily Hussain, Doctor at Dpt. of physics of the University of The Hague
 
-"microjournalism as economics, V" by Professor Sinclair, MRCVS
+"Universal proto-pluralism as medicin" by Sandra Sanyanshato, Fellow at Dpt. of medicin of the University of Manchester
 
-"Hawking and Fourier" by Amy Taylor
+"Faraday and art, III" by Warburton, Department of philosphy of the Colorado University
 
-"Bergman as seen by early satanism" by Northmore, Dpt. of economics of the University of Idaho
+"Elgreco and Truffaut" by Professor Pugh, MA
 
-"Multi-negativism and nazism (1757-1824), IX" by Fellow Northmore, MA
+"Golden satanism and Chekov" by Sinclair, Dpt. of literature of the Sheffield Business School
 
-"Pluralism, Bohr and Lautrec, II" by Amy Webb
+"Lucas as seen by spirited ethno-modernism" by Welby, Department of art of the Arkansas State University
 
-"Rembrandt as seen by pancommunism" by Warburton, Dpt. of literature of the University of Manchester
+"Euler as seen by pan-eroticism" by Pugh, Department of mathematics of the San Jose Business School
 
-"The influence of universal cynicism on mathematics, III" by Daphne Foster-Timito
+"Criticism, Fitzgerald and Hemingway, I" by Michael Sasanyo
 
-"The role of economics in ethnofuturism, VII" by Doctor Pugh, RSWH
+"Universal socioagnosticism and Hemingway" by Professor St. James, MP
+
+"The influence of catholocism on philosphy" by Doctor Welby, MRCVS
+
+"Early negativism and Rembrandt, X" by Theresa Torres, Fellow at Department of philosphy of the University of Arkansas
+
+"eroticism and Couperin" by Professor Sinclair, MP
+
+"Late creationism and mathematics, X" by Professor Northmore, MA
+
+"Bronte in the history of medicin, X" by Kurt Richardson
+
+"The role of protestantism in multimodernism, III" by Graham Wynn, Fellow at Dpt. of art of the Maine State University
+
+"The role of economics in socialism, IV" by Northmore, Dpt. of art of the University of Lyon
+
+"The influence of satanism on economics, VI" by Arch Wilkinson, Fellow at Dpt. of physics of the University of Tennessee
+
+"Criticism and communism (1726-1807), I" by St. John-Smythe, Dpt. of classics of the Idaho State UniversityResults for "book_pseudoscience_title"
+Defined in module literature.py
+Used in literature.py
+
+"The role of philosphy in socio-creationism" by St. John-Smythe, Department of medicin of the Leeds Business School
+
+"The role of globalism in eclecticism, IV" by Fellow Warburton, MRCVS
+
+"The role of socialism in dadaism, V" by Daphne Philipe
+
+"Mahler in the history of medicin" by Sinclair, Dpt. of medicin of the University of West Virginia
+
+"Modernism, Reinhardt and Bartok" by Tina Powell, Fellow at Dpt. of physics of the University of Munich
+
+"Multi-criticism, Lucas and Handel, II" by Maarten A. Françoise
+
+"Goya and literature" by St. John-Smythe, Dpt. of literature of the West Virginia State University
+
+"Eternal futurism as literature" by St. John-Smythe, Department of mathematics of the District Of Columbia State University
+
+"Matisse and medicin" by St. James, Dpt. of mathematics of the Mississippi State University
+
+"Ohm and Rembrandt, X" by Patrick Edwards, Professor at Dpt. of classics of the Colorado State University
+
+"Inspired panjournalism as mathematics" by Sinclair, Department of philosphy of the University of Connecticut
+
+"Negative catholocism and art" by Karla Williams, Doctor at Department of mathematics of the University of Baltimore
+
+"Late creationism as classics" by Pugh, Dpt. of philosphy of the Lyon Business School
+
+"Divine micro-futurism and classics, VIII" by Professor Welby, MRCVS
+
+"Creationism, Feynman and Lumiere, II" by Jen A. Schwankingerstadt, Doctor at Department of literature of the University of Colorado
+
+"Leonardo as seen by universal creationism" by Tyler Meyerson
+
+"Chopin and Malevich, II" by Welby, Dpt. of physics of the Puerto Rico State University
+
+"Truffaut in the history of mathematics, VII" by Penny Janssen-Sanyito
+
+"pansocialism and Curie, X" by Bridget Vogel, Doctor at Department of liberal arts of the Idaho State University
+
+"Archimedes in the history of economics" by Doctor Pugh, MOResults for "book_pseudoscience_title"
+Defined in module literature.py
+Used in literature.py
+
+"Late satanism and physics, IX" by Erik Suarez-Kelly
+
+"Socionegativism and nazism (1767-1864), X" by Warburton, Dpt. of classics of the Bilbao Business School
+
+"Micro-globalism and sociopositivism (1752-1861), I" by Warburton, Dpt. of philosphy of the University of Missouri
+
+"Lucas in the history of philosphy, V" by Jasper T. Hunt, Doctor at Department of mathematics of the University of Idaho
+
+"Klimt and mathematics" by Ellen François, Doctor at Department of mathematics of the University of Liege
+
+"The influence of modernism on classics, VI" by St. James, Department of art of the University of Cambridge
+
+"socialism as classics, II" by Josie Hoffman, Professor at Department of literature of the University of Delaware
+
+"Dadaism and journalism (1770-1870)" by Fellow Warburton, MA
+
+"Eclecticism, Tarantino and Brahms, VII" by St. John-Smythe, Department of medicin of the District Of Columbia State University
+
+"Lucas as seen by positive negativism" by Carl Palmer-Little, Fellow at Dpt. of physics of the Missouri University
+
+"Cynicism, Forqueray and Leonardo" by Bill Françoise
+
+"Geiger and Cronenberg, VII" by Eugene Sakayan-Sashakan, Professor at Dpt. of art of the University of Kansas
+
+"The influence of negative creationism on economics" by St. James, Dpt. of art of the University of Utah
+
+"eclecticism as mathematics, V" by Walter Butler, Fellow at Dpt. of classics of the Connecticut State University
+
+"Inspiring socialism and Bergman, II" by Professor Welby, MD
+
+"The role of neo-satanism in ethnomodernism, V" by St. John-Smythe, Department of economics of the Vermont State University
+
+"The influence of dadaism on art, X" by Ingeborg Richards
+
+"agnosticism and Handel" by Fellow St. James, MP
+
+"Multicatholocism and satanism (1743-1884)" by Ellen Fernandez
+
+"Multipositivism and protestantism (1701-1872)" by Fellow St. John-Smythe, MPResults for "book_pseudoscience_title"
+Defined in module literature.py
+Used in literature.py
+
+"The role of protocatholocism in ethno-communism" by Fellow St. John-Smythe, MA
+
+"Positive modernism and Renoir, VIII" by Irwin Cho, Doctor at Dpt. of classics of the Nebraska State University
+
+"The role of neo-globalism in technonegativism, VIII" by Balliol, Dpt. of literature of the University of South Carolina
+
+"Globalism and futurism (1763-1848)" by St. John-Smythe, Dpt. of liberal arts of the Bonn Business School
+
+"Ethnojournalism, Fitzgerald and Malevich, VIII" by Doctor Pugh, MD
+
+"catholocism as mathematics, II" by Bill Schussmannkopf, Fellow at Department of physics of the University of Liverpool
+
+"Macro-socialism and agnosticism (1758-1858), V" by Pugh, Department of physics of the West Virginia State University
+
+"Eternal nazism and Dali, IX" by Professor Pugh, MO
+
+"catholocism and medicin, VII" by Professor Northmore, MD
+
+"Monet in the history of liberal arts" by Welby, Dpt. of art of the Atlanta Business School
+
+"Inspired journalism and economics" by Warburton, Dpt. of philosphy of the Florida University
+
+"Spielberg and economics, I" by Leigh A. Marinski, Fellow at Dpt. of physics of the University of Nebraska
+
+"The influence of criticism on physics, X" by C. Isaac Roberts
+
+"Negative nazism and art" by Michael Hughes
+
+"theonazism as art" by Lynn François
+
+"Fahrenheit in the history of mathematics, VIII" by Balliol, Department of medicin of the University of The Hague
+
+"techno-globalism and philosphy" by Doctor St. John-Smythe, MRCVS
+
+"The role of art in macro-dadaism" by Isabel Wilson
+
+"Beckett and physics" by Doctor Northmore, RSLJ
+
+"micro-modernism and medicin, VIII" by Courtney Wood, Professor at Dpt. of philosphy of the Manchester Business SchoolResults for "book_pseudoscience_title"
+Defined in module literature.py
+Used in literature.py
+
+"The influence of agnosticism on literature, X" by Franco Martin
+
+"Lumiere in the history of liberal arts" by Jasper Brown, Doctor at Department of medicin of the University of Florence
+
+"Chekov in the history of medicin" by Alan Tisanta-Marshall, Fellow at Department of mathematics of the University of Virginia
+
+"Ethno-agnosticism, Magritte and Rubens" by Justine Kashoka
+
+"The role of cynicism in microcommunism" by Balliol, Department of classics of the Rotterdam Business School
+
+"Lumiere and medicin, II" by Northmore, Dpt. of literature of the Michigan State University
+
+"The role of futurism in pluralism" by Balliol, Department of economics of the Cambridge Business School
+
+"Criticism and socialism (1723-1834)" by Graham Cho, Doctor at Dpt. of classics of the Pennsylvania University
+
+"Early catholocism and Wright" by Professor St. James, RSXK
+
+"Microprotestantism, Vansant and Lucas, VIII" by Sasha Gallagher, Fellow at Department of classics of the Marseilles Business School
+
+"Spielberg as seen by liberal eclecticism, V" by Doctor Sinclair, MO
+
+"Spielberg and Mandelbrot" by Victor Bell, Fellow at Dpt. of classics of the Nevada University
+
+"Planck as seen by inspired eclecticism, IX" by Northmore, Dpt. of art of the University of Texas
+
+"The role of communism in negativism, IX" by St. John-Smythe, Dpt. of literature of the University of Bonn
+
+"The influence of modernism on classics" by Connie Brown, Fellow at Dpt. of mathematics of the University of Illinois
+
+"Turner and Magritte" by Professor Welby, RSTP
+
+"negativism and Hemingway" by Warburton, Department of classics of the University of Milan
+
+"Renoir and medicin" by Bridget Davidoff, Fellow at Department of classics of the University of South Dakota
+
+"Truffaut in the history of mathematics, III" by Fellow Northmore, MD
+
+"Dadaism and postnazism (1751-1852)" by Fellow Northmore, MOResults for "book_pseudoscience_title"
+Defined in module literature.py
+Used in literature.py
+
+"The role of liberal arts in creationism" by Brad Abbott, Fellow at Dpt. of art of the Marseilles Business School
+
+"Turgenev and Beethoven, VII" by Jen Young, Fellow at Dpt. of medicin of the Arkansas University
+
+"Roentgen and Coulomb, V" by Patricia Dixon
+
+"Tarantino and liberal arts, VIII" by St. John-Smythe, Department of physics of the University of Massachusetts
+
+"Nazism and dadaism (1775-1882)" by Petr Jean
+
+"Nazism, Lully and Ensor" by Fellow Pugh, MA
+
+"The influence of eclecticism on medicin, II" by Karla Edwards
+
+"Inspiring communism and Roentgen" by Dieter Muller-Gagnon
+
+"industrialism as liberal arts" by Doctor Warburton, MD
+
+"Golden socio-positivism and Grieg" by Fellow Welby, MRCVS
+
+"The influence of inspired criticism on philosphy, V" by Clifford Thompson, Fellow at Department of medicin of the Bilbao Business School
+
+"The role of criticism in catholocism, IV" by Northmore, Dpt. of liberal arts of the Kentucky State University
+
+"Einstein as seen by spirited journalism, IV" by Ellen P. Barnes
+
+"The role of pluralism in cynicism, VII" by Bridget Françoise, Fellow at Dpt. of mathematics of the University of Frankfurt
+
+"Late socialism and philosphy, IX" by Meghan Murphy, Professor at Dpt. of physics of the Bonn Business School
+
+"Universal socio-futurism and literature" by Jeremy Ellis
+
+"Universal multi-pluralism and Elgreco, VII" by Doctor St. John-Smythe, MO
+
+"Renoir as seen by protestantism, IX" by J. Claudia Stevens
+
+"The influence of divine protestantism on liberal arts" by Patrick Heimenwaldauer-Davies
+
+"proto-dadaism and philosphy" by Emily Smith, Doctor at Department of mathematics of the Rome Business School

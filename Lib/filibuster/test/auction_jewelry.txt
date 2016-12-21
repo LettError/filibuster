@@ -1,21 +1,253 @@
+Results for "auction_jewelry"
+Defined in module auction.py
+Used in auction.py
 
+old pin
 
-"arts and crafts" armband
+edwardian leaf pin
 
-platinum tiara (w/original box)
+brass armband
 
-armband (mint)
+victorian chain
+
+art nouveau chain
+
+ring
+
+glass tiara (slightly scratched)
+
+diamond earring
+
+armband
+
+silver chain
+
+platinum necklace (excellent condition)
+
+necklace
+
+platinum earring
+
+impressionist leaf pin
+
+art nouveau leaf pin
+
+ring
+
+victorian chain
+
+embroidered earring
+
+armband
+
+art nouveau tiaraResults for "auction_jewelry"
+Defined in module auction.py
+Used in auction.py
 
 "arts and crafts" chain
 
-18th century leaf pin
+signed tiara
 
-armband (near mint)
+Jeffersonian earring
 
-silver pin
+edwardian chain
 
-antique chain
+glass tiara
 
-ring (worn at back)
+pin
 
-brass chain
+embossed tiara
+
+diamond armband
+
+old earring
+
+chain (w/original box)
+
+18th century chain
+
+18th century earring
+
+platinum necklace (scratches at top)
+
+glass ring (mint)
+
+diamond pin
+
+glass earring
+
+Antique ring
+
+vintage ring
+
+armband
+
+Jeffersonian armbandResults for "auction_jewelry"
+Defined in module auction.py
+Used in auction.py
+
+gold plated armband (slightly scratched)
+
+armband
+
+art nouveau chain
+
+antique armband
+
+antique leaf pin
+
+brass ring (w/original box)
+
+earring (mint)
+
+earring
+
+platinum chain (w/original box)
+
+impressionist leaf pin
+
+ring
+
+pin (excellent condition)
+
+signed leaf pin
+
+victorian chain
+
+glass ring
+
+victorian armband
+
+impressionist tiara
+
+chain (w/original box)
+
+"arts and crafts" earring
+
+platinum tiara (excellent condition)Results for "auction_jewelry"
+Defined in module auction.py
+Used in auction.py
+
+embroidered leaf pin
+
+diamond leaf pin (near mint)
+
+chain
+
+victorian ring
+
+necklace (slightly scratched)
+
+necklace
+
+tiara
+
+brass necklace
+
+tiara (in original box)
+
+"arts and crafts" pin
+
+19th century chain
+
+"arts and crafts" necklace
+
+brass pin (reasonable)
+
+gold plated pin
+
+gold plated leaf pin (mint)
+
+tiara
+
+pin
+
+silver armband
+
+diamond chain (in original box)
+
+rhinestone armband (mint)Results for "auction_jewelry"
+Defined in module auction.py
+Used in auction.py
+
+gold earring (w/original box)
+
+pin
+
+brass tiara
+
+signed pin
+
+gold leaf pin (w/original box)
+
+ring
+
+ring
+
+19th century chain
+
+gold armband (near mint)
+
+armband
+
+glass earring (w/original box)
+
+antique leaf pin
+
+necklace
+
+necklace
+
+ring
+
+antique armband
+
+rhinestone leaf pin (reasonable)
+
+brass armband (reasonable)
+
+old necklace
+
+antique chainResults for "auction_jewelry"
+Defined in module auction.py
+Used in auction.py
+
+gold plated tiara
+
+Antique chain
+
+leaf pin
+
+diamond armband (excellent condition)
+
+brass ring (excellent condition)
+
+old chain
+
+edwardian ring
+
+old earring
+
+edwardian chain
+
+rhinestone armband
+
+rhinestone tiara (scratches at corner)
+
+edwardian pin
+
+platinum tiara
+
+brass pin
+
+necklace
+
+"arts and crafts" leaf pin
+
+antique earring
+
+gold chain (in original box)
+
+armband
+
+embossed earring

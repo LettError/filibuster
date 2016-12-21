@@ -1,21 +1,253 @@
+Results for "market_trading"
+Defined in module financial.py
+Used in financial.py
 
+Trading was feverish, closed at 12385
+
+Trading was feverish
+
+Trading was normal, closed at 12495
+
+Trading was slow
+
+Trading was slow
+
+Trading was feverish, closed at 12664
+
+Trading was normal
+
+Trading was normal, closed at 12081
+
+Trading was hectic
+
+Trading was feverish, closed at 12627
+
+Trading was hectic
+
+Trading was normal, closed at 12600
+
+Trading was slow, closed at 12785
+
+Trading was slow
+
+Trading was feverish
+
+Trading was slow
+
+Trading was normal
+
+Trading was slow
+
+Trading was normal, closed at 12331
+
+Trading was hecticResults for "market_trading"
+Defined in module financial.py
+Used in financial.py
+
+Trading was hectic
+
+Trading was slow
+
+Trading was hectic, closed at 12559
+
+Trading was normal, closed at 12284
+
+Trading was feverish, closed at 12273
+
+Trading was hectic
+
+Trading was slow, closed at 12333
+
+Trading was slow, closed at 12831
+
+Trading was hectic
+
+Trading was hectic, closed at 12635
+
+Trading was normal
+
+Trading was slow, closed at 12437
+
+Trading was normal
+
+Trading was hectic, closed at 12181
+
+Trading was feverish, closed at 12033
+
+Trading was feverish
+
+Trading was feverish
+
+Trading was normal, closed at 12902
+
+Trading was normal, closed at 12598
+
+Trading was normalResults for "market_trading"
+Defined in module financial.py
+Used in financial.py
+
+Trading was slow
+
+Trading was normal, closed at 12534
+
+Trading was slow, closed at 12016
+
+Trading was normal
+
+Trading was slow, closed at 12272
+
+Trading was normal, closed at 12902
+
+Trading was hectic, closed at 12481
+
+Trading was feverish
+
+Trading was slow, closed at 12615
+
+Trading was feverish
+
+Trading was slow, closed at 12763
+
+Trading was feverish, closed at 12275
+
+Trading was normal, closed at 12259
+
+Trading was slow, closed at 12113
+
+Trading was hectic, closed at 12824
 
 Trading was normal
 
 Trading was hectic
 
-Trading was hectic, closed at 12143
+Trading was hectic, closed at 12571
 
-Trading was feverish, closed at 12951
+Trading was slow
 
-Trading was feverish
+Trading was hecticResults for "market_trading"
+Defined in module financial.py
+Used in financial.py
 
-Trading was feverish
+Trading was slow
 
-Trading was slow, closed at 12113
+Trading was hectic, closed at 12698
 
-Trading was feverish, closed at 12600
+Trading was hectic, closed at 12703
 
 Trading was hectic
 
-Trading was slow, closed at 12059
+Trading was hectic, closed at 12875
+
+Trading was feverish, closed at 12728
+
+Trading was slow
+
+Trading was hectic, closed at 12691
+
+Trading was hectic
+
+Trading was feverish, closed at 12552
+
+Trading was normal, closed at 12718
+
+Trading was slow
+
+Trading was slow, closed at 12291
+
+Trading was normal
+
+Trading was normal, closed at 12563
+
+Trading was normal
+
+Trading was feverish, closed at 12270
+
+Trading was feverish
+
+Trading was hectic
+
+Trading was hectic, closed at 12265Results for "market_trading"
+Defined in module financial.py
+Used in financial.py
+
+Trading was hectic, closed at 12664
+
+Trading was normal
+
+Trading was normal, closed at 12661
+
+Trading was normal, closed at 12110
+
+Trading was hectic
+
+Trading was feverish, closed at 12072
+
+Trading was hectic, closed at 12027
+
+Trading was feverish
+
+Trading was normal
+
+Trading was slow
+
+Trading was slow, closed at 12446
+
+Trading was slow
+
+Trading was normal
+
+Trading was feverish
+
+Trading was hectic, closed at 12959
+
+Trading was hectic, closed at 12875
+
+Trading was feverish, closed at 12233
+
+Trading was hectic, closed at 12327
+
+Trading was feverish
+
+Trading was slowResults for "market_trading"
+Defined in module financial.py
+Used in financial.py
+
+Trading was feverish, closed at 12223
+
+Trading was hectic
+
+Trading was normal
+
+Trading was slow
+
+Trading was hectic
+
+Trading was hectic, closed at 12453
+
+Trading was hectic
+
+Trading was normal
+
+Trading was slow
+
+Trading was normal, closed at 12972
+
+Trading was normal, closed at 12451
+
+Trading was feverish
+
+Trading was feverish
+
+Trading was feverish, closed at 12339
+
+Trading was slow, closed at 12350
+
+Trading was normal, closed at 12918
+
+Trading was feverish, closed at 12745
+
+Trading was normal, closed at 12427
+
+Trading was feverish, closed at 12108
+
+Trading was feverish

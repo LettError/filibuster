@@ -1,10 +1,54 @@
+Results for "sports_eventflavor"
+Defined in module sports.py
+Used in sports.py
 
+Championship
+
+Championship
+
+Derby
 
 Cup
+
+Cup
+
+Cup
+
+Cup
+
+Championship
+
+Championship
+
+Derby
+
+Championship
+
+Derby
+
+Derby
+
+Open
 
 Cup
 
 Derby
+
+Cup
+
+Championship
+
+Cup
+
+OpenResults for "sports_eventflavor"
+Defined in module sports.py
+Used in sports.py
+
+Open
+
+Cup
+
+Cup
 
 Championship
 
@@ -14,8 +58,196 @@ Derby
 
 Cup
 
+Cup
+
+Derby
+
+Cup
+
+Cup
+
+Open
+
+Open
+
+Championship
+
+Derby
+
+Championship
+
+Open
+
+Championship
+
+Derby
+
+OpenResults for "sports_eventflavor"
+Defined in module sports.py
+Used in sports.py
+
+Derby
+
+Championship
+
+Open
+
+Cup
+
+Open
+
+Open
+
+Cup
+
+Championship
+
+Derby
+
+Cup
+
+Derby
+
+Championship
+
+Open
+
+Open
+
+Open
+
+Open
+
+Championship
+
+Open
+
+Derby
+
+DerbyResults for "sports_eventflavor"
+Defined in module sports.py
+Used in sports.py
+
+Championship
+
+Championship
+
+Championship
+
+Cup
+
+Derby
+
+Cup
+
+Championship
+
+Cup
+
+Championship
+
+Cup
+
+Open
+
+Cup
+
+Championship
+
+Cup
+
+Derby
+
 Derby
 
 Open
 
+Championship
+
+Derby
+
+DerbyResults for "sports_eventflavor"
+Defined in module sports.py
+Used in sports.py
+
 Open
+
+Open
+
+Championship
+
+Championship
+
+Cup
+
+Open
+
+Open
+
+Championship
+
+Derby
+
+Derby
+
+Cup
+
+Cup
+
+Cup
+
+Derby
+
+Cup
+
+Cup
+
+Cup
+
+Cup
+
+Championship
+
+CupResults for "sports_eventflavor"
+Defined in module sports.py
+Used in sports.py
+
+Open
+
+Open
+
+Open
+
+Cup
+
+Cup
+
+Championship
+
+Open
+
+Open
+
+Open
+
+Championship
+
+Derby
+
+Championship
+
+Championship
+
+Cup
+
+Open
+
+Derby
+
+Derby
+
+Derby
+
+Cup
+
+Derby

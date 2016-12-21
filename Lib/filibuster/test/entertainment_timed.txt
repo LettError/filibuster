@@ -1,21 +1,253 @@
+Results for "entertainment_timed"
+Defined in module entertainment.py
+Used in entertainment.py
 
+Musical tonight
 
-TV Spoilers today
+Tour this month
+
+Don’t miss this week
+
+Gossip today
+
+Don’t miss this month
+
+Broadway this month
+
+Jazz this week
+
+Dining this week
+
+Broadway this month
+
+Story this week
+
+Popwatch today
+
+Jazz today
+
+Movie this month
+
+Jazz tonight
+
+Tour tonight
+
+Live music this week
+
+Story this month
+
+Show this month
+
+Sneak Peek this month
+
+Actors Live this weekResults for "entertainment_timed"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Actors Live this week
+
+Don’t miss today
+
+Tour tonight
+
+The Scene this week
+
+Dining today
+
+Sneak Peek this month
+
+Dining this month
+
+Broadway this month
+
+Featured films tonight
+
+Story this week
+
+Cinema this week
+
+Gossip this week
 
 Dining tonight
 
-Latest shows today
+Live music today
 
-Movie this week
+Musical this month
 
-Inside Movies today
+Concert tonight
 
-Jazz this month
+Jazz tonight
+
+Premieres today
+
+Dining today
+
+Broadway this monthResults for "entertainment_timed"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Inside Movies this month
+
+Jazz tonight
 
 Sneak Preview this week
 
+TV Spoilers this week
+
+Dining this week
+
+Don’t miss this month
+
+Story this month
+
+Popwatch tonight
+
+Don’t miss tonight
+
+Actors Live tonight
+
+Show today
+
+Story this week
+
+Inside Movies today
+
+TV Spoilers tonight
+
+Sneak Preview today
+
+Cinema today
+
+Premieres today
+
+Story tonight
+
+Theater today
+
+Sneak Peek todayResults for "entertainment_timed"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Great parties tonight
+
+Sneak Preview today
+
+Featured films this week
+
+TV Spoilers this month
+
+Premieres this month
+
+Dining today
+
+Movie today
+
+Inside Movies today
+
 Inside Movies tonight
+
+Sneak Peek today
+
+Dining this week
+
+Actors Live today
+
+Featured films today
 
 Featured films this month
 
+TV Spoilers this week
+
+Concert today
+
+Story this week
+
+Dining this week
+
+Live music today
+
+Actors Live this monthResults for "entertainment_timed"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Latest shows this week
+
+Sneak Preview this week
+
+Dining this week
+
+Jazz this month
+
+Theater today
+
+Featured films this week
+
+Jazz this month
+
+Show this week
+
 Popwatch this month
+
+Dining tonight
+
+Great parties tonight
+
+Story tonight
+
+Musical tonight
+
+Story tonight
+
+Theater this month
+
+Cinema this week
+
+Story today
+
+Broadway today
+
+Dining this month
+
+Jazz tonightResults for "entertainment_timed"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Dining today
+
+Story tonight
+
+Show this month
+
+Sneak Peek this week
+
+Concert today
+
+Theater today
+
+Gossip this week
+
+The Scene tonight
+
+Cinema this month
+
+Latest shows today
+
+Dining tonight
+
+Jazz today
+
+Actors Live this week
+
+Actors Live this month
+
+Live music today
+
+Theater this week
+
+Don’t miss today
+
+Concert today
+
+Movie this week
+
+Latest shows tonight

@@ -1,21 +1,253 @@
+Results for "politics_us_department"
+Defined in module politics.py
+Used in politics.py
 
+Rocks, Firearms and Plutonium
 
-Engraving and Printing
-
-Heroin, Marijuana and Heroin
-
-Investigation
-
-Firearms, Drugs and Scissors
-
-Engraving and Printing
+Cocaine, Heroin and Scissors
 
 Engraving and Printing
 
 Investigation
 
+Firearms, Knives and Scissors
+
+Heroin, Plutonium and Rocks
+
+Firearms, Rocks and Drugs
+
+Marijuana, Firearms and Rocks
+
+Marijuana, Rocks and Cocaine
+
+Engraving and Printing
+
+Investigation
+
+Rocks, Drugs and Firearms
+
+Engraving and Printing
+
+Engraving and Printing
+
+Scissors, Heroin and Plutonium
+
+Investigation
+
+Drugs, Rocks and Plutonium
+
+Investigation
+
+Cocaine, Rocks and Knives
+
+Marijuana, Firearms and MarijuanaResults for "politics_us_department"
+Defined in module politics.py
+Used in politics.py
+
+Plutonium, Marijuana and Drugs
+
+Knives, Plutonium and Cocaine
+
+Scissors, Cocaine and Rocks
+
+Investigation
+
+Marijuana, Drugs and Knives
+
+Plutonium, Rocks and Plutonium
+
+Engraving and Printing
+
+Engraving and Printing
+
+Plutonium, Firearms and Plutonium
+
+Investigation
+
+Engraving and Printing
+
+Rocks, Marijuana and Scissors
+
+Engraving and Printing
+
+Engraving and Printing
+
+Investigation
+
+Marijuana, Cocaine and Knives
+
+Investigation
+
+Engraving and Printing
+
+Drugs, Cocaine and Cocaine
+
+Cocaine, Firearms and DrugsResults for "politics_us_department"
+Defined in module politics.py
+Used in politics.py
+
+Engraving and Printing
+
+Engraving and Printing
+
+Engraving and Printing
+
+Rocks, Rocks and Marijuana
+
+Investigation
+
+Investigation
+
+Rocks, Firearms and Cocaine
+
+Scissors, Heroin and Cocaine
+
+Engraving and Printing
+
+Engraving and Printing
+
+Scissors, Firearms and Firearms
+
+Engraving and Printing
+
+Investigation
+
+Engraving and Printing
+
+Knives, Heroin and Scissors
+
+Engraving and Printing
+
+Investigation
+
+Rocks, Firearms and Drugs
+
+Engraving and Printing
+
+InvestigationResults for "politics_us_department"
+Defined in module politics.py
+Used in politics.py
+
 Investigation
 
 Engraving and Printing
 
 Engraving and Printing
+
+Engraving and Printing
+
+Investigation
+
+Investigation
+
+Investigation
+
+Investigation
+
+Engraving and Printing
+
+Heroin, Rocks and Firearms
+
+Engraving and Printing
+
+Plutonium, Firearms and Plutonium
+
+Cocaine, Marijuana and Rocks
+
+Investigation
+
+Investigation
+
+Engraving and Printing
+
+Firearms, Plutonium and Rocks
+
+Cocaine, Plutonium and Rocks
+
+Investigation
+
+Marijuana, Firearms and RocksResults for "politics_us_department"
+Defined in module politics.py
+Used in politics.py
+
+Drugs, Cocaine and Firearms
+
+Investigation
+
+Investigation
+
+Knives, Rocks and Scissors
+
+Marijuana, Heroin and Marijuana
+
+Engraving and Printing
+
+Engraving and Printing
+
+Engraving and Printing
+
+Engraving and Printing
+
+Investigation
+
+Firearms, Marijuana and Rocks
+
+Investigation
+
+Drugs, Cocaine and Cocaine
+
+Engraving and Printing
+
+Heroin, Marijuana and Drugs
+
+Investigation
+
+Firearms, Knives and Marijuana
+
+Drugs, Firearms and Marijuana
+
+Plutonium, Heroin and Scissors
+
+Firearms, Knives and RocksResults for "politics_us_department"
+Defined in module politics.py
+Used in politics.py
+
+Drugs, Marijuana and Firearms
+
+Engraving and Printing
+
+Investigation
+
+Plutonium, Knives and Knives
+
+Plutonium, Cocaine and Cocaine
+
+Investigation
+
+Investigation
+
+Drugs, Knives and Drugs
+
+Rocks, Knives and Cocaine
+
+Cocaine, Knives and Marijuana
+
+Cocaine, Heroin and Cocaine
+
+Cocaine, Marijuana and Plutonium
+
+Scissors, Plutonium and Cocaine
+
+Engraving and Printing
+
+Firearms, Firearms and Knives
+
+Investigation
+
+Investigation
+
+Knives, Knives and Firearms
+
+Engraving and Printing
+
+Marijuana, Knives and Cocaine

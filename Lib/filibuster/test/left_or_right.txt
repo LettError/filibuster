@@ -1,6 +1,10 @@
+Results for "left_or_right"
+Defined in module general.py
+Used in sciences.py
 
+right
 
-left
+right
 
 right
 
@@ -12,10 +16,238 @@ right
 
 right
 
+right
+
+left
+
+right
+
+left
+
 left
 
 left
 
 left
+
+right
+
+right
+
+left
+
+left
+
+left
+
+leftResults for "left_or_right"
+Defined in module general.py
+Used in sciences.py
+
+left
+
+left
+
+left
+
+right
+
+left
+
+right
+
+left
+
+left
+
+right
+
+right
+
+right
+
+left
+
+left
+
+left
+
+left
+
+right
+
+left
+
+left
+
+left
+
+leftResults for "left_or_right"
+Defined in module general.py
+Used in sciences.py
+
+left
+
+left
+
+right
+
+right
+
+right
+
+left
+
+left
+
+left
+
+right
+
+right
+
+right
+
+right
+
+left
+
+left
+
+right
+
+left
+
+left
+
+right
+
+left
+
+rightResults for "left_or_right"
+Defined in module general.py
+Used in sciences.py
+
+right
+
+right
+
+left
+
+right
+
+left
+
+left
+
+right
+
+left
+
+left
+
+right
+
+left
+
+right
+
+right
+
+right
+
+right
+
+right
+
+left
+
+right
+
+left
+
+leftResults for "left_or_right"
+Defined in module general.py
+Used in sciences.py
+
+right
+
+right
+
+left
+
+left
+
+left
+
+left
+
+right
+
+right
+
+left
+
+right
+
+left
+
+right
+
+right
+
+right
+
+left
+
+right
+
+left
+
+right
+
+right
+
+leftResults for "left_or_right"
+Defined in module general.py
+Used in sciences.py
+
+left
+
+left
+
+right
+
+left
+
+left
+
+left
+
+right
+
+right
+
+right
+
+right
+
+right
+
+right
+
+right
+
+right
+
+left
+
+right
+
+right
+
+right
+
+right
 
 right

@@ -7,11 +7,11 @@
 3.0.0    - split all the content into babycontents
 evb        - note: only one dictionary named 'content' allowed per module
         this limitation is to speed up loading
-3.0.1    -fixed names_japanese
+4.0    -fixed names_japanese
 evb
 """
 
-__version__ = '3.0.1'
+__version__ = '4.0'
 __author__ = "someone"
 
 # ------------------------------------------------------

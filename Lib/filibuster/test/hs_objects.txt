@@ -1,4 +1,16 @@
+Results for "hs_objects"
+Defined in module horoscope.py
+Used in horoscope.py
 
+superiors
+
+superiors
+
+those close to you
+
+friends who need help
+
+enemies
 
 superiors
 
@@ -8,7 +20,121 @@ friends who need help
 
 those close to you
 
+superiors
+
+those close to you
+
+someone new in your life
+
+someone new in your life
+
+superiors
+
+superiors
+
+enemies
+
 friends who need help
+
+friends who need help
+
+superiors
+
+someone new in your lifeResults for "hs_objects"
+Defined in module horoscope.py
+Used in horoscope.py
+
+friends who need help
+
+enemies
+
+superiors
+
+enemies
+
+someone new in your life
+
+enemies
+
+superiors
+
+superiors
+
+friends who need help
+
+those close to you
+
+those close to you
+
+enemies
+
+those close to you
+
+enemies
+
+those close to you
+
+someone new in your life
+
+those close to you
+
+friends who need help
+
+superiors
+
+those close to youResults for "hs_objects"
+Defined in module horoscope.py
+Used in horoscope.py
+
+someone new in your life
+
+friends who need help
+
+someone new in your life
+
+someone new in your life
+
+superiors
+
+friends who need help
+
+friends who need help
+
+someone new in your life
+
+someone new in your life
+
+someone new in your life
+
+enemies
+
+someone new in your life
+
+friends who need help
+
+those close to you
+
+friends who need help
+
+those close to you
+
+superiors
+
+friends who need help
+
+enemies
+
+those close to youResults for "hs_objects"
+Defined in module horoscope.py
+Used in horoscope.py
+
+someone new in your life
+
+someone new in your life
+
+those close to you
+
+someone new in your life
 
 superiors
 
@@ -16,6 +142,112 @@ superiors
 
 those close to you
 
+those close to you
+
+superiors
+
+someone new in your life
+
 enemies
 
+enemies
+
+those close to you
+
 friends who need help
+
+superiors
+
+those close to you
+
+superiors
+
+friends who need help
+
+those close to you
+
+someone new in your lifeResults for "hs_objects"
+Defined in module horoscope.py
+Used in horoscope.py
+
+friends who need help
+
+superiors
+
+someone new in your life
+
+someone new in your life
+
+enemies
+
+superiors
+
+friends who need help
+
+superiors
+
+friends who need help
+
+someone new in your life
+
+those close to you
+
+superiors
+
+enemies
+
+superiors
+
+enemies
+
+enemies
+
+superiors
+
+someone new in your life
+
+those close to you
+
+those close to youResults for "hs_objects"
+Defined in module horoscope.py
+Used in horoscope.py
+
+enemies
+
+superiors
+
+someone new in your life
+
+superiors
+
+superiors
+
+those close to you
+
+friends who need help
+
+those close to you
+
+someone new in your life
+
+someone new in your life
+
+friends who need help
+
+enemies
+
+superiors
+
+friends who need help
+
+friends who need help
+
+superiors
+
+friends who need help
+
+those close to you
+
+superiors
+
+enemies

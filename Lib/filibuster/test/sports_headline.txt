@@ -1,21 +1,253 @@
+Results for "sports_headline"
+Defined in module sports.py
+Used in news.py
 
+Chicago demolishes Philly, 10-8
 
-Atlanta takes Semifinals
+Oilers sign Kashiyan in $17M deal
 
-Harrison aces draft pick
+Tampa advances to Series
 
-Luik vs. Feyenoord, 3-1.Kansas City Sharks's Roberts injured.
+Rockets trounce Tampa, 12-8 in O/T
 
-ProPFL: playoffs this Tuesday!
+Roberts second at SonyuArena Open.
 
-Chicago Wildcats get new lease on ProWFL.
+Dallas shuts out Denver, 8-6
 
-Detroit trounces Philly, 5-1
+Review: Parma and ADO for the IUFA WorldCompetition.Detroit Tigers's Sunday victory over the Memphis Tigers: reinforce their hold on ProIFL.
 
-Manchester United vs. Parma, 4-3.The Boston Wildcats vs. the Denver Hornets, the won - get this - with 67 to 30.
+Tampa blanks Pistons, 7-3 in O/T
 
-Baltimore Bears victory over the Denver Beavers: get new lease on LFL.
+Houston Beavers and Pinevale Ducks: not over yet.
 
-Atlanta aces Semifinals
+Angels ace Pennant
 
-Rockets blitz Detroit, 8-4
+Kansas City Geese preparing for their upcoming IFL playoffs debut.
+
+Luik played Barcelona, 4-1, The Hague.HFL: Grassbowl this Tuesday!
+
+Johnson Silver on 400m.
+
+Françoise Gold at InterTron Open.
+
+Begum dropped from WNBA draft pick
+
+Devils beat Philly, 8-4 in O/T
+
+Pierre 2nd on 5000m.
+
+Houston advances to Semifinals
+
+TransTron's Fisher buys Canucks for $76M
+
+Liberty shut out Atlanta, 7-3Results for "sports_headline"
+Defined in module sports.py
+Used in news.py
+
+Oilers trounce LA, 6-4
+
+Jacques leads Pistons to 5-1 victory
+
+Taylor WR at AmeriTel Championship.
+
+Wood signed to Braves
+
+Detroit Beavers victory over the Mount Adams Buffalo: get new lease on GFL.
+
+Minneapolis Slaves vs. the Atlanta Dolphins cancelled.
+
+SF blanks Astros, 39-20
+
+Philadelphia Ducks qualify for the YFL Superbowl.
+
+Kansas City Tigers coach Mills named in investigation
+
+ProSFL: selection this Thursday!
+
+EuroLeague: Barcelona and Brazil.ProCFL: Superbowl this Tuesday!
+
+NY takes Astros, 8-0 in O/T
+
+Oilers blank Denver, 5-0
+
+NY over Pistons, 26-13 in O/T
+
+SkyTech's Markham buys Braves for $56M
+
+Angels advance to Playoffs
+
+Juventus - Feyenoord, 2-1.East Georgehill Buffalo and New York Magicians: not over yet.
+
+Adams WR at Rowe Derby.
+
+Chicago beats Tampa, 28-13
+
+Françoise first at TransCom Cup.Results for "sports_headline"
+Defined in module sports.py
+Used in news.py
+
+Braves ace Pennant
+
+Detroit Indians victory over the Denver Wildcats: qualify for the LFL Superbowl.
+
+RFA ChampionsCompetition: Manchester United and Germany.XFL: Grassbowl this Wednesday!
+
+Sixers investigated for drug use
+
+Mount Bourne Wildcats preparing for their upcoming ProWFL Superbowl debut.
+
+Fischauertropp named to NBA draft pick
+
+Pagréwski 1st on 5000m.
+
+Feyenoord vs. Palau, 2-0.Arkansas Buffalo vs. the Miami Sharks cancelled.
+
+Holland - Holland, 5-2.Denver Jets reinforce their hold on ProNFL.
+
+InterCom's Sinclair buys Pistons for $77M
+
+Atlanta trounces Liberty, 25-16
+
+PSV vs. Manchester United, 4-1.Memphis Cowboys victory over the Boston Beavers: reinforce their hold on ProRFL.
+
+Angels blank Atlanta, 11-0 in O/T
+
+Tampa takes Pistons, 5-1 in O/T
+
+Lee 3rd on 5K.
+
+Detroit blanks Liberty, 11-0 in O/T
+
+Coach Álvarez injured, out for season
+
+Review: ADO and Juventus for the HonorCup.Coach Sinclair quits after Pittsburgh Tigers loss.
+
+Memphis Buffalo's Marsh injured.
+
+Review: Real Madrid and Juventus for the HonorLeague.Detroit Doctors victory over the Houston Slaves: qualify for the DFL playoffs.Results for "sports_headline"
+Defined in module sports.py
+Used in news.py
+
+Denver trounces Oilers, 33-22
+
+Schiffer sets homerun record
+
+Toto 3rd on 1000m.
+
+Denver aces Open
+
+Dallas demolishes Dallas, 7-3
+
+Springfield, Knox County Indians coach Jennings named in trial
+
+Luik vs. Feyenoord, 4-1.Philadelphia Cowboys coach Carson named in investigation
+
+Abbott 2nd on 10K.
+
+Liberty take Open
+
+NY beats Pistons, 15-2 in O/T
+
+Angels take Playoffs
+
+Devils investigated for drug use
+
+Canucks demolish NY, 11-0
+
+Puerto Rico Soldiers's Tahi injured.
+
+Dynamo - Manchester United, 3-3.Springfield, Suffolk County Raiders vs. the Houston Soldiers cancelled.
+
+Vilår 3rd on 1000m.
+
+Review: Feyenoord and Antwerpen for the IUFA WorldCompetition.Detroit Jets vs. the San Francisco Hornets cancelled.
+
+Oilers investigated for drug use
+
+Dynamo vs. Ajax, 0-0.New Hampshire Sharks vs. the Kansas City Sharks cancelled.
+
+NY blanks Braves, 7-5 in O/TResults for "sports_headline"
+Defined in module sports.py
+Used in news.py
+
+Liberty investigated for drug use
+
+PSV vs. Antwerpen, 1-1.Cape Tate, Suffolk County Soldiers coach named in tapes
+
+SF blanks Houston, 27-10 in O/T
+
+Houston Sharks's Thursday victory over the South Dakota Cowboys: start thinking about Pollenbowl.
+
+Oilers beat Philly, 7-3 in O/T
+
+Detroit beats Raiders, 16-6
+
+Schaferbürger named to NCAA draft pick
+
+Parma vs. Parma, 2-1.The San Francisco Indians vs. the Fredericksport Dolphins, the won barely with 51 to 16.
+
+Coach Jansen injured, out for season
+
+Denver Bears coach named in tapes
+
+Pérez aces Pennant
+
+Fairfax County Hornets's Thursday victory over the Memphis Sharks: get new lease on ProKFL.
+
+Ali first at MediCom Championship, Iraq.
+
+Delaware Cowboys vs. the Minneapolis Geese cancelled.
+
+Luik played Manchester United, 4-3, Arnhem.Houston Indians start thinking about playoffs.
+
+Detroit Slaves coach Johns named in tapes
+
+Leeds - Borussia, 5-3.Lincoln (Suffolk County) Bears coach Archer named in coverup
+
+Pistons sign Philipe in $19M deal
+
+Schwankinger named to NBA draft pick
+
+Angels blank Dallas, 7-5Results for "sports_headline"
+Defined in module sports.py
+Used in news.py
+
+TransTel's Sinclair buys Oilers for $44M
+
+Angels take Pennant
+
+IZFA WorldCompetition: Argentina and Barcelona.New York Beavers's Wednesday victory over the Cape Forbes Slaves: qualify for the ProIFL selection.
+
+Riverport Indians coach Johnson named in coverup
+
+Los Angeles Raiders vs. the Lincoln (Elwood County) Geese cancelled.
+
+Von talerland named to NFL draft selection
+
+Coach Acheson quits after Denver Sharks loss.
+
+Seattle Soldiers and Georgia Dogs: not over yet.
+
+Devils ace Championship
+
+NY aces Pennant
+
+Detroit shuts out Canucks, 3-1 in O/T
+
+Tampa beats Pistons, 3-1 in O/T
+
+Canucks sign Hernández in $17M deal
+
+Miami Indians and Cape Middlefield Doctors: not over yet.
+
+Williamsford Dolphins's Mannerstuhlauermund injured.
+
+Braves beat Houston, 10-6
+
+Rodríguez WR at Lawson Derby.
+
+Houston Slaves get new lease on ProZFL.
+
+The Pennsylvania Raiders vs. the Cape Pineton Tigers, the won - get this - with 65 to 10.
+
+Jean Silver on 5K.

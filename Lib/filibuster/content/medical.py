@@ -8,7 +8,7 @@
 evb        - note: only one dictionary named 'content' allowed per module
         this limitation is to speed up loading
 
-3.0.1    - now with the latest version of JH's tonic module
+4.0    - now with the latest version of JH's tonic module
 evb
 
 """

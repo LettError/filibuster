@@ -1,21 +1,253 @@
+Results for "design_work_parts"
+Defined in module design.py
+Used in design.py
 
+composition
 
-font
+saturation
 
-purple reference
+line
 
-cognitive reference
+composition
 
-photograph
+line
 
-material
+brightness
+
+layout
+
+contrast
 
 page
 
-gender oriented reference
+description
+
+saturation
+
+composition
+
+brightness
+
+contrast
+
+photograph
+
+composition
+
+material
+
+description
+
+composition
+
+hueResults for "design_work_parts"
+Defined in module design.py
+Used in design.py
+
+responsive layouts
+
+composition
+
+saturation
+
+line
+
+responsive layouts
+
+dark taupe reference
+
+composition
+
+material
+
+saturation
+
+brightness
+
+layout
+
+line
+
+technological reference
+
+contrast
+
+composition
+
+description
+
+brightness
+
+responsive layouts
+
+caption
+
+fontResults for "design_work_parts"
+Defined in module design.py
+Used in design.py
+
+page
+
+cognitive reference
+
+material
+
+cultural reference
+
+line
+
+text
+
+vision
 
 font
+
+line
+
+responsive layouts
+
+caption
+
+description
+
+layout
+
+layout
+
+brightness
+
+critical reference
+
+text
+
+image
+
+contrast
+
+saturationResults for "design_work_parts"
+Defined in module design.py
+Used in design.py
+
+text
+
+material
+
+text
+
+composition
+
+photograph
+
+description
+
+caption
+
+saturation
+
+image
 
 font
 
 hue
+
+page
+
+image
+
+vision
+
+text
+
+font
+
+description
+
+brightness
+
+image
+
+brightnessResults for "design_work_parts"
+Defined in module design.py
+Used in design.py
+
+critical reference
+
+text
+
+layout
+
+image
+
+page
+
+hue
+
+line
+
+material
+
+image
+
+hue
+
+random reference
+
+hue
+
+contrast
+
+description
+
+description
+
+expressive reference
+
+caption
+
+vision
+
+gender oriented reference
+
+responsive layoutsResults for "design_work_parts"
+Defined in module design.py
+Used in design.py
+
+image
+
+caption
+
+text
+
+description
+
+font
+
+hue
+
+line
+
+page
+
+material
+
+expressive reference
+
+vernacular reference
+
+description
+
+text
+
+composition
+
+page
+
+contrast
+
+saturation
+
+saturation
+
+hue
+
+saturation

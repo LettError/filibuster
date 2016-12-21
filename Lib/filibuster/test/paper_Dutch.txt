@@ -1,4 +1,52 @@
+Results for "paper_Dutch"
+Defined in module journalism.py
+Used in journalism.py
 
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Krant
+
+Krant
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+TelegraafResults for "paper_Dutch"
+Defined in module journalism.py
+Used in journalism.py
+
+Telegraaf
+
+Telegraaf
 
 Telegraaf
 
@@ -10,6 +58,88 @@ Krant
 
 Telegraaf
 
+Krant
+
+Krant
+
+Krant
+
+Krant
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+KrantResults for "paper_Dutch"
+Defined in module journalism.py
+Used in journalism.py
+
+Telegraaf
+
+Krant
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Krant
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+TelegraafResults for "paper_Dutch"
+Defined in module journalism.py
+Used in journalism.py
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
 Telegraaf
 
 Telegraaf
@@ -19,3 +149,105 @@ Krant
 Krant
 
 Krant
+
+Krant
+
+Krant
+
+Krant
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Krant
+
+Krant
+
+KrantResults for "paper_Dutch"
+Defined in module journalism.py
+Used in journalism.py
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Krant
+
+Telegraaf
+
+Krant
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+KrantResults for "paper_Dutch"
+Defined in module journalism.py
+Used in journalism.py
+
+Krant
+
+Krant
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Krant
+
+Krant
+
+Telegraaf
+
+Krant
+
+Krant
+
+Krant
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Telegraaf
+
+Krant
+
+Telegraaf
+
+Telegraaf

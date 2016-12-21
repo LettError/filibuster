@@ -1,21 +1,253 @@
+Results for "paper_US"
+Defined in module journalism.py
+Used in journalism.py, reviews.py
 
+The Houston Weekly
 
-The Georgefield Times-Mercury
+The Washington Tribune
 
-The Chesterdale Inquirer
+The San Francisco Telegram
 
-The Parham Yeoman-Forward
+The San Francisco Advocate
 
-The Philadelphia Progress
+The Overburgh Gleaner-Register
 
-The Seattle World
+The Adamsfield Telegram-Gleaner
 
-The Carnegie Enquirer
+The Mount Upton World
 
-The New York Orbit
+The Chicago Progress
 
-The Wooddale Progressive
+The Georgeport Advocate
 
-The Nashville Informer
+The Bedfordhill Advertiser
 
-The North Franklin Intelligencer
+The Harrishill Free-Press-Gazette
+
+The Mount Williamsonvale Voice
+
+The Nashville Chronicle
+
+The Williamshill Inquirer-Reporter
+
+The Smithshill Companion
+
+The Cape Riverford Telegraph
+
+The Detroit Veritas
+
+The North Clark Orbit
+
+The Peterburg Bugle
+
+The Peterdale ReviewResults for "paper_US"
+Defined in module journalism.py
+Used in journalism.py, reviews.py
+
+The Bedfordburgh Bugle-Express
+
+The Mount Georgehill Register-Statesman
+
+The Franklin Adviser-Independent
+
+The Milvale Dispatch
+
+The Memphis Notice
+
+The Emerson Journal-Reporter
+
+The Philadelphia Times
+
+The Philadelphia Quarterly
+
+The Smithsville Journal-Spirit
+
+The New York Financial
+
+The Cape Davies Reader
+
+The Adamsburg Adviser
+
+The Pittsburgh Sun
+
+The Houston Informer
+
+The San Jose Eagle
+
+The Baltimore Globe
+
+The Caldecott Gleaner
+
+The Mount Adamston Dispatch
+
+The Johnshill World
+
+The Los Angeles FocusResults for "paper_US"
+Defined in module journalism.py
+Used in journalism.py, reviews.py
+
+The Houston Picayune
+
+The Riverhill Times
+
+The Chicago Picayune
+
+The Memphis Mirror
+
+The Pittsburgh Focus
+
+The Baltimore Statesman
+
+The East Lawson Quorum-Journal
+
+The Lawrencedale Express-Tribune
+
+The Boston Industrial
+
+The Mount Harrison Spirit
+
+The Atlanta Messenger
+
+The Woodport Courier-Recorder
+
+The Blockland News
+
+The Detroit Mirror
+
+The Denver Quarterly
+
+The Detroit Quorum
+
+The New Vanderpool Review-Progressive
+
+The Houston World
+
+The Philadelphia Recorder
+
+The Chicago NewsResults for "paper_US"
+Defined in module journalism.py
+Used in journalism.py, reviews.py
+
+The Denver Quarterly
+
+The Chestervale Mirror
+
+The Middlehill Gleaner-Spirit
+
+The Dunbar Constitution
+
+The Bedforddale Telegram
+
+The Riley Yeoman-Leader
+
+The Mount Taylorford Mirror
+
+The Seattle Veritas
+
+The Middleburgh Times
+
+The Foster Worker-Post
+
+The Mount Joneshill Voice-Constitution
+
+The Dupont Recorder
+
+The Overfield Chronicle
+
+The North Woodfield Constitution
+
+The Williamsonburgh Quorum
+
+The Adamsport Monitor-Eagle
+
+The Washington Quarterly
+
+The Houston Variety
+
+The Houston Globe
+
+The Cape Georgedale IndustrialResults for "paper_US"
+Defined in module journalism.py
+Used in journalism.py, reviews.py
+
+The San Jose Union
+
+The Harrishill Register
+
+The Detroit Today
+
+The Denver Weekly
+
+The San Francisco Tribune
+
+The Johnsburgh World-Sentinel
+
+The New Johnston Impact
+
+The Mount Woodhill Today
+
+The Boston Sun
+
+The Nashville Quarterly
+
+The Minneapolis Post
+
+The Pittsburgh Courier
+
+The San Francisco Post
+
+The Cape Calder Leader
+
+The Mount Bedforddale Legend
+
+The Rivervale Times
+
+The Detroit Variety
+
+The Adamshill Weekly
+
+The East Peterport Enquirer-Quorum
+
+The Williamsondale Advocate-GleanerResults for "paper_US"
+Defined in module journalism.py
+Used in journalism.py, reviews.py
+
+The San Francisco Eagle
+
+The Boston Today
+
+The Overtown Free-Press
+
+The Lawrencefield Telegram-Monitor
+
+The Atlanta Industrial
+
+The Baltimore Spirit
+
+The Dallas Progress
+
+The Foster World
+
+The Boston Times
+
+The Riverhill Mirror
+
+The Sinclair Enquirer
+
+The Cape Bedfordport Variety
+
+The New Petervale Notice-News
+
+The Memphis Telegram
+
+The Dunbar Progress
+
+The Kansas City Financial
+
+The Williamsburg Chronicle
+
+The Baltimore Monitor
+
+The Bedfordville Eagle
+
+The East Williamsondale Weekly-Today

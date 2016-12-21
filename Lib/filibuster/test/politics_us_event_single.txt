@@ -1,10 +1,30 @@
+Results for "politics_us_event_single"
+Defined in module politics.py
+Used in politics.py
 
+Congressman
 
-White House advisor
+the Republican party
 
-Lawyer
+Congress
 
-White House advisor
+the Democratic Convention
+
+House Speaker
+
+Senator
+
+the Republican party
+
+House Speaker
+
+Congress
+
+House
+
+Senate
+
+Supreme Court Justice
 
 House
 
@@ -12,10 +32,222 @@ Supreme Court
 
 Congressman
 
+Senator
+
+Congress
+
+the Democratic party
+
+Supreme Court Justice
+
+White House astrologerResults for "politics_us_event_single"
+Defined in module politics.py
+Used in politics.py
+
+Lawyer
+
+the Republican Convention
+
+House Speaker
+
+White House
+
+House Speaker
+
 Supreme Court
 
-Secret Service spokesman
+House
 
-White House astrologer
+Supreme Court Justice
+
+Lawyer
+
+Lawyer
+
+White House
+
+Treasury spokesman
+
+Congressman
+
+President’s astrologer
+
+Congressman
+
+Capitol Hill
+
+Supreme Court Justice
+
+Supreme Court
+
+the Republican Convention
+
+SenateResults for "politics_us_event_single"
+Defined in module politics.py
+Used in politics.py
+
+Lawyer
+
+President’s astrologer
+
+House Speaker
+
+White House advisor
+
+the Republican Convention
+
+Supreme Court Justice
+
+Lawyer
+
+Senator
+
+Lawyer
+
+Congress
+
+President’s advisor
+
+Supreme Court
+
+White House
+
+President’s advisor
+
+Senator
+
+President’s astrologer
+
+Senator
+
+President
+
+President
+
+Secret Service spokesmanResults for "politics_us_event_single"
+Defined in module politics.py
+Used in politics.py
+
+White House
+
+the Democratic party
+
+the Republican party
+
+Supreme Court
+
+Federal Bureau of Engraving and Printing spokesman
+
+Lawyer
 
 Senate
+
+Congressman
+
+Supreme Court
+
+White House
+
+President’s advisor
+
+Lawyer
+
+DEA spokesman
+
+Capitol Hill
+
+Lawyer
+
+Capitol Hill
+
+Senate
+
+Supreme Court
+
+White House
+
+SenatorResults for "politics_us_event_single"
+Defined in module politics.py
+Used in politics.py
+
+the Democratic Convention
+
+Congressman
+
+Congressman
+
+Supreme Court Justice
+
+President
+
+President’s advisor
+
+NSA spokesman
+
+NSA spokesman
+
+House
+
+House Speaker
+
+Supreme Court
+
+President’s astrologer
+
+President
+
+Congressman
+
+Lawyer
+
+Capitol Hill
+
+White House
+
+House Speaker
+
+Senate
+
+the Democratic ConventionResults for "politics_us_event_single"
+Defined in module politics.py
+Used in politics.py
+
+Treasury spokesman
+
+House Speaker
+
+Senator
+
+Senator
+
+the Democratic Convention
+
+the Democratic Convention
+
+White House advisor
+
+Supreme Court
+
+President
+
+White House
+
+Lawyer
+
+White House advisor
+
+Lawyer
+
+Capitol Hill
+
+NSA spokesman
+
+Congress
+
+House
+
+Capitol Hill
+
+CIA spokesman
+
+the Republican party

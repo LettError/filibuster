@@ -1,4 +1,30 @@
+Results for "towns_USgeneric"
+Defined in module geography.py
+Used in articles.py, geography.py
 
+Columbus
+
+Columbus
+
+Springfield
+
+Springfield
+
+Columbus
+
+Columbus
+
+Springfield
+
+Springfield
+
+Springfield
+
+Lincoln
+
+Columbus
+
+Lincoln
 
 Columbus
 
@@ -9,6 +35,74 @@ Columbus
 Columbus
 
 Columbus
+
+Lincoln
+
+Columbus
+
+LincolnResults for "towns_USgeneric"
+Defined in module geography.py
+Used in articles.py, geography.py
+
+Lincoln
+
+Columbus
+
+Lincoln
+
+Columbus
+
+Springfield
+
+Lincoln
+
+Springfield
+
+Columbus
+
+Springfield
+
+Columbus
+
+Lincoln
+
+Springfield
+
+Columbus
+
+Lincoln
+
+Columbus
+
+Columbus
+
+Lincoln
+
+Lincoln
+
+Springfield
+
+ColumbusResults for "towns_USgeneric"
+Defined in module geography.py
+Used in articles.py, geography.py
+
+Columbus
+
+Columbus
+
+Springfield
+
+Lincoln
+
+Lincoln
+
+Springfield
+
+Columbus
+
+Lincoln
+
+Lincoln
 
 Lincoln
 
@@ -18,4 +112,142 @@ Lincoln
 
 Columbus
 
+Springfield
+
+Springfield
+
+Columbus
+
+Springfield
+
+Springfield
+
 Lincoln
+
+LincolnResults for "towns_USgeneric"
+Defined in module geography.py
+Used in articles.py, geography.py
+
+Springfield
+
+Columbus
+
+Springfield
+
+Springfield
+
+Columbus
+
+Lincoln
+
+Lincoln
+
+Springfield
+
+Columbus
+
+Columbus
+
+Springfield
+
+Springfield
+
+Lincoln
+
+Springfield
+
+Springfield
+
+Columbus
+
+Springfield
+
+Lincoln
+
+Springfield
+
+LincolnResults for "towns_USgeneric"
+Defined in module geography.py
+Used in articles.py, geography.py
+
+Columbus
+
+Springfield
+
+Columbus
+
+Columbus
+
+Springfield
+
+Lincoln
+
+Columbus
+
+Lincoln
+
+Springfield
+
+Springfield
+
+Columbus
+
+Lincoln
+
+Lincoln
+
+Springfield
+
+Columbus
+
+Lincoln
+
+Columbus
+
+Lincoln
+
+Columbus
+
+SpringfieldResults for "towns_USgeneric"
+Defined in module geography.py
+Used in articles.py, geography.py
+
+Springfield
+
+Springfield
+
+Columbus
+
+Columbus
+
+Springfield
+
+Lincoln
+
+Columbus
+
+Columbus
+
+Springfield
+
+Springfield
+
+Lincoln
+
+Lincoln
+
+Columbus
+
+Lincoln
+
+Springfield
+
+Springfield
+
+Columbus
+
+Columbus
+
+Columbus
+
+Columbus

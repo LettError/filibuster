@@ -1,21 +1,253 @@
+Results for "syllables"
+Defined in module general.py
+Used in internet.py, portal.py
 
+us
 
-am
+pat
 
-par
-
-mat
-
-or
-
-am
+fas
 
 sog
 
+or
+
+or
+
+vis
+
+cor
+
+lor
+
+dac
+
+tow
+
+zen
+
+haz
+
 am
+
+nor
+
+par
+
+zen
+
+us
+
+or
+
+datResults for "syllables"
+Defined in module general.py
+Used in internet.py, portal.py
+
+am
+
+mac
+
+or
+
+nor
+
+lor
+
+zen
+
+cor
+
+par
 
 tow
 
 haz
 
+sac
+
+am
+
+mat
+
+mac
+
+vis
+
+cor
+
+or
+
+sac
+
+vis
+
+parResults for "syllables"
+Defined in module general.py
+Used in internet.py, portal.py
+
+sac
+
+par
+
 dec
+
+haz
+
+sac
+
+par
+
+mac
+
+vis
+
+pat
+
+vis
+
+us
+
+or
+
+mat
+
+pat
+
+nor
+
+dat
+
+war
+
+cor
+
+or
+
+usResults for "syllables"
+Defined in module general.py
+Used in internet.py, portal.py
+
+tow
+
+fas
+
+vis
+
+mac
+
+lor
+
+fas
+
+nor
+
+vis
+
+com
+
+dec
+
+tow
+
+pat
+
+mat
+
+tow
+
+com
+
+par
+
+or
+
+haz
+
+am
+
+usResults for "syllables"
+Defined in module general.py
+Used in internet.py, portal.py
+
+lor
+
+dac
+
+sac
+
+dat
+
+dom
+
+par
+
+or
+
+war
+
+zen
+
+am
+
+lor
+
+haz
+
+dat
+
+sog
+
+par
+
+mat
+
+pat
+
+cor
+
+us
+
+norResults for "syllables"
+Defined in module general.py
+Used in internet.py, portal.py
+
+dat
+
+dat
+
+dat
+
+par
+
+dat
+
+dat
+
+sac
+
+far
+
+tow
+
+dac
+
+am
+
+dac
+
+dar
+
+am
+
+sac
+
+air
+
+or
+
+tow
+
+dat
+
+haz

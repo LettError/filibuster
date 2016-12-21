@@ -1,21 +1,253 @@
+Results for "HEADLINE_market"
+Defined in module financial.py
+Used in articles.py
 
+NASDAQ down 135 pts.
 
-Dow Jones up 1.4%
+Hang Seng lost 97 points
 
-AEX gained 90 points
+Dax picked up at opening
 
-Nikkei reached a new record at 12001 points
+Hang Seng lost 149 points, Trading was feverish, closed at 12547
 
-NYSE disappointing, down 0.2%
+NASDAQ gained 99 points, Trading was slow, closed at 12276
 
-S&P500 up 1.8%, Trading was slow
+S&P500 lost 147 points
 
-AEX up 1.0%, Trading was normal
+Dax disappointing, down 1.0%, Trading was slow, closed at 12866
 
-Frankfurt reached a new record at 12769 points, Trading was slow
+Dow Jones lost 113 points
 
-NASDAQ gained 142 points, Trading was normal, closed at 12769
+Dow Jones gained 53 points, Trading was normal, closed at 12202
 
-Dax lost 128 points
+S&P500 outperformed expectations, closing 1.4% higher
 
-NASDAQ disappointing, down 0.5%
+Dow Jones reached a new record at 12181 points, Trading was hectic
+
+Frankfurt disappointing, down 0.6%
+
+S&P500 down 51 pts., Trading was hectic
+
+Nikkei up 0.1%
+
+S&P500 up 1.8%, Trading was hectic, closed at 12929
+
+AEX reached a new record at 12040 points, Trading was hectic, closed at 12117
+
+S&P500 up 1.6%
+
+S&P500 down 62 pts., Trading was hectic
+
+Hang Seng reached a new record at 12429 points
+
+Dax lost 78 points, Trading was feverish, closed at 12807Results for "HEADLINE_market"
+Defined in module financial.py
+Used in articles.py
+
+Nikkei down 43 pts., Trading was hectic
+
+NASDAQ up 0.6%, Trading was feverish
+
+NASDAQ disappointing, down 1.2%, Trading was hectic, closed at 12699
+
+S&P500 outperformed expectations, closing 1.0% higher
+
+Nikkei lost 82 points
+
+Frankfurt disappointing, down 1.1%
+
+Dax outperformed expectations, closing 0.6% higher
+
+NASDAQ disappointing, down 0.3%
+
+Dow Jones down 59 pts., Trading was feverish
+
+Hang Seng lost 126 points
+
+NASDAQ reached a new record at 12068 points
+
+Frankfurt disappointing, down 1.2%
+
+S&P500 disappointing, down 1.4%, Trading was normal, closed at 12882
+
+Nikkei lost 82 points, Trading was normal
+
+Dax down 98 pts.
+
+Hang Seng outperformed expectations, closing 1.5% higher, Trading was normal
+
+Hang Seng disappointing, down 1.4%
+
+Frankfurt up 0.8%
+
+AEX lost 113 points, Trading was slow, closed at 12509
+
+AEX down 142 pts., Trading was feverish, closed at 12198Results for "HEADLINE_market"
+Defined in module financial.py
+Used in articles.py
+
+NYSE disappointing, down 0.4%, Trading was slow, closed at 12057
+
+AEX down 96 pts.
+
+Frankfurt lost 85 points
+
+Hang Seng down 73 pts., Trading was hectic, closed at 12686
+
+Nikkei up 1.3%
+
+Dow Jones lost 89 points, Trading was feverish
+
+Dax up 0.9%, Trading was slow
+
+S&P500 disappointing, down 1.2%, Trading was hectic, closed at 12906
+
+Frankfurt picked up during the day
+
+Dax up 1.3%, Trading was slow
+
+Hang Seng picked up during the day, Trading was normal
+
+AEX lost 64 points, Trading was normal
+
+NYSE up 0.2%
+
+NASDAQ lost 102 points
+
+Frankfurt reached a new record at 12560 points, Trading was slow, closed at 12311
+
+Dow Jones reached a new record at 12009 points, Trading was feverish
+
+Nikkei up 1.0%, Trading was hectic, closed at 12576
+
+Nikkei outperformed expectations, closing 2.0% higher
+
+Dax down 97 pts., Trading was hectic, closed at 12240
+
+Dax gained 111 points, Trading was slow, closed at 12060Results for "HEADLINE_market"
+Defined in module financial.py
+Used in articles.py
+
+NYSE outperformed expectations, closing 0.0% higher, Trading was hectic
+
+Dow Jones lost 136 points
+
+Nikkei reached a new record at 12995 points
+
+AEX reached a new record at 12888 points, Trading was slow, closed at 12904
+
+NYSE down 61 pts.
+
+Hang Seng down 101 pts., Trading was hectic, closed at 12734
+
+Hang Seng picked up at opening
+
+S&P500 lost 45 points, Trading was normal, closed at 12810
+
+Frankfurt up 0.4%, Trading was hectic
+
+NYSE down 143 pts.
+
+Frankfurt picked up at opening, Trading was hectic
+
+NASDAQ disappointing, down 0.4%
+
+Dow Jones lost 40 points
+
+S&P500 gained 132 points, Trading was slow
+
+Frankfurt down 49 pts., Trading was hectic
+
+Dow Jones picked up during the day
+
+Nikkei outperformed expectations, closing 1.5% higher, Trading was feverish
+
+Dow Jones disappointing, down 1.3%
+
+S&P500 disappointing, down 1.9%, Trading was normal
+
+Hang Seng lost 148 points, Trading was normal, closed at 12905Results for "HEADLINE_market"
+Defined in module financial.py
+Used in articles.py
+
+Nikkei disappointing, down 1.0%, Trading was feverish, closed at 12769
+
+AEX disappointing, down 1.5%
+
+Frankfurt lost 106 points, Trading was hectic
+
+Nikkei lost 50 points
+
+Frankfurt down 101 pts.
+
+S&P500 up 1.9%
+
+Frankfurt reached a new record at 12024 points
+
+AEX disappointing, down 1.4%, Trading was normal, closed at 12502
+
+NYSE disappointing, down 0.1%
+
+Nikkei lost 94 points
+
+NYSE reached a new record at 12106 points, Trading was slow
+
+S&P500 outperformed expectations, closing 1.8% higher
+
+Nikkei gained 46 points
+
+Frankfurt disappointing, down 0.8%
+
+NYSE gained 76 points
+
+Dow Jones reached a new record at 12759 points, Trading was normal, closed at 12862
+
+NASDAQ down 48 pts.
+
+Dow Jones disappointing, down 0.5%, Trading was normal, closed at 12500
+
+AEX picked up during the day, Trading was slow, closed at 12451
+
+NASDAQ up 1.0%Results for "HEADLINE_market"
+Defined in module financial.py
+Used in articles.py
+
+Dax disappointing, down 1.5%
+
+Dax reached a new record at 12321 points
+
+S&P500 outperformed expectations, closing 0.2% higher
+
+S&P500 down 121 pts.
+
+NYSE lost 93 points, Trading was normal, closed at 12451
+
+Nikkei disappointing, down 1.8%, Trading was slow
+
+Dow Jones picked up during the day
+
+AEX disappointing, down 1.1%
+
+Nikkei reached a new record at 12730 points
+
+NASDAQ outperformed expectations, closing 0.2% higher
+
+NYSE picked up at opening
+
+NASDAQ reached a new record at 12901 points, Trading was normal
+
+Dax disappointing, down 1.2%
+
+NYSE lost 98 points, Trading was slow, closed at 12310
+
+Hang Seng lost 137 points, Trading was normal
+
+Nikkei gained 47 points
+
+NASDAQ gained 102 points, Trading was hectic, closed at 12701
+
+Frankfurt outperformed expectations, closing 1.4% higher, Trading was hectic
+
+AEX picked up during the day
+
+Dax reached a new record at 12732 points, Trading was normal, closed at 12354

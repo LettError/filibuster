@@ -1,4 +1,146 @@
+Results for "mag_tech_sx"
+Defined in module journalism.py
+Used in journalism.py
 
+World
+
+World
+
+Week
+
+Journal
+
+User
+
+User
+
+Week
+
+Week
+
+Journal
+
+Week
+
+User
+
+World
+
+World
+
+World
+
+User
+
+Journal
+
+World
+
+World
+
+Week
+
+UserResults for "mag_tech_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+World
+
+Journal
+
+World
+
+User
+
+Journal
+
+User
+
+World
+
+User
+
+Journal
+
+Week
+
+World
+
+User
+
+World
+
+World
+
+Week
+
+World
+
+World
+
+User
+
+Journal
+
+WorldResults for "mag_tech_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+World
+
+User
+
+Journal
+
+World
+
+Week
+
+Week
+
+User
+
+Week
+
+User
+
+World
+
+Journal
+
+User
+
+Journal
+
+World
+
+Week
+
+World
+
+User
+
+Journal
+
+Week
+
+JournalResults for "mag_tech_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+Week
+
+User
+
+Week
+
+Journal
+
+Week
+
+Week
+
+User
 
 World
 
@@ -6,9 +148,51 @@ Journal
 
 Journal
 
+Week
+
+World
+
+User
+
+World
+
+User
+
+World
+
+World
+
+User
+
+World
+
+WeekResults for "mag_tech_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+World
+
+Journal
+
+World
+
+Journal
+
+User
+
+User
+
+World
+
+Week
+
 User
 
 Journal
+
+Journal
+
+World
 
 User
 
@@ -16,6 +200,54 @@ Week
 
 Journal
 
-Journal
+User
+
+World
+
+User
+
+World
+
+WeekResults for "mag_tech_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+World
 
 Week
+
+User
+
+World
+
+Week
+
+Week
+
+Week
+
+User
+
+Week
+
+User
+
+User
+
+User
+
+World
+
+Journal
+
+World
+
+User
+
+Week
+
+User
+
+Journal
+
+World

@@ -1,6 +1,48 @@
+Results for "mag_tech_px"
+Defined in module journalism.py
+Used in journalism.py
 
+PC
 
 Mac
+
+PC
+
+Linux
+
+Linux
+
+PC
+
+PC
+
+Mac
+
+Linux
+
+Linux
+
+Mac
+
+Linux
+
+Linux
+
+Mac
+
+Linux
+
+Mac
+
+PC
+
+Linux
+
+Mac
+
+PCResults for "mag_tech_px"
+Defined in module journalism.py
+Used in journalism.py
 
 PC
 
@@ -8,7 +50,179 @@ Mac
 
 Mac
 
+PC
+
 Mac
+
+PC
+
+Linux
+
+PC
+
+Linux
+
+Mac
+
+Linux
+
+Mac
+
+Mac
+
+PC
+
+Linux
+
+Linux
+
+PC
+
+PC
+
+Mac
+
+PCResults for "mag_tech_px"
+Defined in module journalism.py
+Used in journalism.py
+
+PC
+
+Linux
+
+Mac
+
+Mac
+
+PC
+
+Linux
+
+Mac
+
+Linux
+
+Mac
+
+Linux
+
+PC
+
+PC
+
+PC
+
+Mac
+
+Mac
+
+PC
+
+PC
+
+PC
+
+PC
+
+MacResults for "mag_tech_px"
+Defined in module journalism.py
+Used in journalism.py
+
+PC
+
+PC
+
+Mac
+
+Linux
+
+Mac
+
+Linux
+
+Mac
+
+Linux
+
+Mac
+
+PC
+
+Linux
+
+Mac
+
+Mac
+
+Mac
+
+Linux
+
+PC
+
+Mac
+
+PC
+
+Mac
+
+LinuxResults for "mag_tech_px"
+Defined in module journalism.py
+Used in journalism.py
+
+PC
+
+PC
+
+Linux
+
+Mac
+
+Mac
+
+Linux
+
+Linux
+
+PC
+
+PC
+
+Linux
+
+PC
+
+Mac
+
+PC
+
+PC
+
+Linux
+
+Linux
+
+PC
+
+PC
+
+Linux
+
+LinuxResults for "mag_tech_px"
+Defined in module journalism.py
+Used in journalism.py
+
+PC
+
+Mac
+
+Mac
+
+Linux
+
+Mac
+
+PC
 
 Mac
 
@@ -19,3 +233,21 @@ Mac
 Linux
 
 PC
+
+Mac
+
+PC
+
+Mac
+
+PC
+
+Mac
+
+Linux
+
+Mac
+
+Mac
+
+Mac

@@ -1,8 +1,80 @@
+Results for "car_brand"
+Defined in module auction.py
+Used in auction.py, automotive.py, portal.py
 
+Nissan
+
+Cadillac
+
+Ford
 
 Saab
 
+Pontiac
+
+Saab
+
+Ford
+
 Nissan
+
+Mercedes
+
+Cadillac
+
+Nissan
+
+Mercedes
+
+Cadillac
+
+Pontiac
+
+Pontiac
+
+Ford
+
+Nissan
+
+Toyota
+
+Cadillac
+
+ToyotaResults for "car_brand"
+Defined in module auction.py
+Used in auction.py, automotive.py, portal.py
+
+Pontiac
+
+Saab
+
+Pontiac
+
+Citroën
+
+Pontiac
+
+Toyota
+
+Renault
+
+Ford
+
+Cadillac
+
+Nissan
+
+Nissan
+
+Cadillac
+
+Ford
+
+Volvo
+
+Ford
+
+Saab
 
 Pontiac
 
@@ -10,12 +82,172 @@ Audi
 
 Saab
 
-Toyota
+AudiResults for "car_brand"
+Defined in module auction.py
+Used in auction.py, automotive.py, portal.py
+
+Nissan
+
+Mercedes
+
+Volvo
+
+Mercedes
+
+Saab
+
+Pontiac
+
+Nissan
+
+Volvo
+
+Ford
 
 Ford
 
 Pontiac
 
+Audi
+
+Renault
+
+Mercedes
+
+Ford
+
+Ford
+
+Ford
+
+Nissan
+
+Nissan
+
+VolvoResults for "car_brand"
+Defined in module auction.py
+Used in auction.py, automotive.py, portal.py
+
 Saab
 
+Renault
+
+Ford
+
+Cadillac
+
 Toyota
+
+Cadillac
+
+Nissan
+
+Nissan
+
+Cadillac
+
+Ford
+
+Pontiac
+
+Audi
+
+Toyota
+
+Nissan
+
+Ford
+
+Cadillac
+
+Pontiac
+
+Toyota
+
+Cadillac
+
+CadillacResults for "car_brand"
+Defined in module auction.py
+Used in auction.py, automotive.py, portal.py
+
+Ford
+
+Ford
+
+Nissan
+
+Cadillac
+
+Renault
+
+Audi
+
+Saab
+
+Nissan
+
+Saab
+
+Renault
+
+Toyota
+
+Renault
+
+Nissan
+
+Citroën
+
+Citroën
+
+Ford
+
+Cadillac
+
+Ford
+
+Cadillac
+
+RenaultResults for "car_brand"
+Defined in module auction.py
+Used in auction.py, automotive.py, portal.py
+
+Nissan
+
+Mercedes
+
+Toyota
+
+Nissan
+
+Volkswagen
+
+Volvo
+
+Cadillac
+
+Cadillac
+
+Mercedes
+
+Renault
+
+Nissan
+
+Citroën
+
+Pontiac
+
+Saab
+
+Ford
+
+Volkswagen
+
+Audi
+
+Nissan
+
+Pontiac
+
+Renault

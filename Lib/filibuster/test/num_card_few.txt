@@ -1,4 +1,110 @@
+Results for "num_card_few"
+Defined in module general.py
+Used in articles.py
 
+two
+
+two
+
+two
+
+two
+
+three
+
+three
+
+four
+
+three
+
+three
+
+four
+
+three
+
+two
+
+three
+
+two
+
+three
+
+three
+
+two
+
+two
+
+three
+
+fourResults for "num_card_few"
+Defined in module general.py
+Used in articles.py
+
+three
+
+three
+
+two
+
+two
+
+two
+
+two
+
+two
+
+two
+
+two
+
+four
+
+four
+
+two
+
+three
+
+two
+
+three
+
+four
+
+three
+
+four
+
+two
+
+twoResults for "num_card_few"
+Defined in module general.py
+Used in articles.py
+
+two
+
+two
+
+two
+
+two
+
+four
+
+three
+
+three
+
+three
+
+four
+
+two
 
 four
 
@@ -12,10 +118,136 @@ two
 
 three
 
+four
+
+two
+
+two
+
+fourResults for "num_card_few"
+Defined in module general.py
+Used in articles.py
+
+two
+
+three
+
+two
+
+three
+
+two
+
+three
+
+four
+
 two
 
 four
 
 three
 
+four
+
+three
+
 two
+
+two
+
+two
+
+two
+
+four
+
+three
+
+four
+
+fourResults for "num_card_few"
+Defined in module general.py
+Used in articles.py
+
+four
+
+four
+
+three
+
+two
+
+three
+
+four
+
+four
+
+four
+
+three
+
+three
+
+three
+
+four
+
+four
+
+four
+
+two
+
+four
+
+two
+
+two
+
+three
+
+threeResults for "num_card_few"
+Defined in module general.py
+Used in articles.py
+
+two
+
+two
+
+three
+
+four
+
+four
+
+four
+
+four
+
+four
+
+three
+
+three
+
+four
+
+three
+
+three
+
+three
+
+two
+
+four
+
+two
+
+four
+
+three
+
+four

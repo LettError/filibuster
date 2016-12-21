@@ -1,21 +1,253 @@
-
-
-409
-
-Boss 302
-
-409
-
-327 Turbo-Fire
+Results for "car_engine_type"
+Defined in module automotive.py
+Used in automotive.py
 
 LT-1 350
 
-429 Super Cobra Jet
+440 Wedge
 
-409
+Boss 302
+
+327 Turbo-Fire
 
 327 Turbo-Fire
 
 426 Hemi
 
 327 Turbo-Fire
+
+426 Hemi
+
+327 Turbo-Fire
+
+426 Hemi
+
+440 Wedge
+
+409
+
+Boss 302
+
+426 Hemi
+
+409
+
+426 Hemi
+
+Rat motor
+
+Boss 302
+
+340 Six Pack
+
+Flathead V8Results for "car_engine_type"
+Defined in module automotive.py
+Used in automotive.py
+
+Flathead V8
+
+409
+
+340 Six Pack
+
+Rat motor
+
+429 Super Cobra Jet
+
+426 Hemi
+
+440 Wedge
+
+Rat motor
+
+429 Super Cobra Jet
+
+340 Six Pack
+
+LT-1 350
+
+Boss 302
+
+409
+
+LT-1 350
+
+Flathead V8
+
+340 Six Pack
+
+409
+
+426 Hemi
+
+Rat motor
+
+340 Six PackResults for "car_engine_type"
+Defined in module automotive.py
+Used in automotive.py
+
+440 Wedge
+
+Boss 302
+
+426 Hemi
+
+340 Six Pack
+
+340 Six Pack
+
+Flathead V8
+
+Flathead V8
+
+440 Wedge
+
+340 Six Pack
+
+429 Super Cobra Jet
+
+Rat motor
+
+340 Six Pack
+
+Flathead V8
+
+LT-1 350
+
+Rat motor
+
+Rat motor
+
+429 Super Cobra Jet
+
+426 Hemi
+
+426 Hemi
+
+340 Six PackResults for "car_engine_type"
+Defined in module automotive.py
+Used in automotive.py
+
+LT-1 350
+
+426 Hemi
+
+429 Super Cobra Jet
+
+Boss 302
+
+440 Wedge
+
+Flathead V8
+
+Boss 302
+
+426 Hemi
+
+327 Turbo-Fire
+
+440 Wedge
+
+429 Super Cobra Jet
+
+Flathead V8
+
+327 Turbo-Fire
+
+327 Turbo-Fire
+
+LT-1 350
+
+409
+
+Flathead V8
+
+Rat motor
+
+327 Turbo-Fire
+
+429 Super Cobra JetResults for "car_engine_type"
+Defined in module automotive.py
+Used in automotive.py
+
+Boss 302
+
+409
+
+429 Super Cobra Jet
+
+426 Hemi
+
+340 Six Pack
+
+Flathead V8
+
+Boss 302
+
+327 Turbo-Fire
+
+Boss 302
+
+Rat motor
+
+340 Six Pack
+
+440 Wedge
+
+340 Six Pack
+
+409
+
+409
+
+409
+
+429 Super Cobra Jet
+
+426 Hemi
+
+409
+
+Boss 302Results for "car_engine_type"
+Defined in module automotive.py
+Used in automotive.py
+
+LT-1 350
+
+426 Hemi
+
+426 Hemi
+
+409
+
+327 Turbo-Fire
+
+429 Super Cobra Jet
+
+429 Super Cobra Jet
+
+LT-1 350
+
+LT-1 350
+
+409
+
+LT-1 350
+
+327 Turbo-Fire
+
+340 Six Pack
+
+Flathead V8
+
+409
+
+Rat motor
+
+Boss 302
+
+Boss 302
+
+409
+
+429 Super Cobra Jet

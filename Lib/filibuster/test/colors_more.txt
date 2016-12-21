@@ -1,21 +1,253 @@
+Results for "colors_more"
+Defined in module general.py
+Used in general.py
 
-
-beige
-
-beige
-
-teal
+purple
 
 gray
+
+gray
+
+white
+
+purple
+
+purple
 
 gray
 
 carmine
+
+teal
+
+purple
+
+taupe
+
+teal
+
+taupe
+
+taupe
+
+beige
+
+purple
+
+carmine
+
+teal
+
+purple
+
+grayResults for "colors_more"
+Defined in module general.py
+Used in general.py
+
+beige
+
+beige
+
+white
+
+chartreuse
+
+teal
+
+chartreuse
+
+carmine
+
+moss green
+
+teal
+
+moss green
+
+moss green
+
+white
+
+chartreuse
+
+carmine
+
+taupe
+
+white
+
+chartreuse
+
+gray
+
+brown
+
+beigeResults for "colors_more"
+Defined in module general.py
+Used in general.py
+
+beige
+
+chartreuse
+
+beige
+
+chartreuse
+
+moss green
+
+beige
+
+carmine
+
+white
+
+carmine
+
+moss green
+
+carmine
+
+moss green
+
+moss green
+
+chartreuse
+
+teal
+
+brown
+
+gray
+
+beige
+
+gray
+
+carmineResults for "colors_more"
+Defined in module general.py
+Used in general.py
+
+white
+
+gray
+
+moss green
+
+teal
+
+beige
 
 brown
 
 teal
 
+brown
+
+moss green
+
+teal
+
+carmine
+
+brown
+
+gray
+
+teal
+
+white
+
+white
+
+carmine
+
+purple
+
+taupe
+
+chartreuseResults for "colors_more"
+Defined in module general.py
+Used in general.py
+
+gray
+
+taupe
+
+teal
+
+purple
+
+teal
+
+beige
+
+white
+
+white
+
+carmine
+
+gray
+
+purple
+
+purple
+
+teal
+
+carmine
+
+chartreuse
+
+purple
+
+brown
+
 carmine
 
 teal
+
+grayResults for "colors_more"
+Defined in module general.py
+Used in general.py
+
+purple
+
+beige
+
+white
+
+white
+
+white
+
+purple
+
+purple
+
+gray
+
+gray
+
+gray
+
+chartreuse
+
+teal
+
+beige
+
+teal
+
+teal
+
+purple
+
+chartreuse
+
+teal
+
+taupe
+
+brown

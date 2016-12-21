@@ -1,21 +1,253 @@
+Results for "sci_astro_stars"
+Defined in module sciences.py
+Used in horoscope.py, sciences.py
 
+pollux
 
-antares
+fornax
+
+orion
+
+perseid
+
+mensa
+
+cassiopeia
+
+pegasus
+
+rigel
+
+ursa
+
+regulus
+
+andromeda
+
+pegasus
 
 aldebaran
 
-callisto
-
-deneb
+pollux
 
 argo
 
 perseid
 
+sirius
+
+ursa
+
+callisto
+
+fornaxResults for "sci_astro_stars"
+Defined in module sciences.py
+Used in horoscope.py, sciences.py
+
+lyra
+
+deneb
+
+rigel
+
+antares
+
+ceres
+
+argo
+
+draco
+
+mensa
+
+draco
+
+andromeda
+
 pollux
 
-hercules
+callisto
+
+andromeda
+
+fornax
+
+pegasus
+
+sirius
+
+rigel
+
+hydra
+
+sirius
+
+denebResults for "sci_astro_stars"
+Defined in module sciences.py
+Used in horoscope.py, sciences.py
+
+rigel
+
+perseid
+
+ursa
+
+draco
+
+pegasus
+
+deneb
+
+orion
+
+mensa
+
+aldebaran
+
+castor
+
+orion
+
+perseid
+
+castor
+
+cassiopeia
+
+corvus
+
+deneb
+
+aldebaran
+
+aldebaran
+
+pollux
+
+regulusResults for "sci_astro_stars"
+Defined in module sciences.py
+Used in horoscope.py, sciences.py
+
+perseid
+
+pleiades
+
+rigel
 
 betelgeuse
 
+sirius
+
+hydra
+
+pleiades
+
+arcturus
+
+hercules
+
+phoenix
+
+aldebaran
+
+lyra
+
+draco
+
+corvus
+
+deneb
+
+argo
+
+hydra
+
+regulus
+
+pleiades
+
+perseidResults for "sci_astro_stars"
+Defined in module sciences.py
+Used in horoscope.py, sciences.py
+
+mensa
+
+castor
+
+ursa
+
+argo
+
+fornax
+
+antares
+
+aldebaran
+
+ceres
+
+betelgeuse
+
+sirius
+
+andromeda
+
+hercules
+
+antares
+
+castor
+
+cygnus
+
+pegasus
+
+argo
+
+vega
+
+deneb
+
+fornaxResults for "sci_astro_stars"
+Defined in module sciences.py
+Used in horoscope.py, sciences.py
+
+sirius
+
+ursa
+
+ceres
+
+phoenix
+
+sirius
+
+fornax
+
+fornax
+
+castor
+
+arcturus
+
+regulus
+
+antares
+
 callisto
+
+andromeda
+
+pollux
+
+andromeda
+
+corvus
+
+hydra
+
+pollux
+
+andromeda
+
+argo

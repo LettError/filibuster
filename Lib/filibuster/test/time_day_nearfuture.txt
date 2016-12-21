@@ -1,10 +1,25 @@
+Results for "time_day_nearfuture"
+Defined in module general.py
 
+tomorrow
+
+later today
+
+tomorrow
+
+later today
+
+later today
 
 today
 
 tomorrow
 
 today
+
+later today
+
+tomorrow
 
 tomorrow
 
@@ -14,8 +29,219 @@ today
 
 tomorrow
 
+tomorrow
+
+tomorrow
+
+today
+
+tomorrow
+
+later today
+
+later todayResults for "time_day_nearfuture"
+Defined in module general.py
+
+today
+
+today
+
+tomorrow
+
+today
+
+today
+
+today
+
 later today
 
 today
 
 later today
+
+tomorrow
+
+later today
+
+later today
+
+today
+
+today
+
+today
+
+today
+
+tomorrow
+
+tomorrow
+
+later today
+
+todayResults for "time_day_nearfuture"
+Defined in module general.py
+
+tomorrow
+
+today
+
+tomorrow
+
+today
+
+later today
+
+later today
+
+later today
+
+today
+
+later today
+
+later today
+
+later today
+
+later today
+
+later today
+
+today
+
+later today
+
+tomorrow
+
+later today
+
+tomorrow
+
+tomorrow
+
+tomorrowResults for "time_day_nearfuture"
+Defined in module general.py
+
+tomorrow
+
+later today
+
+today
+
+tomorrow
+
+tomorrow
+
+later today
+
+later today
+
+later today
+
+today
+
+tomorrow
+
+later today
+
+later today
+
+later today
+
+later today
+
+today
+
+tomorrow
+
+today
+
+today
+
+today
+
+later todayResults for "time_day_nearfuture"
+Defined in module general.py
+
+today
+
+tomorrow
+
+today
+
+today
+
+tomorrow
+
+today
+
+today
+
+later today
+
+later today
+
+later today
+
+today
+
+later today
+
+tomorrow
+
+today
+
+today
+
+later today
+
+tomorrow
+
+later today
+
+tomorrow
+
+later todayResults for "time_day_nearfuture"
+Defined in module general.py
+
+tomorrow
+
+tomorrow
+
+today
+
+today
+
+tomorrow
+
+today
+
+today
+
+tomorrow
+
+later today
+
+later today
+
+later today
+
+tomorrow
+
+today
+
+tomorrow
+
+today
+
+today
+
+tomorrow
+
+today
+
+tomorrow
+
+tomorrow

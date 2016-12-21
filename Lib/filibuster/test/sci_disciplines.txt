@@ -1,6 +1,156 @@
+Results for "sci_disciplines"
+Defined in module sciences.py
+Used in literature.py, portal.py, sciences.py
 
+economics
+
+economics
+
+liberal arts
+
+literature
 
 philosphy
+
+liberal arts
+
+economics
+
+physics
+
+liberal arts
+
+economics
+
+mathematics
+
+economics
+
+mathematics
+
+art
+
+mathematics
+
+liberal arts
+
+literature
+
+liberal arts
+
+philosphy
+
+medicinResults for "sci_disciplines"
+Defined in module sciences.py
+Used in literature.py, portal.py, sciences.py
+
+liberal arts
+
+liberal arts
+
+liberal arts
+
+physics
+
+economics
+
+economics
+
+liberal arts
+
+liberal arts
+
+medicin
+
+medicin
+
+classics
+
+literature
+
+mathematics
+
+classics
+
+mathematics
+
+physics
+
+philosphy
+
+classics
+
+liberal arts
+
+physicsResults for "sci_disciplines"
+Defined in module sciences.py
+Used in literature.py, portal.py, sciences.py
+
+physics
+
+philosphy
+
+classics
+
+mathematics
+
+classics
+
+liberal arts
+
+mathematics
+
+literature
+
+classics
+
+philosphy
+
+liberal arts
+
+classics
+
+physics
+
+medicin
+
+mathematics
+
+classics
+
+philosphy
+
+classics
+
+mathematics
+
+liberal artsResults for "sci_disciplines"
+Defined in module sciences.py
+Used in literature.py, portal.py, sciences.py
+
+art
+
+mathematics
+
+physics
+
+art
+
+classics
+
+philosphy
+
+philosphy
+
+liberal arts
+
+mathematics
+
+liberal arts
+
+classics
+
+classics
 
 physics
 
@@ -8,14 +158,96 @@ literature
 
 classics
 
-literature
-
 medicin
+
+philosphy
+
+mathematics
+
+mathematics
+
+physicsResults for "sci_disciplines"
+Defined in module sciences.py
+Used in literature.py, portal.py, sciences.py
+
+economics
+
+mathematics
+
+liberal arts
+
+literature
 
 medicin
 
 physics
 
+medicin
+
+literature
+
+physics
+
 philosphy
 
+art
+
+liberal arts
+
+physics
+
+literature
+
+classics
+
+economics
+
 mathematics
+
+liberal arts
+
+medicin
+
+liberal artsResults for "sci_disciplines"
+Defined in module sciences.py
+Used in literature.py, portal.py, sciences.py
+
+classics
+
+classics
+
+physics
+
+classics
+
+literature
+
+philosphy
+
+classics
+
+classics
+
+mathematics
+
+mathematics
+
+classics
+
+medicin
+
+liberal arts
+
+physics
+
+medicin
+
+art
+
+physics
+
+liberal arts
+
+economics
+
+economics

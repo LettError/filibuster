@@ -1,14 +1,156 @@
+Results for "p_oldbiz_sx"
+Defined in module corporate.py
+Used in corporate.py, design.py
 
+Payroll
+
+Data Processing
+
+Data Processing
+
+Data Processing
+
+Electric
+
+Edison
+
+Payroll
+
+Communications
+
+Electric
+
+Calculator
+
+Electronics
+
+Communications
+
+Underwriters
+
+Industry
+
+Electronics
+
+Telephone
+
+Electronics
+
+Communications
+
+Edison
+
+Cash RegisterResults for "p_oldbiz_sx"
+Defined in module corporate.py
+Used in corporate.py, design.py
+
+Industry
+
+Communications
+
+Underwriters
+
+Data Processing
+
+Electronics
+
+Payroll
+
+Underwriters
+
+Appliance
+
+Industry
+
+Appliance
+
+Edison
+
+Cash Register
+
+Cash Register
+
+Communications
+
+Data Processing
+
+Electric
+
+Electronics
+
+Telephone
+
+Underwriters
+
+CommunicationsResults for "p_oldbiz_sx"
+Defined in module corporate.py
+Used in corporate.py, design.py
+
+Machinery
+
+Electronics
+
+Underwriters
+
+Industry
+
+Telephone
+
+Calculator
+
+Edison
+
+Cash Register
+
+Machinery
+
+Industry
+
+Communications
+
+Data Processing
+
+Appliance
+
+Electric
+
+Underwriters
+
+Telephone
+
+Industry
+
+Communications
+
+Electronics
+
+IndustryResults for "p_oldbiz_sx"
+Defined in module corporate.py
+Used in corporate.py, design.py
 
 Electronics
 
 Electric
 
-Payroll
+Edison
+
+Industry
 
 Electric
 
+Communications
+
+Cash Register
+
 Machinery
+
+Payroll
+
+Oil
+
+Pipe
+
+Electric
 
 Payroll
 
@@ -16,6 +158,96 @@ Telephone
 
 Underwriters
 
+Calculator
+
+Calculator
+
+Industry
+
+Payroll
+
+UnderwritersResults for "p_oldbiz_sx"
+Defined in module corporate.py
+Used in corporate.py, design.py
+
+Cash Register
+
 Edison
 
+Industry
+
+Machinery
+
+Cash Register
+
+Underwriters
+
+Electronics
+
+Payroll
+
+Telephone
+
+Electronics
+
+Communications
+
+Cash Register
+
+Underwriters
+
+Machinery
+
 Data Processing
+
+Industry
+
+Appliance
+
+Data Processing
+
+Cash Register
+
+ElectricResults for "p_oldbiz_sx"
+Defined in module corporate.py
+Used in corporate.py, design.py
+
+Oil
+
+Calculator
+
+Communications
+
+Electric
+
+Appliance
+
+Electric
+
+Electric
+
+Industry
+
+Cash Register
+
+Industry
+
+Machinery
+
+Underwriters
+
+Telephone
+
+Data Processing
+
+Underwriters
+
+Machinery
+
+Cash Register
+
+Communications
+
+Machinery
+
+Appliance

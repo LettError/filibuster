@@ -1,21 +1,253 @@
+Results for "p_co_creative"
+Defined in module modernmedia.py
+Used in creditcard.py, modernmedia.py
 
+40
 
-Iron
-
-Over
+Acid
 
 Matrix
 
-Werk
+Matrix
+
+Iron
+
+Toy
+
+Matrix
+
+Iron
+
+Prime
 
 40
+
+Prime
+
+Acid
+
+Iron
+
+Explosion
+
+Liquid
+
+Over
+
+Acid
+
+Iron
+
+Iron
+
+IronResults for "p_co_creative"
+Defined in module modernmedia.py
+Used in creditcard.py, modernmedia.py
+
+Werk
+
+Acid
+
+Prime
+
+Liquid
+
+Toy
+
+Explosion
+
+40
+
+Toy
+
+40
+
+Toy
+
+Amp
+
+Over
+
+Amp
+
+Toy
+
+Acid
+
+Acid
+
+Explosion
+
+Explosion
+
+Iron
+
+ExplosionResults for "p_co_creative"
+Defined in module modernmedia.py
+Used in creditcard.py, modernmedia.py
+
+Liquid
+
+Liquid
+
+Acid
+
+Acid
+
+Amp
+
+Werk
+
+Matrix
+
+Amp
+
+Liquid
+
+Over
+
+40
+
+Matrix
+
+Prime
+
+Matrix
+
+Amp
+
+Amp
+
+Over
+
+40
+
+Orange
+
+40Results for "p_co_creative"
+Defined in module modernmedia.py
+Used in creditcard.py, modernmedia.py
+
+Prime
+
+Matrix
 
 Over
 
 Prime
 
+Werk
+
+Prime
+
+40
+
+Werk
+
+Orange
+
+40
+
+Prime
+
+Werk
+
+Toy
+
+Prime
+
+Explosion
+
+Toy
+
+Prime
+
+Toy
+
+Werk
+
+WerkResults for "p_co_creative"
+Defined in module modernmedia.py
+Used in creditcard.py, modernmedia.py
+
+Prime
+
+Prime
+
 Over
+
+Orange
+
+Iron
+
+Iron
+
+Amp
+
+Amp
+
+Iron
+
+Over
+
+Orange
+
+Iron
+
+40
+
+Over
+
+Over
+
+Iron
+
+Explosion
+
+Amp
+
+40
+
+MatrixResults for "p_co_creative"
+Defined in module modernmedia.py
+Used in creditcard.py, modernmedia.py
+
+Liquid
+
+Explosion
+
+Werk
 
 Matrix
 
+Acid
+
+Explosion
+
+Werk
+
+Orange
+
+Orange
+
+Explosion
+
+Toy
+
+Acid
+
+Liquid
+
+Orange
+
+Prime
+
+Toy
+
+Liquid
+
 40
+
+Explosion
+
+Prime

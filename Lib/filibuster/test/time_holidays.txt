@@ -1,16 +1,70 @@
+Results for "time_holidays"
+Defined in module general.py
+Used in general.py
 
+Thanksgiving
 
-Autumn
+Spring
 
-Winter
-
-Summer
+Easter
 
 Christmas
 
 Spring
 
+Easter
+
+Winter
+
+Bastille Day
+
+Thanksgiving
+
+Auto Safety Week
+
+Easter
+
+Thanksgiving
+
+Easter
+
+Spring
+
+Arbor Day
+
+Christmas
+
+Easter
+
+Summer
+
 Holidays
+
+WinterResults for "time_holidays"
+Defined in module general.py
+Used in general.py
+
+Kwanzaa
+
+Christmas
+
+Thanksgiving
+
+Spring
+
+Thanksgiving
+
+Thanksgiving
+
+Easter
+
+Winter
+
+Summer
+
+Easter
+
+Winter
 
 Winter
 
@@ -18,4 +72,182 @@ Easter
 
 Autumn
 
+Summer
+
+Autumn
+
+Bastille Day
+
 Christmas
+
+Arbor Day
+
+AutumnResults for "time_holidays"
+Defined in module general.py
+Used in general.py
+
+Summer
+
+Autumn
+
+Christmas
+
+Easter
+
+Thanksgiving
+
+Thanksgiving
+
+Winter
+
+Secretary's Day
+
+Holidays
+
+Christmas
+
+Secretary's Day
+
+Thanksgiving
+
+Secretary's Day
+
+Summer
+
+Christmas
+
+Easter
+
+Auto Safety Week
+
+Holidays
+
+Armageddon
+
+Black TuesdayResults for "time_holidays"
+Defined in module general.py
+Used in general.py
+
+Spring
+
+Holidays
+
+Christmas
+
+Spring
+
+Armageddon
+
+Spring
+
+Holidays
+
+Autumn
+
+Arbor Day
+
+Easter
+
+Easter
+
+Autumn
+
+Winter
+
+Christmas
+
+Arbor Day
+
+Easter
+
+Spring
+
+Easter
+
+Summer
+
+HolidaysResults for "time_holidays"
+Defined in module general.py
+Used in general.py
+
+Guy Fawkes' Night
+
+Christmas
+
+Christmas
+
+Thanksgiving
+
+Easter
+
+Bastille Day
+
+Easter
+
+Spring
+
+Thanksgiving
+
+Easter
+
+Summer
+
+Thanksgiving
+
+Guy Fawkes' Night
+
+Black Friday
+
+Summer
+
+Christmas
+
+Holidays
+
+Easter
+
+Winter
+
+EasterResults for "time_holidays"
+Defined in module general.py
+Used in general.py
+
+Autumn
+
+Spring
+
+Spring
+
+Thanksgiving
+
+Guy Fawkes' Night
+
+Spring
+
+Christmas
+
+Holidays
+
+Holidays
+
+Summer
+
+Holidays
+
+Autumn
+
+Arbor Day
+
+Easter
+
+Easter
+
+Cinco de Mayo
+
+Summer
+
+Holidays
+
+Holidays
+
+Holidays

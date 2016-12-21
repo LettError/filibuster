@@ -1,21 +1,253 @@
+Results for "corporate_prod_announcement_headline"
+Defined in module corporate.py
+Used in portal.py
 
+metaCorpNow! debuts OpenSource advercational management services
 
-iAuctions2000 PLC demonstrates a new generation of entergational community products
+InterBizonline announces overhauled shopagraphic mindshare products
 
-myVisiononline Inc. premieres OpenSource shopagational architecture services
+HyperGroupNow! unveils overhauled naviteering community products
 
-iNetonline presents a new generation of shopacational synergy missions
+goAuctions2000 PLC presents OpenSource shopagraphic conversion missions
 
-metaSale.com demonstrates a new generation of digitainment synergy missions
+EquiGrouponline introduces OpenSource enterteering mindshare solutions
 
-HyperGrouponline unveils next generation of edutising content missions
+InterWorksNow! announces new platform for advergraphic management services
 
-getNetonline demonstrates OpenSource adverbility front-end portals
+iBrandonline announces new platform for advermational line extension services
 
-webBrandonline announces new platform for shopatorial architecture environments
+iBiz2000 premieres updates to infotainment colocation solutions
 
-eTrustNow! LLC presents updates to shopatorial front-end systems
+HyperBrand.com PLC shows OpenSource edubility front-end storefronts
 
-netNet.com introduces next generation of advergraphic community solutions
+myTrustNow! GmBH premieres updates to infomational colocation ventures
 
-InterBankonline debuts overhauled educational SSL environments
+eWorksonline, Inc. debuts next generation of infobility mindshare resources
+
+HyperBank2000 shows new platform for entertorial front-end providers
+
+eWorksonline demonstrates new platform for navitainment convergence providers
+
+mySale2000 Inc. unveils next generation of navigational synergy missions
+
+webTradeNow! debuts updates to advertainment colocation products
+
+webTradeonline unveils new platform for infobility architecture resources
+
+metaNetNow! premieres updates to shopagraphic convergence environments
+
+webSale2000 premieres a new generation of entergational management services
+
+EquiGroup2000 premieres OpenSource advertainment engineering ventures
+
+iSaleonline debuts new line of edutorial colocation initiativesResults for "corporate_prod_announcement_headline"
+Defined in module corporate.py
+Used in portal.py
+
+metaNet2000 premieres OpenSource infogational mindshare environments
+
+InterTradeonline PLC introduces new line of infocational engineering providers
+
+iVisionNow! premieres overhauled educational mindshare providers
+
+goNet2000 debuts updates to edutising conversion environments
+
+metaNetworking.com presents updates to advermational equity innovations
+
+metaWorks2000 shows new platform for infocational architecture storefronts
+
+webBank2000 shows next generation of imagiteering mindshare products
+
+getNet2000 premieres new platform for advermational conversion systems
+
+getAuctionsNow! GmBH debuts new line of adverteering SSL solutions
+
+HyperTrustonline Inc. demonstrates overhauled advertainment synergy products
+
+myNetworking2000 presents overhauled navitising synergy providers
+
+InterTrustNow! announces OpenSource advermational SSL environments
+
+eNet2000 presents new line of infogational convergence portals
+
+myGroupNow! debuts new platform for infoteering synergy resources
+
+eAuctions.com Inc. announces overhauled infoteering content resources
+
+CyberGroupNow! Inc. unveils updates to advermational engineering products
+
+myBank2000 Inc. demonstrates next generation of infographic front-end storefronts
+
+netCorp2000 presents overhauled digibility management portals
+
+eBrand2000 shows new platform for edutorial equity missions
+
+getNetNow! demonstrates new line of entergraphic synergy initiativesResults for "corporate_prod_announcement_headline"
+Defined in module corporate.py
+Used in portal.py
+
+InterNet.com introduces new platform for imagimational equity solutions
+
+CyberBrandNow! debuts overhauled navitainment colocation products
+
+eAuctionsNow! announces new platform for imagitorial community services
+
+eNetworking.com Inc. announces new line of entergational SSL innovations
+
+EquiNet2000 demonstrates overhauled imagiteering equity innovations
+
+metaNetonline announces a new generation of infobility synergy systems
+
+iGroup.com shows updates to imagigraphic community environments
+
+getTrust.com demonstrates new platform for entertising architecture services
+
+mySale.com debuts a new generation of educational SSL systems
+
+metaBankonline shows new line of edugraphic community services
+
+goNetNow! presents new platform for infomational conversion providers
+
+HyperWorks.com premieres overhauled shopatising equity initiatives
+
+EquiBankonline shows a new generation of infocational equity portals
+
+HyperBank.com, Inc. shows overhauled advermational engineering services
+
+goTrust2000 demonstrates OpenSource digicational line extension resources
+
+getBank.com debuts updates to adverbility conversion storefronts
+
+netBiz.com announces a new generation of enterteering line extension missions
+
+webTradeNow! introduces updates to edumational colocation systems
+
+getCorp2000 demonstrates overhauled shopagational line extension initiatives
+
+goSale2000 introduces OpenSource digibility content missionsResults for "corporate_prod_announcement_headline"
+Defined in module corporate.py
+Used in portal.py
+
+CyberNet2000 shows new platform for navitorial architecture resources
+
+HyperCorp2000 debuts next generation of digicational front-end missions
+
+CyberBizonline introduces overhauled imagitorial management environments
+
+iNetworkingNow! demonstrates next generation of imagitising architecture services
+
+webTradeNow! presents new platform for shopamational community innovations
+
+EquiCorp.com shows new platform for digitorial colocation storefronts
+
+myBiz.com GmBH introduces a new generation of digibility management portals
+
+InterNetworkingonline premieres OpenSource shopateering convergence environments
+
+metaNet2000 announces new line of infomational equity solutions
+
+webBiz2000 Inc. presents a new generation of advergraphic synergy products
+
+myAuctions2000 introduces new platform for digitorial SSL services
+
+HyperBankonline demonstrates new line of advermational convergence innovations
+
+InterTrust.com, Inc. shows next generation of edutorial colocation portals
+
+iSaleonline announces overhauled advertorial engineering services
+
+iAuctions.com presents new platform for edugational convergence ventures
+
+netBank2000 shows overhauled edugraphic engineering systems
+
+netCorponline unveils next generation of enterteering colocation providers
+
+metaNet2000 GmBH premieres new platform for advergraphic front-end providers
+
+getGroupNow! Inc. introduces next generation of edugational front-end solutions
+
+webCorp2000 debuts OpenSource advergational SSL resourcesResults for "corporate_prod_announcement_headline"
+Defined in module corporate.py
+Used in portal.py
+
+eTrust2000, Inc. debuts updates to infotorial content solutions
+
+metaGrouponline Inc. premieres new line of navigraphic content providers
+
+webAuctions.com debuts updates to imagibility mindshare providers
+
+goBrand2000 announces updates to advergational engineering solutions
+
+HyperWorks2000 demonstrates updates to edutainment colocation solutions
+
+webGroup.com announces new line of advermational architecture missions
+
+InterNetworkingonline introduces OpenSource digitainment conversion storefronts
+
+EquiAuctions.com Inc. shows new platform for navigraphic convergence ventures
+
+eVisiononline introduces updates to navitainment mindshare portals
+
+webNet2000 unveils new line of shopability mindshare storefronts
+
+HyperAuctionsonline presents a new generation of advertising synergy systems
+
+metaCorponline shows overhauled adverbility line extension solutions
+
+getNetNow!, Inc. shows new platform for imagimational architecture ventures
+
+netAuctions.com demonstrates new line of edumational synergy products
+
+getWorks.com unveils new line of navigational colocation innovations
+
+getNetworkingNow! Inc. unveils new platform for adverteering convergence products
+
+EquiBiz.com unveils next generation of advertising conversion portals
+
+getNetworking2000 shows OpenSource edutainment conversion resources
+
+eNet2000 Inc. presents overhauled navigraphic engineering innovations
+
+goSale.com introduces a new generation of infomational synergy innovationsResults for "corporate_prod_announcement_headline"
+Defined in module corporate.py
+Used in portal.py
+
+webCorp2000 announces next generation of infotainment architecture environments
+
+goNetworkingNow! LLC presents overhauled digimational synergy resources
+
+myNetworkingonline unveils OpenSource advergational architecture initiatives
+
+CyberNetonline Inc. shows new line of enterbility community systems
+
+EquiNetworkingonline, Inc. introduces new platform for navimational management portals
+
+netGroup2000, Inc. debuts new platform for entergational engineering ventures
+
+netAuctions2000 announces next generation of edutorial management portals
+
+EquiAuctions.com introduces overhauled shopatorial equity systems
+
+metaNetNow! unveils next generation of imagicational architecture solutions
+
+EquiCorpNow! debuts updates to imagitorial SSL resources
+
+eTrade.com introduces OpenSource advergational content ventures
+
+goBiz2000 shows a new generation of shopamational conversion providers
+
+EquiNetNow! premieres new line of infogational mindshare services
+
+netBizNow! unveils a new generation of digicational front-end innovations
+
+metaBizonline unveils new line of advertorial equity resources
+
+myTrust.com demonstrates new platform for entercational architecture systems
+
+netBrand.com Inc. demonstrates next generation of advergraphic line extension systems
+
+goBrand2000 debuts overhauled digitorial architecture portals
+
+CyberTradeNow! announces a new generation of edutising SSL portals
+
+CyberSale2000 debuts new line of navigational line extension innovations

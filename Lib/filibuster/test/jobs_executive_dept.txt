@@ -1,4 +1,38 @@
+Results for "jobs_executive_dept"
+Defined in module staff.py
+Used in staff.py
 
+Executive
+
+Operations
+
+Operations
+
+Executive
+
+Executive
+
+Operations
+
+Technical
+
+Technical
+
+Technical
+
+Operations
+
+Technical
+
+Executive
+
+Operations
+
+Financial
+
+Financial
+
+Technical
 
 Financial
 
@@ -6,16 +40,214 @@ Technical
 
 Operations
 
+OperationsResults for "jobs_executive_dept"
+Defined in module staff.py
+Used in staff.py
+
+Technical
+
+Operations
+
+Executive
+
+Operations
+
+Operations
+
+Technical
+
+Executive
+
+Operations
+
 Financial
 
 Operations
 
-Executive
+Financial
 
 Technical
+
+Financial
+
+Financial
+
+Executive
+
+Financial
+
+Financial
+
+Operations
+
+Financial
+
+FinancialResults for "jobs_executive_dept"
+Defined in module staff.py
+Used in staff.py
 
 Technical
 
 Executive
 
 Operations
+
+Operations
+
+Technical
+
+Financial
+
+Executive
+
+Technical
+
+Financial
+
+Executive
+
+Executive
+
+Financial
+
+Executive
+
+Executive
+
+Financial
+
+Technical
+
+Executive
+
+Financial
+
+Financial
+
+TechnicalResults for "jobs_executive_dept"
+Defined in module staff.py
+Used in staff.py
+
+Executive
+
+Operations
+
+Financial
+
+Technical
+
+Technical
+
+Financial
+
+Financial
+
+Technical
+
+Technical
+
+Executive
+
+Executive
+
+Operations
+
+Executive
+
+Operations
+
+Financial
+
+Financial
+
+Technical
+
+Financial
+
+Operations
+
+TechnicalResults for "jobs_executive_dept"
+Defined in module staff.py
+Used in staff.py
+
+Technical
+
+Financial
+
+Technical
+
+Executive
+
+Financial
+
+Financial
+
+Executive
+
+Operations
+
+Technical
+
+Executive
+
+Technical
+
+Financial
+
+Executive
+
+Technical
+
+Operations
+
+Technical
+
+Operations
+
+Executive
+
+Executive
+
+ExecutiveResults for "jobs_executive_dept"
+Defined in module staff.py
+Used in staff.py
+
+Financial
+
+Operations
+
+Operations
+
+Operations
+
+Technical
+
+Operations
+
+Financial
+
+Executive
+
+Executive
+
+Executive
+
+Operations
+
+Operations
+
+Financial
+
+Executive
+
+Executive
+
+Technical
+
+Operations
+
+Operations
+
+Executive
+
+Executive

@@ -1,21 +1,253 @@
+Results for "sports_genericevent"
+Defined in module sports.py
+Used in sports.py
 
+Sunkataka Championship
 
-EmersonDome Cup
+Yoto Championship, Macau
 
-NatTronDome Derby
+KoyukimoDome Cup
 
-Susha Cup
+Fisher Derby
 
-JohnsonStadium Championship
+CarsonStadium Championship
 
-Sutsito Championship, TomotsishaStadium
+SkyCorpStadium Open
 
-Houston Championship
+Katoko Championship
 
-Venezuela Derby
+InterTron Derby, Memphis
 
-InterTronStadium Derby
+BioCorp Championship, TitsitashiDome
 
-NatTech Derby
+Timiti Derby, BushnellArena
 
-InterCorpStadium Open
+SkyCorp Cup, Bologna
+
+Mahokan Open, VanderpoolStadium
+
+Suyumi Open
+
+Mibanto Cup
+
+AmeriTronDome Open
+
+InterCom Cup
+
+SunTron Cup
+
+France Championship
+
+Kiribati Championship
+
+Palmer Derby, AtlantaResults for "sports_genericevent"
+Defined in module sports.py
+Used in sports.py
+
+Caldecott Open
+
+Johnson Championship
+
+Yabikan Championship
+
+Sutamiyo Derby, KomitoDome
+
+Acheson Open, TashisoDome
+
+Manchester Championship
+
+Davenport Championship
+
+BioTech Championship
+
+SanhabanStadium Derby
+
+Bilbao Derby
+
+Seattle Open
+
+Tikantsuban Open
+
+AmeriTel Cup
+
+KotayanArena Championship
+
+InterTech Open, Lyon
+
+Adams Derby, YatsiArena
+
+Whitney Championship, Lyon
+
+MediCom Cup, TransComArena
+
+Carson Derby, MediComDome
+
+St. Helena OpenResults for "sports_genericevent"
+Defined in module sports.py
+Used in sports.py
+
+Sonkisan Cup
+
+AdamsStadium Championship
+
+Markham Cup
+
+Seattle Cup
+
+Sinclair Open, AdamsDome
+
+Ecuador Derby
+
+YatsishiDome Open
+
+MediTel Championship, Macedonia
+
+TransCorpStadium Championship
+
+SkyTech Championship
+
+SunCorp Championship, Seattle
+
+Madrid Championship
+
+Tate Championship, Guatemala
+
+Sokoki Open, UptonDome
+
+SunTelArena Cup
+
+InterTronArena Derby
+
+Franklin Championship
+
+MediTechDome Derby
+
+Russia Championship
+
+Denver ChampionshipResults for "sports_genericevent"
+Defined in module sports.py
+Used in sports.py
+
+Forbes Open
+
+WestTech Derby, Milan
+
+TransCom Derby
+
+HarperDome Derby
+
+MacArthur Championship
+
+Yokomo Championship, InterTronArena
+
+Macau Open
+
+Boston Open
+
+AmeriCorp Open, SonkaArena
+
+HarrisonStadium Derby
+
+Bushnell Cup, Miami
+
+Russia Open
+
+Tabiti Open, KomaDome
+
+Clark Open
+
+Baltimore Cup
+
+Haarlem Derby
+
+Frankfurt Derby
+
+Carson Cup
+
+Sunshika Cup, Kansas City
+
+KobiStadium ChampionshipResults for "sports_genericevent"
+Defined in module sports.py
+Used in sports.py
+
+WestTech Cup
+
+Yomasho Championship
+
+Santsu Cup
+
+San Francisco Championship
+
+BourneArena Open
+
+Florence Derby
+
+Masoki Cup
+
+Detroit Championship
+
+BioCorp Cup, BioTechArena
+
+TasanDome Open
+
+Harper Open, Bologna
+
+TransCorp Cup, Houston
+
+Yotato Open, Denver
+
+Sonshoti Cup
+
+Parker Championship, Boston
+
+Emerson Cup
+
+Sunha Championship
+
+CaldecottArena Championship
+
+Davies Derby, Minneapolis
+
+Iran DerbyResults for "sports_genericevent"
+Defined in module sports.py
+Used in sports.py
+
+Edinburgh Open
+
+Sunshayi Derby, AdamsDome
+
+SunCorp Championship, Berlin
+
+NatTech Championship, Dominica
+
+SkyCorp Derby
+
+Yahoshiso Open, SokiDome
+
+FranklinArena Open
+
+San Jose Open
+
+InterTron Cup
+
+Carson Open
+
+Mihamo Championship, Hamburg
+
+WestTel Cup
+
+Macedonia Championship
+
+Macau Open
+
+Sontsutama Derby, NatTelArena
+
+Baltimore Open
+
+Pakistan Championship
+
+Harrison Open
+
+Carnegie Open
+
+MediTechDome Derby

@@ -1,21 +1,253 @@
+Results for "paper_British"
+Defined in module journalism.py
+Used in journalism.py
 
+The Leeds Progressive
 
-The Edinburgh Chronicle
+The Sheffield Spirit
 
-The London Recorder
+The Leeds Union
 
-The Leeds Focus
+The Glasgow Bugle
 
-The Sheffield Intelligencer
+The Notice
+
+The Edinburgh Dispatch
+
+The Cambridge Advocate
+
+The World
+
+The Liverpool Monitor
+
+The Manchester Observer
+
+The Bugle
+
+The Quorum
+
+The Oxford Telegram
+
+The Tribune
+
+The Weekly
+
+The Sheffield Progress
+
+The Progress
+
+The Oxford Telegram
+
+The Legend
+
+The FocusResults for "paper_British"
+Defined in module journalism.py
+Used in journalism.py
+
+The Advertiser
+
+The London Bugle
+
+The Express
+
+The Liverpool Herald
+
+The London Journal
+
+The Liverpool Reader
+
+The London Journal
+
+The Edinburgh Tribune
+
+The Weekly
+
+The Edinburgh Advertiser
+
+The Liverpool Monitor
+
+The London Mercury
+
+The Oxford Gleaner
+
+The Picayune
+
+The Oxford Worker
+
+The Informer
+
+The Oxford Spirit
+
+The Edinburgh Leader
+
+The Cambridge Bugle
+
+The Manchester Free-PressResults for "paper_British"
+Defined in module journalism.py
+Used in journalism.py
+
+The Edinburgh Journal
 
 The Worker
 
-The Leeds Messenger
+The Liverpool Fact
 
-The Companion
+The Independent
 
-The Edinburgh Bugle
+The Forward
 
-The Financial
+The News
+
+The Sheffield Post
+
+The Inquirer
+
+The Glasgow Industrial
+
+The Advertiser
+
+The Oxford Courier
+
+The Cambridge Star
+
+The Cambridge Messenger
+
+The Sheffield Free-Press
+
+The London Courier
+
+The Register
+
+The Variety
+
+The Cambridge Forward
+
+The Leader
+
+The SentinelResults for "paper_British"
+Defined in module journalism.py
+Used in journalism.py
+
+The Bugle
+
+The Oxford Legend
+
+The Cambridge Globe
+
+The Cambridge Express
+
+The Quorum
+
+The Cambridge Sun
+
+The Leeds Today
+
+The Glasgow Mirror
+
+The Edinburgh Industrial
+
+The Star
+
+The Monitor
+
+The Manchester Industrial
+
+The Cambridge Picayune
+
+The Gazette
 
 The Post
+
+The Edinburgh Gazette
+
+The Constitution
+
+The Leeds Star
+
+The Glasgow Picayune
+
+The NewsResults for "paper_British"
+Defined in module journalism.py
+Used in journalism.py
+
+The Oxford Impact
+
+The Today
+
+The Oxford Reader
+
+The Today
+
+The Legend
+
+The Inquirer
+
+The Manchester Free-Press
+
+The Adviser
+
+The Oxford Leader
+
+The Worker
+
+The Gazette
+
+The Sheffield Worker
+
+The Weekly
+
+The World
+
+The Glasgow Advertiser
+
+The Oxford Leader
+
+The Monitor
+
+The Oxford Picayune
+
+The Liverpool Quarterly
+
+The ObserverResults for "paper_British"
+Defined in module journalism.py
+Used in journalism.py
+
+The Leeds Notice
+
+The Gleaner
+
+The London Eagle
+
+The Intelligencer
+
+The Journal
+
+The London Mercury
+
+The Cambridge Dispatch
+
+The Oxford Fact
+
+The Edinburgh Worker
+
+The Sun
+
+The Chronicle
+
+The Liverpool Weekly
+
+The Statesman
+
+The Leader
+
+The Leeds Courier
+
+The Manchester Enquirer
+
+The Liverpool Advertiser
+
+The Leeds Worker
+
+The Recorder
+
+The Glasgow Dispatch

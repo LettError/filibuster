@@ -1,21 +1,253 @@
+Results for "lit_mythology"
+Defined in module literature.py
+Used in general.py, internet.py
 
+cupid
 
-styx
+osiris
 
-lucian
+leda
 
-daphne
+asgard
 
-calypso
+paris
 
-titan
+leda
 
-calypso
+atlantis
 
-anubis
+cadmus
+
+diana
+
+aphrodite
+
+scylla
+
+thalia
+
+hector
+
+hermes
+
+flora
+
+athena
 
 charybdis
 
+gorgon
+
+tereus
+
+thaliaResults for "lit_mythology"
+Defined in module literature.py
+Used in general.py, internet.py
+
+antigone
+
+asgard
+
+charybdis
+
+euterpe
+
+orcus
+
+calypso
+
+charon
+
+cadmus
+
+tereus
+
+hermes
+
+achilles
+
+tereus
+
+charybdis
+
+titan
+
+europa
+
+cyclops
+
+daphne
+
+narcissus
+
+poseidon
+
+odinResults for "lit_mythology"
+Defined in module literature.py
+Used in general.py, internet.py
+
+anubis
+
+lucian
+
 vulcan
 
-hector
+aurora
+
+erato
+
+atlantis
+
+sphinx
+
+cronus
+
+anubis
+
+hyperion
+
+daphne
+
+calliope
+
+titan
+
+cadmus
+
+hyperion
+
+euridyce
+
+janus
+
+medea
+
+thor
+
+icarusResults for "lit_mythology"
+Defined in module literature.py
+Used in general.py, internet.py
+
+daedalus
+
+cadmus
+
+zeus
+
+orcus
+
+tereus
+
+jocasta
+
+charon
+
+achilles
+
+minerva
+
+atlantis
+
+cupid
+
+antigone
+
+zeus
+
+sisyphus
+
+gorgon
+
+phaedra
+
+icarus
+
+titan
+
+charybdis
+
+daedalusResults for "lit_mythology"
+Defined in module literature.py
+Used in general.py, internet.py
+
+atlantis
+
+erato
+
+triton
+
+odin
+
+asgard
+
+odin
+
+thalia
+
+psyche
+
+hyperion
+
+sisyphus
+
+ganymede
+
+hyperion
+
+perseus
+
+orcus
+
+odin
+
+proteus
+
+orcus
+
+vulcan
+
+centaur
+
+styxResults for "lit_mythology"
+Defined in module literature.py
+Used in general.py, internet.py
+
+euterpe
+
+odin
+
+cupid
+
+anubis
+
+ulysses
+
+psyche
+
+psyche
+
+ganymede
+
+lucian
+
+paris
+
+euridyce
+
+zeus
+
+aphrodite
+
+daphne
+
+hyperion
+
+charon
+
+phaedra
+
+thoth
+
+heracles
+
+odin

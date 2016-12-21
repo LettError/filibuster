@@ -1,21 +1,253 @@
+Results for "entertainment_section"
+Defined in module entertainment.py
+Used in entertainment.py
 
+Show
 
-Cinema
+Concert
+
+Actors Live
 
 Latest shows
 
-Don’t miss
+Theater
 
-Broadway
+Tour
+
+Concert
+
+Live music
+
+Theater
+
+Movie
+
+Latest shows
+
+Dining
+
+Gossip
+
+Live music
+
+Dining
+
+Premieres
+
+Latest shows
+
+Concert
+
+Premieres
+
+ShowResults for "entertainment_section"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Tour
+
+The Scene
+
+Sneak Preview
+
+Story
+
+Show
+
+Premieres
+
+Actors Live
 
 TV Spoilers
 
-Cinema
+Broadway
+
+Actors Live
+
+Popwatch
+
+Premieres
+
+Sneak Peek
+
+Jazz
 
 Great parties
+
+Actors Live
+
+Inside Movies
+
+Inside TV
+
+Featured films
+
+TheaterResults for "entertainment_section"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Broadway
+
+Featured films
+
+Inside TV
+
+Dining
+
+Movie
+
+Actors Live
+
+Don’t miss
+
+Actors Live
+
+Jazz
+
+The Scene
+
+Actors Live
+
+Cinema
+
+Gossip
+
+Don’t miss
+
+Inside Movies
+
+Great parties
+
+Show
+
+Concert
+
+TV Spoilers
+
+MusicalResults for "entertainment_section"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Cinema
+
+Actors Live
+
+Gossip
+
+Don’t miss
+
+Featured films
+
+Tour
 
 Story
 
 Dining
 
+Sneak Preview
+
+Don’t miss
+
+Cinema
+
+Show
+
+Theater
+
+Tour
+
+Sneak Peek
+
+Jazz
+
+Tour
+
 Dining
+
+Don’t miss
+
+StoryResults for "entertainment_section"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Live music
+
+Movie
+
+Cinema
+
+Featured films
+
+Movie
+
+Great parties
+
+Featured films
+
+Featured films
+
+Theater
+
+Featured films
+
+Actors Live
+
+Actors Live
+
+Great parties
+
+The Scene
+
+Movie
+
+Latest shows
+
+Dining
+
+Dining
+
+Dining
+
+The SceneResults for "entertainment_section"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Cinema
+
+Dining
+
+Story
+
+Cinema
+
+Movie
+
+Cinema
+
+Broadway
+
+Great parties
+
+Musical
+
+Latest shows
+
+TV Spoilers
+
+Sneak Preview
+
+Tour
+
+Theater
+
+Inside TV
+
+Inside TV
+
+Theater
+
+The Scene
+
+Live music
+
+Don’t miss

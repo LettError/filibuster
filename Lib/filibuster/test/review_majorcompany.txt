@@ -1,21 +1,253 @@
+Results for "review_majorcompany"
+Defined in module reviews.py
+Used in reviews.py
 
+Nokia
+
+Adobe
 
 Nokia
 
 Microsoft
 
-Facebook
+netVisiononline
+
+Barnes&Noble
+
+Sony
+
+Barnes&Noble
+
+Barnes&Noble
 
 Nokia
 
+Amazon
+
+Intel
+
+Facebook
+
+Amazon
+
+metaAuctions.com
+
+IBM
+
+Adobe
+
+Philips
+
+Nokia
+
+netVisiononlineResults for "review_majorcompany"
+Defined in module reviews.py
+Used in reviews.py
+
+Barnes&Noble
+
+Nokia
+
+IBM
+
+Mozilla
+
+Amazon
+
+IBM
+
+Sony
+
+Intel
+
+Barnes&Noble
+
+Mozilla
+
+Intel
+
+Sony
+
 Apple
+
+Facebook
+
+Intel
+
+Apple
+
+Barnes&Noble
+
+Nokia
+
+Sony
+
+PhilipsResults for "review_majorcompany"
+Defined in module reviews.py
+Used in reviews.py
+
+Adobe
+
+Sony
+
+Mozilla
+
+Philips
+
+IBM
+
+Adobe
+
+Apple
+
+Amazon
+
+Amazon
+
+Google
+
+Facebook
+
+Amazon
+
+Apple
+
+Google
+
+Amazon
+
+Philips
+
+Barnes&Noble
+
+Adobe
+
+Adobe
+
+PhilipsResults for "review_majorcompany"
+Defined in module reviews.py
+Used in reviews.py
+
+Microsoft
+
+eBankonline
+
+Mozilla
+
+Mozilla
+
+Amazon
+
+Philips
+
+Barnes&Noble
+
+Google
+
+Facebook
+
+Sony
+
+Sony
+
+Adobe
+
+Intel
+
+Apple
+
+Amazon
+
+IBM
+
+Amazon
+
+Amazon
+
+IBM
+
+GoogleResults for "review_majorcompany"
+Defined in module reviews.py
+Used in reviews.py
+
+Philips
+
+IBM
+
+Nokia
+
+Google
+
+Nokia
+
+CyberBizonline
+
+Adobe
+
+Mozilla
+
+Amazon
+
+Nokia
+
+Intel
+
+Sony
+
+Barnes&Noble
+
+Barnes&Noble
+
+Mozilla
+
+Apple
+
+Sony
+
+Adobe
+
+Amazon
+
+Barnes&NobleResults for "review_majorcompany"
+Defined in module reviews.py
+Used in reviews.py
+
+Barnes&Noble
+
+Sony
+
+Barnes&Noble
+
+Intel
 
 Microsoft
 
 Barnes&Noble
 
+goBrand2000
+
+Sony
+
+Apple
+
+Barnes&Noble
+
+IBM
+
+Facebook
+
+IBM
+
+Philips
+
+Amazon
+
+IBM
+
 Microsoft
 
-Mozilla
+IBM
 
-InterTradeNow!
+Facebook
+
+Philips

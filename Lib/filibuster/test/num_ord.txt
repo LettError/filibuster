@@ -1,21 +1,253 @@
+Results for "num_ord"
+Defined in module general.py
+Used in aerospace.py, articles.py, general.py, horoscope.py
 
+third
 
-first
+second
 
-sixth
+seventh
+
+seventh
 
 eighth
+
+seventh
 
 fifth
 
 fourth
 
+fifth
+
+third
+
+fifth
+
 ninth
+
+fifth
+
+sixth
+
+fourth
+
+sixth
+
+ninth
+
+first
+
+fourth
+
+sixthResults for "num_ord"
+Defined in module general.py
+Used in aerospace.py, articles.py, general.py, horoscope.py
+
+first
+
+eighth
+
+sixth
+
+seventh
+
+seventh
+
+fifth
+
+fifth
+
+first
+
+second
+
+sixth
+
+first
+
+second
+
+ninth
+
+fifth
+
+eighth
+
+seventh
+
+third
+
+fifth
+
+ninth
+
+secondResults for "num_ord"
+Defined in module general.py
+Used in aerospace.py, articles.py, general.py, horoscope.py
+
+third
+
+first
+
+third
+
+third
+
+seventh
+
+fourth
+
+eighth
+
+first
+
+fifth
+
+sixth
 
 seventh
 
 second
 
+sixth
+
+seventh
+
+second
+
+fifth
+
+third
+
+sixth
+
+second
+
+sixthResults for "num_ord"
+Defined in module general.py
+Used in aerospace.py, articles.py, general.py, horoscope.py
+
+second
+
+first
+
 ninth
+
+fifth
+
+third
+
+second
+
+fifth
+
+seventh
+
+sixth
+
+sixth
+
+seventh
+
+third
+
+third
+
+seventh
+
+sixth
+
+sixth
+
+eighth
+
+third
+
+second
+
+thirdResults for "num_ord"
+Defined in module general.py
+Used in aerospace.py, articles.py, general.py, horoscope.py
+
+fifth
+
+second
+
+ninth
+
+third
+
+sixth
+
+sixth
+
+sixth
+
+sixth
+
+fourth
+
+third
+
+seventh
+
+seventh
+
+sixth
+
+fourth
+
+seventh
+
+third
+
+first
+
+ninth
+
+second
+
+fifthResults for "num_ord"
+Defined in module general.py
+Used in aerospace.py, articles.py, general.py, horoscope.py
+
+ninth
+
+sixth
+
+eighth
+
+first
+
+fifth
+
+ninth
+
+second
+
+first
+
+third
+
+eighth
+
+seventh
+
+ninth
+
+second
+
+second
+
+first
+
+sixth
+
+second
+
+ninth
+
+third
 
 fifth

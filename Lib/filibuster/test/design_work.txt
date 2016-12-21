@@ -1,21 +1,253 @@
+Results for "design_work"
+Defined in module design.py
+Used in design.py, letterror.py
 
+the work “Bongwater and Untitled”
 
-personal hygiene products for ToyPrime (Liverpool)
+the image store “Kansas City vs. Underwriters” (House August 2001)
 
-a book “Edison and Philadelphia” (HQ High Quality May 2003)
+the performance art piece for Explosion, (a division of HyperSaleonline)
 
-the image concept for Toy, (a division of CyberBrandNow! Inc.)
+the information strategy for Chemical Cooperative Bank
 
-the retrospect for webBizonline
+the performance art piece “Comet vs. Automobiles”
 
-the installation “Untitled vs. Appliance”
+an article “Edison and Miami” (Frieze April 2002)
 
-the retrospect “Pittsburgh vs. Borg” (Acro [AKPO] March 2010)
+the performance art piece “Calculator” (House November 2004)
 
-the advertising concept for Federal Treasury Trust
+the piece “Underwriters” (Cactus January 2005)
 
-the piece “Robin and Houston X” (ID July 2011)
+the image concept for Amalgamated National Pension Fund
 
-the advertising concept for getVisiononline
+the advertising concept “Cadillac”
 
-the video installation “Lavalamp vs. Payroll 1995” (Frieze June 2004)
+the product planning for Kahasan
+
+the installation “Houston and Corvette” (Adbusters August 2004)
+
+the performance art piece “Mining”
+
+the information concept for 40 (an Explosion company)
+
+personal hygiene products for AmeriCom
+
+a book “Industry vs. Underwriters” (Design Issues September 2012)
+
+the image concept for Sayatsiyu-Koyashaki
+
+the information strategy for Mibiyo-Sonyiyan
+
+a book for Federal Treasury Trust
+
+the branding “Washington vs. Laracroft” (Akademische Mitteilungen March 2009)Results for "design_work"
+Defined in module design.py
+Used in design.py, letterror.py
+
+the performance art piece “New York” (Art View October 2008)
+
+the product placement “Chicago vs. Untitled”
+
+the corporate information architecture for netVisiononline
+
+the corporate identity for HyperTrust.com
+
+the work “Nashville vs. Dasher”
+
+personal hygiene products “Boston and Telephone”
+
+the product placement “Untitled vs. Spiderman 2037” (Da! May 2006)
+
+the piece for InterCorp
+
+the installation for goNetNow!
+
+the image concept for HyperAuctionsNow! GmBH
+
+the branding “Dancer vs. Calculator”
+
+the image store “Blitzen” (Bauhaus January 2005)
+
+the performance art piece for myBizNow!
+
+the product placement “Forestry” (Form & Zweck November 2008)
+
+the image concept for First Cooperative Group
+
+a book for netTrustNow!
+
+the product placement for 40, (a division of netTrust.com)
+
+the product planning “Edison” (Acro [AKPO] July 2004)
+
+the corporate identity for OverOrange (Hamburg)
+
+the product placement “Untitled” (HQ High Quality May 2000)Results for "design_work"
+Defined in module design.py
+Used in design.py, letterror.py
+
+the work for Merchant's Reserve Bank
+
+personal hygiene products “Spiderman vs. Industry”
+
+the advertising concept for goCorp.com
+
+the image concept for Sayantsi, Inc.
+
+the performance art piece “Untitled vs. Untitled” (Wired January 2011)
+
+the video installation “Seattle vs. Calculator” (Adobe Magazine August 2000)
+
+the corporate information architecture for First Reserve Pension Fund
+
+the product planning for InterSale2000
+
+the advertising concept for myNet.com PLC
+
+the product planning for AmeriTel
+
+the video installation “San Francisco and Thunderbird”
+
+the information strategy for iAuctions.com
+
+the performance art piece “Atlanta 2019” (Add!ct July 2008)
+
+the image store for SunTron
+
+the piece for InterTrustNow!
+
+the information strategy for Yoyushi-Tamiha GmBH
+
+the corporate identity for IronMatrix
+
+the piece for Federal Cooperative Trust
+
+the corporate information architecture for myAuctions.com
+
+the retrospect “Chicago 1971” (The Fleuron April 2000)Results for "design_work"
+Defined in module design.py
+Used in design.py, letterror.py
+
+the corporate information architecture “Industry” (Compres July 2003)
+
+the information strategy “New York and Untitled”
+
+the retrospect for WestTel
+
+the work “Hal9000” (AGI-NGT August 2005)
+
+the corporate information architecture for TransTron
+
+the information strategy for Mimoha Corporation
+
+an article “Untitled vs. Underwriters”
+
+the product planning for webVision.com Inc.
+
+the installation “Underwriters”
+
+the video installation for First Treasury Bank
+
+the piece for Federal Cooperative Pension Fund
+
+the retrospect for InterCorp
+
+the branding for Sonkaban
+
+the video installation for PrimeAcid
+
+the advertising concept “Philadelphia vs. Machinery”
+
+the product planning “Untitled IV”
+
+the video installation “Xrayspex vs. Underwriters IV” (Columnum September 2004)
+
+the advertising concept “San Francisco vs. Untitled”
+
+an article “Dallas”
+
+the corporate identity “Untitled V”Results for "design_work"
+Defined in module design.py
+Used in design.py, letterror.py
+
+the monograph for MediCom
+
+the retrospect “San Jose vs. Miami” (Fuse June 2006)
+
+the information strategy for TeleCorp
+
+the product placement “Untitled” (Add!ct November 2005)
+
+the branding “Houston and Nashville”
+
+the advertising concept for Takimi-Tokoto LLC
+
+the information concept for HyperBiz2000 Inc.
+
+the product planning for Mayu Company
+
+the performance art piece “Untitled and Detroit” (ID September 2003)
+
+a book “Miami and Untitled”
+
+the image concept “Kremlin vs. Untitled”
+
+the work “Dancer 2002”
+
+the image store for myTrustNow!
+
+the retrospect for Somo
+
+the product planning for Acid, (a division of iGrouponline)
+
+the image store “Cash Register vs. Xrayspex” (AGD Quartal December 2006)
+
+the image concept for Tibitsu-Santa Corporation
+
+the product planning “Dallas vs. Untitled”
+
+personal hygiene products for WestTech
+
+the image concept “Cash Register and Hiro” (Baseline November 2003)Results for "design_work"
+Defined in module design.py
+Used in design.py, letterror.py
+
+the piece “Appliance”
+
+an article “Laracroft and Bigben” (HQ High Quality October 2007)
+
+the corporate information architecture for MediTel
+
+the image store “Untitled” (Fuse February 2002)
+
+the information strategy “Untitled vs. Denver”
+
+an article for myCorponline
+
+the monograph “New York and Electric”
+
+the video installation for Sonshisanban, Inc.
+
+the information concept for Mamaki-Kokoyota
+
+the information concept “Untitled vs. Cadillac”
+
+the piece “Edison” (I.D. June 2011)
+
+the performance art piece for iGrouponline
+
+the monograph “San Jose” (Kak January 2002)
+
+the retrospect “Detroit and Atlanta”
+
+the work “Miami 2000” (EYE November 2008)
+
+the video installation “Detroit vs. Memphis” (Apply April 2010)
+
+the installation “Pittsburgh” (ID April 2008)
+
+the video installation “Hiro 2053” (Colors August 2011)
+
+the monograph “Lavalamp” (Cactus February 2002)
+
+the video installation for BioCorp

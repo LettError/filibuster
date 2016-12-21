@@ -1,6 +1,104 @@
-
+Results for "politics_us_partyadj"
+Defined in module politics.py
+Used in politics.py
 
 Democrat
+
+Republican
+
+Democrat
+
+Democrat
+
+Republican
+
+Democrat
+
+Democrat
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Democrat
+
+Republican
+
+Democrat
+
+Democrat
+
+Republican
+
+Democrat
+
+Democrat
+
+Democrat
+
+RepublicanResults for "politics_us_partyadj"
+Defined in module politics.py
+Used in politics.py
+
+Democrat
+
+Democrat
+
+Democrat
+
+Democrat
+
+Democrat
+
+Democrat
+
+Democrat
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Republican
+
+Democrat
+
+Democrat
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Republican
+
+DemocratResults for "politics_us_partyadj"
+Defined in module politics.py
+Used in politics.py
+
+Democrat
+
+Democrat
+
+Democrat
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
 
 Democrat
 
@@ -16,6 +114,140 @@ Democrat
 
 Democrat
 
+Republican
+
 Democrat
 
 Democrat
+
+Democrat
+
+Democrat
+
+RepublicanResults for "politics_us_partyadj"
+Defined in module politics.py
+Used in politics.py
+
+Republican
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Democrat
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Democrat
+
+Republican
+
+DemocratResults for "politics_us_partyadj"
+Defined in module politics.py
+Used in politics.py
+
+Democrat
+
+Republican
+
+Republican
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Republican
+
+Republican
+
+Republican
+
+Democrat
+
+Democrat
+
+Democrat
+
+Democrat
+
+Republican
+
+Democrat
+
+Democrat
+
+Republican
+
+Republican
+
+RepublicanResults for "politics_us_partyadj"
+Defined in module politics.py
+Used in politics.py
+
+Republican
+
+Republican
+
+Democrat
+
+Democrat
+
+Republican
+
+Democrat
+
+Democrat
+
+Republican
+
+Republican
+
+Republican
+
+Democrat
+
+Republican
+
+Republican
+
+Republican
+
+Democrat
+
+Democrat
+
+Democrat
+
+Democrat
+
+Republican
+
+Republican

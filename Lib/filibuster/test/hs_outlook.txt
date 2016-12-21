@@ -1,21 +1,253 @@
-
+Results for "hs_outlook"
+Defined in module horoscope.py
+Used in horoscope.py
 
 your financial outlook for today is stormy.
 
-your romantic outlook for today is fair.
+your financial outlook for today is mild.
+
+your financial outlook for today is fair.
+
+your financial outlook for today is good.
+
+your financial outlook for today is fair.
 
 your financial outlook for today is poor.
 
-your romantic outlook for today is stormy.
+your financial outlook for today is good.
+
+your financial outlook for today is stormy.
 
 your romantic outlook for today is poor.
 
 your financial outlook for today is stormy.
 
+your romantic outlook for today is stormy.
+
+your romantic outlook for today is good.
+
+your romantic outlook for today is mild.
+
+your romantic outlook for today is stormy.
+
 your financial outlook for today is poor.
+
+your financial outlook for today is good.
+
+your romantic outlook for today is stormy.
+
+your financial outlook for today is good.
+
+your financial outlook for today is mild.
+
+your financial outlook for today is mild.Results for "hs_outlook"
+Defined in module horoscope.py
+Used in horoscope.py
+
+your financial outlook for today is stormy.
+
+your romantic outlook for today is fair.
+
+your financial outlook for today is good.
+
+your financial outlook for today is good.
+
+your romantic outlook for today is poor.
+
+your financial outlook for today is fair.
+
+your financial outlook for today is stormy.
+
+your romantic outlook for today is poor.
+
+your romantic outlook for today is stormy.
+
+your romantic outlook for today is mild.
+
+your romantic outlook for today is poor.
+
+your financial outlook for today is poor.
+
+your financial outlook for today is poor.
+
+your financial outlook for today is poor.
+
+your financial outlook for today is good.
+
+your financial outlook for today is fair.
+
+your financial outlook for today is stormy.
+
+your financial outlook for today is mild.
+
+your financial outlook for today is stormy.
+
+your romantic outlook for today is good.Results for "hs_outlook"
+Defined in module horoscope.py
+Used in horoscope.py
+
+your romantic outlook for today is poor.
+
+your romantic outlook for today is stormy.
+
+your financial outlook for today is stormy.
+
+your financial outlook for today is poor.
+
+your financial outlook for today is mild.
+
+your romantic outlook for today is mild.
+
+your financial outlook for today is good.
+
+your financial outlook for today is fair.
+
+your romantic outlook for today is fair.
+
+your romantic outlook for today is stormy.
+
+your financial outlook for today is mild.
+
+your romantic outlook for today is mild.
+
+your romantic outlook for today is good.
+
+your financial outlook for today is good.
+
+your romantic outlook for today is poor.
+
+your financial outlook for today is poor.
+
+your financial outlook for today is mild.
+
+your financial outlook for today is mild.
+
+your financial outlook for today is good.
+
+your financial outlook for today is good.Results for "hs_outlook"
+Defined in module horoscope.py
+Used in horoscope.py
+
+your financial outlook for today is fair.
+
+your financial outlook for today is stormy.
+
+your financial outlook for today is fair.
+
+your financial outlook for today is good.
+
+your romantic outlook for today is poor.
+
+your romantic outlook for today is fair.
+
+your financial outlook for today is stormy.
+
+your romantic outlook for today is mild.
+
+your financial outlook for today is good.
+
+your financial outlook for today is good.
+
+your romantic outlook for today is mild.
+
+your romantic outlook for today is mild.
+
+your romantic outlook for today is stormy.
+
+your romantic outlook for today is good.
+
+your romantic outlook for today is fair.
+
+your romantic outlook for today is stormy.
+
+your financial outlook for today is poor.
+
+your romantic outlook for today is stormy.
+
+your financial outlook for today is poor.
+
+your romantic outlook for today is poor.Results for "hs_outlook"
+Defined in module horoscope.py
+Used in horoscope.py
 
 your romantic outlook for today is mild.
 
 your financial outlook for today is poor.
 
+your financial outlook for today is poor.
+
+your romantic outlook for today is mild.
+
 your romantic outlook for today is fair.
+
+your financial outlook for today is mild.
+
+your financial outlook for today is stormy.
+
+your romantic outlook for today is mild.
+
+your financial outlook for today is poor.
+
+your financial outlook for today is stormy.
+
+your financial outlook for today is stormy.
+
+your financial outlook for today is poor.
+
+your financial outlook for today is mild.
+
+your romantic outlook for today is good.
+
+your financial outlook for today is good.
+
+your romantic outlook for today is stormy.
+
+your romantic outlook for today is good.
+
+your romantic outlook for today is good.
+
+your romantic outlook for today is fair.
+
+your romantic outlook for today is fair.Results for "hs_outlook"
+Defined in module horoscope.py
+Used in horoscope.py
+
+your romantic outlook for today is mild.
+
+your financial outlook for today is stormy.
+
+your financial outlook for today is fair.
+
+your financial outlook for today is poor.
+
+your romantic outlook for today is good.
+
+your romantic outlook for today is stormy.
+
+your romantic outlook for today is mild.
+
+your romantic outlook for today is poor.
+
+your financial outlook for today is good.
+
+your financial outlook for today is fair.
+
+your romantic outlook for today is mild.
+
+your financial outlook for today is stormy.
+
+your romantic outlook for today is good.
+
+your romantic outlook for today is good.
+
+your financial outlook for today is stormy.
+
+your romantic outlook for today is stormy.
+
+your financial outlook for today is stormy.
+
+your financial outlook for today is stormy.
+
+your romantic outlook for today is good.
+
+your financial outlook for today is good.

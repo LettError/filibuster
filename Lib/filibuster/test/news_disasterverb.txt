@@ -1,14 +1,10 @@
-
-
-suffers
+Results for "news_disasterverb"
+Defined in module news.py
+Used in news.py
 
 pummeled by
 
-suffers
-
-savaged by
-
-savaged by
+wracked by
 
 savaged by
 
@@ -18,4 +14,240 @@ wracked by
 
 suffers
 
+wracked by
+
+wracked by
+
+pummeled by
+
 suffers
+
+savaged by
+
+suffers
+
+wracked by
+
+pummeled by
+
+wracked by
+
+savaged by
+
+suffers
+
+pummeled by
+
+savaged by
+
+pummeled byResults for "news_disasterverb"
+Defined in module news.py
+Used in news.py
+
+pummeled by
+
+wracked by
+
+pummeled by
+
+savaged by
+
+pummeled by
+
+suffers
+
+suffers
+
+pummeled by
+
+wracked by
+
+suffers
+
+wracked by
+
+suffers
+
+savaged by
+
+savaged by
+
+suffers
+
+pummeled by
+
+savaged by
+
+wracked by
+
+pummeled by
+
+savaged byResults for "news_disasterverb"
+Defined in module news.py
+Used in news.py
+
+suffers
+
+suffers
+
+suffers
+
+pummeled by
+
+pummeled by
+
+suffers
+
+suffers
+
+suffers
+
+savaged by
+
+savaged by
+
+wracked by
+
+suffers
+
+savaged by
+
+savaged by
+
+savaged by
+
+suffers
+
+savaged by
+
+suffers
+
+suffers
+
+pummeled byResults for "news_disasterverb"
+Defined in module news.py
+Used in news.py
+
+pummeled by
+
+suffers
+
+pummeled by
+
+wracked by
+
+pummeled by
+
+wracked by
+
+pummeled by
+
+wracked by
+
+suffers
+
+savaged by
+
+savaged by
+
+suffers
+
+wracked by
+
+wracked by
+
+savaged by
+
+wracked by
+
+savaged by
+
+pummeled by
+
+wracked by
+
+pummeled byResults for "news_disasterverb"
+Defined in module news.py
+Used in news.py
+
+wracked by
+
+wracked by
+
+suffers
+
+savaged by
+
+pummeled by
+
+wracked by
+
+savaged by
+
+pummeled by
+
+pummeled by
+
+suffers
+
+suffers
+
+suffers
+
+pummeled by
+
+wracked by
+
+savaged by
+
+suffers
+
+pummeled by
+
+suffers
+
+savaged by
+
+pummeled byResults for "news_disasterverb"
+Defined in module news.py
+Used in news.py
+
+pummeled by
+
+wracked by
+
+pummeled by
+
+pummeled by
+
+wracked by
+
+suffers
+
+wracked by
+
+pummeled by
+
+pummeled by
+
+suffers
+
+suffers
+
+pummeled by
+
+wracked by
+
+suffers
+
+savaged by
+
+wracked by
+
+suffers
+
+pummeled by
+
+pummeled by
+
+pummeled by

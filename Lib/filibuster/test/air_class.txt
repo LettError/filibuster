@@ -1,21 +1,253 @@
+Results for "air_class"
+Defined in module aerospace.py
+Used in aerospace.py, commercial.py
 
+Envoy Class
 
-Luxclass
+Worldclass
 
-Care Class
+World Class
 
-AmbassadorFirst Class
+LuxExcel Class
+
+Lux Class
+
+RoyalComfy Class
+
+ExcelBusiness Class
+
+LuxFirst Class
+
+Businessclass
+
+Froufrouclass
+
+Royalclass
+
+SilverCare Class
+
+PremierPremier Class
+
+Platinum Class
+
+Excellenceclass
 
 Froufrouclass
 
 First Class
 
-Excel Class
+ComfortWorld Class
 
-Silver Class
+Luxclass
+
+ComfortExcellence ClassResults for "air_class"
+Defined in module aerospace.py
+Used in aerospace.py, commercial.py
 
 Business Class
 
-FroufrouEnvoy Class
+Gold Class
+
+ComfortPremier Class
+
+EnvoyRoyal Class
+
+Silverclass
+
+ComfyLux Class
+
+Goldclass
+
+Royalclass
+
+Royal Class
+
+Comfy Class
+
+Excelclass
+
+RoyalCare Class
+
+ExcellencePlatinum Class
+
+Ambassadorclass
+
+Comfortclass
+
+First Class
+
+RoyalFroufrou Class
 
 Premier Class
+
+Excellenceclass
+
+WorldclassResults for "air_class"
+Defined in module aerospace.py
+Used in aerospace.py, commercial.py
+
+Gold Class
+
+Gold Class
+
+Platinumclass
+
+World Class
+
+PremierGold Class
+
+Comfyclass
+
+ExcelGold Class
+
+Excelclass
+
+Gold Class
+
+SilverGold Class
+
+Comfort Class
+
+World Class
+
+Royalclass
+
+Envoyclass
+
+EnvoyGold Class
+
+Firstclass
+
+Froufrou Class
+
+AmbassadorWorld Class
+
+PlatinumComfy Class
+
+RoyalclassResults for "air_class"
+Defined in module aerospace.py
+Used in aerospace.py, commercial.py
+
+Worldclass
+
+PlatinumBusiness Class
+
+BusinessExcel Class
+
+FroufrouRoyal Class
+
+Ambassador Class
+
+Luxclass
+
+Platinumclass
+
+Comfortclass
+
+Businessclass
+
+FroufrouRoyal Class
+
+Goldclass
+
+PlatinumAmbassador Class
+
+Careclass
+
+Platinumclass
+
+Excelclass
+
+ComfortExcellence Class
+
+SilverFroufrou Class
+
+Excelclass
+
+BusinessPlatinum Class
+
+PremierclassResults for "air_class"
+Defined in module aerospace.py
+Used in aerospace.py, commercial.py
+
+Comfyclass
+
+Froufrouclass
+
+Silverclass
+
+First Class
+
+WorldFirst Class
+
+Business Class
+
+Froufrouclass
+
+CareExcellence Class
+
+EnvoyFirst Class
+
+First Class
+
+Silver Class
+
+FroufrouExcellence Class
+
+ExcelEnvoy Class
+
+Royalclass
+
+Premier Class
+
+Comfyclass
+
+Froufrou Class
+
+Silver Class
+
+LuxComfy Class
+
+RoyalPremier ClassResults for "air_class"
+Defined in module aerospace.py
+Used in aerospace.py, commercial.py
+
+ExcelBusiness Class
+
+Silver Class
+
+Silverclass
+
+Goldclass
+
+Firstclass
+
+Businessclass
+
+BusinessWorld Class
+
+Lux Class
+
+PremierAmbassador Class
+
+Platinumclass
+
+AmbassadorRoyal Class
+
+Silverclass
+
+First Class
+
+Careclass
+
+Envoy Class
+
+WorldWorld Class
+
+Care Class
+
+Excellenceclass
+
+Businessclass
+
+LuxCare Class

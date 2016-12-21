@@ -1,4 +1,54 @@
+Results for "fb_weed"
+Defined in module sports.py
+Used in sports.py
 
+Ragweed
+
+Grass
+
+Pollen
+
+Cotton
+
+Pollen
+
+Dust
+
+Pollen
+
+Cotton
+
+Pollen
+
+Ragweed
+
+Pollen
+
+Cotton
+
+Ragweed
+
+Cotton
+
+Grass
+
+Dust
+
+Dust
+
+Ragweed
+
+Cotton
+
+DustResults for "fb_weed"
+Defined in module sports.py
+Used in sports.py
+
+Ragweed
+
+Dust
+
+Grass
 
 Pollen
 
@@ -12,10 +62,192 @@ Ragweed
 
 Ragweed
 
+Grass
+
+Grass
+
+Ragweed
+
+Cotton
+
+Cotton
+
 Dust
+
+Ragweed
+
+Cotton
+
+Cotton
+
+Dust
+
+RagweedResults for "fb_weed"
+Defined in module sports.py
+Used in sports.py
+
+Cotton
+
+Ragweed
+
+Pollen
+
+Ragweed
+
+Cotton
+
+Cotton
+
+Grass
+
+Ragweed
+
+Cotton
+
+Ragweed
+
+Grass
+
+Cotton
+
+Grass
+
+Dust
+
+Pollen
+
+Grass
+
+Pollen
+
+Pollen
+
+Pollen
+
+CottonResults for "fb_weed"
+Defined in module sports.py
+Used in sports.py
 
 Dust
 
 Cotton
 
 Cotton
+
+Grass
+
+Grass
+
+Pollen
+
+Cotton
+
+Dust
+
+Pollen
+
+Dust
+
+Cotton
+
+Pollen
+
+Grass
+
+Cotton
+
+Ragweed
+
+Grass
+
+Pollen
+
+Ragweed
+
+Dust
+
+GrassResults for "fb_weed"
+Defined in module sports.py
+Used in sports.py
+
+Grass
+
+Grass
+
+Dust
+
+Grass
+
+Cotton
+
+Ragweed
+
+Ragweed
+
+Dust
+
+Pollen
+
+Pollen
+
+Dust
+
+Dust
+
+Pollen
+
+Pollen
+
+Ragweed
+
+Cotton
+
+Dust
+
+Dust
+
+Pollen
+
+GrassResults for "fb_weed"
+Defined in module sports.py
+Used in sports.py
+
+Cotton
+
+Grass
+
+Pollen
+
+Ragweed
+
+Dust
+
+Grass
+
+Pollen
+
+Grass
+
+Grass
+
+Dust
+
+Pollen
+
+Grass
+
+Pollen
+
+Dust
+
+Cotton
+
+Dust
+
+Pollen
+
+Dust
+
+Cotton
+
+Pollen

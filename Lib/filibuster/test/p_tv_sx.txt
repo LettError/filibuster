@@ -1,11 +1,135 @@
+Results for "p_tv_sx"
+Defined in module journalism.py
+Used in journalism.py
 
+NN
 
 BC-FN
+
+BC-FN
+
+BS
+
+BC-FN
+
+SN-FN
+
+BC
+
+BS
+
+NN
+
+BS
+
+NN
+
+SN
+
+BC-FN
+
+BC-FN
+
+SN
+
+SN
+
+BC-FN
+
+SN
+
+BC
+
+BC-FNResults for "p_tv_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+NN
+
+NN
+
+BS
+
+BC-FN
+
+SN-FN
+
+BC
+
+SN
+
+SN-FN
 
 NN
 
 SN-FN
 
+BC-FN
+
+BC-FN
+
+BS
+
+NN
+
+SN-FN
+
+NN
+
+SN
+
+SN-FN
+
+BC
+
+NNResults for "p_tv_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+BC-FN
+
+NN
+
+BC-FN
+
+SN-FN
+
+BS
+
+SN-FN
+
+NN
+
+SN-FN
+
+BC-FN
+
+SN-FN
+
+BC
+
+BC-FN
+
+BC-FN
+
+BS
+
+SN-FN
+
+BC
+
+SN
+
+BS
+
+SN
+
+NNResults for "p_tv_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+SN
+
 BS
 
 BC-FN
@@ -14,8 +138,116 @@ SN
 
 BS
 
+NN
+
+NN
+
+BC
+
+SN
+
+BS
+
+SN
+
 SN
 
 BS
 
 NN
+
+BS
+
+SN
+
+BC
+
+BS
+
+BC
+
+NNResults for "p_tv_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+BC
+
+BS
+
+BS
+
+BS
+
+SN-FN
+
+BC-FN
+
+BC-FN
+
+BC-FN
+
+BC-FN
+
+BC-FN
+
+BC-FN
+
+BS
+
+BS
+
+BC
+
+NN
+
+NN
+
+SN
+
+SN-FN
+
+NN
+
+BC-FNResults for "p_tv_sx"
+Defined in module journalism.py
+Used in journalism.py
+
+SN
+
+SN-FN
+
+BS
+
+NN
+
+SN-FN
+
+BC-FN
+
+BC
+
+BS
+
+SN
+
+SN
+
+SN
+
+SN-FN
+
+NN
+
+SN
+
+BC
+
+BC
+
+SN-FN
+
+BC-FN
+
+BC-FN
+
+BS

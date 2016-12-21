@@ -1,21 +1,247 @@
-
-
-President
-
-Republicans
+Results for "politics_us_events"
+Defined in module politics.py
 
 Senators
 
-Congress
+Supreme Court
 
-House Speaker
+Capitol Hill
+
+Congressman
+
+Senator
+
+Senate
+
+Senators
+
+Senators
+
+the Republican Convention
+
+President’s advisor
+
+Senators
+
+Democrats
 
 Supreme Court Justices
 
-House Speaker
+Senator
+
+Republicans
+
+Senator
+
+Supreme Court Justice
+
+Capitol Hill
+
+the Democratic party
+
+SenatorsResults for "politics_us_events"
+Defined in module politics.py
+
+White House astrologer
+
+Congressman
+
+Supreme Court
+
+Democrats
+
+Lawyers
+
+Congressman
+
+Senators
+
+President’s advisor
+
+Democrats
+
+Senator
+
+Capitol Hill
+
+Senator
+
+Supreme Court Justices
+
+Supreme Court Justices
+
+Senate
+
+Democrats
+
+Senators
+
+Supreme Court Justices
+
+President
+
+SenatorsResults for "politics_us_events"
+Defined in module politics.py
+
+President
+
+Senator
+
+House
+
+Supreme Court Justices
+
+Senators
+
+Supreme Court Justices
+
+Lawyer
+
+the Republican party
+
+Republicans
+
+White House
+
+Supreme Court Justices
+
+Supreme Court Justices
+
+Supreme Court Justices
+
+Lawyers
+
+House
+
+President’s astrologer
+
+Supreme Court Justices
+
+President
+
+Senators
+
+the Republican partyResults for "politics_us_events"
+Defined in module politics.py
+
+Supreme Court Justice
+
+Senators
 
 Lawyers
 
 Lawyers
 
+Lawyers
+
+Capitol Hill
+
+Republicans
+
+Senator
+
+Democrats
+
+Lawyers
+
+Senators
+
 Supreme Court Justices
+
+Lawyers
+
+Supreme Court Justices
+
+Senators
+
+Republicans
+
+Senate
+
+Republicans
+
+the Republican Convention
+
+DemocratsResults for "politics_us_events"
+Defined in module politics.py
+
+Supreme Court Justices
+
+Lawyers
+
+Senators
+
+Congressman
+
+Supreme Court
+
+Lawyers
+
+the Democratic party
+
+Senators
+
+Congressman
+
+Democrats
+
+Senate
+
+President
+
+the Democratic Convention
+
+Senators
+
+Senators
+
+White House advisor
+
+House
+
+FBI spokesman
+
+White House astrologer
+
+Supreme Court JusticeResults for "politics_us_events"
+Defined in module politics.py
+
+Capitol Hill
+
+House Speaker
+
+Supreme Court
+
+Democrats
+
+Lawyers
+
+Lawyers
+
+Republicans
+
+Supreme Court Justices
+
+Senator
+
+Treasury spokesman
+
+FBI spokesman
+
+Supreme Court Justices
+
+White House
+
+Congressman
+
+House Speaker
+
+the Republican Convention
+
+Supreme Court Justices
+
+President’s astrologer
+
+Supreme Court Justices
+
+the Republican party

@@ -1,21 +1,253 @@
+Results for "events_conference"
+Defined in module corporate.py
+Used in corporate.py, internet.py
 
-
-transitioning2000
-
-positioning2000
+partnering99
 
 partnering00
 
+repurposing99
+
+positioning00
+
+repurposing99
+
+transitioning99
+
+positioning3
+
+repurposing00
+
+transitioning2000
+
+repurposing2000
+
+outsourcing99
+
+positioning99
+
+transitioning3
+
+outsourcing2000
+
+repurposing00
+
+partnering3
+
+transitioning00
+
+branding00
+
+outsourcing00
+
+positioning99Results for "events_conference"
+Defined in module corporate.py
+Used in corporate.py, internet.py
+
+repurposing99
+
+branding3
+
+repurposing3
+
+positioning2000
+
+transitioning00
+
+transitioning2000
+
+transitioning00
+
+transitioning99
+
+branding3
+
+positioning99
+
+partnering3
+
+outsourcing2000
+
+outsourcing2000
+
+repurposing2000
+
+repurposing2000
+
+positioning99
+
+positioning99
+
+repurposing2000
+
+transitioning2000
+
+transitioning2000Results for "events_conference"
+Defined in module corporate.py
+Used in corporate.py, internet.py
+
+transitioning99
+
+repurposing99
+
+partnering3
+
+branding00
+
+outsourcing99
+
+transitioning00
+
+repurposing00
+
+partnering2000
+
+branding3
+
+partnering2000
+
+outsourcing3
+
+repurposing3
+
+transitioning00
+
+branding3
+
+branding00
+
+partnering00
+
+outsourcing00
+
+transitioning00
+
+repurposing99
+
+repurposing2000Results for "events_conference"
+Defined in module corporate.py
+Used in corporate.py, internet.py
+
+positioning3
+
+positioning00
+
+positioning00
+
+transitioning3
+
+transitioning3
+
+transitioning3
+
+branding3
+
+transitioning3
+
+outsourcing99
+
+transitioning3
+
+repurposing3
+
+transitioning00
+
+outsourcing99
+
+outsourcing00
+
+outsourcing00
+
+partnering00
+
+branding2000
+
+transitioning2000
+
+branding2000
+
+partnering99Results for "events_conference"
+Defined in module corporate.py
+Used in corporate.py, internet.py
+
+branding00
+
+positioning3
+
+partnering00
+
+outsourcing00
+
+positioning3
+
+partnering00
+
+repurposing99
+
 partnering99
+
+outsourcing00
+
+repurposing00
+
+outsourcing99
+
+positioning00
 
 transitioning2000
 
 outsourcing2000
 
-outsourcing99
+transitioning00
 
-outsourcing3
+transitioning00
+
+repurposing99
 
 partnering3
 
+partnering2000
+
+transitioning00Results for "events_conference"
+Defined in module corporate.py
+Used in corporate.py, internet.py
+
+positioning00
+
+positioning99
+
+repurposing2000
+
+positioning2000
+
+partnering2000
+
 positioning3
+
+branding3
+
+repurposing2000
+
+partnering3
+
+branding00
+
+repurposing99
+
+branding2000
+
+partnering00
+
+positioning2000
+
+branding00
+
+transitioning00
+
+transitioning99
+
+outsourcing99
+
+transitioning99
+
+positioning2000

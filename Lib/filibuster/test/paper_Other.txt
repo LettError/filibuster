@@ -1,21 +1,253 @@
+Results for "paper_Other"
+Defined in module journalism.py
+Used in journalism.py
 
-
-The Press (Hong Kong)
-
-Le Monde
-
-The Capetown Legend
-
-Quotidien
-
-The Toronto News
-
-El Universal
+The Toronto Union
 
 El Diario
 
-The Capetown Progressive
+El Diario
+
+Le Monde
+
+The Toronto Tribune
+
+El Diario
+
+The Legend (Hong Kong)
+
+The Capetown Press
+
+The Bombay Inquirer
+
+The Toronto Union
+
+The Capetown Picayune
+
+The Toronto Fact
+
+The Toronto Adviser
+
+The Capetown Orbit
+
+The Toronto Spirit
 
 Quotidien
 
-The Toronto World
+Quotidien
+
+Quotidien
+
+The Bombay Spirit
+
+The Bombay NoticeResults for "paper_Other"
+Defined in module journalism.py
+Used in journalism.py
+
+The Free-Press (Hong Kong)
+
+El Tiempo
+
+El Mundo
+
+The Toronto Adviser
+
+Le Monde
+
+The Capetown Chronicle
+
+The Toronto Monitor
+
+The Bombay Globe
+
+El Sol
+
+The Capetown Intelligencer
+
+El Tiempo
+
+Le Monde
+
+The Bombay Orbit
+
+El Mundo
+
+The Toronto Progress
+
+Quotidien
+
+Quotidien
+
+The Tribune (Hong Kong)
+
+The Capetown Leader
+
+The Toronto FocusResults for "paper_Other"
+Defined in module journalism.py
+Used in journalism.py
+
+The Bombay Daily
+
+Quotidien
+
+The Capetown Recorder
+
+The Bombay Advertiser
+
+The Bombay Voice
+
+The Toronto Constitution
+
+The Toronto Telegraph
+
+The Capetown Weekly
+
+The Bombay Yeoman
+
+Le Monde
+
+The Toronto Inquirer
+
+The Bombay Bugle
+
+The Notice (Hong Kong)
+
+The Globe (Hong Kong)
+
+The Toronto Observer
+
+El Universal
+
+The Journal (Hong Kong)
+
+El Sol
+
+The Toronto Advertiser
+
+QuotidienResults for "paper_Other"
+Defined in module journalism.py
+Used in journalism.py
+
+The Express (Hong Kong)
+
+The Bombay Advocate
+
+El Diario
+
+El Tiempo
+
+The Toronto Fact
+
+The Bombay Industrial
+
+The Informer (Hong Kong)
+
+Le Monde
+
+The Weekly (Hong Kong)
+
+The Toronto Enquirer
+
+The Bombay Weekly
+
+Quotidien
+
+The Toronto Independent
+
+The Capetown Post
+
+The Capetown Tribune
+
+El Sol
+
+The Toronto Progress
+
+The Focus (Hong Kong)
+
+El Sol
+
+The Toronto LeaderResults for "paper_Other"
+Defined in module journalism.py
+Used in journalism.py
+
+El Tiempo
+
+The Toronto News
+
+The Bombay Star
+
+El Universal
+
+The Capetown Notice
+
+The Notice (Hong Kong)
+
+Le Monde
+
+The Capetown Eagle
+
+The Capetown Variety
+
+El Universal
+
+The Bombay Messenger
+
+The Capetown Register
+
+El Sol
+
+The Eagle (Hong Kong)
+
+The Recorder (Hong Kong)
+
+The Progressive (Hong Kong)
+
+The Toronto Financial
+
+The Capetown Eagle
+
+The Toronto Voice
+
+The Telegram (Hong Kong)Results for "paper_Other"
+Defined in module journalism.py
+Used in journalism.py
+
+The Toronto Adviser
+
+The Capetown Star
+
+The Bombay Chronicle
+
+The Toronto Telegram
+
+El Universal
+
+The Bombay Chronicle
+
+The Bombay World
+
+Quotidien
+
+The Fact (Hong Kong)
+
+The Advocate (Hong Kong)
+
+The Bombay Observer
+
+The Capetown Telegraph
+
+The Capetown Voice
+
+The Express (Hong Kong)
+
+The Capetown Constitution
+
+Le Monde
+
+The Toronto Companion
+
+The Toronto Impact
+
+El Universal
+
+The Capetown Informer

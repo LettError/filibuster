@@ -1,21 +1,253 @@
+Results for "auction_jewelry_adj"
+Defined in module auction.py
+Used in auction.py
 
+rhinestone
+
+gold
+
+glass
+
+gold
+
+gold plated
 
 platinum
 
 gold plated
 
-gold plated
+glass
+
+brass
+
+brass
+
+glass
 
 gold plated
+
+rhinestone
+
+rhinestone
+
+gold plated
+
+gold
+
+brass
+
+silver
+
+diamond
+
+silverResults for "auction_jewelry_adj"
+Defined in module auction.py
+Used in auction.py
+
+silver
+
+platinum
+
+silver
+
+platinum
+
+silver
+
+platinum
+
+gold
+
+glass
+
+gold
+
+rhinestone
+
+gold plated
+
+rhinestone
+
+brass
+
+rhinestone
+
+silver
+
+platinum
+
+brass
+
+diamond
+
+brass
+
+diamondResults for "auction_jewelry_adj"
+Defined in module auction.py
+Used in auction.py
+
+rhinestone
+
+gold
+
+brass
+
+platinum
+
+gold
+
+diamond
+
+silver
+
+diamond
+
+glass
+
+gold plated
+
+rhinestone
+
+gold
+
+brass
+
+platinum
+
+platinum
+
+diamond
+
+rhinestone
+
+diamond
+
+glass
+
+silverResults for "auction_jewelry_adj"
+Defined in module auction.py
+Used in auction.py
+
+gold
+
+rhinestone
+
+diamond
+
+rhinestone
+
+glass
+
+brass
+
+rhinestone
+
+diamond
+
+gold plated
+
+gold
+
+gold
+
+gold
+
+gold
+
+diamond
+
+diamond
 
 brass
 
 gold plated
 
-rhinestone
+platinum
+
+glass
+
+silverResults for "auction_jewelry_adj"
+Defined in module auction.py
+Used in auction.py
+
+gold
+
+diamond
+
+gold plated
+
+diamond
+
+brass
+
+glass
+
+gold plated
+
+brass
+
+platinum
+
+silver
+
+silver
+
+diamond
+
+platinum
+
+gold
+
+glass
+
+diamond
+
+diamond
+
+silver
+
+silver
+
+diamondResults for "auction_jewelry_adj"
+Defined in module auction.py
+Used in auction.py
+
+glass
+
+diamond
+
+platinum
+
+platinum
+
+platinum
+
+gold
 
 rhinestone
 
 silver
+
+gold plated
+
+brass
+
+platinum
+
+diamond
+
+brass
+
+platinum
+
+glass
+
+silver
+
+rhinestone
+
+glass
+
+gold
 
 brass

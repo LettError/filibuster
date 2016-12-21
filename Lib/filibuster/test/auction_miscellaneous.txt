@@ -1,21 +1,247 @@
+Results for "auction_miscellaneous"
+Defined in module auction.py
 
+nose, A pos
+
+left kneecap, B pos
+
+gut, O pos
+
+property on uranus
+
+property on mercury
+
+property on pluto
+
+property on neptune
+
+left kneecap, AB +
+
+heart, B positive
+
+right ear, O positive
+
+liver, O pos
+
+property on venus
+
+property on mars
+
+property on pluto
+
+property on jupiter
+
+tendon, AB pos
+
+left thumb, B pos
+
+tendon, O +
+
+property on pluto
+
+gut, A +Results for "auction_miscellaneous"
+Defined in module auction.py
+
+property on mercury
 
 property on mercury
 
 property on uranus
 
-mouth, B -
+property on venus
 
-property on saturn
+property on uranus
 
-heart, B positive
+right eye, AB pos
 
-left lung, B neg
+property on uranus
+
+property on uranus
+
+right kneecap, B positive
+
+right eye, B +
+
+left thumb, AB pos
+
+kidney, O neg
+
+left ear, B neg
+
+skull, AB negative
+
+kidney, AB neg
 
 property on pluto
 
 property on mercury
 
-liver, B negative
+property on venus
+
+property on pluto
+
+kidney, A +Results for "auction_miscellaneous"
+Defined in module auction.py
+
+head, AB +
+
+property on pluto
+
+property on saturn
+
+property on jupiter
+
+right ankle, A -
+
+gut, AB +
+
+artery, A negative
+
+property on pluto
+
+property on pluto
+
+property on pluto
+
+digit, AB neg
+
+artery, A +
+
+gut, B pos
+
+property on mars
+
+left thigh, A neg
 
 property on neptune
+
+tendon, O positive
+
+property on uranus
+
+artery, AB -
+
+right ankle, AB negResults for "auction_miscellaneous"
+Defined in module auction.py
+
+kidney, A positive
+
+heart, O pos
+
+artery, O -
+
+property on jupiter
+
+property on mars
+
+property on venus
+
+property on venus
+
+property on saturn
+
+property on neptune
+
+digit, B -
+
+head, O pos
+
+right ear, O pos
+
+kidney, A -
+
+gut, O positive
+
+property on mercury
+
+property on saturn
+
+right index finger, AB neg
+
+property on jupiter
+
+tendon, B pos
+
+left lung, A negativeResults for "auction_miscellaneous"
+Defined in module auction.py
+
+property on mercury
+
+left thigh, O -
+
+property on venus
+
+artery, B pos
+
+head, B +
+
+liver, A negative
+
+property on neptune
+
+right hand, AB negative
+
+property on saturn
+
+property on uranus
+
+heart, B neg
+
+left ankle, A positive
+
+property on mercury
+
+property on neptune
+
+right toe, B negative
+
+property on saturn
+
+property on saturn
+
+property on pluto
+
+right hand, O +
+
+nose, B positiveResults for "auction_miscellaneous"
+Defined in module auction.py
+
+right kneecap, B pos
+
+property on neptune
+
+artery, B negative
+
+property on jupiter
+
+left thigh, B pos
+
+property on saturn
+
+nose, B +
+
+right ear, AB positive
+
+property on uranus
+
+property on mercury
+
+artery, AB negative
+
+property on pluto
+
+head, O positive
+
+liver, O pos
+
+right eye, AB negative
+
+property on saturn
+
+property on venus
+
+property on neptune
+
+property on mercury
+
+property on mars

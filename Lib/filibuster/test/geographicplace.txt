@@ -1,21 +1,247 @@
+Results for "geographicplace"
+Defined in module geography.py
 
+contintent
 
 city
+
+city
+
+island
+
+republic
+
+republic
 
 country
 
 contintent
 
+county
+
+city
+
 republic
 
 island
+
+republic
 
 republic
 
 city
 
 island
+
+county
+
+country
+
+republic
+
+countyResults for "geographicplace"
+Defined in module geography.py
+
+city
+
+country
+
+island
+
+county
+
+republic
+
+county
+
+republic
+
+country
+
+country
+
+county
+
+country
+
+island
+
+contintent
+
+contintent
+
+contintent
+
+county
+
+county
+
+city
+
+republic
+
+countryResults for "geographicplace"
+Defined in module geography.py
+
+country
+
+county
+
+city
+
+island
+
+republic
+
+contintent
+
+contintent
+
+country
 
 country
 
 city
+
+contintent
+
+republic
+
+contintent
+
+county
+
+island
+
+county
+
+contintent
+
+country
+
+island
+
+cityResults for "geographicplace"
+Defined in module geography.py
+
+contintent
+
+county
+
+county
+
+island
+
+island
+
+city
+
+country
+
+country
+
+county
+
+county
+
+country
+
+contintent
+
+city
+
+county
+
+city
+
+contintent
+
+republic
+
+contintent
+
+city
+
+contintentResults for "geographicplace"
+Defined in module geography.py
+
+republic
+
+country
+
+republic
+
+republic
+
+county
+
+island
+
+contintent
+
+county
+
+country
+
+city
+
+republic
+
+republic
+
+country
+
+republic
+
+island
+
+city
+
+county
+
+country
+
+county
+
+islandResults for "geographicplace"
+Defined in module geography.py
+
+republic
+
+county
+
+republic
+
+contintent
+
+contintent
+
+county
+
+republic
+
+city
+
+contintent
+
+republic
+
+county
+
+county
+
+city
+
+city
+
+county
+
+republic
+
+city
+
+county
+
+city
+
+county

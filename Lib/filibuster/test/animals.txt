@@ -1,21 +1,253 @@
+Results for "animals"
+Defined in module event.py
+Used in articles.py
 
+Birds
 
-Daffodils
+Bears
 
-Chickens
+Beavers
 
-Deers
+Lobsters
 
-Sunflowers
-
-Sunflowers
-
-Rabbits
+Hawks
 
 Snakes
 
+Unicorns
+
+Beavers
+
+Tigers
+
+Coyotes
+
+Hawks
+
+Rabbits
+
+Otters
+
+Dolphins
+
+Bears
+
+Sunflowers
+
+Tigers
+
+Dogs
+
+Rabbits
+
+BatsResults for "animals"
+Defined in module event.py
+Used in articles.py
+
 Bats
+
+Jaguars
+
+Hawks
+
+Eagles
+
+Sharks
+
+Orcas
+
+Daffodils
+
+Elephants
+
+Dolphins
+
+Bears
+
+Coyotes
+
+Rats
+
+Tigers
+
+Dolphins
+
+Pelicans
+
+Beavers
+
+Whales
+
+Jaguars
+
+Lemmings
+
+ScorpionsResults for "animals"
+Defined in module event.py
+Used in articles.py
+
+Bears
+
+Sunflowers
+
+Hawks
+
+Lemmings
+
+Penguins
+
+Lobsters
 
 Cats
 
+Eagles
+
+Scorpions
+
+Otters
+
+Pelicans
+
+Otters
+
+Snakes
+
+Horses
+
+Pigs
+
+Pigs
+
+Jaguars
+
+Deers
+
+Horses
+
+DragonsResults for "animals"
+Defined in module event.py
+Used in articles.py
+
+Whales
+
+Scorpions
+
+Sunflowers
+
 Coyotes
+
+Kangaroos
+
+Coyotes
+
+Cats
+
+Otters
+
+Bears
+
+Bears
+
+Unicorns
+
+Cows
+
+Jaguars
+
+Lemmings
+
+Tigers
+
+Cows
+
+Dragons
+
+Sharks
+
+Rats
+
+BirdsResults for "animals"
+Defined in module event.py
+Used in articles.py
+
+Sharks
+
+Jaguars
+
+Eagles
+
+Antilopes
+
+Deers
+
+Dragons
+
+Snakes
+
+Horses
+
+Bisons
+
+Sharks
+
+Whales
+
+Rabbits
+
+Sharks
+
+Horses
+
+Lobsters
+
+Cats
+
+Rabbits
+
+Dragons
+
+Hawks
+
+AntilopesResults for "animals"
+Defined in module event.py
+Used in articles.py
+
+Bears
+
+Rabbits
+
+Pigs
+
+Otters
+
+Bats
+
+Eagles
+
+Sharks
+
+Birds
+
+Daffodils
+
+Bears
+
+Sharks
+
+Sunflowers
+
+Unicorns
+
+Lemmings
+
+Horses
+
+Bisons
+
+Deers
+
+Deers
+
+Pigs
+
+Otters

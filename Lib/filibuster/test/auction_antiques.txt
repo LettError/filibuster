@@ -1,21 +1,253 @@
+Results for "auction_antiques"
+Defined in module auction.py
+Used in auction.py, corporate.py
 
+Austrian old impressionist embroidery (mint)
 
-embossed cotton impressionist book
+Austrian embossed impressionist master (worn at top)
 
-old oak art nouveau piano roll
+signed Portugese victorian master (mint)
 
-old cloth 19th century wall phone
+British signed edwardian book (excellent condition)
 
-old Norwegian art nouveau dental tools (reasonable)
+vintage gold-plated Jeffersonian tapestry sampler
 
-old pine 17th century tea tin
+embossed Croat art nouveau master (excellent condition)
 
-Norwegian signed Jeffersonian tea tin (near mint)
+Dutch Antique Jeffersonian trunk (near mint)
 
-embossed Dutch edwardian wall phone (in original box)
+antique silver impressionist hunting pouch
 
-embossed German Jeffersonian book (slightly scratched)
+Finnish antique "arts and crafts" coverlet (w/original box)
 
-Italian signed 17th century chronometer (excellent condition)
+antique Polish art nouveau piano roll (discolored at back)
 
-French vintage impressionist chronometer (reasonable)
+old pine art nouveau hunting pouch
+
+Antique wood edwardian trunk
+
+Finnish old Jeffersonian coverlet (w/original box)
+
+Russian Antique Jeffersonian painting (reasonable)
+
+vintage Spanish "arts and crafts" mirror (w/original box)
+
+signed Portugese "arts and crafts" hat pin (slightly scratched)
+
+embroidered Italian edwardian hat pin (excellent condition)
+
+Belgium old edwardian book (excellent condition)
+
+Serb embroidered impressionist tryptich (in original box)
+
+British antique victorian master (w/original box)Results for "auction_antiques"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+vintage cloth edwardian pocket knife
+
+Swiss old Jeffersonian dental tools (w/original box)
+
+Finnish antique victorian tapestry sampler (near mint)
+
+embossed Spanish edwardian mirror (slight foxing at front)
+
+vintage Italian "arts and crafts" book (reasonable)
+
+Serb Antique edwardian piano roll (discolored at corner)
+
+embossed cloth victorian tool
+
+European antique edwardian dental tools (slight foxing at top)
+
+embossed pine impressionist wall phone
+
+signed cotton victorian wall phone
+
+Belgium signed victorian book (w/original box)
+
+embossed Danish 17th century tool (reasonable)
+
+Danish vintage art nouveau painting (scratches at bottom)
+
+embossed oak art nouveau wall phone
+
+embroidered Norwegian art nouveau wall phone (excellent condition)
+
+vintage glass edwardian tea tin
+
+German embossed victorian tea tin (near mint)
+
+Austrian Antique edwardian tapestry sampler (near mint)
+
+British old impressionist coverlet (excellent condition)
+
+embroidered gold-plated "arts and crafts" bookResults for "auction_antiques"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+vintage gold-plated edwardian pocket knife
+
+Swiss signed edwardian piano roll (slightly scratched)
+
+old Italian victorian hat pin (w/original box)
+
+embossed Swiss edwardian clock (near mint)
+
+Antique pine "arts and crafts" clock
+
+embroidered oak "arts and crafts" mirror
+
+old European "arts and crafts" mirror (in original box)
+
+old Norwegian victorian pocket knife (reasonable)
+
+embroidered Serb impressionist pocket knife (slightly scratched)
+
+old cotton "arts and crafts" master
+
+antique glass Jeffersonian master
+
+Spanish signed Jeffersonian hunting pouch (slightly scratched)
+
+embossed Swedish "arts and crafts" book (in original box)
+
+old wood 18th century hunting pouch
+
+Norwegian embroidered art nouveau dental tools (frayed at inside)
+
+embossed French Jeffersonian chronometer (reasonable)
+
+embossed cloth 19th century embroidery
+
+antique Norwegian "arts and crafts" coverlet (worn at top)
+
+Antique pine edwardian chronometer
+
+vintage Serb art nouveau tea tin (reasonable)Results for "auction_antiques"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+embroidered Swedish Jeffersonian tea tin (w/original box)
+
+Antique German victorian piano roll (w/original box)
+
+vintage gold-plated art nouveau clock
+
+Antique wood art nouveau pocket knife
+
+antique Swiss edwardian tea tin (excellent condition)
+
+embossed silver Jeffersonian chronometer
+
+Antique gold-plated impressionist dental tools
+
+Portugese old edwardian clock (excellent condition)
+
+Antique Serb "arts and crafts" tea tin (in original box)
+
+old European "arts and crafts" painting (scratches at top)
+
+Serb old "arts and crafts" embroidery (slightly scratched)
+
+Maltesian embroidered "arts and crafts" painting (excellent condition)
+
+Turkish signed art nouveau mirror (near mint)
+
+old Spanish victorian book (near mint)
+
+embossed silver edwardian painting
+
+antique Austrian "arts and crafts" tea tin (reasonable)
+
+Portugese vintage edwardian piano roll (discolored at back)
+
+embossed Maltesian art nouveau coverlet (excellent condition)
+
+Croat embossed 18th century pocket knife (near mint)
+
+Antique Italian edwardian hat pin (frayed at back)Results for "auction_antiques"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+antique leather impressionist hunting pouch
+
+antique Finnish victorian clock (w/original box)
+
+Polish signed art nouveau coverlet (slightly scratched)
+
+Antique oak 17th century chronometer
+
+Belgium antique 17th century master (slight foxing at inside)
+
+signed Dutch "arts and crafts" book (excellent condition)
+
+signed glass art nouveau mirror
+
+embroidered silver edwardian hat pin
+
+old French edwardian hat pin (frayed at bottom)
+
+Norwegian antique Jeffersonian trunk (in original box)
+
+vintage gold-plated 18th century coverlet
+
+embossed cloth 17th century coverlet
+
+signed wood victorian trunk
+
+old leather edwardian hunting pouch
+
+signed pine art nouveau coverlet
+
+Antique wood 17th century trunk
+
+old Serb edwardian master (excellent condition)
+
+antique Portugese impressionist trunk (slightly scratched)
+
+embossed gold-plated impressionist chronometer
+
+Polish embossed "arts and crafts" hunting pouch (frayed at top)Results for "auction_antiques"
+Defined in module auction.py
+Used in auction.py, corporate.py
+
+old Austrian Jeffersonian pocket knife (near mint)
+
+antique wood "arts and crafts" book
+
+signed gold-plated "arts and crafts" mirror
+
+signed Norwegian victorian piano roll (w/original box)
+
+signed gold-plated victorian wall phone
+
+signed pine "arts and crafts" hat pin
+
+old Spanish impressionist mirror (w/original box)
+
+Antique wood victorian pocket knife
+
+old leather art nouveau wall phone
+
+antique cotton 19th century tea tin
+
+vintage gold-plated victorian hunting pouch
+
+signed Serb art nouveau tea tin (in original box)
+
+French vintage Jeffersonian pocket knife (excellent condition)
+
+embossed glass victorian coverlet
+
+Turkish vintage edwardian tryptich (near mint)
+
+antique Portugese "arts and crafts" piano roll (reasonable)
+
+French embroidered "arts and crafts" clock (reasonable)
+
+Portugese antique victorian tapestry sampler (mint)
+
+signed Danish edwardian dental tools (excellent condition)
+
+signed cotton 17th century hat pin

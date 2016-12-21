@@ -1,8 +1,140 @@
+Results for "politics_scandalnoun"
+Defined in module politics.py
+Used in politics.py, sports.py
 
+investigation
+
+charges
 
 trial
 
 trial
+
+investigation
+
+charges
+
+coverup
+
+investigation
+
+tapes
+
+investigation
+
+investigation
+
+coverup
+
+trial
+
+investigation
+
+charges
+
+trial
+
+investigation
+
+tapes
+
+charges
+
+chargesResults for "politics_scandalnoun"
+Defined in module politics.py
+Used in politics.py, sports.py
+
+coverup
+
+charges
+
+tapes
+
+charges
+
+charges
+
+tapes
+
+charges
+
+trial
+
+tapes
+
+charges
+
+investigation
+
+trial
+
+tapes
+
+coverup
+
+investigation
+
+tapes
+
+coverup
+
+tapes
+
+charges
+
+trialResults for "politics_scandalnoun"
+Defined in module politics.py
+Used in politics.py, sports.py
+
+investigation
+
+coverup
+
+coverup
+
+coverup
+
+investigation
+
+charges
+
+investigation
+
+charges
+
+charges
+
+coverup
+
+coverup
+
+trial
+
+coverup
+
+investigation
+
+trial
+
+trial
+
+tapes
+
+charges
+
+charges
+
+chargesResults for "politics_scandalnoun"
+Defined in module politics.py
+Used in politics.py, sports.py
+
+trial
+
+trial
+
+charges
+
+coverup
 
 coverup
 
@@ -10,7 +142,15 @@ tapes
 
 trial
 
+investigation
+
+tapes
+
+investigation
+
 trial
+
+coverup
 
 investigation
 
@@ -18,4 +158,96 @@ coverup
 
 investigation
 
+investigation
+
+investigation
+
+investigation
+
+investigation
+
+trialResults for "politics_scandalnoun"
+Defined in module politics.py
+Used in politics.py, sports.py
+
+coverup
+
+investigation
+
+trial
+
+investigation
+
+tapes
+
+investigation
+
+tapes
+
 charges
+
+coverup
+
+coverup
+
+investigation
+
+charges
+
+coverup
+
+tapes
+
+investigation
+
+coverup
+
+charges
+
+charges
+
+charges
+
+tapesResults for "politics_scandalnoun"
+Defined in module politics.py
+Used in politics.py, sports.py
+
+investigation
+
+coverup
+
+tapes
+
+coverup
+
+investigation
+
+investigation
+
+investigation
+
+charges
+
+tapes
+
+coverup
+
+trial
+
+trial
+
+charges
+
+investigation
+
+charges
+
+tapes
+
+coverup
+
+charges
+
+charges
+
+investigation

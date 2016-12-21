@@ -1,21 +1,253 @@
+Results for "cities_USmajor"
+Defined in module geography.py
+Used in articles.py, design.py, entertainment.py, geography.py, journalism.py, legal.py, news.py, sports.py
 
+Kansas City
 
-Detroit
+Seattle
+
+New York
+
+New York
+
+Kansas City
+
+Chicago
+
+Baltimore
+
+New York
+
+New York
+
+Pittsburgh
+
+Boston
+
+Kansas City
+
+Baltimore
+
+Philadelphia
 
 Denver
 
+Baltimore
+
 Houston
 
-Baltimore
+Nashville
 
-Baltimore
+Seattle
 
-Atlanta
+San JoseResults for "cities_USmajor"
+Defined in module geography.py
+Used in articles.py, design.py, entertainment.py, geography.py, journalism.py, legal.py, news.py, sports.py
+
+Dallas
+
+Minneapolis
+
+Memphis
 
 Houston
 
 Memphis
 
-Denver
+Atlanta
+
+Nashville
+
+Seattle
 
 San Francisco
+
+Seattle
+
+Chicago
+
+Memphis
+
+New York
+
+New York
+
+Houston
+
+Minneapolis
+
+Pittsburgh
+
+Kansas City
+
+Nashville
+
+Los AngelesResults for "cities_USmajor"
+Defined in module geography.py
+Used in articles.py, design.py, entertainment.py, geography.py, journalism.py, legal.py, news.py, sports.py
+
+Houston
+
+Denver
+
+Pittsburgh
+
+Minneapolis
+
+Dallas
+
+Memphis
+
+Detroit
+
+Minneapolis
+
+Detroit
+
+Pittsburgh
+
+San Jose
+
+Denver
+
+Pittsburgh
+
+San Jose
+
+San Jose
+
+Chicago
+
+Seattle
+
+Philadelphia
+
+Kansas City
+
+AtlantaResults for "cities_USmajor"
+Defined in module geography.py
+Used in articles.py, design.py, entertainment.py, geography.py, journalism.py, legal.py, news.py, sports.py
+
+Memphis
+
+Nashville
+
+Baltimore
+
+Detroit
+
+Dallas
+
+Memphis
+
+Dallas
+
+Houston
+
+Nashville
+
+Seattle
+
+Houston
+
+Houston
+
+Atlanta
+
+Houston
+
+Los Angeles
+
+Philadelphia
+
+Detroit
+
+Los Angeles
+
+Detroit
+
+PittsburghResults for "cities_USmajor"
+Defined in module geography.py
+Used in articles.py, design.py, entertainment.py, geography.py, journalism.py, legal.py, news.py, sports.py
+
+Dallas
+
+Chicago
+
+Dallas
+
+Atlanta
+
+Los Angeles
+
+Miami
+
+Dallas
+
+Seattle
+
+Washington
+
+Dallas
+
+Baltimore
+
+Detroit
+
+Pittsburgh
+
+Atlanta
+
+San Francisco
+
+Miami
+
+Memphis
+
+Denver
+
+Kansas City
+
+PhiladelphiaResults for "cities_USmajor"
+Defined in module geography.py
+Used in articles.py, design.py, entertainment.py, geography.py, journalism.py, legal.py, news.py, sports.py
+
+Nashville
+
+Kansas City
+
+San Jose
+
+Nashville
+
+Nashville
+
+Kansas City
+
+Chicago
+
+Washington
+
+Chicago
+
+Minneapolis
+
+New York
+
+San Jose
+
+Detroit
+
+Seattle
+
+Dallas
+
+Miami
+
+Chicago
+
+Philadelphia
+
+Denver
+
+Nashville

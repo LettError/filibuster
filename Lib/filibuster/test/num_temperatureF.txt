@@ -1,21 +1,253 @@
+Results for "num_temperatureF"
+Defined in module general.py
+Used in general.py
 
+17°
 
-36°
+83°
+
+17°
+
+68°
+
+27°
+
+77°
+
+30°
 
 -13°
 
-35°
+49°
+
+93°
+
+69°
+
+67°
+
+46°
 
 82°
 
--19°
+82°
 
--14°
+93°
 
-31°
+47°
+
+91°
 
 9°
 
+21°Results for "num_temperatureF"
+Defined in module general.py
+Used in general.py
+
+-12°
+
+90°
+
+41°
+
+20°
+
+31°
+
+45°
+
+96°
+
+40°
+
 -8°
 
+99°
+
+89°
+
+4°
+
+17°
+
+97°
+
+20°
+
+79°
+
+67°
+
+-6°
+
+-13°
+
+67°Results for "num_temperatureF"
+Defined in module general.py
+Used in general.py
+
+85°
+
+33°
+
+58°
+
+22°
+
+38°
+
+79°
+
+56°
+
+35°
+
+-10°
+
+3°
+
+93°
+
+-13°
+
+32°
+
+87°
+
+20°
+
+93°
+
+92°
+
+38°
+
+-8°
+
+75°Results for "num_temperatureF"
+Defined in module general.py
+Used in general.py
+
+95°
+
+20°
+
+0°
+
+65°
+
+93°
+
+6°
+
+25°
+
+1°
+
+41°
+
+26°
+
+-11°
+
+59°
+
+85°
+
+-5°
+
+86°
+
+-1°
+
+-15°
+
+62°
+
 23°
+
+93°Results for "num_temperatureF"
+Defined in module general.py
+Used in general.py
+
+33°
+
+-3°
+
+58°
+
+3°
+
+1°
+
+-16°
+
+47°
+
+49°
+
+79°
+
+21°
+
+69°
+
+62°
+
+27°
+
+98°
+
+69°
+
+92°
+
+97°
+
+61°
+
+99°
+
+-12°Results for "num_temperatureF"
+Defined in module general.py
+Used in general.py
+
+-5°
+
+40°
+
+17°
+
+49°
+
+48°
+
+59°
+
+20°
+
+71°
+
+40°
+
+92°
+
+73°
+
+2°
+
+91°
+
+76°
+
+-15°
+
+77°
+
+87°
+
+28°
+
+88°
+
+-8°

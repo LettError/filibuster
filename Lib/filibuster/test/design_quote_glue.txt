@@ -1,10 +1,90 @@
+Results for "design_quote_glue"
+Defined in module design.py
+Used in design.py
 
+is not at the same as
+
+was
+
+can be compared to
+
+is like
+
+is not at the same as
+
+should be treated the same as
+
+should be treated the same as
+
+should be treated the same as
+
+was
+
+can be compared to
+
+should be treated the same as
+
+can be compared to
+
+can be compared to
+
+is like
+
+can be compared to
+
+can be compared to
+
+is like
+
+should be treated the same as
+
+is like
+
+is likeResults for "design_quote_glue"
+Defined in module design.py
+Used in design.py
+
+is like
+
+was
+
+can be compared to
+
+was
+
+was
+
+was
+
+is like
 
 is like
 
 was
 
 is not at the same as
+
+is like
+
+is like
+
+is not at the same as
+
+should be treated the same as
+
+was
+
+should be treated the same as
+
+is not at the same as
+
+was
+
+is not at the same as
+
+can be compared toResults for "design_quote_glue"
+Defined in module design.py
+Used in design.py
 
 should be treated the same as
 
@@ -14,8 +94,160 @@ is not at the same as
 
 is not at the same as
 
-was
+is like
+
+can be compared to
+
+should be treated the same as
 
 is like
 
 can be compared to
+
+is not at the same as
+
+is like
+
+should be treated the same as
+
+should be treated the same as
+
+is like
+
+was
+
+was
+
+is like
+
+is not at the same as
+
+is not at the same as
+
+should be treated the same asResults for "design_quote_glue"
+Defined in module design.py
+Used in design.py
+
+was
+
+is not at the same as
+
+should be treated the same as
+
+is not at the same as
+
+is not at the same as
+
+was
+
+is not at the same as
+
+is not at the same as
+
+can be compared to
+
+is like
+
+is not at the same as
+
+can be compared to
+
+can be compared to
+
+is not at the same as
+
+is like
+
+was
+
+is like
+
+is like
+
+was
+
+is likeResults for "design_quote_glue"
+Defined in module design.py
+Used in design.py
+
+is like
+
+can be compared to
+
+is like
+
+is not at the same as
+
+is not at the same as
+
+is not at the same as
+
+was
+
+is not at the same as
+
+was
+
+is like
+
+should be treated the same as
+
+is like
+
+can be compared to
+
+is like
+
+can be compared to
+
+should be treated the same as
+
+can be compared to
+
+was
+
+is like
+
+is not at the same asResults for "design_quote_glue"
+Defined in module design.py
+Used in design.py
+
+was
+
+was
+
+is not at the same as
+
+can be compared to
+
+can be compared to
+
+can be compared to
+
+is like
+
+was
+
+is not at the same as
+
+can be compared to
+
+is not at the same as
+
+should be treated the same as
+
+was
+
+should be treated the same as
+
+was
+
+is not at the same as
+
+is not at the same as
+
+is not at the same as
+
+is like
+
+is not at the same as

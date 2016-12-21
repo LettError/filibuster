@@ -1,21 +1,253 @@
+Results for "market_statusdown"
+Defined in module financial.py
+Used in financial.py
 
+lost 91 points
 
-down 42 pts.
+down 148 pts.
 
-lost 44 points
+down 109 pts.
 
-disappointing, down 0.0%
+disappointing, down 1.1%
+
+lost 125 points
+
+down 97 pts.
+
+down 139 pts.
+
+down 44 pts.
+
+lost 123 points
 
 lost 122 points
 
-lost 99 points
+down 49 pts.
 
-disappointing, down 0.8%
+down 50 pts.
 
-lost 131 points
+disappointing, down 1.1%
+
+lost 89 points
+
+lost 48 points
+
+lost 129 points
+
+lost 76 points
+
+down 58 pts.
+
+disappointing, down 2.0%
+
+lost 71 pointsResults for "market_statusdown"
+Defined in module financial.py
+Used in financial.py
+
+down 109 pts.
+
+lost 81 points
+
+disappointing, down 1.6%
+
+lost 80 points
+
+down 72 pts.
+
+lost 49 points
+
+down 140 pts.
+
+disappointing, down 1.8%
+
+down 53 pts.
+
+down 55 pts.
+
+lost 113 points
 
 disappointing, down 1.5%
 
-lost 94 points
+lost 123 points
+
+lost 114 points
+
+lost 122 points
+
+lost 136 points
+
+down 58 pts.
+
+lost 147 points
+
+disappointing, down 0.2%
+
+disappointing, down 0.2%Results for "market_statusdown"
+Defined in module financial.py
+Used in financial.py
+
+down 142 pts.
+
+lost 40 points
+
+down 84 pts.
+
+disappointing, down 1.2%
+
+lost 74 points
+
+lost 111 points
+
+disappointing, down 0.1%
+
+lost 41 points
+
+down 79 pts.
+
+disappointing, down 1.5%
+
+lost 117 points
+
+disappointing, down 0.9%
+
+down 97 pts.
+
+down 93 pts.
+
+disappointing, down 0.4%
+
+lost 86 points
+
+lost 144 points
+
+lost 95 points
+
+lost 110 points
+
+down 135 pts.Results for "market_statusdown"
+Defined in module financial.py
+Used in financial.py
+
+down 147 pts.
+
+disappointing, down 0.9%
+
+down 74 pts.
+
+down 146 pts.
+
+disappointing, down 1.7%
+
+down 98 pts.
+
+lost 76 points
+
+down 65 pts.
+
+lost 85 points
+
+disappointing, down 0.3%
+
+lost 138 points
+
+down 129 pts.
+
+disappointing, down 0.4%
+
+lost 128 points
+
+down 136 pts.
+
+disappointing, down 0.2%
+
+disappointing, down 0.5%
+
+disappointing, down 0.1%
+
+disappointing, down 0.0%
+
+lost 61 pointsResults for "market_statusdown"
+Defined in module financial.py
+Used in financial.py
+
+lost 87 points
+
+disappointing, down 1.3%
+
+disappointing, down 1.6%
+
+down 105 pts.
+
+disappointing, down 0.0%
+
+lost 129 points
+
+disappointing, down 0.4%
+
+disappointing, down 0.1%
+
+lost 111 points
+
+down 85 pts.
+
+disappointing, down 0.1%
+
+down 103 pts.
+
+lost 75 points
+
+lost 73 points
+
+lost 73 points
+
+disappointing, down 0.3%
+
+lost 106 points
 
 lost 48 points
+
+disappointing, down 1.0%
+
+disappointing, down 1.0%Results for "market_statusdown"
+Defined in module financial.py
+Used in financial.py
+
+lost 47 points
+
+disappointing, down 0.1%
+
+disappointing, down 0.3%
+
+down 134 pts.
+
+disappointing, down 1.8%
+
+down 141 pts.
+
+lost 120 points
+
+disappointing, down 0.4%
+
+lost 122 points
+
+lost 75 points
+
+down 144 pts.
+
+down 103 pts.
+
+down 138 pts.
+
+down 60 pts.
+
+lost 66 points
+
+down 104 pts.
+
+disappointing, down 1.5%
+
+down 73 pts.
+
+lost 65 points
+
+disappointing, down 1.1%

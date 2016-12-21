@@ -1,12 +1,138 @@
+Results for "cities_Dutch"
+Defined in module geography.py
+Used in geography.py, sports.py
 
+Leiden
+
+Leiden
+
+Utrecht
+
+Delft
+
+Arnhem
+
+Utrecht
+
+Gouda
+
+Leiden
+
+Rotterdam
+
+Haarlem
+
+Amsterdam
+
+Arnhem
+
+Haarlem
+
+Gouda
+
+The Hague
+
+Gouda
+
+Arnhem
+
+Rotterdam
+
+Delft
+
+DelftResults for "cities_Dutch"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Amsterdam
+
+Maastricht
+
+Leiden
+
+Amsterdam
+
+Utrecht
+
+Eindhoven
+
+Eindhoven
+
+Gouda
+
+Arnhem
+
+The Hague
+
+Amsterdam
+
+Utrecht
+
+Utrecht
+
+Amsterdam
+
+The Hague
 
 Amsterdam
 
 Eindhoven
 
+Amsterdam
+
+Arnhem
+
+DelftResults for "cities_Dutch"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Utrecht
+
+Leiden
+
+Amsterdam
+
+Eindhoven
+
+Arnhem
+
 The Hague
 
 Rotterdam
+
+Utrecht
+
+The Hague
+
+Delft
+
+Delft
+
+Utrecht
+
+Delft
+
+Leiden
+
+Eindhoven
+
+Amsterdam
+
+Haarlem
+
+Eindhoven
+
+Arnhem
+
+LeidenResults for "cities_Dutch"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Maastricht
+
+Eindhoven
+
+Delft
 
 Rotterdam
 
@@ -14,8 +140,114 @@ Haarlem
 
 Leiden
 
+Rotterdam
+
 The Hague
+
+Arnhem
+
+Maastricht
+
+Maastricht
+
+Leiden
+
+Leiden
+
+Leiden
+
+Haarlem
 
 Utrecht
 
+Rotterdam
+
+Haarlem
+
+Delft
+
+LeidenResults for "cities_Dutch"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Delft
+
+Haarlem
+
+Delft
+
+Gouda
+
+The Hague
+
+Haarlem
+
+Amsterdam
+
 Leiden
+
+Maastricht
+
+Gouda
+
+Arnhem
+
+Delft
+
+Leiden
+
+Leiden
+
+Rotterdam
+
+Delft
+
+Arnhem
+
+Utrecht
+
+Maastricht
+
+AmsterdamResults for "cities_Dutch"
+Defined in module geography.py
+Used in geography.py, sports.py
+
+Delft
+
+Maastricht
+
+Rotterdam
+
+Gouda
+
+Gouda
+
+Maastricht
+
+Gouda
+
+Haarlem
+
+Arnhem
+
+Delft
+
+Delft
+
+Haarlem
+
+Arnhem
+
+Gouda
+
+Eindhoven
+
+Maastricht
+
+Maastricht
+
+Utrecht
+
+Arnhem
+
+Delft

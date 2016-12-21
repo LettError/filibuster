@@ -1,21 +1,253 @@
+Results for "sci_popularelements"
+Defined in module sciences.py
+Used in creditcard.py
 
+Thallium
 
-Neon
+Carbon
 
-Hafnium
+Gallium
 
-Bronze
+Carbon
 
-Silver
+Xenon
+
+Dubnium
+
+Nickel
+
+Xenon
 
 Hydrogen
 
-Gold
+Carbon
+
+Hassium
+
+Rhodium
+
+Hydrogen
 
 Titanium
 
 Bronze
 
+Bismuth
+
+Tin
+
+Krypton
+
+Hydrogen
+
+PlatinumResults for "sci_popularelements"
+Defined in module sciences.py
+Used in creditcard.py
+
+Platinum
+
+Gold
+
+Lead
+
+Titanium
+
+Carbon
+
+Krypton
+
+Titanium
+
+Carbon
+
+Hydrogen
+
+Gold
+
+Bronze
+
+Silver
+
+Titanium
+
+Silver
+
+Titanium
+
+Bronze
+
+Titanium
+
+Carbon
+
+Indium
+
+LeadResults for "sci_popularelements"
+Defined in module sciences.py
+Used in creditcard.py
+
+Hydrogen
+
+Platinum
+
+Silver
+
+Titanium
+
+Titanium
+
+Gold
+
+Carbon
+
+Bismuth
+
+Hydrogen
+
+Rhenium
+
+Carbon
+
+Platinum
+
+Carbon
+
+Krypton
+
+Radon
+
+Carbon
+
+Bronze
+
+Hydrogen
+
+Titanium
+
+AluminumResults for "sci_popularelements"
+Defined in module sciences.py
+Used in creditcard.py
+
 Silver
 
 Gold
+
+Silver
+
+Gold
+
+Carbon
+
+Carbon
+
+Unununium
+
+Bronze
+
+Silver
+
+Carbon
+
+Hydrogen
+
+Zirconium
+
+Neon
+
+Helium
+
+Titanium
+
+Hydrogen
+
+Silver
+
+Argon
+
+Hydrogen
+
+BismuthResults for "sci_popularelements"
+Defined in module sciences.py
+Used in creditcard.py
+
+Gold
+
+Xenon
+
+Silver
+
+Bronze
+
+Silver
+
+Thallium
+
+Aluminum
+
+Lead
+
+Lead
+
+Lead
+
+Gold
+
+Carbon
+
+Titanium
+
+Platinum
+
+Titanium
+
+Helium
+
+Hydrogen
+
+Titanium
+
+Indium
+
+RadonResults for "sci_popularelements"
+Defined in module sciences.py
+Used in creditcard.py
+
+Silver
+
+Gold
+
+Platinum
+
+Bismuth
+
+Bronze
+
+Aluminum
+
+Silver
+
+Platinum
+
+Carbon
+
+Copper
+
+Platinum
+
+Titanium
+
+Helium
+
+Bronze
+
+Dubnium
+
+Hydrogen
+
+Argon
+
+Silver
+
+Iron
+
+Silver

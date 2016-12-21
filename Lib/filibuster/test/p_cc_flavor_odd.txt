@@ -1,8 +1,92 @@
+Results for "p_cc_flavor_odd"
+Defined in module creditcard.py
+Used in creditcard.py
 
+Gas
 
 Petroli
 
 Petroli
+
+Petroli
+
+Gas
+
+Gas
+
+Petro
+
+Petro
+
+Petroli
+
+Gas
+
+Petro
+
+Petro
+
+Petroli
+
+Gas
+
+Petro
+
+Gas
+
+Petro
+
+Gas
+
+Petroli
+
+GasResults for "p_cc_flavor_odd"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Petroli
+
+Gas
+
+Petro
+
+Gas
+
+Petroli
+
+Gas
+
+Petroli
+
+Gas
+
+Petroli
+
+Petroli
+
+Petroli
+
+Petroli
+
+Gas
+
+Petroli
+
+Petroli
+
+Petro
+
+Gas
+
+Petro
+
+Gas
+
+PetroResults for "p_cc_flavor_odd"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Petro
 
 Petro
 
@@ -16,6 +100,154 @@ Petro
 
 Petro
 
+Petro
+
+Petroli
+
+Petroli
+
+Petroli
+
+Petro
+
 Petroli
 
 Gas
+
+Petro
+
+Gas
+
+Gas
+
+Gas
+
+Petro
+
+PetroliResults for "p_cc_flavor_odd"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Gas
+
+Petro
+
+Petro
+
+Gas
+
+Petroli
+
+Gas
+
+Gas
+
+Petroli
+
+Petro
+
+Petro
+
+Gas
+
+Gas
+
+Petroli
+
+Petro
+
+Gas
+
+Gas
+
+Petro
+
+Petro
+
+Petroli
+
+PetroResults for "p_cc_flavor_odd"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Gas
+
+Petroli
+
+Petro
+
+Petroli
+
+Petroli
+
+Petroli
+
+Gas
+
+Petroli
+
+Petroli
+
+Petro
+
+Petro
+
+Petro
+
+Petro
+
+Petro
+
+Petro
+
+Petro
+
+Petroli
+
+Gas
+
+Petroli
+
+GasResults for "p_cc_flavor_odd"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Gas
+
+Petroli
+
+Petro
+
+Petro
+
+Petroli
+
+Gas
+
+Petroli
+
+Petro
+
+Petroli
+
+Petro
+
+Gas
+
+Gas
+
+Gas
+
+Petroli
+
+Petro
+
+Petro
+
+Petroli
+
+Gas
+
+Petroli
+
+Petroli

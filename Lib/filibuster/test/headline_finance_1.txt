@@ -1,21 +1,245 @@
+Results for "headline_finance_1"
+Defined in module financial.py
+Used in financial.py
 
+Our initial public offering is being handled by Barings Sparkasse
 
-netCorp.com's IPO is underwritten by the National Bank
+HyperBizNow!'s IPO is underwritten by Credit-Lyonnais Commerz Banque
 
-eBizNow!'s IPO is underwritten by the National Pension Fund of New York
+Our initial public offering is being handled by Sterling White Bourne Associates
 
-metaWorksNow!'s IPO is underwritten by the Credit-Lyonnais-Raiffeisen Bank of Luxembourg
+CyberCorp2000's IPO is underwritten by the Cooperative Group of New York
 
-Our initial public offering is being handled by the Deutsche Commerz Bank of Luxembourg
+eTrust.com LLC's IPO is underwritten by Acheson Dupont Palmer Associates
 
-Our initial public offering is being handled by Upton Davies Lawson Associates
+InterNet2000's IPO is underwritten by Markham, Harrison and Carnegie
 
-iNet.com's IPO is underwritten by AchesonMacArthur
+metaBiz.com's IPO is underwritten by the Chemical Pension Fund of California
 
-Our initial public offering is being handled by Archer, Polk and Markham
+Our initial public offering is being handled by LawsonRiley
 
-InterTrust.com's IPO is underwritten by Commerz Bank
+webBiz2000 PLC's IPO is underwritten by the National Bank of Philadelphia
 
-HyperCorponline's IPO is underwritten by the Cooperative Trust of Philadelphia
+CyberAuctionsonline's IPO is underwritten by ABN-AMRO Commerz Banque
 
-Our initial public offering is being handled by the PariBas-Barings Bank of Zürich
+metaAuctions.com's IPO is underwritten by the Amalgamated Trust of Canada
+
+webCorp.com Inc.'s IPO is underwritten by Johns Harper Caldecott Associates
+
+myWorksonline's IPO is underwritten by Walters Johns Winslow Associates
+
+mySale2000's IPO is underwritten by Credit-Lyonnais Commerz Sparkasse
+
+Our initial public offering is being handled by Forbes, Adams and Dunbar
+
+CyberGroupNow!'s IPO is underwritten by WhitneyJennings
+
+metaWorks.com's IPO is underwritten by the Commerz Bank of Guernsey
+
+CyberNetworkingonline GmBH's IPO is underwritten by Royal Banco
+
+iBrandonline's IPO is underwritten by the ING Commerz Banco of Guernsey
+
+EquiBrand.com GmBH's IPO is underwritten by the Cooperative Pension FundResults for "headline_finance_1"
+Defined in module financial.py
+Used in financial.py
+
+Our initial public offering is being handled by Credit-Lyonnais Raiffeisen Banco
+
+Our initial public offering is being handled by the Deutsche Sparkasse of Guernsey
+
+myGroupNow!'s IPO is underwritten by the Dow Bank
+
+HyperBank.com GmBH's IPO is underwritten by Deutsche-Commerz Sparkasse
+
+Our initial public offering is being handled by Adams, Carson and Knox
+
+goVisionNow!'s IPO is underwritten by White, Kennerley & Mills
+
+Our initial public offering is being handled by Royal Bank
+
+Our initial public offering is being handled by Johns, Caldecott and Davies of Reston, VA
+
+Our initial public offering is being handled by the Royal Bank of Dresden
+
+Our initial public offering is being handled by Parham Parker Harper Associates
+
+Our initial public offering is being handled by ING Bank
+
+Our initial public offering is being handled by Dunbar, Vanderpool & Bushnell
+
+Our initial public offering is being handled by Commerz Bank
+
+Our initial public offering is being handled by Merchant's Banque
+
+EquiGrouponline's IPO is underwritten by the Credit-Lyonnais Merchant's Sparkasse of Dresden
+
+Our initial public offering is being handled by the Barings Banque of Luxembourg
+
+Our initial public offering is being handled by Finanz Bank
+
+CyberNetNow!'s IPO is underwritten by Johnson, Acheson and Sinclair of TokyoResults for "headline_finance_1"
+Defined in module financial.py
+Used in financial.py
+
+Our initial public offering is being handled by Credit-Lyonnais Raiffeisen Sparkasse
+
+Our initial public offering is being handled by Credit-Lyonnais-Commerz Banco
+
+Our initial public offering is being handled by Ryan, Caldecott & Jennings
+
+webNetonline, Inc.'s IPO is underwritten by the First Group of New York
+
+EquiVision2000's IPO is underwritten by the Deutsche-Commerz Sparkasse of France
+
+Our initial public offering is being handled by ABN-AMRO Raiffeisen Bank
+
+InterTrade.com's IPO is underwritten by Jennings, Markham & Stanley
+
+eTrust.com's IPO is underwritten by Finanz Bank
+
+Our initial public offering is being handled by Franklin, Clark and Markham
+
+Our initial public offering is being handled by the Deutsche-Barings Banco of France
+
+goNetonline's IPO is underwritten by Emerson, Whitney & Johns
+
+webTradeNow! PLC's IPO is underwritten by Rowe, Upton & Davenport
+
+goBank2000's IPO is underwritten by the Fireman's Group of Canada
+
+EquiGroup2000 LLC's IPO is underwritten by the Deutsche Raiffeisen Bank of Luxembourg
+
+eGroup2000's IPO is underwritten by the ING-Raiffeisen Bank of France
+
+myNetNow!'s IPO is underwritten by Rowe, Dunbar & Sterling
+
+Our initial public offering is being handled by the Royal Banque of Dresden
+
+metaTrade.com's IPO is underwritten by Riley, Parham & Fitzsimmons
+
+goVision.com Inc.'s IPO is underwritten by the Amalgamated BankResults for "headline_finance_1"
+Defined in module financial.py
+Used in financial.py
+
+Our initial public offering is being handled by WhitneyBushnell
+
+Our initial public offering is being handled by Finanz Banco
+
+eTrade.com's IPO is underwritten by Credit-Lyonnais-Raiffeisen Banque
+
+Our initial public offering is being handled by Mills, Dupont and Adams of New York, NY
+
+netVisiononline's IPO is underwritten by the Credit-Lyonnais Merchant's Sparkasse of Dresden
+
+InterBizNow! Inc.'s IPO is underwritten by Royal-Finanz Banco
+
+Our initial public offering is being handled by the Treasury Pension Fund
+
+Our initial public offering is being handled by Palmer, Harrison & Harper
+
+CyberBrand2000 Inc.'s IPO is underwritten by the Chemical Group of Canada
+
+iTrustNow!'s IPO is underwritten by the Cooperative Bank
+
+goCorpNow!'s IPO is underwritten by Parker, Parham and Fisher
+
+getNetonline's IPO is underwritten by the Cooperative Group of Toronto
+
+Our initial public offering is being handled by the Royal Bank of Guernsey
+
+Our initial public offering is being handled by Polk, Clark & Harrison
+
+Our initial public offering is being handled by the Treasury Trust of New York
+
+metaVision2000 Inc.'s IPO is underwritten by Credit-Lyonnais-Commerz Banco
+
+Our initial public offering is being handled by AdamsBushnell
+
+webTrade.com S.A.'s IPO is underwritten by Walters, Calder and Tate of Reston, VA
+
+InterBrand.com's IPO is underwritten by Acheson, Mills & Winslow
+
+Our initial public offering is being handled by Royal-Commerz BancoResults for "headline_finance_1"
+Defined in module financial.py
+Used in financial.py
+
+getWorks.com's IPO is underwritten by ParkerTate
+
+Our initial public offering is being handled by ABN-AMRO Banque
+
+Our initial public offering is being handled by the Fireman's Pension Fund of Canada
+
+getTrustonline, Inc.'s IPO is underwritten by CalderRowe
+
+getNet2000 Inc.'s IPO is underwritten by Credit-Lyonnais-Finanz Bank
+
+Our initial public offering is being handled by the Commerz Banque of Luxembourg
+
+metaNetNow!'s IPO is underwritten by Tate, Dupont and Davies
+
+Our initial public offering is being handled by the Fireman's Trust
+
+EquiBrand2000's IPO is underwritten by the Treasury Bank of Toronto
+
+Our initial public offering is being handled by the Treasury Pension Fund of California
+
+Our initial public offering is being handled by the ING Finanz Banque of London
+
+iTrustonline's IPO is underwritten by the Treasury Bank of New York
+
+Our initial public offering is being handled by the Federal Bank of Philadelphia
+
+EquiVisionNow!'s IPO is underwritten by the Cooperative Group
+
+Our initial public offering is being handled by the Cooperative Bank of Canada
+
+Our initial public offering is being handled by the Commerz Sparkasse of France
+
+iVisionNow!'s IPO is underwritten by the Amalgamated Group of Canada
+
+Our initial public offering is being handled by PariBas Commerz Sparkasse
+
+netTrust2000's IPO is underwritten by ING Commerz Sparkasse
+
+Our initial public offering is being handled by the Treasury Trust of CanadaResults for "headline_finance_1"
+Defined in module financial.py
+Used in financial.py
+
+Our initial public offering is being handled by WinslowJohnson
+
+eBizonline's IPO is underwritten by the First Pension Fund
+
+EquiVision2000's IPO is underwritten by the ING Banco of Guernsey
+
+Our initial public offering is being handled by Raiffeisen Banco
+
+HyperNetNow!'s IPO is underwritten by ABN-AMRO-Commerz Banco
+
+EquiBrand2000's IPO is underwritten by CarsonSinclair
+
+webNetonline Inc.'s IPO is underwritten by the Merchant's Pension Fund of Canada
+
+HyperTrustonline LLC's IPO is underwritten by Jennings, Kennerley & Dunbar
+
+getWorksNow!'s IPO is underwritten by PariBas-Raiffeisen Banque
+
+Our initial public offering is being handled by the Finanz Bank of Guernsey
+
+metaGroupNow!'s IPO is underwritten by Rowe, Upton and Sloane of London
+
+HyperBankNow!'s IPO is underwritten by Davenport, Fitzsimmons and Sloane
+
+Our initial public offering is being handled by Royal-Raiffeisen Banque
+
+Our initial public offering is being handled by Tate, Sinclair and Sloane
+
+Our initial public offering is being handled by Raiffeisen Banco
+
+EquiSaleonline GmBH's IPO is underwritten by PariBas Bank
+
+Our initial public offering is being handled by HarperCalder
+
+Our initial public offering is being handled by PariBas Finanz Sparkasse
+
+EquiGroup2000's IPO is underwritten by Deutsche-Commerz Bank

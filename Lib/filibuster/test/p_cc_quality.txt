@@ -1,21 +1,253 @@
+Results for "p_cc_quality"
+Defined in module creditcard.py
+Used in creditcard.py
 
+Lead
+
+Rhenium
+
+Business
+
+Silver
+
+Carbon
+
+Carbon
+
+Home
+
+Home
+
+Titanium
+
+Bismuth
+
+Platinum
+
+Carbon
 
 Gold
 
+Hydrogen
+
+Silver
+
 Personal
 
-Corporate
+Business
 
-Corporate
+Gold
 
-Neon
+Business
+
+CorporateResults for "p_cc_quality"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Argon
+
+Helium
+
+Business
+
+Hydrogen
+
+Personal
+
+Platinum
+
+Helium
+
+Hydrogen
+
+Home
+
+Home
 
 Home
 
 Corporate
 
+Home
+
+Home
+
+Business
+
 Silver
 
-Scandium
+Bronze
+
+Silver
+
+Copper
+
+BronzeResults for "p_cc_quality"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Gold
+
+Neon
+
+Silver
+
+Home
+
+Gold
+
+Argon
+
+Titanium
+
+Corporate
+
+Manganese
+
+Gold
+
+Personal
+
+Manganese
+
+Rutherfordium
+
+Zirconium
+
+Corporate
+
+Tin
+
+Business
+
+Platinum
+
+Corporate
+
+BusinessResults for "p_cc_quality"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Business
+
+Gallium
+
+Radon
+
+Corporate
+
+Corporate
+
+Business
+
+Corporate
 
 Hydrogen
+
+Indium
+
+Business
+
+Gold
+
+Carbon
+
+Personal
+
+Gold
+
+Bronze
+
+Corporate
+
+Unununium
+
+Personal
+
+Business
+
+HydrogenResults for "p_cc_quality"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Silver
+
+Personal
+
+Krypton
+
+Carbon
+
+Carbon
+
+Gold
+
+Carbon
+
+Business
+
+Personal
+
+Home
+
+Corporate
+
+Hydrogen
+
+Bronze
+
+Personal
+
+Business
+
+Titanium
+
+Business
+
+Gold
+
+Business
+
+PersonalResults for "p_cc_quality"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Platinum
+
+Business
+
+Home
+
+Titanium
+
+Carbon
+
+Bronze
+
+Corporate
+
+Gold
+
+Silver
+
+Platinum
+
+Cadmium
+
+Meitnerium
+
+Personal
+
+Hydrogen
+
+Aluminum
+
+Business
+
+Hafnium
+
+Titanium
+
+Personal
+
+Cobalt

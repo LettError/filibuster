@@ -1,12 +1,96 @@
+Results for "legal_profession"
+Defined in module legal.py
+Used in articles.py
 
+judge
 
-member of the jury
+judge
 
 solicitor
 
 lawyer
 
+judge
+
+police officer
+
+lawyer
+
+lawyer
+
+judge
+
 member of the jury
+
+lawyer
+
+lawyer
+
+police officer
+
+member of the jury
+
+lawyer
+
+lawyer
+
+lawyer
+
+member of the jury
+
+judge
+
+lawyerResults for "legal_profession"
+Defined in module legal.py
+Used in articles.py
+
+solicitor
+
+judge
+
+member of the jury
+
+solicitor
+
+member of the jury
+
+member of the jury
+
+solicitor
+
+judge
+
+solicitor
+
+solicitor
+
+lawyer
+
+judge
+
+police officer
+
+police officer
+
+member of the jury
+
+member of the jury
+
+police officer
+
+police officer
+
+police officer
+
+judgeResults for "legal_profession"
+Defined in module legal.py
+Used in articles.py
+
+member of the jury
+
+police officer
+
+lawyer
 
 member of the jury
 
@@ -14,8 +98,156 @@ judge
 
 lawyer
 
+police officer
+
+judge
+
+police officer
+
+solicitor
+
+solicitor
+
+solicitor
+
+lawyer
+
+police officer
+
+member of the jury
+
+judge
+
+solicitor
+
+solicitor
+
+solicitor
+
+solicitorResults for "legal_profession"
+Defined in module legal.py
+Used in articles.py
+
+solicitor
+
+lawyer
+
+police officer
+
+member of the jury
+
+police officer
+
+lawyer
+
+police officer
+
+police officer
+
+member of the jury
+
+lawyer
+
 solicitor
 
 lawyer
 
 member of the jury
+
+judge
+
+solicitor
+
+police officer
+
+police officer
+
+member of the jury
+
+police officer
+
+member of the juryResults for "legal_profession"
+Defined in module legal.py
+Used in articles.py
+
+judge
+
+judge
+
+lawyer
+
+solicitor
+
+solicitor
+
+member of the jury
+
+police officer
+
+lawyer
+
+judge
+
+lawyer
+
+solicitor
+
+police officer
+
+lawyer
+
+police officer
+
+police officer
+
+judge
+
+member of the jury
+
+member of the jury
+
+member of the jury
+
+member of the juryResults for "legal_profession"
+Defined in module legal.py
+Used in articles.py
+
+judge
+
+lawyer
+
+judge
+
+lawyer
+
+member of the jury
+
+member of the jury
+
+solicitor
+
+solicitor
+
+member of the jury
+
+judge
+
+judge
+
+member of the jury
+
+police officer
+
+solicitor
+
+lawyer
+
+police officer
+
+judge
+
+member of the jury
+
+solicitor
+
+lawyer

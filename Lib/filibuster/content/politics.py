@@ -8,13 +8,13 @@
 evb        - note: only one dictionary named 'content' allowed per module
         this limitation is to speed up loading
 
-3.0.1    - changed location to city in weather
+4.0    - changed location to city in weather
         - added war_military for ranks
 evb        
 
 """
 
-__version__ = '3.0.1'
+__version__ = '4.0'
 __author__ = "someone"
 
 

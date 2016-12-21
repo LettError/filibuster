@@ -1,4 +1,144 @@
+Results for "design_verb_to_be"
+Defined in module design.py
+Used in design.py
 
+is
+
+is
+
+was
+
+is
+
+is
+
+is
+
+was
+
+is
+
+was
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+was
+
+is
+
+was
+
+is
+
+isResults for "design_verb_to_be"
+Defined in module design.py
+Used in design.py
+
+was
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+was
+
+is
+
+was
+
+is
+
+isResults for "design_verb_to_be"
+Defined in module design.py
+Used in design.py
+
+is
+
+is
+
+is
+
+is
+
+was
+
+is
+
+is
+
+is
+
+is
+
+is
+
+was
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
+
+isResults for "design_verb_to_be"
+Defined in module design.py
+Used in design.py
+
+is
+
+is
+
+is
+
+is
+
+is
+
+is
 
 is
 
@@ -19,3 +159,95 @@ was
 is
 
 is
+
+was
+
+was
+
+is
+
+isResults for "design_verb_to_be"
+Defined in module design.py
+Used in design.py
+
+was
+
+is
+
+is
+
+was
+
+is
+
+was
+
+is
+
+is
+
+was
+
+was
+
+is
+
+is
+
+is
+
+is
+
+was
+
+is
+
+is
+
+is
+
+was
+
+wasResults for "design_verb_to_be"
+Defined in module design.py
+Used in design.py
+
+is
+
+is
+
+is
+
+is
+
+was
+
+is
+
+is
+
+is
+
+is
+
+was
+
+is
+
+is
+
+is
+
+is
+
+is
+
+was
+
+is
+
+is
+
+was
+
+was

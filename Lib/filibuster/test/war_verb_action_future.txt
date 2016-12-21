@@ -1,21 +1,253 @@
-
-
-renew talks on
-
-expose
-
-surround
-
-to help
+Results for "war_verb_action_future"
+Defined in module news.py
+Used in news.py
 
 strike deal on
 
-make move towards
+to engage
+
+surround
+
+strike deal on
+
+threaten
+
+bomb
+
+advise
+
+deny existence
+
+threaten
+
+to engage
+
+to help
+
+occupy
+
+surround
+
+to start talks on
 
 expose
 
 split up over
 
-expose
+advise
+
+make move towards
+
+discuss possible
+
+deny existenceResults for "war_verb_action_future"
+Defined in module news.py
+Used in news.py
+
+renew talks on
+
+advise
 
 surround
+
+threaten
+
+destroy
+
+split up over
+
+to engage
+
+seek
+
+destroy
+
+surround
+
+bomb
+
+to help
+
+to start talks on
+
+bomb
+
+surround
+
+strike deal on
+
+renew talks on
+
+advise
+
+seek
+
+to helpResults for "war_verb_action_future"
+Defined in module news.py
+Used in news.py
+
+expose
+
+discuss possible
+
+discuss possible
+
+make move towards
+
+seek
+
+advise
+
+expose
+
+to engage
+
+to engage
+
+surround
+
+strike against
+
+renew talks on
+
+deny existence
+
+renew talks on
+
+expose
+
+strike deal on
+
+strike against
+
+make move towards
+
+renew talks on
+
+make move towardsResults for "war_verb_action_future"
+Defined in module news.py
+Used in news.py
+
+to engage
+
+discuss possible
+
+bomb
+
+strike deal on
+
+deny existence
+
+to engage
+
+make move towards
+
+deny existence
+
+occupy
+
+bomb
+
+discuss possible
+
+split up over
+
+to engage
+
+surround
+
+make move towards
+
+bomb
+
+bomb
+
+renew talks on
+
+seek
+
+deny existenceResults for "war_verb_action_future"
+Defined in module news.py
+Used in news.py
+
+occupy
+
+to help
+
+strike against
+
+strike against
+
+to help
+
+strike deal on
+
+to help
+
+split up over
+
+discuss possible
+
+to engage
+
+to help
+
+advise
+
+discuss possible
+
+occupy
+
+threaten
+
+expose
+
+strike against
+
+strike against
+
+surround
+
+threatenResults for "war_verb_action_future"
+Defined in module news.py
+Used in news.py
+
+advise
+
+strike against
+
+surround
+
+surround
+
+strike against
+
+to help
+
+advise
+
+advise
+
+to help
+
+occupy
+
+renew talks on
+
+discuss possible
+
+renew talks on
+
+advise
+
+threaten
+
+surround
+
+strike deal on
+
+to start talks on
+
+renew talks on
+
+strike deal on

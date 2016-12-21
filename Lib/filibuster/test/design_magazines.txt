@@ -1,21 +1,253 @@
+Results for "design_magazines"
+Defined in module design.py
+Used in design.py
 
+Design Report
+
+Graficar
 
 Baseline
 
-I.D.
+iM [Identity Matters]
+
+Graphis
+
+ADGtext
+
+iM [Identity Matters]
+
+Adbusters
+
+Applies Arts
+
+Ark
+
+Frieze
+
+Cactus
+
+Ark
+
+Argos
+
+Compres
+
+Items
+
+ARCA International
+
+Columnum
+
+ARCA International
+
+IcographicResults for "design_magazines"
+Defined in module design.py
+Used in design.py
+
+House
+
+DotDotDot
+
+DotDotDot
+
+Icographic
+
+BAT
+
+Form & Zweck
+
+The Fleuron
+
+Design Digest
+
+Columnum
+
+Baseline
+
+Wired
 
 Alphabet
+
+I.D.
+
+DaDa
+
+Columnum
+
+Alphabet
+
+Aktuell Grafisk Information
+
+Druk
+
+Items
+
+DotDotDotResults for "design_magazines"
+Defined in module design.py
+Used in design.py
+
+Fuse
+
+Apply
+
+Bauhaus
+
+Affiche
+
+Bauhaus
+
+FontZine
+
+CMYK
+
+Grafische Nachrichten
+
+Applies Arts
+
+Graphis
+
+Compres
+
+Baseline
+
+Argos
+
+Form
+
+Affiche
+
+The Fleuron
+
+iM [Identity Matters]
+
+DotDotDot
+
+Compres
+
+Form & ZweckResults for "design_magazines"
+Defined in module design.py
+Used in design.py
+
+Graficar
+
+AIGA Journal of Graphic Design
+
+BAT
+
+Grafische Nachrichten
+
+A.D.
+
+CMYK
+
+Blueprint
+
+Hard Werken
+
+FontZine
+
+AGD Quartal
+
+A.D.
+
+Icographic
+
+Adbusters
+
+Bulldozer
+
+Fuse
+
+Hard Werken
+
+Architext Design
+
+HQ High Quality
+
+Design Digest
+
+DrukResults for "design_magazines"
+Defined in module design.py
+Used in design.py
+
+Emigre
+
+Adbusters
+
+Colors
+
+The Fleuron
+
+Design Issues
+
+Adobe Magazine
+
+Bauhaus
+
+Argos
+
+Applies Arts
+
+Druk
+
+Compres
+
+Graphis
+
+LetterLetter
+
+FontZine
+
+Grafische Nachrichten
+
+Hard Werken
+
+iM [Identity Matters]
+
+Apply
+
+Journal of Intuitive Revival
+
+Form & ZweckResults for "design_magazines"
+Defined in module design.py
+Used in design.py
+
+Hard Werken
+
+Apply
 
 Argos
 
 Colors
 
-Domus
+Fine Print
 
-Journal of Environmental Revival
+CMYK
 
-House
+Compres
 
-iM [Identity Matters]
+Baseline
 
-Druk
+Hfg Forum
+
+Art View
+
+ADGtext
+
+Baseline
+
+EYE
+
+Design Issues
+
+The Fleuron
+
+Akademische Mitteilungen
+
+De Stijl
+
+BAT
+
+AGD Quartal
+
+Design Report

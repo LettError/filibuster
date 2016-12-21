@@ -1,4 +1,14 @@
+Results for "news_co_sx"
+Defined in module corporate.py
+Used in corporate.py
 
+Connection
+
+.com
+
+Update
+
+Update
 
 .com
 
@@ -6,9 +16,39 @@ Desk
 
 .net
 
-Update
+.net
+
+.net
+
+Desk
+
+Center
 
 .com
+
+Desk
+
+Update
+
+.net
+
+Desk
+
+Connection
+
+Center
+
+Connection
+
+.netResults for "news_co_sx"
+Defined in module corporate.py
+Used in corporate.py
+
+.com
+
+Center
+
+Center
 
 .net
 
@@ -16,6 +56,198 @@ Update
 
 Center
 
+.com
+
+Desk
+
+Connection
+
+Connection
+
+Center
+
+Desk
+
+Update
+
+Connection
+
+Connection
+
+Update
+
+Center
+
+.net
+
+Center
+
+DeskResults for "news_co_sx"
+Defined in module corporate.py
+Used in corporate.py
+
+Desk
+
+Connection
+
+Connection
+
+.com
+
+Center
+
+Connection
+
+.com
+
+Center
+
+Center
+
+.com
+
+.com
+
+.com
+
+Connection
+
+Update
+
+Update
+
+Connection
+
+.net
+
+.com
+
+Center
+
+.comResults for "news_co_sx"
+Defined in module corporate.py
+Used in corporate.py
+
+Desk
+
+.com
+
+.net
+
+.com
+
+Center
+
+.net
+
+.net
+
+Update
+
+.com
+
+Center
+
+.net
+
+Connection
+
+.com
+
+Update
+
+Desk
+
+Update
+
+Connection
+
+Center
+
+.net
+
+.netResults for "news_co_sx"
+Defined in module corporate.py
+Used in corporate.py
+
+Update
+
+Update
+
+.com
+
+Update
+
 Desk
 
 .net
+
+Desk
+
+Update
+
+Desk
+
+Desk
+
+.net
+
+Update
+
+Update
+
+Update
+
+Center
+
+.com
+
+.net
+
+.net
+
+.net
+
+ConnectionResults for "news_co_sx"
+Defined in module corporate.py
+Used in corporate.py
+
+Center
+
+Desk
+
+Center
+
+Center
+
+Update
+
+Center
+
+.net
+
+Desk
+
+Update
+
+.com
+
+Update
+
+Connection
+
+.net
+
+Desk
+
+.com
+
+Center
+
+Update
+
+Center
+
+.net
+
+Desk

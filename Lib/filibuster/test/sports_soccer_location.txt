@@ -1,21 +1,253 @@
+Results for "sports_soccer_location"
+Defined in module sports.py
+Used in sports.py
 
+Bologna
+
+Munich
+
+Florence
+
+Moscow
+
+Kiev
+
+Moscow
+
+St. Petersburg
+
+Hamburg
+
+Frankfurt
+
+Gouda
+
+Delft
+
+Maastricht
+
+Berlin
+
+Berlin
+
+Delft
+
+Leiden
+
+The Hague
+
+Hamburg
+
+Munich
+
+FrankfurtResults for "sports_soccer_location"
+Defined in module sports.py
+Used in sports.py
+
+Munich
+
+The Hague
+
+Utrecht
+
+Kiev
+
+Berlin
+
+Munich
+
+Bonn
+
+Kiev
+
+Gouda
+
+Bologna
+
+Kiev
+
+Maastricht
+
+Munich
+
+Haarlem
+
+Moscow
+
+St. Petersburg
+
+Frankfurt
+
+Rome
+
+Milan
+
+BerlinResults for "sports_soccer_location"
+Defined in module sports.py
+Used in sports.py
+
+Munich
+
+Frankfurt
+
+St. Petersburg
+
+Utrecht
+
+Bonn
+
+Eindhoven
+
+Kiev
+
+St. Petersburg
+
+Gouda
+
+Bologna
+
+St. Petersburg
+
+Rome
+
+Milan
+
+Bologna
+
+Arnhem
+
+Berlin
+
+St. Petersburg
+
+Rome
+
+Haarlem
+
+St. PetersburgResults for "sports_soccer_location"
+Defined in module sports.py
+Used in sports.py
+
+Rome
+
+St. Petersburg
+
+Delft
+
+Kiev
+
+Florence
+
+Kiev
+
+Arnhem
+
+Delft
+
+Rotterdam
+
+Kiev
+
+The Hague
+
+St. Petersburg
+
+Eindhoven
+
+Haarlem
+
+Moscow
+
+St. Petersburg
+
+Milan
+
+Utrecht
+
+Kiev
+
+UtrechtResults for "sports_soccer_location"
+Defined in module sports.py
+Used in sports.py
+
+Florence
+
+Milan
+
+The Hague
+
+Milan
+
+Berlin
+
+Kiev
 
 Maastricht
 
 Rome
 
-Arnhem
+Munich
+
+St. Petersburg
+
+Utrecht
+
+Berlin
+
+Moscow
+
+Florence
+
+Florence
+
+Bologna
 
 Haarlem
 
-Kiev
+Milan
 
-Delft
+Eindhoven
+
+KievResults for "sports_soccer_location"
+Defined in module sports.py
+Used in sports.py
+
+Milan
+
+Florence
+
+Leiden
+
+Berlin
+
+Moscow
+
+Moscow
+
+Berlin
+
+St. Petersburg
+
+Munich
+
+Gouda
+
+Utrecht
+
+Moscow
+
+The Hague
+
+Bologna
+
+Florence
+
+Florence
 
 Bonn
 
-Hamburg
+St. Petersburg
 
 Maastricht
 
-St. Petersburg
+Haarlem

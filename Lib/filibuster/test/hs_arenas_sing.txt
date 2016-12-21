@@ -1,21 +1,253 @@
+Results for "hs_arenas_sing"
+Defined in module horoscope.py
+Used in horoscope.py
 
+romantic life
+
+domestic partner
+
+introspection
+
+introspection
 
 professional efficiency
+
+portfolio
+
+domestic partner
+
+personal libido
+
+romantic life
+
+significant other
+
+two dollars and fifty cents
+
+personal melancholy
+
+romantic life
+
+professional efficiency
+
+romantic life
+
+significant other
+
+two dollars and fifty cents
+
+sensitive nature
+
+personal libido
+
+ambitionResults for "hs_arenas_sing"
+Defined in module horoscope.py
+Used in horoscope.py
+
+creativity
+
+two dollars and fifty cents
+
+romantic life
+
+romantic life
+
+domestic partner
+
+sensitive nature
+
+domestic situation
+
+marital status
+
+domestic partner
+
+home life
+
+domestic situation
+
+significant other
+
+creativity
+
+two dollars and fifty cents
+
+two dollars and fifty cents
+
+melancholy
+
+two dollars and fifty cents
+
+professional efficiency
+
+professional efficiency
+
+home lifeResults for "hs_arenas_sing"
+Defined in module horoscope.py
+Used in horoscope.py
+
+professional efficiency
+
+romantic life
+
+professional efficiency
+
+domestic situation
+
+marital status
+
+marital status
+
+home life
 
 sensitive nature
 
 two dollars and fifty cents
 
-domestic partner
+significant other
+
+insight
 
 domestic partner
 
 marital status
+
+personal ambition
 
 two dollars and fifty cents
 
+domestic situation
+
+ascendant scorpio
+
+significant other
+
+romantic life
+
+two dollars and fifty centsResults for "hs_arenas_sing"
+Defined in module horoscope.py
+Used in horoscope.py
+
+portfolio
+
+domestic situation
+
+domestic partner
+
 marital status
 
-productivity
+romantic life
+
+home life
+
+professional efficiency
+
+professional efficiency
+
+domestic situation
+
+two dollars and fifty cents
+
+significant other
+
+generosity
+
+significant other
+
+ascendant aries
+
+personal passion
 
 marital status
+
+professional efficiency
+
+ascendant capricorn
+
+home life
+
+significant otherResults for "hs_arenas_sing"
+Defined in module horoscope.py
+Used in horoscope.py
+
+marital status
+
+personal insight
+
+professional efficiency
+
+sensitive nature
+
+sensitive nature
+
+professional efficiency
+
+personal passion
+
+home life
+
+professional efficiency
+
+significant other
+
+marital status
+
+professional efficiency
+
+two dollars and fifty cents
+
+insight
+
+sensitive nature
+
+ascendant taurus
+
+romantic life
+
+home life
+
+professional efficiency
+
+marital statusResults for "hs_arenas_sing"
+Defined in module horoscope.py
+Used in horoscope.py
+
+home life
+
+personal generosity
+
+domestic situation
+
+ascendant pisces
+
+ascendant aquarius
+
+domestic partner
+
+professional efficiency
+
+marital status
+
+sensitive nature
+
+marital status
+
+marital status
+
+sensitive nature
+
+melancholy
+
+sensitive nature
+
+significant other
+
+libido
+
+home life
+
+two dollars and fifty cents
+
+significant other
+
+romantic life

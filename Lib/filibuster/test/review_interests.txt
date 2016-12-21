@@ -1,21 +1,253 @@
+Results for "review_interests"
+Defined in module reviews.py
+Used in reviews.py
 
-
-shopping
-
-money
-
-news
-
-information
+medicin
 
 money
 
 health
 
+the internet
+
 news
+
+being informed
+
+information
+
+the internet
+
+privacy
+
+privacy
+
+health
+
+privacy
+
+the internet
+
+privacy
+
+the internet
+
+money
+
+news
+
+money
+
+health
+
+healthResults for "review_interests"
+Defined in module reviews.py
+Used in reviews.py
+
+health
+
+shopping
+
+information
+
+health
+
+health
+
+news
+
+content
+
+medicin
+
+information
+
+news
+
+information
+
+medicin
+
+news
+
+content
+
+information
+
+shopping
+
+information
+
+information
+
+privacy
+
+moneyResults for "review_interests"
+Defined in module reviews.py
+Used in reviews.py
+
+medicin
+
+content
+
+content
+
+health
+
+privacy
+
+health
+
+investing
+
+information
+
+privacy
+
+news
+
+investing
+
+information
+
+the internet
+
+investing
+
+privacy
+
+information
+
+news
+
+money
+
+news
+
+privacyResults for "review_interests"
+Defined in module reviews.py
+Used in reviews.py
+
+medicin
+
+content
+
+privacy
+
+news
+
+the internet
+
+health
+
+money
+
+being informed
+
+news
+
+news
+
+shopping
+
+health
+
+news
+
+money
+
+the internet
+
+money
+
+news
+
+being informed
+
+privacy
+
+privacyResults for "review_interests"
+Defined in module reviews.py
+Used in reviews.py
+
+health
 
 shopping
 
 investing
 
+content
+
+health
+
+investing
+
+the internet
+
+shopping
+
+news
+
+content
+
+news
+
+shopping
+
+the internet
+
+information
+
+the internet
+
+news
+
+shopping
+
+the internet
+
+content
+
+the internetResults for "review_interests"
+Defined in module reviews.py
+Used in reviews.py
+
+money
+
+information
+
+investing
+
+medicin
+
+content
+
+content
+
+investing
+
 privacy
+
+shopping
+
+privacy
+
+money
+
+news
+
+shopping
+
+medicin
+
+medicin
+
+privacy
+
+the internet
+
+money
+
+money
+
+money

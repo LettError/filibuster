@@ -1,21 +1,253 @@
+Results for "hs_altsign"
+Defined in module horoscope.py
+Used in horoscope.py
 
+Pisces
 
-Aries
-
-Capricorn
-
-Capricorn
+Cancer
 
 Taurus
+
+Scorpio
+
+Libra
 
 Gemini
 
 Taurus
 
+Aries
+
+Taurus
+
+Aquarius
+
+Pisces
+
+Gemini
+
+Gemini
+
+Aquarius
+
+Gemini
+
+Scorpio
+
+Capricorn
+
+Pisces
+
+Aquarius
+
+TaurusResults for "hs_altsign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Aquarius
+
+Cancer
+
+Sagittarius
+
+Virgo
+
+Virgo
+
+Taurus
+
+Sagittarius
+
+Sagittarius
+
+Aries
+
+Aries
+
+Gemini
+
+Gemini
+
+Aries
+
+Pisces
+
+Taurus
+
+Scorpio
+
+Leo
+
+Capricorn
+
+Libra
+
+PiscesResults for "hs_altsign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Virgo
+
+Libra
+
+Leo
+
+Leo
+
+Aries
+
+Sagittarius
+
+Aries
+
+Capricorn
+
+Aquarius
+
+Aquarius
+
+Aries
+
+Capricorn
+
 Taurus
 
 Aries
 
+Gemini
+
+Capricorn
+
+Libra
+
+Capricorn
+
+Scorpio
+
+AriesResults for "hs_altsign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Virgo
+
+Gemini
+
+Taurus
+
+Scorpio
+
+Gemini
+
+Cancer
+
+Scorpio
+
+Taurus
+
+Pisces
+
+Aries
+
+Taurus
+
+Taurus
+
+Aries
+
+Aries
+
+Scorpio
+
+Capricorn
+
+Libra
+
+Leo
+
+Aries
+
+ScorpioResults for "hs_altsign"
+Defined in module horoscope.py
+Used in horoscope.py
+
 Cancer
 
 Pisces
+
+Libra
+
+Capricorn
+
+Pisces
+
+Virgo
+
+Pisces
+
+Scorpio
+
+Pisces
+
+Virgo
+
+Virgo
+
+Capricorn
+
+Gemini
+
+Gemini
+
+Taurus
+
+Gemini
+
+Gemini
+
+Scorpio
+
+Virgo
+
+AquariusResults for "hs_altsign"
+Defined in module horoscope.py
+Used in horoscope.py
+
+Sagittarius
+
+Leo
+
+Aries
+
+Aquarius
+
+Gemini
+
+Gemini
+
+Libra
+
+Libra
+
+Pisces
+
+Libra
+
+Aquarius
+
+Virgo
+
+Cancer
+
+Leo
+
+Taurus
+
+Aries
+
+Gemini
+
+Aries
+
+Scorpio
+
+Leo

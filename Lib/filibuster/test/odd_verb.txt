@@ -1,21 +1,253 @@
+Results for "odd_verb"
+Defined in module boymechanic.py
+Used in boymechanic.py
 
+use
+
+open
+
+clean
 
 bake
 
-use
-
-use
-
-fix
-
-close
+clean
 
 inflate
-
-repair
 
 use
 
 fix
 
 make
+
+inflate
+
+clean
+
+inflate
+
+close
+
+bake
+
+fix
+
+open
+
+repair
+
+clean
+
+open
+
+openResults for "odd_verb"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+make
+
+make
+
+make
+
+inflate
+
+bake
+
+use
+
+fix
+
+make
+
+fix
+
+close
+
+repair
+
+close
+
+use
+
+bake
+
+use
+
+bake
+
+close
+
+clean
+
+close
+
+bakeResults for "odd_verb"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+clean
+
+clean
+
+make
+
+inflate
+
+close
+
+repair
+
+bake
+
+fix
+
+inflate
+
+repair
+
+inflate
+
+close
+
+clean
+
+close
+
+close
+
+inflate
+
+fix
+
+open
+
+fix
+
+bakeResults for "odd_verb"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+fix
+
+fix
+
+make
+
+fix
+
+inflate
+
+make
+
+clean
+
+inflate
+
+open
+
+fix
+
+bake
+
+repair
+
+use
+
+bake
+
+make
+
+repair
+
+close
+
+use
+
+make
+
+fixResults for "odd_verb"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+inflate
+
+inflate
+
+make
+
+repair
+
+use
+
+make
+
+repair
+
+make
+
+repair
+
+use
+
+open
+
+inflate
+
+inflate
+
+clean
+
+make
+
+clean
+
+open
+
+bake
+
+clean
+
+cleanResults for "odd_verb"
+Defined in module boymechanic.py
+Used in boymechanic.py
+
+use
+
+use
+
+fix
+
+open
+
+make
+
+bake
+
+repair
+
+open
+
+repair
+
+make
+
+inflate
+
+repair
+
+close
+
+clean
+
+fix
+
+make
+
+clean
+
+make
+
+inflate
+
+repair

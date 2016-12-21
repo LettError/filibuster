@@ -1,21 +1,253 @@
-
+Results for "name_japanese_px"
+Defined in module names.py
+Used in names.py
 
 Ma
 
-Yo
+Ko
+
+Sa
+
+Ko
+
+Sun
+
+Ta
+
+Ka
+
+Ya
+
+Ta
+
+So
+
+Ta
+
+Ma
+
+Ko
+
+So
+
+Sun
+
+Su
+
+Son
+
+Ti
+
+Ka
+
+SoResults for "name_japanese_px"
+Defined in module names.py
+Used in names.py
+
+Su
+
+Ka
+
+Ti
+
+Ka
+
+Sun
 
 San
 
+To
+
+Yo
+
+Mi
+
 Ma
+
+To
+
+Son
+
+Su
+
+Ka
+
+Ta
+
+Ti
+
+Mi
+
+Ko
+
+To
+
+SunResults for "name_japanese_px"
+Defined in module names.py
+Used in names.py
+
+Ya
+
+So
+
+Sa
+
+Su
+
+Ya
+
+Sa
+
+San
+
+To
+
+San
+
+San
+
+Su
+
+Sun
+
+Ko
+
+Mi
+
+Yo
+
+Ka
+
+Su
+
+Son
+
+Ka
+
+KaResults for "name_japanese_px"
+Defined in module names.py
+Used in names.py
+
+Mi
+
+San
+
+Mi
+
+Ti
+
+Sun
+
+Mi
+
+Ti
+
+Ma
+
+Su
+
+Ka
+
+Son
+
+To
+
+Ta
+
+Su
+
+Ti
+
+Mi
+
+Ti
+
+To
+
+Ma
+
+TiResults for "name_japanese_px"
+Defined in module names.py
+Used in names.py
+
+San
+
+Ta
+
+Ka
+
+Ya
+
+Ko
+
+So
+
+Ti
+
+Sa
+
+Mi
+
+Yo
+
+Mi
+
+Ya
+
+Mi
+
+Son
+
+Su
+
+Sa
+
+Ta
+
+Sun
+
+Ma
+
+SanResults for "name_japanese_px"
+Defined in module names.py
+Used in names.py
+
+Sun
 
 Ka
 
 Mi
 
-Sun
+Ko
+
+Ka
+
+San
+
+San
 
 Yo
 
-Sun
+Ko
+
+Son
+
+Son
+
+Ma
+
+Ko
 
 Ti
+
+Mi
+
+Ti
+
+Ya
+
+Su
+
+Ka
+
+To

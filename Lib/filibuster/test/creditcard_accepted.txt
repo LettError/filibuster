@@ -1,21 +1,253 @@
+Results for "creditcard_accepted"
+Defined in module creditcard.py
+Used in filibuster.py
 
+We prefer NiceFriendliCard
 
-Titanium NobleCard preferred!
+Hafnium HyperExpress accepted.
 
-Argon GodCard accepted.
+Pay with SETBizCard
 
-CyberNetworkingNow! prefers Carbon NetCard
+MemberCard accepted.
 
-Silver BronzeExpress accepted.
+We prefer MemberExpress
 
-Home ExiCard accepted.
+We prefer DinerCard
 
-We prefer HolyUSCredit
+netBiz2000 welcomes SterlingExpress
 
-We welcome InterCredit
+We prefer Business MoneyCredit
 
-MajorChipperCard preferred!
+AsiaCourtesyExpress preferred!
 
-We welcome MondoMajorCard
+We welcome SpiriMemberExpress
 
-Silver NobleCard preferred!
+Home DebtExpress preferred!
+
+MediaCard accepted.
+
+We prefer WebCorporateCard
+
+Pay with USKashCredit
+
+InterNetworkingNow! Inc. welcomes ExoMemberCard
+
+We welcome Hydrogen BuyCredit
+
+We prefer Personal TradeExpress
+
+We welcome DollarUSCard
+
+CyberTrust2000 welcomes DollarCard
+
+Home KatotoCredit preferred!Results for "creditcard_accepted"
+Defined in module creditcard.py
+Used in filibuster.py
+
+FriendlyPetroCard accepted.
+
+myNetworking2000 prefers Corporate HyperExpress
+
+HyperCorp2000 Inc. welcomes SETCard
+
+Carbon KashCard preferred!
+
+SterlingCard preferred!
+
+myTrustonline prefers Business ChemiCard
+
+HyperSaleonline prefers ShopEuroExpress
+
+Pay with ToshasoCard
+
+webWorksonline prefers Platinum AccessCard
+
+InterBrand2000 LLC prefers Silver PetroliCard
+
+Pay with Tin SoyanExpress
+
+PetroliUltraCard accepted.
+
+Pay with Carbon GasCredit
+
+webTrustNow! prefers PoliteMediaCard
+
+ComCard accepted.
+
+mySaleonline PLC welcomes MiyanCard
+
+myGroup.com prefers Personal HolyCredit
+
+We welcome SwipeCard
+
+Hydrogen MondoCard accepted.
+
+We welcome ShopCardResults for "creditcard_accepted"
+Defined in module creditcard.py
+Used in filibuster.py
+
+webBankonline prefers PetroliCard
+
+We welcome NetDebetCard
+
+Pay with SwipeCard
+
+Platinum SterlingExpress preferred!
+
+DimeFriendlyExpress preferred!
+
+We welcome Scandium DimeCard
+
+We welcome Bronze DuoExpress
+
+We prefer Personal KashCard
+
+We welcome MajorExpress
+
+EquiSale2000 LLC prefers Home PetroliCard
+
+Pay with PersonalCredit
+
+metaSale.com, Inc. prefers ChangeFinaCard
+
+eVision2000 LLC welcomes Home MarketCard
+
+getNetonline welcomes Business SushikoExpress
+
+Pay with QuatroNetCard
+
+We welcome TwinChangeExpress
+
+Osmium EuroCard accepted.
+
+NiceExcelCard accepted.
+
+eGroupNow! prefers StoreCard
+
+We prefer RhodiumDollarCardResults for "creditcard_accepted"
+Defined in module creditcard.py
+Used in filibuster.py
+
+HKCard accepted.
+
+We prefer Titanium XenonCredit
+
+DebtNetworkingCard preferred!
+
+Titanium RealCard accepted.
+
+We prefer Platinum HKCredit
+
+Pay with USTahitiCard
+
+webTrustNow! prefers Bronze PoliteExpress
+
+mySale2000 prefers Business TrioCredit
+
+We prefer TitaniumWNNCard
+
+We prefer Corporate NobleCredit
+
+myAuctions.com LLC prefers Krypton SterlingCard
+
+Pay with Carbon GodCard
+
+We prefer Home ExcelCard
+
+Pay with FamilyFriendliCredit
+
+InterWorksNow! prefers Personal MinorCard
+
+We welcome YabanyanCard
+
+metaBrand.com welcomes MediaLiveCard
+
+We prefer SpiriShopCard
+
+PetroliPecuniaCard accepted.
+
+We welcome MiyoExpressResults for "creditcard_accepted"
+Defined in module creditcard.py
+Used in filibuster.py
+
+goBankNow! prefers Home TotsiCard
+
+Neon SterlingCard accepted.
+
+Platinum IACard preferred!
+
+CyberNetNow! welcomes Business PhoneCard
+
+metaTrustNow! welcomes Personal YoyansoCredit
+
+HomeCard accepted.
+
+MemberCard accepted.
+
+Business USCard accepted.
+
+Pay with Niobium KidCredit
+
+We welcome Business TrioCard
+
+PetroliCard accepted.
+
+We prefer Xenon PlastiCard
+
+ComfortCard preferred!
+
+We prefer Hydrogen KokaCard
+
+netVision2000 welcomes Business MajorExpress
+
+Pay with Business EuroCard
+
+Bronze MinorCredit accepted.
+
+Hydrogen SpecuCard preferred!
+
+netWorksNow! prefers KidCard
+
+Personal CashCredit preferred!Results for "creditcard_accepted"
+Defined in module creditcard.py
+Used in filibuster.py
+
+Business DirectCard preferred!
+
+Personal FinaCard preferred!
+
+iAuctionsonline welcomes NiceCard
+
+We welcome TrioCard
+
+We prefer Home MintoCard
+
+Home MajorExpress accepted.
+
+Pay with Business MoneyCard
+
+iBank2000 prefers Corporate GasCard
+
+We welcome HyperPetroCard
+
+MoneyCard preferred!
+
+ElectroYosobiCard accepted.
+
+myWorksonline welcomes Bronze MarketCard
+
+We prefer Gold MemberCredit
+
+We welcome Home ShopCard
+
+We welcome GodChipperCard
+
+We welcome SterlingFriendliCard
+
+YoyiyoCard accepted.
+
+Titanium FinaCard preferred!
+
+We welcome Carbon MinorCredit
+
+Pay with HolyUltraCredit

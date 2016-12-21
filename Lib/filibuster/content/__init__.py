@@ -8,12 +8,12 @@
 3.0.0    - split all the content into babycontents
 evb        - note: only one dictionary named 'contexnt' allowed per module
         this limitation is to speed up loading
-3.0.1    - changes due to the fact that Content is now a submodule of the
+4.0    - changes due to the fact that Content is now a submodule of the
         new ContentWriter package. (jvr)
 4.0     2016 public release
 """
 
-__version__ = '3.0.1'
+__version__ = '4.0'
 __author__ = "someone"
 
 

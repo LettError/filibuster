@@ -1,4 +1,25 @@
+Results for "sci_pseudomisc"
+Defined in module sciences.py
 
+vernacular
+
+stupidity
+
+ratio
+
+stupidity
+
+ratio
+
+stupidity
+
+stupidity
+
+stupidity
+
+ratio
+
+ratio
 
 vernacular
 
@@ -6,16 +27,221 @@ stupidity
 
 vernacular
 
+stupidity
+
+ratio
+
+vernacular
+
+vernacular
+
+stupidity
+
+vernacular
+
+stupidityResults for "sci_pseudomisc"
+Defined in module sciences.py
+
+vernacular
+
+ratio
+
+stupidity
+
+ratio
+
+ratio
+
+stupidity
+
+vernacular
+
+ratio
+
+stupidity
+
+ratio
+
+ratio
+
+stupidity
+
+stupidity
+
+vernacular
+
+ratio
+
+ratio
+
+ratio
+
+stupidity
+
+stupidity
+
+vernacularResults for "sci_pseudomisc"
+Defined in module sciences.py
+
+stupidity
+
+vernacular
+
+vernacular
+
+stupidity
+
+ratio
+
+vernacular
+
+stupidity
+
+ratio
+
+stupidity
+
+stupidity
+
+ratio
+
+stupidity
+
+vernacular
+
+vernacular
+
+stupidity
+
+ratio
+
 ratio
 
 vernacular
 
 ratio
 
+vernacularResults for "sci_pseudomisc"
+Defined in module sciences.py
+
+ratio
+
+ratio
+
+ratio
+
+ratio
+
+stupidity
+
+ratio
+
+ratio
+
+ratio
+
+ratio
+
+ratio
+
+ratio
+
+stupidity
+
+stupidity
+
+vernacular
+
+stupidity
+
+stupidity
+
+stupidity
+
+vernacular
+
+stupidity
+
+ratioResults for "sci_pseudomisc"
+Defined in module sciences.py
+
+ratio
+
+vernacular
+
+ratio
+
+stupidity
+
+stupidity
+
+stupidity
+
+stupidity
+
 vernacular
 
 ratio
 
 ratio
 
+stupidity
+
+ratio
+
+stupidity
+
+ratio
+
+stupidity
+
 vernacular
+
+ratio
+
+stupidity
+
+vernacular
+
+vernacularResults for "sci_pseudomisc"
+Defined in module sciences.py
+
+ratio
+
+vernacular
+
+vernacular
+
+vernacular
+
+stupidity
+
+stupidity
+
+stupidity
+
+stupidity
+
+ratio
+
+vernacular
+
+stupidity
+
+ratio
+
+stupidity
+
+ratio
+
+ratio
+
+vernacular
+
+vernacular
+
+vernacular
+
+vernacular
+
+ratio

@@ -1,21 +1,253 @@
+Results for "num_card_multiple"
+Defined in module general.py
+Used in articles.py
 
+nine
 
-eight
+seven
 
 seven
 
 six
 
+two
+
+two
+
+eight
+
+eight
+
+four
+
+four
+
+two
+
+eight
+
+four
+
+five
+
+eight
+
+five
+
+four
+
+eight
+
+two
+
+fiveResults for "num_card_multiple"
+Defined in module general.py
+Used in articles.py
+
+six
+
 three
+
+nine
+
+six
+
+seven
+
+seven
+
+five
+
+five
+
+five
+
+three
+
+three
+
+three
+
+eight
+
+two
+
+two
+
+nine
+
+eight
 
 eight
 
 nine
 
+sevenResults for "num_card_multiple"
+Defined in module general.py
+Used in articles.py
+
+three
+
+six
+
+four
+
+five
+
+six
+
+eight
+
+three
+
+three
+
+three
+
+nine
+
+five
+
+nine
+
+five
+
+five
+
+three
+
+three
+
+three
+
 seven
+
+six
+
+fourResults for "num_card_multiple"
+Defined in module general.py
+Used in articles.py
+
+two
+
+two
+
+nine
+
+nine
+
+four
+
+eight
+
+nine
+
+six
+
+nine
+
+five
+
+five
+
+two
+
+three
+
+two
+
+two
+
+nine
+
+three
+
+four
+
+six
+
+nineResults for "num_card_multiple"
+Defined in module general.py
+Used in articles.py
+
+six
+
+three
 
 four
 
 nine
 
+eight
+
+six
+
+nine
+
+three
+
+five
+
+eight
+
+four
+
+eight
+
+three
+
+four
+
+four
+
+five
+
+three
+
+six
+
+six
+
+threeResults for "num_card_multiple"
+Defined in module general.py
+Used in articles.py
+
+five
+
+two
+
 seven
+
+seven
+
+nine
+
+three
+
+seven
+
+four
+
+eight
+
+two
+
+six
+
+six
+
+seven
+
+eight
+
+six
+
+four
+
+three
+
+two
+
+seven
+
+nine

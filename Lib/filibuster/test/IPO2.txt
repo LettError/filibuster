@@ -1,21 +1,253 @@
+Results for "IPO2"
+Defined in module corporate.py
+Used in corporate.py, modernmedia.py
 
+iBank.com
 
-metaWorksNow!
+InterBrand2000, Inc.
 
-netCorpNow!
+iSale2000
 
-metaTradeonline Inc.
+webTrade.com Inc.
 
-eBrand.com
+webTrade2000 S.A.
 
-metaBizNow!
+CyberGroup2000 LLC
 
-getVisiononline
+getTrustNow! S.A.
+
+netVisionNow!
+
+EquiSale.com GmBH
+
+InterBrandNow! Inc.
+
+metaSaleonline LLC
+
+getBiz2000, Inc.
+
+myAuctions.com S.A.
+
+EquiNetworking.com
+
+InterSale.com LLC
+
+iTrust.com
+
+HyperGrouponline LLC
+
+EquiVisiononline, Inc.
+
+getNetonline
+
+HyperTrust.com Inc.Results for "IPO2"
+Defined in module corporate.py
+Used in corporate.py, modernmedia.py
+
+webTrust2000 GmBH
+
+HyperNetonline Inc.
+
+netGrouponline
+
+iSaleNow!, Inc.
+
+getBankonline
+
+getAuctionsonline
+
+webBiz2000 PLC
+
+goNetworking2000
+
+EquiCorp2000, Inc.
+
+metaCorp.com
+
+eCorp.com LLC
+
+EquiCorponline
+
+InterGroup2000 GmBH
+
+CyberNet.com Inc.
+
+EquiVision.com Inc.
+
+iNetworkingonline Inc.
+
+CyberBrand.com, Inc.
+
+getSaleNow! Inc.
+
+InterGroup.com GmBH
+
+iTrustNow! Inc.Results for "IPO2"
+Defined in module corporate.py
+Used in corporate.py, modernmedia.py
+
+goNetNow!
+
+CyberNetworking.com Inc.
+
+HyperBankonline Inc.
+
+eVisiononline Inc.
+
+CyberNet.com S.A.
+
+InterNetonline Inc.
+
+metaNetworkingNow! Inc.
+
+metaNet.com
+
+CyberGroupNow!
+
+eNetworkingonline Inc.
+
+CyberWorks2000
+
+EquiVision2000 LLC
+
+netSale.com
+
+HyperGroup2000, Inc.
+
+getCorp.com
+
+HyperCorpNow!
+
+mySaleNow! Inc.
+
+EquiNetworking2000 LLC
+
+webGrouponline PLC
+
+InterBizNow! Inc.Results for "IPO2"
+Defined in module corporate.py
+Used in corporate.py, modernmedia.py
+
+CyberBrandonline
+
+EquiBankonline LLC
+
+InterTrustonline
+
+getVision2000 GmBH
+
+goBank.com GmBH
+
+CyberTrustNow! Inc.
+
+HyperWorks2000 Inc.
+
+goAuctions.com
+
+iWorksonline LLC
+
+HyperVisionNow! LLC
+
+InterSaleNow!
+
+HyperVisiononline S.A.
+
+netBankonline Inc.
+
+metaNetonline Inc.
+
+goSale.com
+
+InterBrand.com
+
+metaCorp2000
+
+webNetNow! PLC
+
+metaNetworking2000
+
+webVision2000, Inc.Results for "IPO2"
+Defined in module corporate.py
+Used in corporate.py, modernmedia.py
+
+InterAuctionsNow! Inc.
+
+webBank2000
+
+goNet2000 Inc.
+
+InterVision2000
+
+iBrand2000
+
+goBiz.com
+
+HyperGroup2000
+
+goGroupNow! PLC
+
+netAuctions.com
+
+webNetworking.com PLC
+
+HyperCorp.com GmBH
+
+metaAuctions2000
+
+netTrade.com LLC
+
+InterBrandNow! Inc.
+
+iCorponline
+
+CyberNet.com LLC
 
 myBankonline
 
-getNetNow! LLC
+EquiCorp2000
 
-goBank2000 Inc.
+iWorksNow! PLC
 
-goBank.com LLC
+webGroup2000 PLCResults for "IPO2"
+Defined in module corporate.py
+Used in corporate.py, modernmedia.py
+
+InterTrust.com
+
+HyperSale.com LLC
+
+getNetNow!
+
+getCorpNow!
+
+getTrust2000 Inc.
+
+netAuctionsNow! Inc.
+
+eWorks2000 Inc.
+
+eGroupNow! S.A.
+
+HyperNetonline Inc.
+
+EquiAuctionsonline
+
+EquiGrouponline Inc.
+
+getCorpNow!
+
+iGroupNow!
+
+netNetworking.com Inc.
+
+metaBiz.com PLC
+
+iVision2000
+
+metaBankonline
+
+goBiz2000
+
+myCorp2000
+
+metaTrust2000, Inc.

@@ -1,14 +1,236 @@
+Results for "realestate_verb"
+Defined in module realestate.py
+Used in realestate.py
 
+for
+
+takes
+
+gets
+
+requires
+
+does
+
+
+
+
+
+does
+
+
+
+does
+
+
+
+needs
+
+
+
+requires
 
 has
 
 does
 
+has
+
+
+
+requires
+
+invokesResults for "realestate_verb"
+Defined in module realestate.py
+Used in realestate.py
+
+needs
+
+requires
+
+has
+
+
+
+has
+
+needs
+
+requires
+
+
+
+needs
+
+does
+
+
+
+has
+
+needs
+
+
+
+invokes
+
+
+
+has
+
+
+
+takes
+
+forResults for "realestate_verb"
+Defined in module realestate.py
+Used in realestate.py
+
+
+
+needs
+
+for
+
+does
+
+takes
+
+needs
+
+takes
+
+has
+
+for
+
+for
+
+takes
+
+
+
+
+
+
+
+
+
+invokes
+
 gets
+
+has
+
+gets
+
+Results for "realestate_verb"
+Defined in module realestate.py
+Used in realestate.py
+
+gets
+
+has
+
+
+
+takes
+
+
+
+takes
+
+
+
+
+
+needs
+
+does
+
+requires
+
+needs
+
+needs
+
+takes
+
+requires
+
+has
+
+
+
+
+
+
+
+Results for "realestate_verb"
+Defined in module realestate.py
+Used in realestate.py
+
+gets
+
+takes
+
+invokes
+
+invokes
+
+does
+
+does
+
+has
+
+requires
+
+has
+
+does
+
+does
+
+
+
+invokes
+
+takes
+
+does
 
 
 
 does
+
+has
+
+takes
+
+requiresResults for "realestate_verb"
+Defined in module realestate.py
+Used in realestate.py
+
+
+
+needs
+
+
+
+gets
+
+needs
+
+takes
+
+
+
+requires
+
+does
+
+requires
 
 invokes
 
@@ -16,6 +238,16 @@ invokes
 
 
 
-takes
+gets
+
+has
 
 takes
+
+
+
+invokes
+
+needs
+
+gets

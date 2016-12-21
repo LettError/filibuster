@@ -1,6 +1,32 @@
+Results for "auction_object_state_deteriorate"
+Defined in module auction.py
+Used in auction.py
 
+slight foxing
+
+scratches
+
+worn
+
+worn
+
+frayed
+
+scratches
+
+worn
+
+scratches
 
 discolored
+
+scratches
+
+worn
+
+discolored
+
+slight foxing
 
 worn
 
@@ -10,7 +36,197 @@ discolored
 
 scratches
 
+scratches
+
+worn
+
+wornResults for "auction_object_state_deteriorate"
+Defined in module auction.py
+Used in auction.py
+
+discolored
+
 frayed
+
+scratches
+
+worn
+
+discolored
+
+slight foxing
+
+frayed
+
+discolored
+
+discolored
+
+scratches
+
+discolored
+
+worn
+
+scratches
+
+slight foxing
+
+worn
+
+scratches
+
+slight foxing
+
+scratches
+
+worn
+
+slight foxingResults for "auction_object_state_deteriorate"
+Defined in module auction.py
+Used in auction.py
+
+frayed
+
+scratches
+
+slight foxing
+
+frayed
+
+worn
+
+scratches
+
+worn
+
+worn
+
+slight foxing
+
+worn
+
+frayed
+
+frayed
+
+slight foxing
+
+slight foxing
+
+slight foxing
+
+worn
+
+scratches
+
+scratches
+
+worn
+
+slight foxingResults for "auction_object_state_deteriorate"
+Defined in module auction.py
+Used in auction.py
+
+worn
+
+discolored
+
+scratches
+
+worn
+
+slight foxing
+
+slight foxing
+
+slight foxing
+
+scratches
+
+slight foxing
+
+worn
+
+discolored
+
+worn
+
+discolored
+
+discolored
+
+slight foxing
+
+scratches
+
+slight foxing
+
+frayed
+
+discolored
+
+wornResults for "auction_object_state_deteriorate"
+Defined in module auction.py
+Used in auction.py
+
+discolored
+
+worn
+
+scratches
+
+worn
+
+discolored
+
+scratches
+
+worn
+
+discolored
+
+slight foxing
+
+worn
+
+slight foxing
+
+worn
+
+discolored
+
+discolored
+
+worn
+
+discolored
+
+slight foxing
+
+frayed
+
+worn
+
+discoloredResults for "auction_object_state_deteriorate"
+Defined in module auction.py
+Used in auction.py
+
+worn
+
+scratches
+
+frayed
+
+slight foxing
+
+scratches
+
+discolored
+
+worn
+
+slight foxing
 
 scratches
 
@@ -18,4 +234,20 @@ discolored
 
 slight foxing
 
+discolored
+
+worn
+
+discolored
+
+scratches
+
+slight foxing
+
+scratches
+
+discolored
+
 frayed
+
+worn

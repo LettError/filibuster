@@ -1,21 +1,253 @@
+Results for "headline_finance_2"
+Defined in module financial.py
+Used in financial.py
 
+Currently valued at $130 per share
 
-Currently valued at $72 per share
-
-The opening share price of $45
-
-The opening share price of $93
-
-Currently valued at $44 per share
-
-The opening share price of $141
-
-Currently valued at $47 per share
-
-Currently valued at $77 per share
-
-Currently valued at $60 per share
+Currently valued at $119 per share
 
 The opening share price of $113
 
-Currently valued at $94 per share
+Currently valued at $135 per share
+
+Currently valued at $84 per share
+
+The opening share price of $140
+
+Currently valued at $91 per share
+
+Currently valued at $83 per share
+
+Currently valued at $97 per share
+
+The opening share price of $81
+
+The opening share price of $120
+
+Currently valued at $134 per share
+
+Currently valued at $108 per share
+
+Currently valued at $121 per share
+
+Currently valued at $66 per share
+
+The opening share price of $44
+
+Currently valued at $110 per share
+
+The opening share price of $53
+
+The opening share price of $142
+
+Currently valued at $138 per shareResults for "headline_finance_2"
+Defined in module financial.py
+Used in financial.py
+
+The opening share price of $139
+
+Currently valued at $134 per share
+
+Currently valued at $122 per share
+
+Currently valued at $48 per share
+
+Currently valued at $105 per share
+
+The opening share price of $112
+
+Currently valued at $132 per share
+
+The opening share price of $117
+
+The opening share price of $78
+
+Currently valued at $43 per share
+
+The opening share price of $132
+
+The opening share price of $128
+
+Currently valued at $75 per share
+
+Currently valued at $81 per share
+
+Currently valued at $88 per share
+
+Currently valued at $87 per share
+
+Currently valued at $138 per share
+
+The opening share price of $53
+
+The opening share price of $89
+
+Currently valued at $123 per shareResults for "headline_finance_2"
+Defined in module financial.py
+Used in financial.py
+
+Currently valued at $73 per share
+
+The opening share price of $130
+
+Currently valued at $126 per share
+
+The opening share price of $131
+
+Currently valued at $68 per share
+
+The opening share price of $72
+
+Currently valued at $62 per share
+
+The opening share price of $137
+
+The opening share price of $47
+
+Currently valued at $108 per share
+
+Currently valued at $117 per share
+
+The opening share price of $110
+
+Currently valued at $113 per share
+
+The opening share price of $66
+
+Currently valued at $97 per share
+
+Currently valued at $57 per share
+
+The opening share price of $109
+
+Currently valued at $78 per share
+
+Currently valued at $107 per share
+
+The opening share price of $71Results for "headline_finance_2"
+Defined in module financial.py
+Used in financial.py
+
+The opening share price of $112
+
+The opening share price of $111
+
+Currently valued at $133 per share
+
+The opening share price of $94
+
+The opening share price of $43
+
+Currently valued at $54 per share
+
+Currently valued at $70 per share
+
+The opening share price of $128
+
+The opening share price of $103
+
+Currently valued at $71 per share
+
+The opening share price of $112
+
+The opening share price of $108
+
+The opening share price of $124
+
+The opening share price of $92
+
+The opening share price of $132
+
+The opening share price of $114
+
+The opening share price of $104
+
+Currently valued at $103 per share
+
+Currently valued at $73 per share
+
+The opening share price of $91Results for "headline_finance_2"
+Defined in module financial.py
+Used in financial.py
+
+The opening share price of $50
+
+Currently valued at $50 per share
+
+The opening share price of $69
+
+Currently valued at $139 per share
+
+The opening share price of $93
+
+Currently valued at $72 per share
+
+Currently valued at $84 per share
+
+The opening share price of $85
+
+Currently valued at $90 per share
+
+Currently valued at $50 per share
+
+Currently valued at $101 per share
+
+The opening share price of $75
+
+Currently valued at $81 per share
+
+Currently valued at $112 per share
+
+The opening share price of $95
+
+The opening share price of $117
+
+The opening share price of $69
+
+The opening share price of $60
+
+The opening share price of $46
+
+The opening share price of $64Results for "headline_finance_2"
+Defined in module financial.py
+Used in financial.py
+
+Currently valued at $92 per share
+
+The opening share price of $51
+
+The opening share price of $70
+
+The opening share price of $73
+
+The opening share price of $69
+
+The opening share price of $68
+
+The opening share price of $82
+
+The opening share price of $119
+
+Currently valued at $89 per share
+
+Currently valued at $53 per share
+
+Currently valued at $104 per share
+
+The opening share price of $85
+
+Currently valued at $129 per share
+
+The opening share price of $45
+
+Currently valued at $47 per share
+
+Currently valued at $125 per share
+
+Currently valued at $101 per share
+
+Currently valued at $115 per share
+
+Currently valued at $58 per share
+
+The opening share price of $86

@@ -1,12 +1,28 @@
+Results for "car_mod"
+Defined in module auction.py
+Used in auction.py
+
+
+
+High Top
 
 
 
 
 
+Van
 
 
 
+Convertible
 
+Roadster
+
+
+
+High Top
+
+Convertible
 
 
 
@@ -16,5 +32,221 @@ High Top
 
 Van
 
+Roadster
+
+
+
+
+
 Van
+
+Results for "car_mod"
+Defined in module auction.py
+Used in auction.py
+
+
+
+
+
+Roadster
+
+
+
+High Top
+
+
+
+
+
+
+
+
+
+Van
+
+
+
+
+
+Convertible
+
+Convertible
+
+High Top
+
+
+
+Roadster
+
+Convertible
+
+Roadster
+
+Results for "car_mod"
+Defined in module auction.py
+Used in auction.py
+
+
+
+Van
+
+
+
+High Top
+
+
+
+
+
+Van
+
+High Top
+
+
+
+
+
+Convertible
+
+
+
+
+
+High Top
+
+High Top
+
+Van
+
+Roadster
+
+Convertible
+
+
+
+VanResults for "car_mod"
+Defined in module auction.py
+Used in auction.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+Convertible
+
+Convertible
+
+Van
+
+
+
+Van
+
+
+
+
+
+
+
+
+
+
+
+Convertible
+
+Van
+
+Van
+
+RoadsterResults for "car_mod"
+Defined in module auction.py
+Used in auction.py
+
+
+
+
+
+
+
+
+
+
+
+Convertible
+
+
+
+High Top
+
+
+
+Roadster
+
+Van
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ConvertibleResults for "car_mod"
+Defined in module auction.py
+Used in auction.py
+
+High Top
+
+
+
+Van
+
+
+
+Van
+
+Roadster
+
+
+
+Roadster
+
+High Top
+
+High Top
+
+Convertible
+
+Convertible
+
+High Top
+
+
+
+High Top
+
+Roadster
+
+
+
+Roadster
+
+
 

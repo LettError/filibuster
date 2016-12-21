@@ -1,8 +1,158 @@
+Results for "sportsverb_achieves_pl"
+Defined in module sports.py
+Used in sports.py
 
+aces
+
+takes
+
+takes
+
+advances to
+
+takes
+
+advances to
+
+takes
+
+takes
+
+aces
+
+takes
+
+aces
+
+takes
+
+advances to
+
+advances to
+
+aces
+
+advances to
+
+aces
+
+advances to
+
+aces
+
+acesResults for "sportsverb_achieves_pl"
+Defined in module sports.py
+Used in sports.py
+
+aces
+
+advances to
 
 aces
 
 aces
+
+aces
+
+takes
+
+advances to
+
+advances to
+
+aces
+
+aces
+
+takes
+
+advances to
+
+aces
+
+takes
+
+aces
+
+advances to
+
+aces
+
+aces
+
+aces
+
+takesResults for "sportsverb_achieves_pl"
+Defined in module sports.py
+Used in sports.py
+
+aces
+
+aces
+
+aces
+
+takes
+
+advances to
+
+takes
+
+aces
+
+takes
+
+takes
+
+aces
+
+takes
+
+takes
+
+takes
+
+takes
+
+advances to
+
+aces
+
+aces
+
+aces
+
+aces
+
+acesResults for "sportsverb_achieves_pl"
+Defined in module sports.py
+Used in sports.py
+
+aces
+
+aces
+
+takes
+
+takes
+
+advances to
+
+advances to
+
+advances to
+
+aces
+
+takes
+
+advances to
+
+takes
+
+advances to
+
+takes
 
 aces
 
@@ -11,6 +161,88 @@ advances to
 advances to
 
 aces
+
+advances to
+
+advances to
+
+advances toResults for "sportsverb_achieves_pl"
+Defined in module sports.py
+Used in sports.py
+
+takes
+
+advances to
+
+takes
+
+takes
+
+aces
+
+advances to
+
+aces
+
+advances to
+
+aces
+
+takes
+
+advances to
+
+aces
+
+takes
+
+takes
+
+takes
+
+aces
+
+aces
+
+takes
+
+takes
+
+advances toResults for "sportsverb_achieves_pl"
+Defined in module sports.py
+Used in sports.py
+
+advances to
+
+takes
+
+aces
+
+takes
+
+takes
+
+takes
+
+aces
+
+advances to
+
+advances to
+
+advances to
+
+aces
+
+advances to
+
+takes
+
+advances to
+
+advances to
+
+takes
 
 takes
 

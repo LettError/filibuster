@@ -1,21 +1,253 @@
+Results for "air_crashinvestigator"
+Defined in module aerospace.py
+Used in aerospace.py
 
-
-German investigators
-
-FCC
-
-FBI
-
-Swiss police
-
-FCC
+Turkish police
 
 FBI
 
 Dutch investigators
 
-Belgium police
+NTSB
+
+FCC
+
+NTSB
+
+Italian police
+
+FCC
+
+NTSB
+
+FCC
+
+Russian investigators
+
+NTSB
+
+Russian police
+
+FCC
+
+FCC
+
+FCC
+
+Croat police
+
+FCC
+
+Spanish investigators
+
+Portugese policeResults for "air_crashinvestigator"
+Defined in module aerospace.py
+Used in aerospace.py
+
+NTSB
+
+Norwegian police
+
+NTSB
+
+NTSB
+
+FCC
+
+Belgium investigators
+
+FCC
+
+FCC
+
+NTSB
+
+Swiss investigators
+
+NTSB
+
+FCC
+
+FCC
 
 FBI
 
+FBI
+
+FBI
+
+FCC
+
+FBI
+
+NTSB
+
+FCCResults for "air_crashinvestigator"
+Defined in module aerospace.py
+Used in aerospace.py
+
+FCC
+
+Norwegian police
+
+NTSB
+
+FCC
+
+FBI
+
+French investigators
+
+NTSB
+
+FCC
+
+FBI
+
+French investigators
+
+Spanish investigators
+
+Italian investigators
+
+FCC
+
+NTSB
+
+FBI
+
+FCC
+
+FCC
+
+NTSB
+
+Spanish police
+
+Portugese policeResults for "air_crashinvestigator"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Croat police
+
+Russian police
+
+Danish police
+
+FCC
+
+FCC
+
+FBI
+
+Belgium police
+
+Swedish police
+
+Austrian investigators
+
+FBI
+
+FCC
+
+Swedish investigators
+
+Croat police
+
+Spanish police
+
+FCC
+
+Finnish police
+
 French police
+
+German police
+
+FCC
+
+German policeResults for "air_crashinvestigator"
+Defined in module aerospace.py
+Used in aerospace.py
+
+FBI
+
+European investigators
+
+FBI
+
+Danish investigators
+
+Norwegian police
+
+Swiss police
+
+British investigators
+
+FCC
+
+NTSB
+
+Spanish investigators
+
+FBI
+
+FCC
+
+FBI
+
+German police
+
+Turkish investigators
+
+FBI
+
+Dutch police
+
+Belgium investigators
+
+Austrian police
+
+FBIResults for "air_crashinvestigator"
+Defined in module aerospace.py
+Used in aerospace.py
+
+FCC
+
+FBI
+
+Portugese police
+
+NTSB
+
+NTSB
+
+NTSB
+
+FBI
+
+NTSB
+
+NTSB
+
+FCC
+
+FCC
+
+NTSB
+
+FBI
+
+FBI
+
+FCC
+
+NTSB
+
+FCC
+
+Danish police
+
+Serb investigators
+
+NTSB

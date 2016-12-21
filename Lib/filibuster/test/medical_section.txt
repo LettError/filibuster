@@ -1,4 +1,5 @@
-
+Results for "medical_section"
+Defined in module medical.py
 
 Health
 
@@ -11,11 +12,236 @@ Health Care
 Health
 
 Health
+
+Med
+
+Med
+
+Health
+
+Health
+
+Health
+
+Med
+
+Medicine
+
+Health Care
+
+Health
+
+Med
+
+Health
+
+Health
+
+Medical
+
+MedResults for "medical_section"
+Defined in module medical.py
+
+Health Care
+
+Health
+
+Health Care
+
+Health
+
+Medicine
+
+Health
+
+Med
+
+Health
+
+Health
+
+Med
+
+Med
+
+Med
+
+Medical
+
+Health
+
+Health
+
+Med
+
+Health
+
+Health
+
+Med
+
+HealthResults for "medical_section"
+Defined in module medical.py
+
+Health
+
+Health
+
+Health Care
+
+Health Care
+
+Health
+
+Health
+
+Health
+
+Medicine
+
+Health
+
+Medical
+
+Med
+
+Med
+
+Health
+
+Health
+
+Medicine
+
+Health
+
+Health
+
+Health
+
+Health
+
+MedicalResults for "medical_section"
+Defined in module medical.py
+
+Health Care
+
+Health Care
 
 Health Care
 
 Health
 
 Medical
+
+Health
+
+Health Care
+
+Health
+
+Med
+
+Medical
+
+Health
+
+Health
+
+Med
+
+Med
+
+Health
+
+Health Care
+
+Health
+
+Health
+
+Health
+
+MedicineResults for "medical_section"
+Defined in module medical.py
+
+Health
+
+Health Care
+
+Med
+
+Health Care
+
+Health
+
+Health
+
+Health
+
+Med
+
+Health
+
+Health Care
+
+Medicine
+
+Health Care
+
+Med
+
+Health
+
+Health
+
+Health
+
+Health
+
+Health
+
+Health
+
+HealthResults for "medical_section"
+Defined in module medical.py
+
+Health
+
+Health Care
+
+Med
+
+Medicine
+
+Med
+
+Med
+
+Health
+
+Health
+
+Health Care
+
+Health
+
+Health Care
+
+Health
+
+Health
+
+Med
+
+Health
+
+Health
+
+Health
+
+Med
+
+Health
 
 Health

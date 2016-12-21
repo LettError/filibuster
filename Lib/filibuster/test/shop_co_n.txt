@@ -1,21 +1,253 @@
+Results for "shop_co_n"
+Defined in module corporate.py
+Used in corporate.py
 
+Buy
+
+Order
+
+Shop
+
+Shopping
+
+Palmer&Walters
+
+Buyers
+
+Traders
+
+Auction
+
+Order
+
+Shop
+
+Factory
+
+Shop
+
+Shopping
 
 Shopping
 
 Shop
 
+Shopping
+
+Factory
+
+Auction
+
+Trade
+
+BuyersResults for "shop_co_n"
+Defined in module corporate.py
+Used in corporate.py
+
+Factory
+
+Buy
+
+Shop
+
+Harrison&Lawson
+
+Trade
+
+Trade
+
+Consumer
+
+Shopping
+
+Shopping
+
+Order
+
+Buy
+
 Buyers
 
 Buy
 
+Consumer
+
+Order
+
+Auction
+
+Blockland&Walters
+
+Auction
+
+Shop
+
+TradeResults for "shop_co_n"
+Defined in module corporate.py
+Used in corporate.py
+
+Shopping
+
+Factory
+
+Shopping
+
+Parker&Walters
+
+Shopping
+
 Trade
+
+Auction
+
+Factory
+
+Auction
+
+Shop
+
+Carson&Harper
+
+Order
+
+Buyers
+
+Shopping
+
+Consumer
+
+Shop
+
+Order
+
+Consumer
+
+Buy
+
+TradeResults for "shop_co_n"
+Defined in module corporate.py
+Used in corporate.py
+
+Trade
+
+Shopping
+
+Traders
+
+Auction
 
 Order
 
 Factory
 
+Auction
+
+Shop
+
+Consumer
+
+Trade
+
+Buyers
+
+Auction
+
+Factory
+
+Shop
+
+Shop
+
+Auction
+
+Trade
+
+Buyers
+
+Factory
+
+TradersResults for "shop_co_n"
+Defined in module corporate.py
+Used in corporate.py
+
+Order
+
+Rowe&Bryant
+
+Consumer
+
+Factory
+
+Consumer
+
+Buyers
+
+Traders
+
+Buy
+
+Consumer
+
+Auction
+
+Auction
+
+Factory
+
+Buyers
+
+Buy
+
+Buy
+
+Consumer
+
+Auction
+
+Order
+
+Buyers
+
+TradersResults for "shop_co_n"
+Defined in module corporate.py
+Used in corporate.py
+
+Consumer
+
+Morgan&Markham
+
+Shop
+
+Buyers
+
+Trade
+
+Trade
+
+Buyers
+
+Shopping
+
+Markham&MacArthur
+
+Traders
+
+Order
+
+Buy
+
+Carnegie&Polk
+
 Traders
 
 Factory
 
+Trade
+
 Auction
+
+Buy
+
+Order
+
+Shopping

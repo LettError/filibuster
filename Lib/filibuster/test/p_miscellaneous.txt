@@ -1,21 +1,253 @@
+Results for "p_miscellaneous"
+Defined in module general.py
+Used in general.py
 
+paxil
+
+wynona
+
+nascar
+
+station
+
+alphabits
+
+beanie
 
 grand
 
-zarvox
+cornflakes
+
+beanie
 
 touchdown
 
-royal
+touchdown
+
+cornflakes
+
+touchdown
+
+roadrage
+
+wynona
+
+alphabits
+
+zarvox
 
 nascar
+
+cannonball
+
+cannonballResults for "p_miscellaneous"
+Defined in module general.py
+Used in general.py
+
+mgs
+
+touchdown
+
+touchdown
+
+alphabits
+
+grand
+
+beanie
+
+beanie
+
+static
+
+mgs
+
+royal
+
+beanie
+
+mgs
+
+wynona
+
+roadrage
 
 bubbles
 
 mgs
 
+cornflakes
+
+royal
+
 bubbles
+
+royalResults for "p_miscellaneous"
+Defined in module general.py
+Used in general.py
+
+touchdown
+
+nascar
+
+nascar
+
+nascar
+
+static
+
+beanie
+
+wynona
+
+zarvox
+
+wynona
+
+alphabits
+
+grand
+
+station
+
+wynona
+
+wynona
+
+station
+
+alphabits
+
+mgs
+
+grand
+
+alphabits
+
+windmillResults for "p_miscellaneous"
+Defined in module general.py
+Used in general.py
+
+static
+
+alphabits
+
+wynona
 
 paxil
 
 zarvox
+
+paxil
+
+touchdown
+
+beanie
+
+wynona
+
+grand
+
+zarvox
+
+mgs
+
+zarvox
+
+static
+
+roadrage
+
+beanie
+
+royal
+
+station
+
+mgs
+
+grandResults for "p_miscellaneous"
+Defined in module general.py
+Used in general.py
+
+roadrage
+
+cannonball
+
+royal
+
+grand
+
+grand
+
+windmill
+
+royal
+
+static
+
+station
+
+grand
+
+roadrage
+
+paxil
+
+cornflakes
+
+static
+
+station
+
+grand
+
+zarvox
+
+nascar
+
+windmill
+
+beanieResults for "p_miscellaneous"
+Defined in module general.py
+Used in general.py
+
+zarvox
+
+bubbles
+
+nascar
+
+beanie
+
+mgs
+
+static
+
+cannonball
+
+windmill
+
+cannonball
+
+zarvox
+
+nascar
+
+royal
+
+static
+
+grand
+
+roadrage
+
+nascar
+
+cannonball
+
+beanie
+
+roadrage
+
+station

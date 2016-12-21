@@ -1,4 +1,162 @@
+Results for "sci_noble_gasses"
+Defined in module sciences.py
+Used in sciences.py
 
+Helium
+
+Helium
+
+Neon
+
+Radon
+
+Neon
+
+Neon
+
+Neon
+
+Radon
+
+Neon
+
+Krypton
+
+Helium
+
+Krypton
+
+Xenon
+
+Radon
+
+Krypton
+
+Neon
+
+Neon
+
+Radon
+
+Neon
+
+NeonResults for "sci_noble_gasses"
+Defined in module sciences.py
+Used in sciences.py
+
+Argon
+
+Radon
+
+Xenon
+
+Krypton
+
+Argon
+
+Neon
+
+Radon
+
+Radon
+
+Helium
+
+Krypton
+
+Argon
+
+Argon
+
+Helium
+
+Helium
+
+Xenon
+
+Argon
+
+Krypton
+
+Argon
+
+Argon
+
+HeliumResults for "sci_noble_gasses"
+Defined in module sciences.py
+Used in sciences.py
+
+Krypton
+
+Neon
+
+Argon
+
+Krypton
+
+Radon
+
+Xenon
+
+Xenon
+
+Radon
+
+Helium
+
+Krypton
+
+Xenon
+
+Radon
+
+Radon
+
+Krypton
+
+Krypton
+
+Radon
+
+Krypton
+
+Argon
+
+Krypton
+
+HeliumResults for "sci_noble_gasses"
+Defined in module sciences.py
+Used in sciences.py
+
+Neon
+
+Radon
+
+Neon
+
+Radon
+
+Krypton
+
+Argon
+
+Argon
+
+Helium
+
+Krypton
+
+Argon
+
+Radon
+
+Helium
+
+Xenon
+
+Xenon
+
+Helium
 
 Neon
 
@@ -6,11 +164,59 @@ Helium
 
 Xenon
 
+Argon
+
+XenonResults for "sci_noble_gasses"
+Defined in module sciences.py
+Used in sciences.py
+
+Helium
+
+Helium
+
+Krypton
+
+Argon
+
+Helium
+
+Krypton
+
+Helium
+
+Neon
+
+Helium
+
+Krypton
+
+Argon
+
+Argon
+
+Helium
+
+Xenon
+
+Neon
+
+Xenon
+
+Neon
+
+Helium
+
+Radon
+
+NeonResults for "sci_noble_gasses"
+Defined in module sciences.py
+Used in sciences.py
+
 Neon
 
 Krypton
 
-Radon
+Argon
 
 Helium
 
@@ -19,3 +225,29 @@ Krypton
 Radon
 
 Argon
+
+Xenon
+
+Neon
+
+Helium
+
+Radon
+
+Helium
+
+Helium
+
+Argon
+
+Argon
+
+Neon
+
+Krypton
+
+Argon
+
+Argon
+
+Neon

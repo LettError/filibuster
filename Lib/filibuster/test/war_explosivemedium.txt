@@ -1,16 +1,112 @@
+Results for "war_explosivemedium"
+Defined in module politics.py
+Used in politics.py
 
+rocket
+
+missile
+
+missile
+
+missile
 
 booby-trap
 
-bomb
+landmine
+
+booby-trap
+
+ICMS
 
 ICMS
 
 missile
 
-bomb
+missile
+
+ICBM
+
+missile
+
+booby-trap
+
+rocket
 
 ICMS
+
+landmine
+
+landmine
+
+missile
+
+ICBMResults for "war_explosivemedium"
+Defined in module politics.py
+Used in politics.py
+
+missile
+
+booby-trap
+
+landmine
+
+missile
+
+landmine
+
+rocket
+
+ICBM
+
+ICBM
+
+rocket
+
+bomb
+
+missile
+
+missile
+
+ICMS
+
+rocket
+
+bomb
+
+landmine
+
+booby-trap
+
+bomb
+
+ICBM
+
+ICMSResults for "war_explosivemedium"
+Defined in module politics.py
+Used in politics.py
+
+landmine
+
+ICBM
+
+bomb
+
+bomb
+
+missile
+
+booby-trap
+
+ICMS
+
+ICBM
+
+missile
+
+rocket
+
+bomb
 
 ICBM
 
@@ -18,4 +114,140 @@ ICBM
 
 landmine
 
+booby-trap
+
+bomb
+
+landmine
+
 missile
+
+ICMS
+
+rocketResults for "war_explosivemedium"
+Defined in module politics.py
+Used in politics.py
+
+booby-trap
+
+rocket
+
+bomb
+
+missile
+
+booby-trap
+
+missile
+
+ICBM
+
+landmine
+
+booby-trap
+
+ICMS
+
+ICBM
+
+landmine
+
+landmine
+
+ICMS
+
+landmine
+
+ICBM
+
+ICMS
+
+ICMS
+
+missile
+
+bombResults for "war_explosivemedium"
+Defined in module politics.py
+Used in politics.py
+
+missile
+
+ICMS
+
+missile
+
+landmine
+
+rocket
+
+rocket
+
+booby-trap
+
+missile
+
+bomb
+
+rocket
+
+ICMS
+
+booby-trap
+
+booby-trap
+
+rocket
+
+landmine
+
+landmine
+
+landmine
+
+bomb
+
+rocket
+
+rocketResults for "war_explosivemedium"
+Defined in module politics.py
+Used in politics.py
+
+ICMS
+
+booby-trap
+
+ICMS
+
+ICBM
+
+ICBM
+
+ICMS
+
+landmine
+
+missile
+
+landmine
+
+rocket
+
+ICMS
+
+bomb
+
+booby-trap
+
+ICMS
+
+rocket
+
+ICBM
+
+booby-trap
+
+missile
+
+bomb
+
+booby-trap

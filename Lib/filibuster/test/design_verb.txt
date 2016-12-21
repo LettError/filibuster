@@ -1,8 +1,56 @@
+Results for "design_verb"
+Defined in module design.py
+Used in design.py
 
+publicly supported
+
+liked the idea of
 
 strongly believed in
 
 liked the idea of
+
+strongly believed in
+
+publicly supported
+
+liked the idea of
+
+seriously considered
+
+seriously considered
+
+liked the idea of
+
+seriously considered
+
+seriously considered
+
+seriously considered
+
+strongly believed in
+
+liked the idea of
+
+liked the idea of
+
+strongly believed in
+
+strongly believed in
+
+seriously considered
+
+seriously consideredResults for "design_verb"
+Defined in module design.py
+Used in design.py
+
+publicly supported
+
+seriously considered
+
+publicly supported
+
+publicly supported
 
 publicly supported
 
@@ -10,12 +58,196 @@ strongly believed in
 
 seriously considered
 
+publicly supported
+
+publicly supported
+
+publicly supported
+
+liked the idea of
+
+publicly supported
+
+seriously considered
+
+strongly believed in
+
+strongly believed in
+
+publicly supported
+
+strongly believed in
+
+strongly believed in
+
+publicly supported
+
+strongly believed inResults for "design_verb"
+Defined in module design.py
+Used in design.py
+
+liked the idea of
+
+strongly believed in
+
+publicly supported
+
+strongly believed in
+
+publicly supported
+
+strongly believed in
+
+seriously considered
+
+seriously considered
+
+strongly believed in
+
+seriously considered
+
+publicly supported
+
+publicly supported
+
+seriously considered
+
+seriously considered
+
+publicly supported
+
+liked the idea of
+
+publicly supported
+
+seriously considered
+
+publicly supported
+
+publicly supportedResults for "design_verb"
+Defined in module design.py
+Used in design.py
+
+seriously considered
+
+liked the idea of
+
+strongly believed in
+
+seriously considered
+
+publicly supported
+
+publicly supported
+
+seriously considered
+
+liked the idea of
+
+seriously considered
+
+liked the idea of
+
+strongly believed in
+
+seriously considered
+
+strongly believed in
+
+seriously considered
+
+publicly supported
+
+publicly supported
+
+liked the idea of
+
+strongly believed in
+
+publicly supported
+
+publicly supportedResults for "design_verb"
+Defined in module design.py
+Used in design.py
+
+seriously considered
+
+strongly believed in
+
+seriously considered
+
 strongly believed in
 
 liked the idea of
 
-seriously considered
+strongly believed in
+
+liked the idea of
+
+liked the idea of
 
 liked the idea of
 
 seriously considered
+
+seriously considered
+
+publicly supported
+
+strongly believed in
+
+publicly supported
+
+strongly believed in
+
+strongly believed in
+
+publicly supported
+
+seriously considered
+
+seriously considered
+
+liked the idea ofResults for "design_verb"
+Defined in module design.py
+Used in design.py
+
+seriously considered
+
+liked the idea of
+
+liked the idea of
+
+seriously considered
+
+seriously considered
+
+publicly supported
+
+publicly supported
+
+strongly believed in
+
+publicly supported
+
+strongly believed in
+
+strongly believed in
+
+publicly supported
+
+publicly supported
+
+strongly believed in
+
+seriously considered
+
+publicly supported
+
+seriously considered
+
+seriously considered
+
+strongly believed in
+
+strongly believed in

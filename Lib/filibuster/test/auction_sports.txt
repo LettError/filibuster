@@ -1,21 +1,247 @@
+Results for "auction_sports"
+Defined in module auction.py
 
+San Jose Buffalo season tickets
 
-Signed New York Cowboys Shirts
+Connecticut Buffalo cap
 
-Signed Washington Slaves Ball
+Signed Philadelphia Ducks Shirts
 
-Detroit Tigers season tickets
+Atlanta Wildcats season tickets
 
-Signed Minneapolis Raiders Ball
+Miami Slaves tickets - Great Seats!
 
-Denver Geese season tickets
+Nashville Bears season tickets
 
-Petertown (Jefferson County) Buffalo cap
+New York Dogs season tickets
 
-Minneapolis Slaves tickets - Great Seats!
+Chicago Doctors season tickets
 
-Nashville Jets cap
+Suffolk County Dogs cap
 
-Detroit Sharks season tickets
+Wyoming Beavers cap
 
-Signed Seattle Dolphins Ball
+Signed Los Angeles Buffalo Shirts
+
+Boston Buffalo tickets - Great Seats!
+
+Signed Puerto Rico Slaves Shirts
+
+Miami Slaves tickets - Great Seats!
+
+Signed Nashville Jets Ball
+
+Columbus, Orange County Magicians season tickets
+
+San Jose Geese tickets - Great Seats!
+
+Signed Seattle Beavers Shirts
+
+Atlanta Ducks cap
+
+Signed Alabama Dogs ShirtsResults for "auction_sports"
+Defined in module auction.py
+
+Atlanta Dolphins season tickets
+
+Texas Sharks season tickets
+
+Nashville Wildcats season tickets
+
+Seattle Dogs tickets - Great Seats!
+
+Signed Detroit Sharks Ball
+
+Signed Maine Ducks Shirts
+
+Connecticut Geese tickets - Great Seats!
+
+Pittsburgh Sharks cap
+
+Signed Philadelphia Tigers Ball
+
+Kansas City Soldiers season tickets
+
+Signed Boston Slaves Ball
+
+Atlanta Ducks cap
+
+Detroit Buffalo cap
+
+Baltimore Dolphins tickets - Great Seats!
+
+Signed Dallas Slaves Ball
+
+Baltimore Doctors season tickets
+
+Kansas City Bears tickets - Great Seats!
+
+Signed Boston Dolphins Ball
+
+Signed Pittsburgh Buffalo Ball
+
+Signed Houston Tigers BallResults for "auction_sports"
+Defined in module auction.py
+
+Detroit Ducks tickets - Great Seats!
+
+Signed East MacArthur Jets Shirts
+
+Signed Baltimore Cowboys Ball
+
+Signed South Dakota Wildcats Ball
+
+Lincoln Dolphins cap
+
+Signed Philadelphia Magicians Shirts
+
+New York Jets tickets - Great Seats!
+
+Signed Springfield Sharks Shirts
+
+Houston Beavers tickets - Great Seats!
+
+Signed Hawaii Beavers Shirts
+
+Philadelphia Dogs cap
+
+Signed Washington Geese Ball
+
+Oregon Dogs season tickets
+
+Signed Minneapolis Geese Shirts
+
+New Johns, Orange County Hornets season tickets
+
+Signed Atlanta Jets Shirts
+
+Detroit Magicians tickets - Great Seats!
+
+Houston Dogs season tickets
+
+Signed Columbus Hornets Ball
+
+Puerto Rico Soldiers season ticketsResults for "auction_sports"
+Defined in module auction.py
+
+Utah Jets season tickets
+
+Signed Columbus, Orange County Indians Ball
+
+Washington Dolphins cap
+
+Dallas Ducks season tickets
+
+Maryland Dogs season tickets
+
+Pittsburgh Slaves cap
+
+Signed Chicago Hornets Shirts
+
+Williamsford (Jefferson County) Dogs cap
+
+Virginia Hornets season tickets
+
+Jefferson County Slaves cap
+
+Signed Chicago Dogs Shirts
+
+Philadelphia Sharks cap
+
+Signed Kansas City Slaves Ball
+
+Houston Buffalo season tickets
+
+Johnsford (Suffolk County) Jets cap
+
+Signed Memphis Ducks Shirts
+
+Sterling Doctors tickets - Great Seats!
+
+Johnsdale Raiders cap
+
+Signed Sinclair Hornets Ball
+
+San Jose Dogs season ticketsResults for "auction_sports"
+Defined in module auction.py
+
+Los Angeles Jets tickets - Great Seats!
+
+Kansas City Beavers season tickets
+
+South Carolina Tigers season tickets
+
+Chicago Wildcats cap
+
+Signed Los Angeles Slaves Shirts
+
+Signed Baltimore Ducks Shirts
+
+Springfield Sharks cap
+
+Signed Los Angeles Soldiers Shirts
+
+Minneapolis Raiders tickets - Great Seats!
+
+Vermont Buffalo season tickets
+
+Signed Cape Williamsport Buffalo Shirts
+
+Signed Pinevale (Jefferson County) Bears Ball
+
+San Jose Sharks tickets - Great Seats!
+
+Signed New Jersey Slaves Ball
+
+Signed Denver Cowboys Shirts
+
+Seattle Buffalo cap
+
+Signed Middleville (Adams County) Bears Ball
+
+Ohio Dolphins cap
+
+South Carolina Dogs cap
+
+Wisconsin Raiders tickets - Great Seats!Results for "auction_sports"
+Defined in module auction.py
+
+Signed Houston Soldiers Shirts
+
+Orange County Bears season tickets
+
+Springfield (Fairfax County) Doctors season tickets
+
+Signed Detroit Wildcats Ball
+
+Houston Indians season tickets
+
+Minneapolis Hornets cap
+
+Texas Sharks tickets - Great Seats!
+
+Pittsburgh Beavers season tickets
+
+Boston Doctors cap
+
+Houston Cowboys season tickets
+
+Los Angeles Beavers tickets - Great Seats!
+
+Pittsburgh Magicians season tickets
+
+Memphis Beavers cap
+
+Puerto Rico Soldiers cap
+
+Signed Peterdale Cowboys Ball
+
+Baltimore Ducks tickets - Great Seats!
+
+Signed Arizona Cowboys Shirts
+
+Signed Kentucky Buffalo Ball
+
+Signed Denver Soldiers Shirts
+
+Baltimore Beavers season tickets

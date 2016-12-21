@@ -1,21 +1,253 @@
+Results for "sci_transition_metals"
+Defined in module sciences.py
+Used in creditcard.py, sciences.py
 
+Iridium
 
-Scandium
+Priceium
 
-Ununnilium
+Vanadium
 
-Ununnilium
+Nickel
+
+Titanium
+
+Cadmium
+
+Ununbium
+
+Molybdenum
+
+Zirconium
+
+Hassium
+
+Rhenium
+
+Niobium
+
+Niobium
+
+Niobium
+
+Mercury
+
+Osmium
+
+Mercury
+
+Palladium
+
+Seaborgium
+
+NiobiumResults for "sci_transition_metals"
+Defined in module sciences.py
+Used in creditcard.py, sciences.py
+
+Bohrium
+
+Iridium
 
 Rutherfordium
 
+Rhenium
+
+Chromium
+
+Chromium
+
 Scandium
 
-Dubnium
+Vanadium
 
-Meitnerium
+Chromium
+
+Ununbium
+
+Seaborgium
 
 Iron
+
+Tungsten
+
+Rutherfordium
+
+Titanium
+
+Zirconium
+
+Titanium
+
+Titanium
+
+Rutherfordium
+
+TantalumResults for "sci_transition_metals"
+Defined in module sciences.py
+Used in creditcard.py, sciences.py
+
+Mercury
+
+Seaborgium
+
+Scandium
+
+Silver
+
+Unununium
+
+Tantalum
+
+Silver
+
+Rutherfordium
+
+Archerium
+
+Copper
+
+Rutherfordium
+
+Palladium
+
+Tungsten
+
+Ruthenium
+
+Osmium
+
+Gold
+
+Zinc
+
+Platinum
+
+Rhodium
+
+TantalumResults for "sci_transition_metals"
+Defined in module sciences.py
+Used in creditcard.py, sciences.py
+
+Yttrium
+
+Gold
 
 Hassium
 
 Rhodium
+
+Manganese
+
+Manganese
+
+Seaborgium
+
+Mercury
+
+Yttrium
+
+Mercury
+
+Technetium
+
+Osmium
+
+Meitnerium
+
+Harrisonium
+
+Ununbium
+
+Palladium
+
+Palladium
+
+Manganese
+
+Scandium
+
+CobaltResults for "sci_transition_metals"
+Defined in module sciences.py
+Used in creditcard.py, sciences.py
+
+Zinc
+
+Ununnilium
+
+Rhenium
+
+Gold
+
+Rhodium
+
+Platinum
+
+Parhamium
+
+Silver
+
+Ruthenium
+
+Ununbium
+
+Platinum
+
+Copper
+
+Tungsten
+
+Iridium
+
+Seaborgium
+
+Zirconium
+
+Cobalt
+
+Ruthenium
+
+Vanadium
+
+ZincResults for "sci_transition_metals"
+Defined in module sciences.py
+Used in creditcard.py, sciences.py
+
+Unununium
+
+Tantalum
+
+Ununbium
+
+Iridium
+
+Zinc
+
+Meitnerium
+
+Hafnium
+
+Silver
+
+Rutherfordium
+
+Bohrium
+
+Unununium
+
+Unununium
+
+Titanium
+
+Bohrium
+
+Ruthenium
+
+Iron
+
+Rutherfordium
+
+Platinum
+
+Vanadium
+
+Ununnilium

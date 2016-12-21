@@ -1,16 +1,186 @@
+Results for "time_seasons"
+Defined in module general.py
+Used in event.py, general.py
 
+Winter
+
+Summer
+
+Winter
+
+Spring
+
+Winter
+
+Summer
+
+Spring
+
+Autumn
+
+Autumn
+
+Autumn
+
+Spring
+
+Autumn
+
+Winter
+
+Spring
+
+Spring
+
+Winter
+
+Autumn
+
+Winter
+
+Winter
+
+WinterResults for "time_seasons"
+Defined in module general.py
+Used in event.py, general.py
+
+Summer
+
+Winter
+
+Autumn
+
+Winter
+
+Autumn
+
+Spring
+
+Spring
+
+Winter
+
+Autumn
+
+Autumn
+
+Summer
+
+Spring
+
+Autumn
+
+Winter
+
+Summer
+
+Spring
+
+Autumn
+
+Autumn
+
+Autumn
+
+SpringResults for "time_seasons"
+Defined in module general.py
+Used in event.py, general.py
+
+Spring
+
+Autumn
+
+Autumn
+
+Summer
+
+Summer
+
+Autumn
+
+Spring
+
+Winter
+
+Autumn
+
+Winter
+
+Autumn
+
+Spring
+
+Autumn
+
+Spring
 
 Spring
 
 Summer
 
-Winter
-
-Winter
+Autumn
 
 Summer
 
 Winter
+
+SpringResults for "time_seasons"
+Defined in module general.py
+Used in event.py, general.py
+
+Spring
+
+Autumn
+
+Autumn
+
+Spring
+
+Summer
+
+Spring
+
+Summer
+
+Autumn
+
+Autumn
+
+Summer
+
+Autumn
+
+Winter
+
+Spring
+
+Spring
+
+Autumn
+
+Spring
+
+Autumn
+
+Autumn
+
+Summer
+
+SummerResults for "time_seasons"
+Defined in module general.py
+Used in event.py, general.py
+
+Spring
+
+Spring
+
+Summer
+
+Summer
+
+Summer
+
+Autumn
 
 Winter
 
@@ -18,4 +188,66 @@ Autumn
 
 Summer
 
+Spring
+
+Spring
+
+Summer
+
 Winter
+
+Summer
+
+Autumn
+
+Winter
+
+Spring
+
+Spring
+
+Summer
+
+WinterResults for "time_seasons"
+Defined in module general.py
+Used in event.py, general.py
+
+Winter
+
+Spring
+
+Spring
+
+Winter
+
+Summer
+
+Autumn
+
+Summer
+
+Spring
+
+Spring
+
+Spring
+
+Summer
+
+Spring
+
+Autumn
+
+Spring
+
+Summer
+
+Spring
+
+Autumn
+
+Summer
+
+Winter
+
+Spring

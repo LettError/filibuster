@@ -1,19 +1,253 @@
+Results for "com_adjectivenouns"
+Defined in module commercial.py
+Used in commercial.py
 
+Safe!
+
+digitised
+
+brand new
+
+Red
+
+latex
+
+No-Burn
+
+nu & improovd
+
+LettError
+
+house
+
+garanteed
+
+personal
+
+Multi
+
+thang
+
+Nonsense
+
+hand picked
+
+sexy
+
+tall
+
+freez-dried
+
+programme
+
+blobResults for "com_adjectivenouns"
+Defined in module commercial.py
+Used in commercial.py
+
+offer
+
+giga
+
+Æ
+
+blob
+
+schrift
+
+network
+
+icky
+
+enriched
+
+punch
+
+brand new
+
+enriched
+
+house
+
+icky
+
+product
+
+more
+
+Future
+
+only
+
+Wump!
+
+dang
+
+driveResults for "com_adjectivenouns"
+Defined in module commercial.py
+Used in commercial.py
+
+º
+
+No-Burn
+
+digital
+
+nite
+
+specimen
+
+brand new
+
+Cheezy
+
+office
+
+television
+
+phone
+
+european
+
+tasty
+
+hand picked
+
+supercharged
+
+enhancer
+
+activity
+
+special
+
+digitised
+
+peanut butter
+
+nationalResults for "com_adjectivenouns"
+Defined in module commercial.py
+Used in commercial.py
+
+holiday
+
+compatible
+
+official
+
+Future
+
+powder
+
+network
+
+cristalised
+
+lo-Fi
+
+network
+
+Bi-Rite
+
+offer
+
+compatible
+
+convenience
+
+ø
+
+micro
+
+Betrayal
+
+dang
+
+specimen
+
+international
+
+measelsResults for "com_adjectivenouns"
+Defined in module commercial.py
+Used in commercial.py
+
+assistant
+
+pork
+
+skilled
+
+nu & improovd
+
+television
+
+Nonsense
+
+Å
+
+salivating
 
 morsels
 
-chicken
+booze
+
+offer
+
+micro
+
+grand
+
+colon
 
 chicken
 
-turbo
+power
 
-business
+no-cholestorol
 
-adaptable
+credit card
 
-matrix
+mini
 
-snort
+gr33nResults for "com_adjectivenouns"
+Defined in module commercial.py
+Used in commercial.py
 
-blob
+dinosaur
+
+d-caf (decaf)
+
+local
+
+house
+
+carbohydrates
+
+leading
+
+wipers
+
+!!
+
+punch
+
+Used
+
+Used
+
+video
+
+supercharged
+
+powder
+
+assistant
+
+snooze
+
+!
+
+d-caf (decaf)
+
+dang
+
+yuk

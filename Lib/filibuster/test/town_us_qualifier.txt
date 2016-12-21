@@ -1,4 +1,70 @@
+Results for "town_us_qualifier"
+Defined in module geography.py
+Used in geography.py
 
+Cape
+
+Cape
+
+South
+
+New
+
+Mount
+
+Mount
+
+New
+
+Mount
+
+New
+
+East
+
+North
+
+New
+
+Cape
+
+Mount
+
+New
+
+South
+
+Cape
+
+South
+
+South
+
+EastResults for "town_us_qualifier"
+Defined in module geography.py
+Used in geography.py
+
+West
+
+East
+
+North
+
+West
+
+Mount
+
+Mount
+
+Mount
+
+Mount
+
+Cape
+
+New
+
+Cape
 
 North
 
@@ -6,16 +72,182 @@ Mount
 
 Cape
 
+Mount
+
+Cape
+
+Cape
+
+Mount
+
+West
+
+WestResults for "town_us_qualifier"
+Defined in module geography.py
+Used in geography.py
+
+Cape
+
+Mount
+
+Mount
+
 South
 
 Cape
 
 Cape
 
+Mount
+
+Cape
+
+Cape
+
+East
+
+North
+
+Cape
+
+North
+
+Cape
+
+West
+
+New
+
+Cape
+
+New
+
+Cape
+
+NorthResults for "town_us_qualifier"
+Defined in module geography.py
+Used in geography.py
+
+Cape
+
+Mount
+
+Mount
+
+New
+
 Cape
 
 Cape
 
 North
 
+West
+
+New
+
+Cape
+
+South
+
+East
+
+Mount
+
+Cape
+
+Mount
+
+Mount
+
 North
+
+Cape
+
+Mount
+
+EastResults for "town_us_qualifier"
+Defined in module geography.py
+Used in geography.py
+
+East
+
+East
+
+Cape
+
+New
+
+New
+
+New
+
+Mount
+
+West
+
+New
+
+New
+
+Mount
+
+South
+
+New
+
+South
+
+New
+
+Cape
+
+Mount
+
+Mount
+
+Cape
+
+NewResults for "town_us_qualifier"
+Defined in module geography.py
+Used in geography.py
+
+New
+
+Cape
+
+New
+
+Cape
+
+Cape
+
+Mount
+
+South
+
+West
+
+New
+
+Cape
+
+East
+
+Cape
+
+Mount
+
+Cape
+
+East
+
+South
+
+North
+
+Mount
+
+West
+
+Cape

@@ -1,21 +1,253 @@
+Results for "politics_euro_leader"
+Defined in module politics.py
+Used in politics.py
 
+official
 
-spokesperson
+Prime Minister
 
-spokesperson
+official
 
-Head of State
-
-spokesperson
-
-spokesperson
-
-Head of State
-
-President
+Parliament
 
 Prime Minister
 
 Parliament
 
+official
+
+official
+
+spokesperson
+
 delegation
+
+delegation
+
+Prime Minister
+
+official
+
+President
+
+Parliament
+
+Prime Minister
+
+Prime Minister
+
+President
+
+President
+
+PresidentResults for "politics_euro_leader"
+Defined in module politics.py
+Used in politics.py
+
+Prime Minister
+
+Prime Minister
+
+spokesperson
+
+Head of State
+
+Prime Minister
+
+Head of State
+
+Prime Minister
+
+Parliament
+
+President
+
+delegation
+
+Parliament
+
+spokesperson
+
+Parliament
+
+official
+
+delegation
+
+Head of State
+
+delegation
+
+Prime Minister
+
+spokesperson
+
+Prime MinisterResults for "politics_euro_leader"
+Defined in module politics.py
+Used in politics.py
+
+Prime Minister
+
+Prime Minister
+
+official
+
+Prime Minister
+
+Head of State
+
+Head of State
+
+Head of State
+
+delegation
+
+Parliament
+
+delegation
+
+Prime Minister
+
+Parliament
+
+Prime Minister
+
+Prime Minister
+
+Head of State
+
+Prime Minister
+
+delegation
+
+spokesperson
+
+spokesperson
+
+delegationResults for "politics_euro_leader"
+Defined in module politics.py
+Used in politics.py
+
+Parliament
+
+Parliament
+
+official
+
+spokesperson
+
+delegation
+
+Parliament
+
+Head of State
+
+Parliament
+
+Parliament
+
+delegation
+
+spokesperson
+
+Prime Minister
+
+Head of State
+
+Head of State
+
+Head of State
+
+delegation
+
+official
+
+official
+
+President
+
+ParliamentResults for "politics_euro_leader"
+Defined in module politics.py
+Used in politics.py
+
+delegation
+
+delegation
+
+official
+
+delegation
+
+Parliament
+
+Parliament
+
+President
+
+delegation
+
+President
+
+Parliament
+
+Prime Minister
+
+spokesperson
+
+Prime Minister
+
+Head of State
+
+Parliament
+
+delegation
+
+President
+
+Head of State
+
+delegation
+
+ParliamentResults for "politics_euro_leader"
+Defined in module politics.py
+Used in politics.py
+
+official
+
+Parliament
+
+spokesperson
+
+spokesperson
+
+President
+
+Parliament
+
+delegation
+
+spokesperson
+
+Prime Minister
+
+spokesperson
+
+Parliament
+
+official
+
+delegation
+
+Head of State
+
+Head of State
+
+Prime Minister
+
+spokesperson
+
+Prime Minister
+
+delegation
+
+President

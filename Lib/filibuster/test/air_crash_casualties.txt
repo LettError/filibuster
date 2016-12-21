@@ -1,21 +1,253 @@
+Results for "air_crash_casualties"
+Defined in module aerospace.py
+Used in aerospace.py
 
+309 dead
 
-312 feared dead
+305 feared dead
 
-367 dead
+394 dead and 4 wounded
+
+3 wounded
+
+343 dead and 4 wounded
+
+236 feared dead
+
+338 dead
+
+355 feared dead
+
+372 dead
+
+265 missing
 
 8 wounded
 
-5 injured
+352 feared dead
+
+295 missing
+
+321 dead and 8 wounded
+
+306 missing
 
 244 dead
 
+319 dead
+
+397 dead
+
+7 wounded
+
+315 feared deadResults for "air_crash_casualties"
+Defined in module aerospace.py
+Used in aerospace.py
+
+364 dead and 5 wounded
+
+270 missing
+
+313 dead and 2 wounded
+
+279 feared dead
+
+285 dead and 5 wounded
+
+238 dead and 10 wounded
+
+385 dead and 4 wounded
+
+288 feared dead
+
+392 missing
+
+10 wounded
+
+274 dead
+
 8 injured
 
-273 dead
+8 injured
+
+222 feared dead
+
+2 injured
+
+8 injured
+
+4 injured
+
+2 injured
+
+282 feared dead
+
+6 injuredResults for "air_crash_casualties"
+Defined in module aerospace.py
+Used in aerospace.py
+
+201 dead and 2 wounded
+
+2 injured
+
+5 injured
+
+279 dead and 8 wounded
+
+7 injured
+
+267 feared dead
 
 212 missing
 
-398 dead
+291 feared dead
+
+8 wounded
+
+207 dead
+
+339 missing
+
+3 wounded
+
+297 feared dead
+
+341 missing
+
+351 dead and 4 wounded
+
+202 feared dead
+
+6 injured
+
+334 dead and 9 wounded
+
+354 dead and 7 wounded
+
+332 deadResults for "air_crash_casualties"
+Defined in module aerospace.py
+Used in aerospace.py
+
+5 injured
+
+283 dead
+
+352 feared dead
+
+9 wounded
+
+362 feared dead
+
+267 dead and 9 wounded
+
+3 injured
+
+365 feared dead
+
+318 missing
+
+259 feared dead
+
+201 dead
+
+234 dead and 7 wounded
+
+352 dead and 3 wounded
+
+9 injured
+
+378 dead
+
+354 dead and 8 wounded
+
+348 feared dead
+
+237 missing
+
+5 wounded
+
+335 deadResults for "air_crash_casualties"
+Defined in module aerospace.py
+Used in aerospace.py
+
+210 dead and 4 wounded
+
+369 dead
+
+7 injured
+
+214 dead
+
+3 wounded
+
+4 injured
+
+360 dead
+
+2 injured
+
+271 dead and 6 wounded
+
+389 missing
+
+232 missing
+
+10 wounded
+
+280 dead
+
+375 feared dead
+
+296 missing
+
+396 dead and 4 wounded
 
 8 injured
+
+366 missing
+
+8 injured
+
+372 dead and 10 woundedResults for "air_crash_casualties"
+Defined in module aerospace.py
+Used in aerospace.py
+
+296 feared dead
+
+10 wounded
+
+10 wounded
+
+232 feared dead
+
+370 missing
+
+396 dead and 9 wounded
+
+4 injured
+
+5 injured
+
+300 missing
+
+369 missing
+
+340 dead and 7 wounded
+
+280 dead
+
+350 dead and 8 wounded
+
+7 wounded
+
+232 dead and 6 wounded
+
+221 dead
+
+7 injured
+
+334 missing
+
+4 injured
+
+6 injured

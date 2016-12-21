@@ -1,3 +1,183 @@
+Results for "names_sx_weighted"
+Defined in module names.py
+Used in names.py
+
+, Jr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+III
+
+
+
+
+
+
+
+
+
+, Jr.
+
+
+
+
+
+
+
+
+
+III
+
+
+
+Results for "names_sx_weighted"
+Defined in module names.py
+Used in names.py
+
+
+
+
+
+IV
+
+
+
+
+
+
+
+III
+
+
+
+
+
+
+
+
+
+
+
+
+
+III
+
+
+
+
+
+
+
+
+
+
+
+Results for "names_sx_weighted"
+Defined in module names.py
+Used in names.py
+
+
+
+
+
+III
+
+
+
+
+
+III
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results for "names_sx_weighted"
+Defined in module names.py
+Used in names.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, Jr.
+
+
+
+
+
+, Jr.
+
+
+
+, Jr.
+
+
+
+Results for "names_sx_weighted"
+Defined in module names.py
+Used in names.py
+
+IV
+
+
+
+
+
+
+
 
 
 
@@ -18,3 +198,56 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+Results for "names_sx_weighted"
+Defined in module names.py
+Used in names.py
+
+III
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, Jr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+III

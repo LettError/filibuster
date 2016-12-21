@@ -1,8 +1,10 @@
+Results for "p_co_newssrcname"
+Defined in module modernmedia.py
+Used in modernmedia.py
 
+Channel
 
-Info
-
-Update
+Headline
 
 Data
 
@@ -10,12 +12,242 @@ News
 
 Update
 
+News
+
+Channel
+
+Channel
+
 Update
 
+Fact
+
+Fact
+
 News
+
+Data
+
+Data
+
+Fact
+
+Headline
+
+Channel
+
+Update
+
+Update
+
+DataResults for "p_co_newssrcname"
+Defined in module modernmedia.py
+Used in modernmedia.py
+
+Info
 
 News
 
 Channel
 
+Update
+
 News
+
+Headline
+
+Data
+
+News
+
+Fact
+
+Info
+
+Info
+
+Fact
+
+News
+
+Update
+
+Data
+
+Channel
+
+Data
+
+Update
+
+Channel
+
+DataResults for "p_co_newssrcname"
+Defined in module modernmedia.py
+Used in modernmedia.py
+
+Headline
+
+Channel
+
+Fact
+
+Headline
+
+Data
+
+News
+
+Info
+
+Info
+
+Update
+
+Info
+
+Update
+
+Headline
+
+Channel
+
+Headline
+
+Info
+
+Info
+
+Channel
+
+Data
+
+Update
+
+DataResults for "p_co_newssrcname"
+Defined in module modernmedia.py
+Used in modernmedia.py
+
+Info
+
+Fact
+
+Data
+
+Info
+
+Update
+
+Fact
+
+Fact
+
+Data
+
+Data
+
+Info
+
+Update
+
+Headline
+
+Channel
+
+Data
+
+Info
+
+Update
+
+Update
+
+Channel
+
+Data
+
+HeadlineResults for "p_co_newssrcname"
+Defined in module modernmedia.py
+Used in modernmedia.py
+
+Fact
+
+Info
+
+Update
+
+News
+
+Channel
+
+Fact
+
+News
+
+Data
+
+Data
+
+Channel
+
+Fact
+
+Channel
+
+News
+
+Channel
+
+Fact
+
+Update
+
+Info
+
+News
+
+Fact
+
+UpdateResults for "p_co_newssrcname"
+Defined in module modernmedia.py
+Used in modernmedia.py
+
+Update
+
+Data
+
+Fact
+
+Data
+
+Info
+
+Info
+
+Data
+
+Headline
+
+Channel
+
+Channel
+
+Data
+
+Fact
+
+Channel
+
+Headline
+
+Info
+
+Data
+
+Data
+
+Info
+
+News
+
+Update

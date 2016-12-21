@@ -1,21 +1,253 @@
+Results for "lit_figures"
+Defined in module literature.py
+Used in general.py, internet.py, literature.py, portal.py
 
+truffaut
 
-grieg
+bunuel
 
-penzias
+magritte
 
-wagner
+turner
 
-hawking
+fermi
 
-beckett
+kelvin
 
-dali
+malevich
 
 fitzgerald
 
+chopin
+
+constable
+
+fermi
+
+fahrenheit
+
+handel
+
+forqueray
+
 mahler
+
+monet
+
+chekov
+
+vangogh
+
+austen
+
+malevichResults for "lit_figures"
+Defined in module literature.py
+Used in general.py, internet.py, literature.py, portal.py
+
+copernicus
+
+cronenberg
+
+grieg
+
+copland
+
+renoir
+
+hemingway
+
+magritte
+
+debussy
+
+chekov
+
+faraday
+
+mondrian
+
+truffaut
+
+magritte
+
+truffaut
+
+debussy
+
+ellison
+
+reinhardt
+
+rembrandt
+
+elgreco
+
+bachResults for "lit_figures"
+Defined in module literature.py
+Used in general.py, internet.py, literature.py, portal.py
+
+bach
+
+coulomb
+
+bartok
+
+bunuel
+
+copland
 
 newton
 
+cronenberg
+
+rubens
+
+beethoven
+
+tesla
+
+rubens
+
+ohm
+
+mahler
+
+volta
+
+bergman
+
+lumiere
+
+lumiere
+
+bohr
+
+tesla
+
+cronenbergResults for "lit_figures"
+Defined in module literature.py
+Used in general.py, internet.py, literature.py, portal.py
+
+malevich
+
+handel
+
+mondrian
+
+monet
+
+lully
+
+whitney
+
+curie
+
+beethoven
+
+chekov
+
+fourier
+
+fitzgerald
+
+faraday
+
+james
+
+bach
+
+wagner
+
+goya
+
+planck
+
+austen
+
+penzias
+
+turgenevResults for "lit_figures"
+Defined in module literature.py
+Used in general.py, internet.py, literature.py, portal.py
+
+matisse
+
+elgreco
+
+bohr
+
+james
+
+magritte
+
+bronte
+
+feynman
+
+edison
+
+magritte
+
+truffaut
+
+volta
+
+einstein
+
+wright
+
+archimedes
+
+james
+
+hawking
+
+austen
+
+ruscha
+
+bartok
+
+lucasResults for "lit_figures"
+Defined in module literature.py
+Used in general.py, internet.py, literature.py, portal.py
+
+constable
+
+vansant
+
+klimt
+
 rembrandt
+
+penzias
+
+dali
+
+lumiere
+
+ohm
+
+renoir
+
+malevich
+
+whitney
+
+rembrandt
+
+lully
+
+magritte
+
+mondrian
+
+james
+
+rubens
+
+matisse
+
+ensor
+
+malevich

@@ -1,6 +1,188 @@
+Results for "p_cc_flavor_currency"
+Defined in module creditcard.py
+Used in creditcard.py
 
+Dollar
+
+Change
+
+MeitneriumDollar
+
+Change
+
+Change
+
+Dollar
+
+Dollar
+
+DubniumDollar
 
 Dime
+
+Dime
+
+Dime
+
+ZirconiumDollar
+
+Dime
+
+Change
+
+Dime
+
+BohriumDollar
+
+Dollar
+
+Dollar
+
+Sterling
+
+DimeResults for "p_cc_flavor_currency"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Dime
+
+Dollar
+
+NiobiumDollar
+
+Dollar
+
+Sterling
+
+Dime
+
+Dollar
+
+Change
+
+ZincDollar
+
+Sterling
+
+Sterling
+
+Sterling
+
+Dollar
+
+Change
+
+SeaborgiumDollar
+
+Sterling
+
+Dollar
+
+Dollar
+
+Dollar
+
+DollarResults for "p_cc_flavor_currency"
+Defined in module creditcard.py
+Used in creditcard.py
+
+ScandiumDollar
+
+Sterling
+
+Change
+
+Sterling
+
+Sterling
+
+Dollar
+
+Dollar
+
+Dollar
+
+Sterling
+
+RheniumDollar
+
+Dime
+
+Dime
+
+Dollar
+
+Change
+
+Dime
+
+Dollar
+
+GoldDollar
+
+Sterling
+
+Dollar
+
+DollarResults for "p_cc_flavor_currency"
+Defined in module creditcard.py
+Used in creditcard.py
+
+OsmiumDollar
+
+Dime
+
+Change
+
+Change
+
+Dollar
+
+Change
+
+Dollar
+
+IronDollar
+
+Change
+
+Dollar
+
+Dime
+
+Sterling
+
+Sterling
+
+Change
+
+Sterling
+
+Sterling
+
+Sterling
+
+Dime
+
+Dollar
+
+DimeResults for "p_cc_flavor_currency"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Dime
+
+Dollar
+
+Dollar
+
+Dollar
+
+Dollar
+
+Sterling
+
+Sterling
 
 Sterling
 
@@ -8,14 +190,64 @@ Dollar
 
 Sterling
 
-ManganeseDollar
+Sterling
+
+Dollar
+
+Sterling
+
+SilverDollar
+
+BohriumDollar
+
+Sterling
+
+Dollar
+
+PlatinumDollar
+
+Dime
+
+DimeResults for "p_cc_flavor_currency"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Dollar
 
 Change
+
+Sterling
+
+UnunbiumDollar
+
+Dollar
+
+Dime
+
+Dollar
+
+Change
+
+Sterling
+
+TechnetiumDollar
+
+Dime
+
+Dollar
+
+Dime
+
+Sterling
 
 Change
 
 Dime
 
-Dime
+Dollar
+
+Dollar
+
+NickelDollar
 
 Sterling

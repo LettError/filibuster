@@ -1,21 +1,247 @@
+Results for "time_week_nearfuture"
+Defined in module general.py
 
+next Sunday
+
+shortly
+
+shortly
 
 within the week
 
-next Saturday
+this Sunday
+
+this Friday
+
+within the week
+
+tomorrow
+
+this Sunday
+
+presently
+
+within the week
+
+presently
+
+this Friday
 
 shortly
 
 presently
 
+this week
+
+within the week
+
+within the week
+
+presently
+
+next WednesdayResults for "time_week_nearfuture"
+Defined in module general.py
+
+this Tuesday
+
+tomorrow
+
+presently
+
+presently
+
+within the week
+
+this Sunday
+
+next Thursday
+
+this Monday
+
+this week
+
+this Saturday
+
+next Thursday
+
+this week
+
+tomorrow
+
+within the week
+
+presently
+
+this week
+
+this Thursday
+
+next Sunday
+
+next Monday
+
+within the weekResults for "time_week_nearfuture"
+Defined in module general.py
+
+this week
+
+this Thursday
+
+this Thursday
+
+this week
+
+presently
+
+tomorrow
+
+next Sunday
+
+shortly
+
+tomorrow
+
+this Saturday
+
+tomorrow
+
+presently
+
+within the week
+
+within the week
+
+this week
+
+next Thursday
+
+presently
+
+this week
+
+shortly
+
+next FridayResults for "time_week_nearfuture"
+Defined in module general.py
+
+within the week
+
+this Tuesday
+
+presently
+
+within the week
+
+this Monday
+
+next Wednesday
+
+within the week
+
+tomorrow
+
+this Thursday
+
+shortly
+
+within the week
+
+within the week
+
 shortly
 
 presently
 
+within the week
+
 presently
 
 presently
+
+next Tuesday
+
+tomorrow
+
+this SundayResults for "time_week_nearfuture"
+Defined in module general.py
+
+next Thursday
 
 shortly
 
 this week
+
+tomorrow
+
+this week
+
+tomorrow
+
+this week
+
+within the week
+
+within the week
+
+shortly
+
+this Sunday
+
+presently
+
+shortly
+
+next Tuesday
+
+next Tuesday
+
+within the week
+
+this week
+
+this Monday
+
+this week
+
+presentlyResults for "time_week_nearfuture"
+Defined in module general.py
+
+tomorrow
+
+this Sunday
+
+within the week
+
+within the week
+
+this week
+
+tomorrow
+
+this Monday
+
+shortly
+
+tomorrow
+
+tomorrow
+
+presently
+
+shortly
+
+within the week
+
+this week
+
+tomorrow
+
+presently
+
+tomorrow
+
+within the week
+
+this week
+
+shortly

@@ -1,21 +1,253 @@
+Results for "alphabet_caps"
+Defined in module general.py
+Used in aerospace.py, creditcard.py, geography.py, internet.py, portal.py, sciences.py, sports.py
 
+D
 
-U
+R
+
+A
+
+M
 
 I
 
-Y
+U
+
+N
 
 V
 
-L
+E
 
-F
-
-M
+P
 
 G
 
+B
+
+A
+
+O
+
+E
+
+B
+
+W
+
+D
+
+T
+
+ZResults for "alphabet_caps"
+Defined in module general.py
+Used in aerospace.py, creditcard.py, geography.py, internet.py, portal.py, sciences.py, sports.py
+
+R
+
+F
+
 H
 
+F
+
+I
+
+B
+
+H
+
+W
+
+Q
+
+N
+
+Y
+
+K
+
+E
+
+L
+
+N
+
+V
+
+I
+
+R
+
+K
+
+GResults for "alphabet_caps"
+Defined in module general.py
+Used in aerospace.py, creditcard.py, geography.py, internet.py, portal.py, sciences.py, sports.py
+
+G
+
+Z
+
+X
+
+D
+
+J
+
+Z
+
+C
+
+T
+
+B
+
+P
+
+T
+
+Z
+
+D
+
 M
+
+D
+
+D
+
+T
+
+L
+
+G
+
+TResults for "alphabet_caps"
+Defined in module general.py
+Used in aerospace.py, creditcard.py, geography.py, internet.py, portal.py, sciences.py, sports.py
+
+E
+
+Y
+
+A
+
+E
+
+R
+
+Y
+
+T
+
+U
+
+P
+
+A
+
+A
+
+C
+
+B
+
+J
+
+K
+
+F
+
+U
+
+L
+
+B
+
+JResults for "alphabet_caps"
+Defined in module general.py
+Used in aerospace.py, creditcard.py, geography.py, internet.py, portal.py, sciences.py, sports.py
+
+F
+
+A
+
+P
+
+R
+
+O
+
+O
+
+M
+
+S
+
+K
+
+R
+
+Y
+
+I
+
+N
+
+B
+
+H
+
+F
+
+E
+
+W
+
+M
+
+BResults for "alphabet_caps"
+Defined in module general.py
+Used in aerospace.py, creditcard.py, geography.py, internet.py, portal.py, sciences.py, sports.py
+
+A
+
+H
+
+F
+
+V
+
+H
+
+Y
+
+J
+
+M
+
+E
+
+E
+
+G
+
+D
+
+T
+
+G
+
+T
+
+Y
+
+K
+
+G
+
+W
+
+O

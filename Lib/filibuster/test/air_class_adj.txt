@@ -1,6 +1,16 @@
+Results for "air_class_adj"
+Defined in module aerospace.py
+Used in aerospace.py
 
+Business
 
-Envoy
+Gold
+
+Platinum
+
+Lux
+
+World
 
 Comfy
 
@@ -8,14 +18,236 @@ First
 
 First
 
+Royal
+
+Comfy
+
+Gold
+
+Lux
+
+Silver
+
+Silver
+
+Comfort
+
+Platinum
+
+Comfy
+
+Envoy
+
+Froufrou
+
+PremierResults for "air_class_adj"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Platinum
+
+Silver
+
+Care
+
+World
+
+Premier
+
+Envoy
+
+World
+
+Royal
+
+Platinum
+
+Excellence
+
+First
+
 Care
 
 Envoy
+
+Envoy
+
+Ambassador
+
+Premier
+
+Silver
+
+Gold
+
+Lux
+
+ComfyResults for "air_class_adj"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Excel
+
+Comfy
+
+World
+
+Envoy
+
+Excel
+
+Business
+
+Comfort
+
+Envoy
+
+Excellence
+
+Comfort
+
+Platinum
+
+Gold
+
+Froufrou
+
+Comfy
+
+Business
+
+Lux
+
+Silver
+
+Ambassador
+
+Platinum
+
+CareResults for "air_class_adj"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Business
+
+Royal
+
+Business
+
+Excel
+
+Comfy
+
+Excellence
+
+Premier
+
+Platinum
+
+Lux
+
+Comfort
+
+Care
+
+First
+
+Ambassador
+
+Royal
+
+Comfy
+
+Premier
+
+Comfort
+
+Comfy
+
+Froufrou
+
+LuxResults for "air_class_adj"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Comfy
+
+Care
+
+Froufrou
+
+Gold
+
+Gold
+
+Care
+
+Comfort
+
+Excellence
+
+First
+
+Royal
+
+Platinum
+
+Comfort
+
+Comfort
+
+Ambassador
+
+Froufrou
+
+First
+
+Comfy
+
+First
+
+Silver
+
+ExcelResults for "air_class_adj"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Lux
+
+Lux
+
+Care
+
+First
+
+Care
+
+Royal
+
+Gold
+
+First
 
 Premier
 
 Care
 
+First
+
+Care
+
+Excel
+
+Froufrou
+
+World
+
+Silver
+
+Froufrou
+
 Platinum
 
-Comfy
+Platinum
+
+Envoy

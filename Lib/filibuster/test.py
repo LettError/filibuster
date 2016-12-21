@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 from filibuster.blurb import Blurb
+from filibuster.content import index
 
 import codecs
 import os
@@ -13,30 +14,41 @@ dst = os.path.join(os.getcwd(), "test")
 if not os.path.exists(dst):
 	os.makedirs(dst)
 
-maxTests = 10
+maxTests = 20
 for name in names:
-	print "trying",name
+	#print "trying",name
 	namePath = os.path.join(dst, "%s.txt"%name)
 	nameTagPath = os.path.join(dst, "%s_trying.txt"%name)
-	if os.path.exists(namePath):
-		print "name with dupe file %s, skipping"%(name)
-		continue
 	t = codecs.open(nameTagPath, 'w', 'utf-8')
 	t.write("a")
 
 	success = False
+	f = codecs.open(namePath, 'a', 'utf-8')
+	f.write("Results for \"%s\""%name)
+	definedIn, usedIn = index(name)
+	usedMods = {}
+	for a,b in usedIn:
+		usedMods[a] = True
+
+	f.write("\nDefined in module %s"%definedIn[0])
+	if usedMods:
+		k = usedMods.keys()
+		k.sort()
+		f.write("\nUsed in %s"%", ".join(k))
+	f.close()
 	for i in range(maxTests):
 		f = codecs.open(namePath, 'a', 'utf-8')
 		result = w.getBlurb(name)
-		print name, result
 		try:
 			f.write(u"\n\n"+result)
 			success = True
 		except:
-			print "UnicodeDecodeError"
+			print "UnicodeDecodeError", definedIn[0], name
 		finally:
 			f.close()
 
 	if success:
 		t.close()
 		os.remove(nameTagPath)
+
+		

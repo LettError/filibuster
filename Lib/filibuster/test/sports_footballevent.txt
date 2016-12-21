@@ -1,6 +1,140 @@
+Results for "sports_footballevent"
+Defined in module sports.py
+Used in sports.py
 
+Dustbowl
+
+Superbowl
+
+Superbowl
 
 Cottonbowl
+
+playoffs
+
+Dustbowl
+
+Pollenbowl
+
+playoffs
+
+Superbowl
+
+selection
+
+playoffs
+
+Grassbowl
+
+playoffs
+
+Superbowl
+
+playoffs
+
+playoffs
+
+playoffs
+
+playoffs
+
+playoffs
+
+GrassbowlResults for "sports_footballevent"
+Defined in module sports.py
+Used in sports.py
+
+playoffs
+
+playoffs
+
+playoffs
+
+playoffs
+
+selection
+
+playoffs
+
+Cottonbowl
+
+playoffs
+
+playoffs
+
+Dustbowl
+
+Superbowl
+
+playoffs
+
+Superbowl
+
+playoffs
+
+Dustbowl
+
+Pollenbowl
+
+Superbowl
+
+selection
+
+playoffs
+
+selectionResults for "sports_footballevent"
+Defined in module sports.py
+Used in sports.py
+
+playoffs
+
+Superbowl
+
+playoffs
+
+selection
+
+Pollenbowl
+
+selection
+
+playoffs
+
+Superbowl
+
+Superbowl
+
+Grassbowl
+
+playoffs
+
+selection
+
+Superbowl
+
+playoffs
+
+Grassbowl
+
+playoffs
+
+Superbowl
+
+Ragweedbowl
+
+Superbowl
+
+playoffsResults for "sports_footballevent"
+Defined in module sports.py
+Used in sports.py
+
+Superbowl
+
+Superbowl
+
+selection
+
+playoffs
 
 Superbowl
 
@@ -10,7 +144,73 @@ Superbowl
 
 selection
 
+Grassbowl
+
 selection
+
+selection
+
+playoffs
+
+Superbowl
+
+Pollenbowl
+
+selection
+
+selection
+
+Superbowl
+
+Superbowl
+
+Ragweedbowl
+
+SuperbowlResults for "sports_footballevent"
+Defined in module sports.py
+Used in sports.py
+
+playoffs
+
+playoffs
+
+selection
+
+selection
+
+Cottonbowl
+
+Ragweedbowl
+
+selection
+
+playoffs
+
+selection
+
+Superbowl
+
+Superbowl
+
+selection
+
+Dustbowl
+
+selection
+
+selection
+
+Superbowl
+
+Superbowl
+
+Superbowl
+
+Pollenbowl
+
+playoffsResults for "sports_footballevent"
+Defined in module sports.py
+Used in sports.py
 
 playoffs
 
@@ -18,4 +218,36 @@ playoffs
 
 Ragweedbowl
 
+playoffs
+
+selection
+
+playoffs
+
+selection
+
+Superbowl
+
+selection
+
+Superbowl
+
+selection
+
 Cottonbowl
+
+playoffs
+
+playoffs
+
+playoffs
+
+Superbowl
+
+playoffs
+
+playoffs
+
+selection
+
+Superbowl

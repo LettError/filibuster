@@ -1,21 +1,253 @@
-
-
-Also for shingles.
+Results for "tonic_close"
+Defined in module medical.py
+Used in medical.py
 
 Sold by Alchemists, Store & Medicine Vendors.
-
-Parham & Riley, Chemists.
-
-Endorsed by the Best Physicians.
-
-Endorsed by the Best Physicians.
-
-Calder & Harper, Chemists.
 
 Purely Vegetable, Safe, Time Tested.
 
-Sterling & Kennerley, Chemists, Sinclair Street.
+From Forbes, Druggist.
 
-Davies & Sterling, Chemists.
+Prepared and Sold by Knox & Sons.
+
+Purely Vegetable, Safe, Time Tested.
+
+Prepared and Sold by Jennings & Sons, Balliol Street.
+
+Adams & Jennings, Chemists.
+
+From Fitzsimmons, Druggist.
+
+Also for torpid liver.
+
+Purely Vegetable, Safe, Time Tested.
+
+From Carnegie, Druggist.
+
+From G. Forbes, Druggist.
+
+From Foster, Druggist.
 
 Sold by Alchemists, Store & Medicine Vendors.
+
+Prepared and Sold by Walters & Sons.
+
+Purely Vegetable, Safe, Time Tested.
+
+Endorsed by the Best Physicians.
+
+Purely Vegetable, Safe, Time Tested.
+
+Prepared and Sold by Caldecott & Sons.
+
+Davies & Vanderpool, Chemists, St. John-Smythe Street.Results for "tonic_close"
+Defined in module medical.py
+Used in medical.py
+
+From B. Dunbar, Druggist.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Purely Vegetable, Safe, Time Tested.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Also for running-sores.
+
+Endorsed by the Best Physicians.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Purely Vegetable, Safe, Time Tested.
+
+Prepared and Sold by Mills & Sons.
+
+Purely Vegetable, Safe, Time Tested.
+
+Also for catarrh.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Franklin & Carson, Chemists.
+
+Prepared and Sold by Clark & Sons, Warburton Street.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Emerson & Winslow, Chemists.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Endorsed by the Best Physicians.
+
+Also for ague.
+
+Franklin & Walters, Chemists.Results for "tonic_close"
+Defined in module medical.py
+Used in medical.py
+
+Also for quinsy.
+
+Endorsed by the Best Physicians.
+
+Mills & Carson, Chemists.
+
+Purely Vegetable, Safe, Time Tested.
+
+Endorsed by the Best Physicians.
+
+From Sterling, Druggist.
+
+Also for habitual debility.
+
+Also for catarrh.
+
+Also for chronic costiveness.
+
+Endorsed by the Best Physicians.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Also for quinsy.
+
+Walters & Blockland, Chemists.
+
+Prepared and Sold by Harper & Sons.
+
+Vanderpool & Riley, Chemists.
+
+From Markham, Druggist.
+
+Stanley & Blockland, Chemists.
+
+Also for piles.
+
+Purely Vegetable, Safe, Time Tested.
+
+From N. Emerson, Druggist.Results for "tonic_close"
+Defined in module medical.py
+Used in medical.py
+
+Also for milk-leg sores.
+
+Endorsed by the Best Physicians.
+
+Endorsed by the Best Physicians.
+
+From N. Jennings, Druggist, Warburton Street.
+
+Winslow & Bushnell, Chemists, Welby Street.
+
+Also for chronic debility.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Prepared and Sold by Davies & Sons.
+
+Also for stomach-ache.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Prepared and Sold by Franklin & Sons.
+
+Dunbar & Morgan, Chemists.
+
+From Polk, Druggist.
+
+From Knox, Druggist.
+
+Stanley & Dupont, Chemists.
+
+Also for albuminuria.
+
+From Clark, Druggist.
+
+Dunbar & Johns, Chemists.
+
+Also for piles.Results for "tonic_close"
+Defined in module medical.py
+Used in medical.py
+
+Purely Vegetable, Safe, Time Tested.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Carnegie & Mills, Chemists.
+
+Davies & Markham, Chemists, St. James Street.
+
+Purely Vegetable, Safe, Time Tested.
+
+Johnson & Riley, Chemists.
+
+Franklin & Upton, Chemists.
+
+Harrison & Adams, Chemists.
+
+Endorsed by the Best Physicians.
+
+From W. Knox, Druggist, Balliol Street.
+
+Endorsed by the Best Physicians.
+
+Palmer & Adams, Chemists.
+
+From H. Polk, Druggist, St. James Street.
+
+Purely Vegetable, Safe, Time Tested.
+
+Endorsed by the Best Physicians.
+
+Emerson & Forbes, Chemists.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Sold by Alchemists, Store & Medicine Vendors.Results for "tonic_close"
+Defined in module medical.py
+Used in medical.py
+
+Stern & Forbes, Chemists.
+
+Also for malaria.
+
+Purely Vegetable, Safe, Time Tested.
+
+Ryan & MacArthur, Chemists, St. James Street.
+
+Parham & Clark, Chemists.
+
+Endorsed by the Best Physicians.
+
+Parham & Forbes, Chemists.
+
+From Harper, Druggist.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+Dunbar & Vanderpool, Chemists.
+
+Endorsed by the Best Physicians.
+
+Prepared and Sold by Johns & Sons.
+
+Also for general debility.
+
+Sold by Alchemists, Store & Medicine Vendors.
+
+White & Stern, Chemists.
+
+Endorsed by the Best Physicians.
+
+Knox & Harper, Chemists.
+
+From Archer, Druggist.
+
+Prepared and Sold by Mills & Sons.
+
+Also for ague.

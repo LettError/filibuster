@@ -1,4 +1,152 @@
+Results for "i_dir_scripts"
+Defined in module internet.py
+Used in internet.py
 
+ftp
+
+cgi-bin
+
+english
+
+obidos
+
+obidos
+
+exec
+
+obidos
+
+db
+
+exec
+
+exec
+
+cgi-bin
+
+ns-search
+
+cgi
+
+cgi
+
+exec
+
+ns-search
+
+ftp
+
+ns-search
+
+ns-search
+
+dbResults for "i_dir_scripts"
+Defined in module internet.py
+Used in internet.py
+
+cgi
+
+cgi
+
+cgi-bin
+
+cgi
+
+cgi-bin
+
+exec
+
+cgi-bin
+
+ftp
+
+obidos
+
+obidos
+
+exec
+
+ftp
+
+ftp
+
+ns-search
+
+db
+
+cgi-bin
+
+db
+
+english
+
+exec
+
+execResults for "i_dir_scripts"
+Defined in module internet.py
+Used in internet.py
+
+db
+
+ftp
+
+db
+
+cgi-bin
+
+obidos
+
+ns-search
+
+exec
+
+cgi
+
+ns-search
+
+obidos
+
+ns-search
+
+cgi
+
+ns-search
+
+obidos
+
+english
+
+db
+
+obidos
+
+ftp
+
+english
+
+cgiResults for "i_dir_scripts"
+Defined in module internet.py
+Used in internet.py
+
+obidos
+
+ftp
+
+obidos
+
+obidos
+
+ftp
+
+db
+
+cgi-bin
+
+ns-search
+
+db
+
+exec
 
 ftp
 
@@ -6,16 +154,100 @@ english
 
 ns-search
 
-cgi
-
-ftp
-
-ftp
+exec
 
 english
 
 exec
 
+exec
+
+cgi-bin
+
+ns-search
+
+englishResults for "i_dir_scripts"
+Defined in module internet.py
+Used in internet.py
+
+obidos
+
+ns-search
+
+english
+
+cgi-bin
+
+cgi-bin
+
+cgi-bin
+
+obidos
+
+ftp
+
+english
+
+english
+
+cgi-bin
+
+cgi-bin
+
 db
+
+exec
+
+db
+
+ftp
+
+cgi
+
+english
+
+cgi
+
+englishResults for "i_dir_scripts"
+Defined in module internet.py
+Used in internet.py
+
+exec
+
+exec
+
+cgi
+
+english
+
+cgi-bin
+
+english
+
+cgi-bin
+
+english
+
+english
+
+ftp
+
+cgi
+
+obidos
+
+exec
+
+ns-search
+
+english
+
+english
+
+ftp
+
+ns-search
+
+cgi-bin
 
 cgi-bin

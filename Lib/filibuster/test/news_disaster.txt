@@ -1,21 +1,253 @@
+Results for "news_disaster"
+Defined in module news.py
+Used in news.py, politics.py, portal.py
 
+the Carribean pummeled by massive earthquake
 
-San Francisco savaged by earthquake
+severe fire, continuing drought, Florida
 
-Indonesia pummeled by minor tremors
+severe fire, arson suspected, Kobe, Japan,
 
-Tokyo savaged by minor tremors
+Turkey flooded by Hurricane Cynthia
 
-Bangladesh savaged by massive earthquake
+Bangladesh hit by Tornadoes
 
-northern California savaged by Typhoon
+Los Angeles wracked by minor tremors
 
-Kobe, Japan, savaged by massive earthquake
+Florida smashed by Typhoon
 
-Turkey flooded by Tornadoes
+severe fire, continuing drought, Kobe, Japan,
+
+south of France flooded by Typhoon
+
+persisting fire, arson suspected, Bangladesh
+
+Bangladesh pummeled by massive earthquake
+
+persisting fires, illegal logging, San Francisco
+
+the Carribean wracked by massive earthquake
+
+persisting fire, pipeline leaks, India
+
+Florida hit by tsunami
+
+India wracked by minor tremors
+
+Turkey flooded by Typhoon
+
+persisting fire, illegal logging, northern California
+
+San Francisco savaged by Tornadoes
+
+Indonesia wracked by earthquakeResults for "news_disaster"
+Defined in module news.py
+Used in news.py, politics.py, portal.py
+
+persisting fire, illegal logging, Indonesia
+
+persisting fire, arson suspected, Indonesia
+
+severe fire, arson suspected, the Carribean
+
+severe fires, arson suspected, Bangladesh
+
+Kobe, Japan, flooded by Tornadoes
+
+persisting fires, pipeline leaks, Los Angeles
+
+the Carribean wracked by Severe flooding
+
+severe fires, continuing drought, Florida
+
+south of France pummeled by earthquake
+
+Indonesia pummeled by Tornadoes
+
+Indonesia flooded by tsunami
+
+Florida flooded by torrential rains
+
+northern California pummeled by massive earthquake
+
+forest fire, pipeline leaks, Florida
+
+forest fire, continuing drought, Los Angeles
+
+northern California pummeled by Hurricane Harvey
+
+persisting fire, pipeline leaks, south of France
+
+Kobe, Japan, pummeled by earthquake
+
+south of France savaged by Tornadoes
+
+India savaged by minor tremorsResults for "news_disaster"
+Defined in module news.py
+Used in news.py, politics.py, portal.py
+
+Los Angeles smashed by tsunami
+
+Kobe, Japan, wracked by massive earthquake
+
+Florida savaged by Severe flooding
+
+the Carribean wracked by massive earthquake
+
+south of France hit by Typhoon
+
+Bangladesh wracked by minor tremors
+
+Tokyo pummeled by minor tremors
+
+severe fire, illegal logging, Turkey
+
+persisting fire, pipeline leaks, Los Angeles
+
+northern California pummeled by Typhoon
+
+the Carribean savaged by minor tremors
+
+Turkey wracked by massive earthquake
+
+Florida smashed by Tornadoes
+
+Florida suffers earthquake
+
+India suffers minor tremors
+
+persisting fires, continuing drought, Bangladesh
+
+Turkey smashed by torrential rains
+
+forest fire, arson suspected, Los Angeles
+
+northern California savaged by earthquake
+
+persisting fire, pipeline leaks, northern CaliforniaResults for "news_disaster"
+Defined in module news.py
+Used in news.py, politics.py, portal.py
+
+northern California smashed by Severe flooding
+
+persisting fire, arson suspected, India
+
+Florida wracked by massive earthquake
+
+Turkey suffers minor tremors
+
+forest fire, pipeline leaks, Los Angeles
+
+severe fires, illegal logging, Florida
+
+the Carribean wracked by minor tremors
+
+forest fire, pipeline leaks, San Francisco
+
+Turkey smashed by Typhoon
+
+persisting fire, pipeline leaks, Tokyo
+
+Tokyo savaged by massive earthquake
+
+severe fires, continuing drought, Turkey
+
+India hit by Severe flooding
+
+India hit by torrential rains
+
+San Francisco pummeled by massive earthquake
+
+Los Angeles pummeled by tsunami
+
+forest fires, pipeline leaks, San Francisco
+
+south of France pummeled by massive earthquake
+
+Bangladesh wracked by earthquake
+
+Tokyo pummeled by minor tremorsResults for "news_disaster"
+Defined in module news.py
+Used in news.py, politics.py, portal.py
+
+Indonesia savaged by earthquake
+
+Kobe, Japan, savaged by torrential rains
 
 India wracked by earthquake
 
-forest fire, illegal logging, San Francisco
+San Francisco wracked by minor tremors
 
-forest fires, pipeline leaks, Indonesia
+San Francisco smashed by Hurricane Harvey
+
+severe fire, illegal logging, the Carribean
+
+Turkey pummeled by earthquake
+
+persisting fire, continuing drought, Kobe, Japan,
+
+northern California savaged by Tornadoes
+
+India wracked by earthquake
+
+forest fire, pipeline leaks, Bangladesh
+
+San Francisco savaged by earthquake
+
+the Carribean pummeled by massive earthquake
+
+persisting fire, illegal logging, Florida
+
+persisting fire, continuing drought, San Francisco
+
+Tokyo smashed by torrential rains
+
+severe fire, continuing drought, the Carribean
+
+India wracked by earthquake
+
+Tokyo savaged by Hurricane Bruno
+
+San Francisco smashed by Severe floodingResults for "news_disaster"
+Defined in module news.py
+Used in news.py, politics.py, portal.py
+
+Turkey flooded by Tornadoes
+
+persisting fires, pipeline leaks, Tokyo
+
+India smashed by Hurricane Bruno
+
+northern California suffers minor tremors
+
+persisting fires, arson suspected, the Carribean
+
+Kobe, Japan, pummeled by massive earthquake
+
+forest fire, illegal logging, south of France
+
+the Carribean flooded by torrential rains
+
+Bangladesh savaged by earthquake
+
+San Francisco pummeled by massive earthquake
+
+persisting fire, pipeline leaks, Bangladesh
+
+Turkey savaged by minor tremors
+
+Tokyo flooded by tsunami
+
+the Carribean pummeled by Typhoon
+
+northern California suffers massive earthquake
+
+Indonesia wracked by earthquake
+
+San Francisco wracked by minor tremors
+
+San Francisco suffers earthquake
+
+severe fire, arson suspected, Bangladesh
+
+forest fire, pipeline leaks, Kobe, Japan,

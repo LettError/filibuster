@@ -1,21 +1,253 @@
-
-
-Electro
-
-Chemo
-
-Compu
+Results for "p_cc_flavor_modern"
+Defined in module creditcard.py
+Used in creditcard.py
 
 Chemo
 
 Phone
 
+Chem
+
+Swipe
+
+Phone
+
+Compu
+
+Chem
+
+Chem
+
+SET
+
+Plasti
+
+Chemi
+
+Terminal
+
+Inter
+
+Chemo
+
+Terminal
+
+Inter
+
+Terminal
+
+Chem
+
+Phone
+
+InterResults for "p_cc_flavor_modern"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Com
+
+Inter
+
+Terminal
+
+Inter
+
+Com
+
+Chemi
+
+Chem
+
+SET
+
+Phone
+
+Swipe
+
+Phone
+
+SET
+
 Electro
+
+Smart
+
+Smart
+
+Smart
+
+Plasti
+
+Smart
+
+Net
+
+TerminalResults for "p_cc_flavor_modern"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Electro
+
+Chem
+
+Web
+
+Phone
+
+Plasti
+
+SET
+
+Net
+
+Web
+
+Plasti
+
+Net
+
+SET
+
+Net
+
+Electro
+
+Swipe
+
+Com
+
+Net
+
+Chemo
+
+Plasti
+
+SET
+
+ElectroResults for "p_cc_flavor_modern"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Chemo
+
+Swipe
+
+Compu
+
+Terminal
+
+SET
+
+Web
+
+Plasti
+
+Smart
+
+Chemi
+
+Swipe
+
+Terminal
+
+Swipe
+
+SET
 
 Net
 
 Chemi
 
+Compu
+
+Terminal
+
+Electro
+
+Electro
+
+NetResults for "p_cc_flavor_modern"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Swipe
+
+Swipe
+
+Compu
+
+Chem
+
+Net
+
+Smart
+
+Smart
+
+Phone
+
+Com
+
+Net
+
+Phone
+
+Net
+
+Smart
+
+Com
+
+Plasti
+
+Chemo
+
+Compu
+
+Chem
+
 SET
+
+ChemiResults for "p_cc_flavor_modern"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Net
+
+Swipe
+
+Com
+
+Terminal
+
+Swipe
+
+Smart
+
+Terminal
+
+Electro
+
+Compu
+
+Compu
+
+Inter
+
+Chemo
+
+Chemi
+
+Swipe
+
+Web
+
+Inter
+
+Plasti
+
+Smart
+
+Net
 
 Smart

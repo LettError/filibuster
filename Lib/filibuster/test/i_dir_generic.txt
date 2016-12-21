@@ -1,21 +1,253 @@
+Results for "i_dir_generic"
+Defined in module internet.py
+Used in internet.py
 
+projects
+
+proj
+
+eb
+
+lna
+
+files
+
+Carson
+
+proj
+
+ata
 
 test
+
+misc
+
+pers
+
+projects
+
+general
+
+dls
+
+mno
+
+things
 
 stuff
 
-proj
+pers
 
-Sloane
+Riley
 
-proj
+thingsResults for "i_dir_generic"
+Defined in module internet.py
+Used in internet.py
+
+misc
+
+files
+
+pers
+
+stuff
+
+nao
+
+files
+
+files
+
+general
+
+Acheson
+
+ev
+
+files
+
+things
 
 test
 
-proj
+med
+
+projects
 
 pers
 
 pers
 
+files
+
+misc
+
+uwResults for "i_dir_generic"
+Defined in module internet.py
+Used in internet.py
+
 stuff
+
+general
+
+fn
+
+general
+
+proj
+
+general
+
+files
+
+test
+
+proj
+
+general
+
+de
+
+proj
+
+of
+
+things
+
+misc
+
+things
+
+misc
+
+projects
+
+misc
+
+persResults for "i_dir_generic"
+Defined in module internet.py
+Used in internet.py
+
+misc
+
+test
+
+fx
+
+proj
+
+general
+
+projects
+
+in
+
+projects
+
+Morgan
+
+tao
+
+pers
+
+misc
+
+test
+
+pers
+
+Sinclair
+
+projects
+
+misc
+
+ib
+
+stuff
+
+nbResults for "i_dir_generic"
+Defined in module internet.py
+Used in internet.py
+
+pers
+
+proj
+
+zv
+
+mln
+
+general
+
+files
+
+dg
+
+files
+
+general
+
+general
+
+files
+
+stuff
+
+hp
+
+pers
+
+projects
+
+files
+
+files
+
+general
+
+proj
+
+uiResults for "i_dir_generic"
+Defined in module internet.py
+Used in internet.py
+
+test
+
+stuff
+
+files
+
+things
+
+test
+
+pers
+
+files
+
+test
+
+test
+
+projects
+
+test
+
+things
+
+files
+
+misc
+
+general
+
+wn
+
+sc
+
+things
+
+proj
+
+test

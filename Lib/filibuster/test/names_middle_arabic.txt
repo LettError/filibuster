@@ -1,16 +1,106 @@
+Results for "names_middle_arabic"
+Defined in module book_reference.py
+Used in book_reference.py
 
+Isa
 
-Jabir
+Ali
+
+Kamil
 
 Yunus
 
-Abu’l-Wafa
+Ali
+
+Jabir
+
+Kamil
+
+Kamil
+
+Kamil
+
+al-Khidr
+
+al-Khidr
+
+Ali
+
+Yunus
+
+Abu l-Wafa
+
+Kamil
+
+Ali
+
+Abu l-Wafa
+
+HasanResults for "names_middle_arabic"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Yunus
+
+ibn
+
+Abu l-Wafa
+
+Yunus
+
+al-Khidr
+
+Yunus
+
+Isa
+
+Ali
+
+Isa
+
+Ali
+
+Hasan
+
+Yunus
+
+Yunus
+
+Hasan
+
+Jabir
+
+Ali
+
+ibn
+
+Yunus
+
+Isa
+
+IsaResults for "names_middle_arabic"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Yunus
+
+Abu l-Wafa
+
+Isa
+
+Abu l-Wafa
+
+Kamil
+
+Isa
+
+ibn
+
+ibn
 
 Hasan
 
 Kamil
-
-Abu’l-Wafa
 
 Jabir
 
@@ -18,4 +108,126 @@ al-Khidr
 
 Yunus
 
+Hasan
+
+Abu l-Wafa
+
+Hasan
+
+ibn
+
+Ali
+
+al-KhidrResults for "names_middle_arabic"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Yunus
+
+al-Khidr
+
+Jabir
+
 Kamil
+
+Jabir
+
+Yunus
+
+ibn
+
+Isa
+
+Abu l-Wafa
+
+Isa
+
+Abu l-Wafa
+
+ibn
+
+ibn
+
+Ali
+
+Hasan
+
+al-KhidrResults for "names_middle_arabic"
+Defined in module book_reference.py
+Used in book_reference.py
+
+al-Khidr
+
+al-Khidr
+
+Yunus
+
+Isa
+
+Isa
+
+ibn
+
+Yunus
+
+Kamil
+
+ibn
+
+Hasan
+
+Jabir
+
+ibn
+
+Abu l-Wafa
+
+Jabir
+
+Kamil
+
+Abu l-Wafa
+
+KamilResults for "names_middle_arabic"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Abu l-Wafa
+
+al-Khidr
+
+Abu l-Wafa
+
+ibn
+
+Abu l-Wafa
+
+Kamil
+
+Ali
+
+ibn
+
+Jabir
+
+ibn
+
+Hasan
+
+Yunus
+
+ibn
+
+Isa
+
+Kamil
+
+Abu l-Wafa
+
+ibn
+
+ibn
+
+Jabir
+
+ibn

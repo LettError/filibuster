@@ -1,21 +1,253 @@
+Results for "air_news_slanted"
+Defined in module aerospace.py
+Used in aerospace.py
 
+KLM presents DC13 , Envoyclass
 
-GlobeCargo rolls out Airbus 100V , new Silver Class seats
+Sky Team rolls out Boeing 767 Luxury Liner, new Careclass seats
 
-KLM rolls out Boeing 787 , new BusinessExcellence Class seats
+GlobalNational to buy 8 MD6 : 7M deal
 
-Sky Team rolls out McDonnell Douglas MD11 , new Careclass seats
+KLM joins InterGlobalAtlantic in CustomerMiles program
 
-GrandCargoCharters presents DC15 LuxTop, First Class
+Air France rolls out McDonnell Douglas MD11 , new Royalclass seats
 
-SAS joins Delta in CustomerAccount program
+KLM presents Airbus 500G , Business Class
 
-SAS joins Sky Team in WorldAccount program
+NationalBulk to buy 6 DC15 HighTop: 9M deal
 
-EuroBulk to buy 11 McDonnell Douglas MD13 Luxury Liner: 7M deal
+Lufthansa rolls out DC9 S, new Froufrouclass seats
 
-Sky Team joins Lufthansa in SilverWingPoints program
+ScandinavianBulk joins KLM in SilverWingMiles program
 
-Delta joins KLM in SilverWingPerks program
+CarrierTrans and Delta announce strategic allience
 
-Lufthansa joins Sky Team in CustomerPerks program
+Virgin Atlantic and InterAir announce strategic allience
+
+KLM joins SwissAir in AirMiles program
+
+USPan to buy 13 B 717-400 T: 7M deal
+
+Continental rolls out Airbus 600T WorldTop, new SilverGold Class seats
+
+Sky Team presents MD13 WideWing, Business Class
+
+Sky Team rolls out MD15 Luxury Liner, new Worldclass seats
+
+Virgin Atlantic and EuroScandinavian announce strategic allience
+
+KLM to buy 13 B 777-500 : 8M deal
+
+KLM rolls out DC8 WideWing, new EnvoyCare Class seats
+
+AirWings and GrandCanadaAir announce strategic allienceResults for "air_news_slanted"
+Defined in module aerospace.py
+Used in aerospace.py
+
+KLM joins KLM in AmbassadorMiles program
+
+Sky Team presents Boeing 707 , Comfort Class
+
+KLM to buy 7 Boeing 727 : 7M deal
+
+Sky Team and SAS announce strategic allience
+
+Sky Team joins Air France in AirPoints program
+
+Lufthansa and ScandinavianAir announce strategic allience
+
+KLM joins Lufthansa in SilverWingPoints program
+
+Delta and Delta announce strategic allience
+
+Lufthansa joins GlobeAir in LoyaltyPerks program
+
+CanadaAirways rolls out MD11 LuxuryWing, new GoldComfy Class seats
+
+AirCarrierAir rolls out DC13 LuxuryWing, new FirstLux Class seats
+
+Continental joins KLM in CustomerPoints program
+
+SAS to buy 6 DC10 LuxTop: 2M deal
+
+Delta joins AirAsianAir in AirPoints program
+
+Sky Team joins SAS in LoyaltyMiles program
+
+Sky Team and GrandCanada announce strategic allience
+
+Lufthansa and GlobalTrans announce strategic allience
+
+Sky Team rolls out McDonnell Douglas MD19 , new FirstLux Class seats
+
+SwissAir joins KLM in AirPoints program
+
+KLM and WorldPan announce strategic allienceResults for "air_news_slanted"
+Defined in module aerospace.py
+Used in aerospace.py
+
+SAS presents B 727-400 WideBody, Envoyclass
+
+Sky Team joins SAS in LoyaltyPoints program
+
+AlaskaAir to buy 10 MD6 LuxuryWing: 8M deal
+
+Air France joins Delta in FriendshipPerks program
+
+EuroCarrier rolls out MD13 LuxuryWing, new Luxclass seats
+
+KLM rolls out MD15 LuxuryWing, new Comfort Class seats
+
+SwissAir joins SAS in AmbassadorAccount program
+
+KLM and Sky Team announce strategic allience
+
+Sky Team rolls out Boeing 707 P, new World Class seats
+
+ScandinavianTrans and SwissAir announce strategic allience
+
+Delta presents Boeing 727 , Froufrou Class
+
+KLM presents McDonnell Douglas MD10 LuxuryWing, ComfyFirst Class
+
+RoyalJapanAir to buy 14 Boeing 787 : 7M deal
+
+KLM rolls out Airbus 200O PlatinumTop, new Worldclass seats
+
+NationalCarrier presents Boeing 737 , CareExcel Class
+
+Virgin Atlantic rolls out Airbus 400I LuxuryWing, new Envoyclass seats
+
+Virgin Atlantic and InterFranceCargo announce strategic allience
+
+Virgin Atlantic to buy 13 B 747-400 WorldTop: 10M deal
+
+TransCargoTravel presents Airbus 600R , Excelclass
+
+KLM presents B 787-100 , AmbassadorclassResults for "air_news_slanted"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Lufthansa to buy 5 Boeing 797 : 8M deal
+
+SAS and AmericanCharters announce strategic allience
+
+NationalGlobeTravel joins USAir in SilverWingPerks program
+
+Virgin Atlantic and Lufthansa announce strategic allience
+
+AmericanPacific to buy 11 McDonnell Douglas MD8 : 8M deal
+
+SwissAir to buy 8 Boeing 737 : 7M deal
+
+Virgin Atlantic and Sky Team announce strategic allience
+
+RoyalGlobal presents McDonnell Douglas MD20 Luxury Liner, Excellenceclass
+
+KLM presents B 727-400 , Luxclass
+
+NationalCargo joins AmericanRoyal in SilverWingPoints program
+
+Air France and KLM announce strategic allience
+
+Delta and Continental announce strategic allience
+
+Delta and GrandAlaska announce strategic allience
+
+GrandScandinavian to buy 6 DC12 LuxuryWing: 3M deal
+
+Sky Team and SAS announce strategic allience
+
+KLM joins KLM in LoyaltyPerks program
+
+KLM rolls out Airbus 600U , new Lux Class seats
+
+TransCargo and Sky Team announce strategic allience
+
+EuroCargo rolls out McDonnell Douglas MD16 , new Lux Class seats
+
+GlobeAir presents MD16 , World ClassResults for "air_news_slanted"
+Defined in module aerospace.py
+Used in aerospace.py
+
+TransJapan and KLM announce strategic allience
+
+InterGlobalCargo presents B 747-200 , Goldclass
+
+Delta rolls out Boeing 777 Luxury Liner, new Royalclass seats
+
+RoyalUSTravel joins KLM in CustomerPoints program
+
+KLM to buy 14 B 787-100 ComfortTop: 6M deal
+
+Air France presents MD16 , SilverBusiness Class
+
+GlobeRoyal presents B 787-200 WideWing, Careclass
+
+PanAsian and Sky Team announce strategic allience
+
+CargoNational presents DC14 , Firstclass
+
+EuroGlobal joins Sky Team in AirMiles program
+
+Virgin Atlantic rolls out MD19 LuxuryWing, new Care Class seats
+
+PanAirways presents Airbus 400Z WideWing, Envoy Class
+
+Virgin Atlantic presents DC12 LuxuryWing, Comfort Class
+
+KLM to buy 12 McDonnell Douglas MD19 : 10M deal
+
+PanAmerican to buy 6 McDonnell Douglas MD9 : 5M deal
+
+InterAsianAir joins SAS in LoyaltyPoints program
+
+KLM rolls out MD7 LuxuryWing, new BusinessPremier Class seats
+
+NationalAmerican presents B 767-400 Luxury Liner, PlatinumBusiness Class
+
+CarrierAir rolls out Boeing 777 HighTop, new ExcellenceCare Class seats
+
+KLM and Sky Team announce strategic allienceResults for "air_news_slanted"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Virgin Atlantic presents Airbus 400Y ComfyTop, Care Class
+
+KLM and Continental announce strategic allience
+
+Sky Team presents MD11 , Excellence Class
+
+RoyalAir presents Boeing 777 Luxury Liner, Businessclass
+
+Virgin Atlantic to buy 10 Airbus 100O LuxuryWing: 8M deal
+
+Delta presents Boeing 767 , ComfortAmbassador Class
+
+PanScandinavian presents MD19 Luxury Liner, Excellence Class
+
+Air France joins SAS in AirMiles program
+
+SAS presents B 707-100 J, PremierCare Class
+
+Sky Team and Air France announce strategic allience
+
+Virgin Atlantic rolls out Boeing 757 WideWing, new Froufrouclass seats
+
+InterPacific rolls out MD4 ComfortTop, new Excelclass seats
+
+PanCanada joins Air France in LoyaltyPoints program
+
+Delta and GlobalPan announce strategic allience
+
+KLM to buy 14 DC13 H: 7M deal
+
+KLM to buy 5 MD14 Luxury Liner: 2M deal
+
+Sky Team joins SwissAir in FriendshipPerks program
+
+Virgin Atlantic rolls out B 767-100 , new LuxWorld Class seats
+
+AlaskaPan rolls out DC15 , new SilverFroufrou Class seats
+
+KLM rolls out B 767-100 X, new First Class seats

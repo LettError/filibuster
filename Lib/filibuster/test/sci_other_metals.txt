@@ -1,21 +1,253 @@
+Results for "sci_other_metals"
+Defined in module sciences.py
+Used in sciences.py
 
+Aluminum
 
-Lead
-
-Thallium
-
-Lead
-
-Gallium
+Bismuth
 
 Tin
 
+Bismuth
+
 Thallium
+
+Thallium
+
+Gallium
+
+Bismuth
+
+Tin
+
+Tin
+
+Aluminum
 
 Gallium
 
 Indium
 
+Lead
+
+Tin
+
+Aluminum
+
+Indium
+
+Tin
+
+Aluminum
+
+GalliumResults for "sci_other_metals"
+Defined in module sciences.py
+Used in sciences.py
+
+Lead
+
+Indium
+
+Indium
+
+Indium
+
+Lead
+
+Gallium
+
+Bismuth
+
+Thallium
+
+Lead
+
+Bismuth
+
+Thallium
+
+Gallium
+
+Lead
+
+Aluminum
+
+Aluminum
+
+Lead
+
+Tin
+
+Tin
+
+Tin
+
+ThalliumResults for "sci_other_metals"
+Defined in module sciences.py
+Used in sciences.py
+
+Thallium
+
+Tin
+
+Thallium
+
+Lead
+
+Bismuth
+
+Aluminum
+
+Indium
+
+Thallium
+
+Bismuth
+
+Indium
+
+Gallium
+
+Gallium
+
+Lead
+
+Thallium
+
+Tin
+
+Bismuth
+
+Lead
+
+Indium
+
+Aluminum
+
+LeadResults for "sci_other_metals"
+Defined in module sciences.py
+Used in sciences.py
+
+Thallium
+
+Indium
+
+Bismuth
+
+Indium
+
+Aluminum
+
+Indium
+
+Aluminum
+
+Aluminum
+
+Lead
+
+Aluminum
+
+Tin
+
+Gallium
+
+Bismuth
+
+Thallium
+
+Aluminum
+
+Tin
+
+Gallium
+
+Aluminum
+
+Bismuth
+
+IndiumResults for "sci_other_metals"
+Defined in module sciences.py
+Used in sciences.py
+
+Indium
+
+Bismuth
+
+Indium
+
+Gallium
+
+Aluminum
+
 Bismuth
 
 Gallium
+
+Bismuth
+
+Gallium
+
+Thallium
+
+Bismuth
+
+Lead
+
+Thallium
+
+Tin
+
+Indium
+
+Gallium
+
+Gallium
+
+Gallium
+
+Aluminum
+
+IndiumResults for "sci_other_metals"
+Defined in module sciences.py
+Used in sciences.py
+
+Gallium
+
+Bismuth
+
+Thallium
+
+Bismuth
+
+Indium
+
+Thallium
+
+Gallium
+
+Aluminum
+
+Thallium
+
+Thallium
+
+Lead
+
+Tin
+
+Thallium
+
+Indium
+
+Gallium
+
+Lead
+
+Indium
+
+Gallium
+
+Thallium
+
+Bismuth

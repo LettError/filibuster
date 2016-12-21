@@ -1,4 +1,112 @@
+Results for "sports_soccer_tournamentsx"
+Defined in module sports.py
+Used in sports.py
 
+League
+
+Competition
+
+Championship
+
+Championship
+
+Competition
+
+Competition
+
+Cup
+
+Competition
+
+Championship
+
+Competition
+
+Competition
+
+Championship
+
+Cup
+
+Competition
+
+Championship
+
+League
+
+Cup
+
+Championship
+
+League
+
+LeagueResults for "sports_soccer_tournamentsx"
+Defined in module sports.py
+Used in sports.py
+
+Cup
+
+Cup
+
+League
+
+League
+
+League
+
+Competition
+
+League
+
+Competition
+
+Cup
+
+Competition
+
+Competition
+
+Competition
+
+Championship
+
+Championship
+
+League
+
+Championship
+
+Championship
+
+League
+
+Competition
+
+CupResults for "sports_soccer_tournamentsx"
+Defined in module sports.py
+Used in sports.py
+
+League
+
+Competition
+
+League
+
+Cup
+
+Competition
+
+Championship
+
+Championship
+
+Championship
+
+Cup
+
+Competition
+
+Cup
 
 Cup
 
@@ -10,12 +118,136 @@ League
 
 Championship
 
-League
+Cup
+
+Cup
+
+Competition
+
+CompetitionResults for "sports_soccer_tournamentsx"
+Defined in module sports.py
+Used in sports.py
+
+Cup
+
+Championship
+
+Championship
+
+Competition
+
+Competition
+
+Cup
+
+Championship
+
+Championship
+
+Competition
+
+Competition
+
+Cup
+
+Competition
+
+Championship
+
+Competition
+
+Championship
+
+Championship
 
 League
+
+Competition
+
+Championship
+
+CompetitionResults for "sports_soccer_tournamentsx"
+Defined in module sports.py
+Used in sports.py
 
 League
 
 Cup
 
 Competition
+
+Competition
+
+Cup
+
+Cup
+
+Championship
+
+Cup
+
+League
+
+Cup
+
+Cup
+
+League
+
+League
+
+Championship
+
+Competition
+
+Cup
+
+Competition
+
+Championship
+
+Competition
+
+ChampionshipResults for "sports_soccer_tournamentsx"
+Defined in module sports.py
+Used in sports.py
+
+Championship
+
+League
+
+Championship
+
+Competition
+
+Cup
+
+Competition
+
+Cup
+
+Championship
+
+Cup
+
+League
+
+Cup
+
+Championship
+
+Cup
+
+Competition
+
+Championship
+
+Championship
+
+Cup
+
+Championship
+
+Cup
+
+Championship

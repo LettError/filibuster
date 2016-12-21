@@ -1,8 +1,6 @@
-
-
-Dancing with stars
-
-The year 2015 in Catch-Phrases
+Results for "entertainment_todos"
+Defined in module entertainment.py
+Used in entertainment.py
 
 The year 2015 in Catch-Phrases
 
@@ -12,10 +10,244 @@ A cheap night out in Den Haag
 
 The year 2015 in Catch-Phrases
 
-Dancing with stars
+A cheap night out in Berlin
+
+A cheap night out in New York
+
+A cheap night out in Den Haag
 
 Dancing with stars
 
 Dancing with stars
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in Den Haag
+
+Dancing with stars
+
+A cheap night out in Sao Paolo
+
+A cheap night out in Sao Paolo
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in New York
+
+Dancing with stars
+
+A cheap night out in Stockholm
+
+A cheap night out in London
+
+A cheap night out in BerlinResults for "entertainment_todos"
+Defined in module entertainment.py
+Used in entertainment.py
+
+Dancing with stars
+
+A cheap night out in Tokyo
+
+Dancing with stars
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in London
+
+Dancing with stars
+
+Dancing with stars
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+Dancing with stars
+
+A cheap night out in New York
+
+Dancing with stars
+
+A cheap night out in London
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-PhrasesResults for "entertainment_todos"
+Defined in module entertainment.py
+Used in entertainment.py
+
+A cheap night out in New York
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in Berlin
+
+The year 2015 in Catch-Phrases
+
+Dancing with stars
+
+Dancing with stars
+
+A cheap night out in Stockholm
+
+A cheap night out in Berlin
+
+A cheap night out in Tokyo
+
+Dancing with stars
+
+Dancing with stars
+
+Dancing with stars
+
+A cheap night out in Berlin
+
+A cheap night out in Stockholm
+
+Dancing with stars
+
+The year 2015 in Catch-Phrases
+
+Dancing with stars
+
+Dancing with stars
+
+Dancing with stars
+
+A cheap night out in Sao PaoloResults for "entertainment_todos"
+Defined in module entertainment.py
+Used in entertainment.py
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+Dancing with stars
+
+Dancing with stars
+
+A cheap night out in Tokyo
+
+Dancing with stars
+
+Dancing with stars
+
+A cheap night out in London
+
+A cheap night out in Den Haag
+
+A cheap night out in Berlin
+
+Dancing with stars
+
+Dancing with stars
+
+A cheap night out in Den Haag
+
+Dancing with stars
+
+Dancing with stars
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in Tokyo
+
+Dancing with stars
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in LondonResults for "entertainment_todos"
+Defined in module entertainment.py
+Used in entertainment.py
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in Berlin
+
+Dancing with stars
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+Dancing with stars
+
+A cheap night out in Berlin
+
+Dancing with stars
+
+A cheap night out in Tokyo
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in Stockholm
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in Sao Paolo
+
+Dancing with stars
+
+Dancing with starsResults for "entertainment_todos"
+Defined in module entertainment.py
+Used in entertainment.py
+
+A cheap night out in Den Haag
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in Stockholm
+
+The year 2015 in Catch-Phrases
+
+Dancing with stars
+
+Dancing with stars
+
+The year 2015 in Catch-Phrases
+
+The year 2015 in Catch-Phrases
+
+Dancing with stars
+
+A cheap night out in London
+
+Dancing with stars
+
+A cheap night out in Den Haag
+
+A cheap night out in Stockholm
+
+A cheap night out in Stockholm
+
+The year 2015 in Catch-Phrases
+
+A cheap night out in New York
+
+A cheap night out in New York
 
 The year 2015 in Catch-Phrases

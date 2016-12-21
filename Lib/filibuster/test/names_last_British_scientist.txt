@@ -1,4 +1,204 @@
+Results for "names_last_British_scientist"
+Defined in module book_reference.py
+Used in book_reference.py
 
+Sinclair
+
+Balliol
+
+St. James
+
+Balliol
+
+Northmore
+
+Balliol
+
+Balliol
+
+Warburton
+
+Balliol
+
+Welby
+
+St. James
+
+St. James
+
+Welby
+
+Northmore
+
+Sinclair
+
+Balliol
+
+Welby
+
+Welby
+
+Welby
+
+WarburtonResults for "names_last_British_scientist"
+Defined in module book_reference.py
+Used in book_reference.py
+
+St. James
+
+Balliol
+
+Warburton
+
+Pugh
+
+Warburton
+
+Sinclair
+
+Sinclair
+
+Warburton
+
+St. John-Smythe
+
+Northmore
+
+Northmore
+
+Pugh
+
+St. John-Smythe
+
+Sinclair
+
+St. James
+
+Balliol
+
+Sinclair
+
+Welby
+
+Sinclair
+
+WelbyResults for "names_last_British_scientist"
+Defined in module book_reference.py
+Used in book_reference.py
+
+St. James
+
+Warburton
+
+Balliol
+
+Pugh
+
+Northmore
+
+Welby
+
+Balliol
+
+Sinclair
+
+Balliol
+
+Sinclair
+
+Warburton
+
+Welby
+
+Sinclair
+
+St. John-Smythe
+
+Sinclair
+
+Balliol
+
+Warburton
+
+Northmore
+
+St. John-Smythe
+
+St. John-SmytheResults for "names_last_British_scientist"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Balliol
+
+St. John-Smythe
+
+St. John-Smythe
+
+Pugh
+
+Northmore
+
+Pugh
+
+Warburton
+
+Sinclair
+
+Warburton
+
+St. John-Smythe
+
+Balliol
+
+Northmore
+
+Welby
+
+Balliol
+
+St. James
+
+St. John-Smythe
+
+Northmore
+
+Sinclair
+
+St. James
+
+PughResults for "names_last_British_scientist"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Warburton
+
+Balliol
+
+Northmore
+
+Warburton
+
+Pugh
+
+St. James
+
+Balliol
+
+Sinclair
+
+Warburton
+
+Pugh
+
+St. James
+
+Warburton
+
+St. James
+
+Welby
+
+Welby
 
 Warburton
 
@@ -6,16 +206,48 @@ St. James
 
 Northmore
 
+St. John-Smythe
+
+PughResults for "names_last_British_scientist"
+Defined in module book_reference.py
+Used in book_reference.py
+
 Welby
 
 Pugh
-
-Northmore
 
 Warburton
 
 Balliol
 
-St. John-Smythe
+Balliol
+
+Welby
+
+St. James
+
+St. James
+
+Welby
 
 Sinclair
+
+Welby
+
+Balliol
+
+Northmore
+
+Pugh
+
+St. John-Smythe
+
+Welby
+
+Welby
+
+Welby
+
+Warburton
+
+Welby

@@ -1,21 +1,253 @@
-
+Results for "p_cc_flavor_super"
+Defined in module creditcard.py
+Used in creditcard.py
 
 Ultra
+
+Minor
+
+Major
+
+Super
+
+Hyper
+
+Kid
+
+Super
+
+Super
+
+Ultra
+
+Kid
+
+Super
+
+Minor
+
+Hyper
+
+Kid
+
+Major
+
+Major
+
+Major
+
+Ultra
+
+Super
+
+UltraResults for "p_cc_flavor_super"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Super
+
+Super
+
+Hyper
+
+Hyper
+
+Super
+
+Kid
+
+Hyper
+
+Super
+
+Super
+
+Super
+
+Ultra
+
+Major
+
+Ultra
+
+Ultra
+
+Ultra
+
+Ultra
+
+Ultra
+
+Super
+
+Hyper
+
+KidResults for "p_cc_flavor_super"
+Defined in module creditcard.py
+Used in creditcard.py
 
 Hyper
 
 Minor
 
+Kid
+
+Minor
+
+Minor
+
+Super
+
+Kid
+
+Major
+
+Super
+
+Minor
+
+Ultra
+
+Minor
+
+Ultra
+
+Minor
+
+Super
+
+Kid
+
+Hyper
+
 Ultra
 
 Hyper
+
+UltraResults for "p_cc_flavor_super"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Major
+
+Major
+
+Ultra
+
+Super
+
+Ultra
+
+Kid
+
+Major
+
+Hyper
+
+Super
+
+Super
+
+Super
+
+Super
+
+Minor
+
+Ultra
+
+Major
+
+Super
+
+Major
+
+Hyper
+
+Minor
+
+UltraResults for "p_cc_flavor_super"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Super
+
+Ultra
+
+Hyper
+
+Hyper
+
+Major
+
+Major
+
+Super
+
+Major
+
+Super
+
+Super
+
+Super
+
+Major
+
+Major
+
+Minor
+
+Super
+
+Ultra
+
+Hyper
+
+Hyper
+
+Ultra
+
+MajorResults for "p_cc_flavor_super"
+Defined in module creditcard.py
+Used in creditcard.py
+
+Minor
+
+Super
+
+Major
+
+Super
+
+Super
+
+Hyper
+
+Minor
+
+Major
+
+Super
+
+Hyper
+
+Kid
+
+Kid
+
+Major
+
+Major
+
+Major
+
+Super
 
 Kid
 
 Minor
 
 Super
-
-Minor
 
 Kid

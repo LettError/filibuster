@@ -1,16 +1,158 @@
+Results for "book_title_adjective"
+Defined in module book_reference.py
+Used in book_reference.py
 
+Programmatic
 
 Phenomenologal
 
 Programmatic
 
-Empirical
+Phenomenologal
+
+Metaphysical
 
 Phenomenologal
 
 Ecological
 
+Axiological
+
+Ecological
+
+Phenomenologal
+
+Metaphysical
+
+Programmatic
+
+Programmatic
+
 Transcendental
+
+Ecological
+
+Empirical
+
+Fundemental
+
+Axiological
+
+Programmatic
+
+PhenomenologalResults for "book_title_adjective"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Axiological
+
+Programmatic
+
+Phenomenologal
+
+Phenomenologal
+
+Axiological
+
+Ecological
+
+Axiological
+
+Metaphysical
+
+Fundemental
+
+Ecological
+
+Programmatic
+
+Programmatic
+
+Transcendental
+
+Empirical
+
+Programmatic
+
+Programmatic
+
+Ecological
+
+Phenomenologal
+
+Axiological
+
+AxiologicalResults for "book_title_adjective"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Ecological
+
+Empirical
+
+Empirical
+
+Ecological
+
+Axiological
+
+Programmatic
+
+Ecological
+
+Metaphysical
+
+Transcendental
+
+Axiological
+
+Programmatic
+
+Ecological
+
+Programmatic
+
+Empirical
+
+Empirical
+
+Axiological
+
+Empirical
+
+Metaphysical
+
+Fundemental
+
+ProgrammaticResults for "book_title_adjective"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Axiological
+
+Axiological
+
+Fundemental
+
+Programmatic
+
+Transcendental
+
+Transcendental
+
+Ecological
+
+Transcendental
+
+Axiological
+
+Programmatic
+
+Ecological
+
+Transcendental
+
+Ecological
 
 Fundemental
 
@@ -18,4 +160,94 @@ Programmatic
 
 Phenomenologal
 
+Phenomenologal
+
+Programmatic
+
+Programmatic
+
+EcologicalResults for "book_title_adjective"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Empirical
+
+Ecological
+
+Phenomenologal
+
+Axiological
+
+Transcendental
+
+Transcendental
+
+Ecological
+
+Axiological
+
+Empirical
+
+Ecological
+
+Empirical
+
+Ecological
+
+Axiological
+
+Axiological
+
+Metaphysical
+
+Transcendental
+
+Transcendental
+
+Phenomenologal
+
 Fundemental
+
+EcologicalResults for "book_title_adjective"
+Defined in module book_reference.py
+Used in book_reference.py
+
+Ecological
+
+Axiological
+
+Fundemental
+
+Empirical
+
+Programmatic
+
+Phenomenologal
+
+Transcendental
+
+Phenomenologal
+
+Empirical
+
+Phenomenologal
+
+Empirical
+
+Phenomenologal
+
+Programmatic
+
+Ecological
+
+Empirical
+
+Fundemental
+
+Metaphysical
+
+Transcendental
+
+Ecological
+
+Ecological

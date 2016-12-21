@@ -1,6 +1,6 @@
-
-
-St. Petersburg
+Results for "cities_Russia"
+Defined in module geography.py
+Used in sports.py
 
 Kiev
 
@@ -14,7 +14,239 @@ St. Petersburg
 
 Moscow
 
+Moscow
+
+Moscow
+
 Kiev
+
+Kiev
+
+Kiev
+
+Kiev
+
+Moscow
+
+Kiev
+
+Moscow
+
+St. Petersburg
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+MoscowResults for "cities_Russia"
+Defined in module geography.py
+Used in sports.py
+
+Kiev
+
+Kiev
+
+St. Petersburg
+
+Moscow
+
+Moscow
+
+Kiev
+
+Kiev
+
+St. Petersburg
+
+St. Petersburg
+
+St. Petersburg
+
+St. Petersburg
+
+Moscow
+
+St. Petersburg
+
+St. Petersburg
+
+St. Petersburg
+
+Kiev
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+KievResults for "cities_Russia"
+Defined in module geography.py
+Used in sports.py
+
+Kiev
+
+Moscow
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+Kiev
+
+Kiev
+
+Kiev
+
+St. Petersburg
+
+St. Petersburg
+
+Kiev
+
+Kiev
+
+Moscow
+
+Kiev
+
+St. Petersburg
+
+Moscow
+
+Kiev
+
+St. Petersburg
+
+St. Petersburg
+
+KievResults for "cities_Russia"
+Defined in module geography.py
+Used in sports.py
+
+Kiev
+
+Moscow
+
+Kiev
+
+Kiev
+
+Kiev
+
+Kiev
+
+Moscow
+
+Kiev
+
+St. Petersburg
+
+Moscow
+
+St. Petersburg
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+St. Petersburg
+
+Moscow
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+KievResults for "cities_Russia"
+Defined in module geography.py
+Used in sports.py
+
+Moscow
+
+Moscow
+
+St. Petersburg
+
+St. Petersburg
+
+Moscow
+
+St. Petersburg
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+Kiev
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+St. Petersburg
+
+Moscow
+
+Kiev
+
+Moscow
+
+MoscowResults for "cities_Russia"
+Defined in module geography.py
+Used in sports.py
+
+Kiev
+
+Moscow
+
+Kiev
+
+St. Petersburg
+
+Moscow
+
+St. Petersburg
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+Kiev
+
+St. Petersburg
+
+Moscow
+
+Kiev
+
+St. Petersburg
+
+Kiev
+
+Kiev
+
+Kiev
+
+Moscow
 
 St. Petersburg
 

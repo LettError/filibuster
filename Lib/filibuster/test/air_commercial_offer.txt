@@ -1,21 +1,253 @@
+Results for "air_commercial_offer"
+Defined in module aerospace.py
+Used in aerospace.py
 
+Introducing Comfy Class on all KLM McDonnell Douglas MD16 ComfortTop planes
 
-Introducing Lux Class on all Delta Airbus 400Q planes
+Introducing Premierclass on all KLM DC10 planes
 
-Introducing Lux Class on all Delta DC12 planes
+Introducing PremierAmbassador Class on all KLM Airbus 100Q HighTop planes
 
-LuxComfort Class now available on all Delta flights to Amsterdam
+Worldclass now available on all KLM flights to Cambridge
 
-ExcellenceAmbassador Class now available on all Delta flights to Lille
+Introducing Ambassador Class on all KLM DC14 HighTop planes
 
-Introducing CareAmbassador Class on all Delta B 707-300 Luxury Liner planes
+Luxclass now available on all KLM flights to Florence
 
-Introducing FroufrouExcellence Class on all Delta Airbus 100D planes
+Businessclass now available on all KLM flights to Rome
 
-Introducing EnvoyPlatinum Class on all Delta B 767-200 Luxury Liner planes
+Introducing Worldclass on all KLM MD7 LuxuryWing planes
 
-Introducing Excellence Class on all Delta Airbus 400F Luxury Liner planes
+Introducing Comfyclass on all KLM Boeing 737 WideWing planes
 
-Excel Class now available on all Delta flights to Munich
+Introducing Envoyclass on all KLM DC12 planes
 
-Introducing WorldFirst Class on all Delta B 727-400 planes
+Introducing ExcelExcellence Class on all KLM Boeing 787 PremierTop planes
+
+Introducing ComfortPlatinum Class on all KLM MD13 ExcellenceTop planes
+
+Introducing GoldAmbassador Class on all KLM MD4 Y planes
+
+First Class now available on all KLM flights to Glasgow
+
+Introducing Business Class on all KLM Airbus 600I HighTop planes
+
+Silverclass now available on all KLM flights to Munich
+
+Introducing EnvoyEnvoy Class on all KLM B 757-500 planes
+
+Introducing Gold Class on all KLM Airbus 400Z planes
+
+Introducing LuxLux Class on all KLM Airbus 100E planes
+
+Introducing First Class on all KLM B 727-500 WideBody planesResults for "air_commercial_offer"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Introducing Careclass on all NationalCanadaPacific B 767-100 WideBody planes
+
+Introducing Care Class on all NationalCanadaPacific MD19 WideBody planes
+
+Careclass now available on all NationalCanadaPacific flights to Marseilles
+
+Firstclass now available on all NationalCanadaPacific flights to The Hague
+
+Introducing Froufrou Class on all NationalCanadaPacific Airbus 600P Luxury Liner planes
+
+Introducing First Class on all NationalCanadaPacific Boeing 757 WorldTop planes
+
+Gold Class now available on all NationalCanadaPacific flights to Munich
+
+Introducing Comfort Class on all NationalCanadaPacific Boeing 787 WideBody planes
+
+Comfortclass now available on all NationalCanadaPacific flights to Marseilles
+
+Introducing Silverclass on all NationalCanadaPacific Boeing 797 LuxuryWing planes
+
+ComfyComfort Class now available on all NationalCanadaPacific flights to Madrid
+
+Luxclass now available on all NationalCanadaPacific flights to Barcelona
+
+Excelclass now available on all NationalCanadaPacific flights to Florence
+
+Introducing WorldCare Class on all NationalCanadaPacific Boeing 717 planes
+
+Goldclass now available on all NationalCanadaPacific flights to Toulouse
+
+Introducing Envoy Class on all NationalCanadaPacific Airbus 400M LuxuryWing planes
+
+ExcelAmbassador Class now available on all NationalCanadaPacific flights to Gouda
+
+Introducing Excellenceclass on all NationalCanadaPacific DC8 WideBody planes
+
+Excelclass now available on all NationalCanadaPacific flights to Boston
+
+Introducing FirstWorld Class on all NationalCanadaPacific Boeing 777 WideBody planesResults for "air_commercial_offer"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Introducing ComfortPlatinum Class on all SwissAir Airbus 500C LuxuryWing planes
+
+Comfortclass now available on all SwissAir flights to Liege
+
+Comfort Class now available on all SwissAir flights to Bilbao
+
+Introducing Royal Class on all SwissAir Airbus 300C ComfortTop planes
+
+Introducing ExcellenceExcellence Class on all SwissAir Boeing 717 T planes
+
+Introducing Royal Class on all SwissAir Airbus 500K planes
+
+Premier Class now available on all SwissAir flights to Frankfurt
+
+Introducing Lux Class on all SwissAir McDonnell Douglas MD12 LuxTop planes
+
+LuxGold Class now available on all SwissAir flights to Rotterdam
+
+GoldRoyal Class now available on all SwissAir flights to Maastricht
+
+First Class now available on all SwissAir flights to Sheffield
+
+Premier Class now available on all SwissAir flights to Glasgow
+
+Introducing Premier Class on all SwissAir McDonnell Douglas MD12 C planes
+
+Business Class now available on all SwissAir flights to Lille
+
+Care Class now available on all SwissAir flights to Washington
+
+Premierclass now available on all SwissAir flights to Leeds
+
+Platinum Class now available on all SwissAir flights to Lyon
+
+Businessclass now available on all SwissAir flights to Marseilles
+
+Careclass now available on all SwissAir flights to Bologna
+
+Careclass now available on all SwissAir flights to WashingtonResults for "air_commercial_offer"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Introducing Platinum Class on all KLM DC10 WideWing planes
+
+Introducing Comfyclass on all KLM McDonnell Douglas MD5 LuxuryWing planes
+
+Luxclass now available on all KLM flights to Milan
+
+Introducing Businessclass on all KLM MD9 WideBody planes
+
+Introducing Worldclass on all KLM MD15 RoyalTop planes
+
+Introducing Business Class on all KLM MD11 WideWing planes
+
+FirstAmbassador Class now available on all KLM flights to Madrid
+
+Comfortclass now available on all KLM flights to Marseilles
+
+AmbassadorFirst Class now available on all KLM flights to Hamburg
+
+Introducing Platinum Class on all KLM McDonnell Douglas MD10 planes
+
+Comfy Class now available on all KLM flights to Florence
+
+Introducing First Class on all KLM DC14 LuxuryWing planes
+
+Froufrou Class now available on all KLM flights to New York
+
+Introducing Envoyclass on all KLM B 767-400 WideBody planes
+
+Introducing FroufrouRoyal Class on all KLM Airbus 200Y planes
+
+Royalclass now available on all KLM flights to Philadelphia
+
+ComfortComfy Class now available on all KLM flights to Oxford
+
+Introducing Care Class on all KLM B 787-500 Luxury Liner planes
+
+Introducing Royal Class on all KLM McDonnell Douglas MD19 Luxury Liner planes
+
+Excellence Class now available on all KLM flights to BilbaoResults for "air_commercial_offer"
+Defined in module aerospace.py
+Used in aerospace.py
+
+PremierFroufrou Class now available on all KLM flights to Liege
+
+Introducing BusinessExcellence Class on all KLM DC14 planes
+
+Introducing GoldExcel Class on all KLM B 787-100 Luxury Liner planes
+
+Lux Class now available on all KLM flights to Eindhoven
+
+ExcellenceFirst Class now available on all KLM flights to Bilbao
+
+Introducing GoldBusiness Class on all KLM McDonnell Douglas MD15 planes
+
+Introducing Firstclass on all KLM MD14 planes
+
+Royal Class now available on all KLM flights to Rotterdam
+
+Introducing ComfortComfy Class on all KLM Boeing 747 HighTop planes
+
+Introducing Worldclass on all KLM Airbus 300I planes
+
+Platinum Class now available on all KLM flights to Memphis
+
+ComfortFroufrou Class now available on all KLM flights to Edinburgh
+
+Introducing Excellence Class on all KLM Airbus 400J WideWing planes
+
+Introducing Premier Class on all KLM McDonnell Douglas MD11 planes
+
+Introducing ComfyPlatinum Class on all KLM Airbus 300J HighTop planes
+
+Introducing Froufrou Class on all KLM MD5 WideWing planes
+
+Introducing RoyalExcel Class on all KLM McDonnell Douglas MD14 WideWing planes
+
+Introducing ComfortAmbassador Class on all KLM McDonnell Douglas MD6 Luxury Liner planes
+
+Introducing Silver Class on all KLM MD9 planes
+
+Introducing Lux Class on all KLM Boeing 747 WideBody planesResults for "air_commercial_offer"
+Defined in module aerospace.py
+Used in aerospace.py
+
+Businessclass now available on all Sky Team flights to Barcelona
+
+Introducing Comfortclass on all Sky Team Airbus 600I WideWing planes
+
+Careclass now available on all Sky Team flights to Liege
+
+Introducing FirstGold Class on all Sky Team MD9 planes
+
+Introducing Comfy Class on all Sky Team Boeing 767 planes
+
+Platinumclass now available on all Sky Team flights to Berlin
+
+EnvoyRoyal Class now available on all Sky Team flights to Bonn
+
+Royalclass now available on all Sky Team flights to Liverpool
+
+Introducing PlatinumComfort Class on all Sky Team B 787-400 Luxury Liner planes
+
+SilverRoyal Class now available on all Sky Team flights to Hamburg
+
+Care Class now available on all Sky Team flights to Lille
+
+Introducing Businessclass on all Sky Team Airbus 100T planes
+
+LuxComfort Class now available on all Sky Team flights to Toulouse
+
+Introducing AmbassadorComfort Class on all Sky Team Boeing 777 planes
+
+First Class now available on all Sky Team flights to Munich
+
+Ambassadorclass now available on all Sky Team flights to Milan
+
+Introducing Lux Class on all Sky Team B 727-100 planes
+
+Introducing Care Class on all Sky Team B 797-400 WideWing planes
+
+Introducing Royalclass on all Sky Team B 717-400 HighTop planes
+
+Introducing Business Class on all Sky Team B 737-200 WideWing planes

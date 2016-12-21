@@ -1,21 +1,191 @@
+Results for "name_arabic"
+Defined in module book_reference.py
 
+Abu Ali Allah
 
-Abu’l-Hasan Yunus Abd
+Ahmad Jabir al-Jiss
 
-Ahmed Jabir Al-Buzjani
+Ahmed Isa al-Sadafi
 
-Abu’l-Hasan Jabir Yunus
+Mohammad Hasan Khalaf
 
-Ahmad Abu’l-Wafa Abu’l-Wafa
+Abu Yunus Al-Mahani
 
-Mohammad Hasan al-Sadafi
+Al- Ali Abd
 
-Ahmed Abu l-Wafa Al-Uqlidisi
+Mohammad Isa Shuja
 
-Ahmed Ali Muhammad
+Al- ibn Abd
 
-Abu’l-Hasan Kamil al-Misri
+Ahmad Kamil al-Jiss
 
-Ahmad Hasan Allah
+Al- Jabir Yunus
 
-Mohammad Yunus Shuja
+Al- Ali al-Sadafi
+
+Al- Isa Al-Buzjani
+
+Abu Jabir Abd
+
+Al- Ali Khalaf
+
+Mohammad Ali Allah
+
+Mohammad Yunus Al-Khujandi
+
+Ahmad Jabir AbdResults for "name_arabic"
+Defined in module book_reference.py
+
+Abu Kamil al-Sadafi
+
+Mohammad Jabir Yunus
+
+Ahmed al-Khidr al-Jiss
+
+Ahmed ibn Muhammad
+
+Abu Isa Allah
+
+Mohammad Ali Allah
+
+Abu ibn Khalaf
+
+Ahmed ibn Muhammad
+
+Ahmed Abu l-Wafa Al-Khujandi
+
+Mohammad Ali al-Sadafi
+
+Al- Yunus Al-Buzjani
+
+Mohammad Jabir Abd
+
+Abu Hasan al-Sadafi
+
+Al- Kamil Allah
+
+Al- Isa AllahResults for "name_arabic"
+Defined in module book_reference.py
+
+Ahmed Hasan Allah
+
+Al- ibn Al-Uqlidisi
+
+Ahmed al-Khidr Al-Uqlidisi
+
+Ahmed Hasan al-Misri
+
+Ahmed Abu l-Wafa al-Jiss
+
+Abu Jabir Khalaf
+
+Ahmed al-Khidr Al-Khujandi
+
+Ahmed Yunus al-Sadafi
+
+Mohammad Hasan Al-Mahani
+
+Mohammad Isa al-Sadafi
+
+Abu Ali Al-Khujandi
+
+Al- al-Khidr Khalaf
+
+Ahmed Abu l-Wafa al-Jiss
+
+Ahmed Ali al-Sadafi
+
+Ahmad Abu l-Wafa AllahResults for "name_arabic"
+Defined in module book_reference.py
+
+Al- Jabir al-Sadafi
+
+Mohammad Ali Shuja
+
+Abu Abu l-Wafa Shuja
+
+Mohammad Jabir Al-Mahani
+
+Abu Isa Khalaf
+
+Mohammad Kamil Yunus
+
+Abu Abu l-Wafa Al-Mahani
+
+Ahmed Hasan Al-Uqlidisi
+
+Ahmed Kamil Shuja
+
+Al- Yunus Al-Buzjani
+
+Ahmed Ali Khalaf
+
+Al- Isa Allah
+
+Abu Ali Abd
+
+Mohammad Yunus Al-KhujandiResults for "name_arabic"
+Defined in module book_reference.py
+
+Mohammad Abu l-Wafa al-Misri
+
+Ahmed Hasan Al-Buzjani
+
+Ahmed Kamil Al-Mahani
+
+Abu Isa al-Sadafi
+
+Al- al-Khidr Muhammad
+
+Abu Yunus al-Sadafi
+
+Ahmad Yunus al-Misri
+
+Mohammad Jabir Shuja
+
+Mohammad Jabir al-Sadafi
+
+Mohammad al-Khidr Al-Uqlidisi
+
+Al- al-Khidr al-Jiss
+
+Ahmad Kamil al-Sadafi
+
+Abu Ali Al-Khujandi
+
+Al- Abu l-Wafa KhalafResults for "name_arabic"
+Defined in module book_reference.py
+
+Mohammad Abu l-Wafa Abd
+
+Mohammad Yunus Yunus
+
+Al- Abu l-Wafa Abd
+
+Al- Kamil Shuja
+
+Ahmad ibn Al-Mahani
+
+Abu Ali al-Sadafi
+
+Ahmad ibn al-Sadafi
+
+Ahmed Kamil al-Sadafi
+
+Al- Hasan al-Jiss
+
+Mohammad Yunus Al-Khujandi
+
+Ahmad Kamil Abd
+
+Ahmed Hasan Al-Buzjani
+
+Ahmed Hasan Shuja
+
+Ahmad Yunus Khalaf
+
+Abu Yunus Khalaf
+
+Ahmad Yunus Muhammad
+
+Ahmad Isa al-Sadafi

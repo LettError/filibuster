@@ -1,21 +1,247 @@
+Results for "aerospace_ankeiler"
+Defined in module aerospace.py
 
+RoyalGlobalBulk reports a 10M profit last quarter
 
-AsianRoyal bust: 452 jobs lost
+Tragedy: Air France down over Nova Scotia, 380 dead
 
-Saab A80 accident at The Hague Airport, 361 dead
+KLM reports a 6M gross last quarter
 
-SAS rolls out McDonnell Douglas MD8 Luxury Liner, new ExcelEnvoy Class seats
+NationalCargo strike: 4600 stranded
 
-FCC reopen flight 373-case: suspected Emergency landing
+SAS last quarter “not so good”
 
-InterCargo reports a 6M gross last quarter
+Sky Team flight attendants strike fifth day, 200 people stuck
 
-Sky Team reports a 2M gross last quarter
+Lufthansa and Sky Team announce strategic allience
 
-CanadaAir plane lost over Nova Scotia
+Sky Team reports a 6M gross last quarter
 
-GlobeCharters reports a 4M gross last quarter
+Landing gear problem: 44 Delta passengers wounded
 
-NTSB: flight 318-case reopened
+KLM reports a 6M loss last quarter
 
-EuroScandinavian bust: 1606 jobs lost
+Virgin Atlantic reports a 5M loss last quarter
+
+a drunk passenger: 44 KLM passengers wounded
+
+KLM flight attendants strike first day, 1600 people stuck
+
+SAS reports a 10M profit last quarter
+
+radioactive cargosoftware conflicts in the GPS equipment: 39 SAS passengers wounded
+
+NationalGlobal bust: 400 jobs lost
+
+KLM reports a 7M profit last quarter
+
+Peanuts: 24 SAS passengers wounded
+
+AirWings reports a 4M profit last quarter
+
+AlaskaPan reports a 7M loss last quarterResults for "aerospace_ankeiler"
+Defined in module aerospace.py
+
+KLM reports a 10M gross last quarter
+
+Tragedy: SwissAir down over Greenland, 296 feared dead
+
+InterScandinavian bust: 662 jobs lost
+
+AirWings bust: 1779 jobs lost
+
+Midair collision: Sky Team and Sky Team at Madrid Airport, 218 dead
+
+hooligans: 4 Sky Team passengers wounded
+
+FCC: flight 364 should not have left Boston Airport
+
+Lufthansa reports a 9M loss last quarter
+
+Air France: “ticket prices up”
+
+FBI reopen flight 316-case: suspected Landing gear problem
+
+SAS plane lost over Greenland
+
+FBI: flight 264 should not have left San Jose Airport
+
+KLM cabin crews strike first day, 1500 people stuck
+
+EuroGlobeCharters presents Boeing 757 , Envoyclass
+
+KLM joins Virgin Atlantic in FriendshipMiles program
+
+EuroWorldTravel reports a 9M gross last quarter
+
+FCC reopen flight 322-case: suspected radioactive cargosoftware conflicts in the GPS equipment
+
+AlaskaNational bust: 1643 jobs lost
+
+Sky Team bust: 2000 jobs lost
+
+InterUS last quarter “not so good”Results for "aerospace_ankeiler"
+Defined in module aerospace.py
+
+Lufthansa reports a 5M loss last quarter
+
+Air France rolls out MD12 Luxury Liner, new Royal Class seats
+
+Lufthansa reports a 3M profit last quarter
+
+CarrierInter: “ticket prices up”
+
+Delta rolls out Airbus 300K , new Gold Class seats
+
+Sky Team bust: 1988 jobs lost
+
+US chiefs of staff hijack FrancePan flight 232.
+
+Lufthansa joins Sky Team in FriendshipPerks program
+
+CanadaAtlantic plane lost over Nova Scotia.
+
+Tragedy: Virgin Atlantic down over Nova Scotia, 349 dead and 6 wounded.
+
+KLM reports a 2M loss last quarter
+
+Continental: “ticket prices up”
+
+SwissAir and InterCharters announce strategic allience
+
+SwissAir reports a 3M loss last quarter
+
+Lufthansa plane lost over Alaska.
+
+Sky Team bust: 1673 jobs lost
+
+Saab I150 accident at Glasgow Airport, 247 feared dead.
+
+Maltesian police: cause flight 398 crash: terrorists.
+
+Tragedy: Air France down over Atlantic, 392 feared dead.
+
+Spanish investigators: flight 370 should not have left Munich Airport.Results for "aerospace_ankeiler"
+Defined in module aerospace.py
+
+Sky Team presents DC11 , Envoy Class
+
+Continental plane lost over Newfoundland.
+
+KLM strike: 2800 stranded
+
+RAF officers hijack SAS flight 331.
+
+EuroTravel presents DC14 , Lux Class
+
+Short Sunderland 900 accident at Bilbao Airport, 385 dead.
+
+German investigators reopen flight 334-case: suspected Heavy turbulence.
+
+SAS: “ticket prices up”
+
+Short Sunderland 1100 accident at Paris Airport, 328 missing.
+
+Lufthansa bust: 632 jobs lost
+
+Fokker F250 accident at Bologna Airport, 235 dead.
+
+Fokker F300 accident at Oxford Airport, 246 dead and 8 wounded.
+
+Sky Team to buy 13 Boeing 757 WideWing: 5M deal
+
+Delta reports a 3M profit last quarter
+
+Midair collision: Delta and KLM at Bologna Airport, 343 missing.
+
+Sky Team joins Air France in WorldPerks program
+
+Virgin Atlantic strike: 400 stranded
+
+CanadaPacific to buy 6 MD18 K: 7M deal
+
+right wing sympathisers hijack USBulk flight 290.
+
+EuroGlobeAtlantic strike: 2600 strandedResults for "aerospace_ankeiler"
+Defined in module aerospace.py
+
+SAS flight attendants strike sixth day, 4200 people stuck.
+
+NATO infantry hijack KLM flight 296.
+
+Short Sunderland 1500 accident at Kansas City Airport, 6 injured.
+
+SAS bust: 418 jobs lost
+
+Tragedy: SAS down over Canada, 3 wounded.
+
+Delta plane lost over Greenland.
+
+NTSB reopen flight 346-case: suspected Emergency landing.
+
+KLM to buy 15 DC11 HighTop: 10M deal
+
+Air France bust: 789 jobs lost
+
+SwissAir bust: 1212 jobs lost
+
+SAS strike: 4100 stranded
+
+Fokker F250 accident at Philadelphia Airport, 226 missing.
+
+FBI: flight 234 should not have left Dallas Airport.
+
+InterGlobe last quarter “not so good”
+
+SAS rolls out B 767-300 Luxury Liner, new Royal Class seats
+
+PanCanadaAir to buy 10 Airbus 400Y : 9M deal
+
+RoyalCanadaBulk reports a 5M gross last quarter
+
+KLM last quarter “not so good”
+
+Delta reports a 5M loss last quarter
+
+Continental: “ticket prices up”Results for "aerospace_ankeiler"
+Defined in module aerospace.py
+
+Sky Team strike: 4500 stranded
+
+Delta presents DC13 PlatinumTop, FirstSilver Class
+
+European police: flight 376-case reopened.
+
+AmericanAir strike: 1200 stranded
+
+Sky Team presents McDonnell Douglas MD5 WideBody, PremierRoyal Class
+
+SwissAir plane lost over Nova Scotia.
+
+SwissAir to buy 12 Boeing 757 : 9M deal
+
+Sky Team rolls out B 787-100 WorldTop, new Careclass seats
+
+Delta bust: 1556 jobs lost
+
+Virgin Atlantic strike: 5000 stranded
+
+Air France last quarter “not so good”
+
+FBI reopen flight 200-case: suspected Heavy turbulence.
+
+GrandWorld pilots strike seventh day, 2500 people stuck.
+
+KLM reports a 9M loss last quarter
+
+Sky Team reports a 9M profit last quarter
+
+KLM last quarter “not so good”
+
+RoyalJapanBulk bust: 595 jobs lost
+
+SAS strike: 2700 stranded
+
+radioactive cargosoftware problems in the GPS equipment: 16 CargoInter passengers wounded.
+
+Problems: 50 SAS passengers wounded.

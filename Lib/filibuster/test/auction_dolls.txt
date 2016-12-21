@@ -1,21 +1,247 @@
+Results for "auction_dolls"
+Defined in module auction.py
 
+1990 Tina
 
-1980 Laura
+1965 Madeleine
+
+Carmen, 1993 issue.
 
 Hummel ceramic figurine
 
-Thisbe, 1984 issue.
+The Claudia Collection
 
-1972 Jennifer
+Hummel ceramic figurine
 
-1979 Courtney
+The Anna Collection
+
+Kirsten, 1964 issue.
+
+1960 Ellen
+
+1964 Laura
+
+1983 Penny
+
+1999 Kirsten
+
+Hummel ceramic figurine
+
+1979 Daphne
+
+1966 Bethany
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+The Helen Collection
+
+1994 Courtney
+
+Hummel ceramic figurineResults for "auction_dolls"
+Defined in module auction.py
+
+The Eloise Collection
+
+Hummel ceramic figurine
+
+1997 Anna
+
+Justine, 1998 issue.
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+1964 Tina
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+1996 Madeleine
+
+1999 Meghan
+
+Susan, 1967 issue.
+
+Connie, 1978 issue.
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+1980 Daphne
+
+1996 Karen
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+Hummel ceramic figurineResults for "auction_dolls"
+Defined in module auction.py
+
+The Justine Collection
+
+Hummel ceramic figurine
+
+Karen, 1972 issue.
+
+Hummel ceramic figurine
+
+The Justine Collection
+
+Hummel ceramic figurine
+
+The Carmen Collection
+
+Kirsten, 1974 issue.
+
+Zoe, 1993 issue.
+
+Amy, 1980 issue.
+
+Hummel ceramic figurine
+
+Ingeborg, 1968 issue.
+
+Hummel ceramic figurine
+
+Madeleine, 1982 issue.
+
+The Nan Collection
+
+1979 Bethany
+
+Hummel ceramic figurine
+
+1998 Theresa
+
+1989 Justine
+
+The Amy CollectionResults for "auction_dolls"
+Defined in module auction.py
+
+Hummel ceramic figurine
+
+1991 Elizabeth
+
+Bridget, 1970 issue.
+
+1976 Sandra
+
+Hummel ceramic figurine
+
+Madeleine, 1974 issue.
+
+1967 Patricia
+
+1981 Theresa
+
+Hummel ceramic figurine
+
+1966 Bridget
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+Phoebe, 1973 issue.
+
+Hummel ceramic figurine
+
+1966 Ellen
+
+Ingeborg, 1987 issue.
+
+Carmen, 1994 issue.
+
+Bridget, 1964 issue.
+
+1984 Phoebe
+
+Hummel ceramic figurineResults for "auction_dolls"
+Defined in module auction.py
+
+The Ellen Collection
+
+Isabel, 1992 issue.
+
+Hummel ceramic figurine
+
+1969 Elizabeth
+
+The Jennifer Collection
+
+Nan, 1968 issue.
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+1975 Bethany
+
+Eloise, 1979 issue.
+
+Hummel ceramic figurine
+
+Isabel, 1992 issue.
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+The Eloise Collection
+
+Justine, 1964 issue.
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+1987 LeighResults for "auction_dolls"
+Defined in module auction.py
+
+1971 Claudia
+
+1994 Claudia
+
+The Madeleine Collection
+
+Hummel ceramic figurine
 
 The Petra Collection
 
+The Ellen Collection
+
+1967 Helen
+
 The Josie Collection
+
+Hummel ceramic figurine
+
+Justine, 1977 issue.
+
+Liz, 1989 issue.
+
+Hummel ceramic figurine
+
+The Penny Collection
+
+The Nan Collection
 
 The May Collection
 
-1987 Bethany
+The Daphne Collection
 
-The Karla Collection
+Kirsten, 2000 issue.
+
+Hummel ceramic figurine
+
+Hummel ceramic figurine
+
+1977 Patricia

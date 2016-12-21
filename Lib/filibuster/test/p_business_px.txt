@@ -1,21 +1,253 @@
+Results for "p_business_px"
+Defined in module corporate.py
+Used in corporate.py, internet.py, portal.py
 
+Cyber
+
+Cyber
 
 web
+
+i
+
+i
+
+Hyper
+
+i
+
+web
+
+web
+
+net
+
+go
+
+Inter
+
+get
+
+net
+
+e
+
+net
+
+my
+
+Hyper
+
+go
+
+InterResults for "p_business_px"
+Defined in module corporate.py
+Used in corporate.py, internet.py, portal.py
 
 Hyper
 
 my
 
-Cyber
+get
+
+net
 
 Hyper
 
-Inter
+go
+
+Cyber
+
+get
+
+e
+
+get
+
+e
+
+Cyber
+
+Cyber
+
+net
+
+my
+
+Cyber
 
 i
+
+Hyper
+
+meta
+
+HyperResults for "p_business_px"
+Defined in module corporate.py
+Used in corporate.py, internet.py, portal.py
+
+get
+
+get
+
+Inter
+
+net
+
+Equi
+
+my
+
+get
 
 go
 
 Equi
 
 web
+
+meta
+
+Equi
+
+Equi
+
+Inter
+
+meta
+
+Hyper
+
+meta
+
+i
+
+meta
+
+webResults for "p_business_px"
+Defined in module corporate.py
+Used in corporate.py, internet.py, portal.py
+
+Cyber
+
+go
+
+e
+
+i
+
+Inter
+
+Inter
+
+meta
+
+web
+
+Inter
+
+i
+
+i
+
+go
+
+my
+
+meta
+
+meta
+
+e
+
+Cyber
+
+web
+
+go
+
+getResults for "p_business_px"
+Defined in module corporate.py
+Used in corporate.py, internet.py, portal.py
+
+web
+
+get
+
+get
+
+e
+
+Inter
+
+go
+
+get
+
+Equi
+
+Equi
+
+go
+
+meta
+
+Cyber
+
+Hyper
+
+meta
+
+e
+
+Equi
+
+Equi
+
+e
+
+net
+
+eResults for "p_business_px"
+Defined in module corporate.py
+Used in corporate.py, internet.py, portal.py
+
+web
+
+Hyper
+
+e
+
+e
+
+Hyper
+
+e
+
+e
+
+Equi
+
+e
+
+net
+
+web
+
+e
+
+i
+
+Hyper
+
+get
+
+e
+
+web
+
+Cyber
+
+Hyper
+
+meta
