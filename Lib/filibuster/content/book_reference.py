@@ -6,7 +6,7 @@
 """
 
 __version__ = '4.0'
-__author__ = "someone"
+
 
 content = {
     'books_section': ['Book', 'Book', 'New in print', 'e-Books', 'Magazine', 'Weekly',

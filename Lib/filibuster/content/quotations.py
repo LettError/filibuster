@@ -6,7 +6,7 @@
 """
 
 __version__ = '4.0'
-__author__ = "someone"
+
 
     # More real quotations here: http://www.quotegarden.com
     # But actuall we should make/extend a fake quotations machine.

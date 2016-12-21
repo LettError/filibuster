@@ -9,7 +9,7 @@
 """
 
 __version__ = '4.0'
-__author__ = "someone"
+
 
 content = {
     'auction_section': ['<#commercial_section#>'],

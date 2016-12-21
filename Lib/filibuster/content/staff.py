@@ -6,7 +6,7 @@
 """
 
 __version__ = '4.0'
-__author__ = "someone"
+
 
 content = {
     'jobs_section':['Jobs','Jobs','Jobs','Jobs','Positions','Career','Your Job',],

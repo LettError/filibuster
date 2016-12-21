@@ -7,7 +7,7 @@
 """
 
 __version__ = '4.0'
-__author__ = "someone"
+
 
 content = {
         'aerospace_headline': ['<#air_news_neutral#>'],

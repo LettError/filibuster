@@ -11,7 +11,7 @@ evb        - note: only one dictionary named 'content' allowed per module
 """
 
 __version__ = '4.0'
-__author__ = "someone"
+
 
 # ------------------------------------------------------
 #    modernmedia

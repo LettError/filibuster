@@ -23,7 +23,7 @@ for name in names:
 	t.write("a")
 
 	success = False
-	f = codecs.open(namePath, 'a', 'utf-8')
+	f = codecs.open(namePath, 'w', 'utf-8')
 	f.write("Results for \"%s\""%name)
 	definedIn, usedIn = index(name)
 	usedMods = {}

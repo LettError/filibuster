@@ -6,7 +6,7 @@
 """
 
 __version__ = '4.0'
-__author__ = "someone"
+
 
 content = {
         'real-estate_headline': ['<#realestate_shortheadline#>'],
