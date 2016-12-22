@@ -59,8 +59,8 @@ evb
 
 __version__ = '4.0'
 
-opentag = '<#'
-closetag = '#>'
+opentag = u'<#'
+closetag = u'#>'
 
 DEBUG = 0
 
@@ -68,7 +68,7 @@ DEBUG = 0
 FILTERWHITESPACE = 1
 
 randint = random.randint
-vowels = 'aeiuoAEIUO'
+vowels = u'aeiuoAEIUO'
 
 class BlurbWriter(object):
 
@@ -139,7 +139,7 @@ class BlurbWriter(object):
             return self._cache[key]
         if self.data.has_key(key):
             return self.data[key]
-        return '__' + key + '__'
+        return u'__' + key + '__'
         
     def define(self, key, value):
         if DEBUG:
@@ -376,52 +376,53 @@ if __name__ == "__main__":
         >>> content = { 'pattern1': ['a']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern1')
-        'a'
+        u'a'
         
         >>> # replace a tag
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2#>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern2')
-        'a'
+        u'a'
         >>> bw.write('pattern1')
-        'a'
+        u'a'
 
         >>> # prefix an / a article for a result based on consonant / vowel
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#article, pattern2#>'],  'pattern4': ['b'], 'pattern3': ['<#article, pattern4#>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern1')
-        'an a'
+        u'an a'
         >>> bw.write('pattern3')
-        'a b'
+        u'a b'
 
         >>> # replace a nested tag
         >>> content = { 'pattern2': ['pattern'], 'pattern1': ['<#<#pattern2#>3#>'], 'pattern3': ['b']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern1')
-        'b'
+        u'b'
 
         >>> # capitalisation of first character
-        >>> content = { 'pattern1': ['<#^,pattern2#>'], 'pattern2': [u'aa aä']}
+        >>> content = { 'pattern1': ['<#^,pattern2#>'], 'pattern2': [u'aa aa']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern1')
-        u'Aa aä'
+        u'Aa aa'
 
         >>> # unicode content
         >>> content = { 'pattern1': [u'üößé']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern1')
-        u'üößé'
+        u'\\xfc\\xf6\\xdf\\xe9'
+        # not sure if that is the right way
 
         >>> # replace a tag
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2#>']}
         >>> bw = BlurbWriter(content, debug=True)
         >>> bw.write('pattern2')
         pattern2
-        'a'
+        u'a'
         >>> bw.write('pattern1')
         pattern1
         pattern2
-        'a'
+        u'a'
         """
 
     def _test():
