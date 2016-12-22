@@ -3,7 +3,7 @@
 """
         history
         Names, first names, last names, foreign names.
---------------------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 3.0.0    - split all the content into babycontents
 evb        - note: only one dictionary named 'content' allowed per module
         this limitation is to speed up loading

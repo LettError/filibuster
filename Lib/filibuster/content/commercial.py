@@ -6,7 +6,7 @@
         
         A ContentWriter version of the old letterror content module
         added for compatibility.
---------------------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 """
 
 __version__ = '4.0'

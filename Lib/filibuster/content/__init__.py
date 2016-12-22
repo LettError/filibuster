@@ -4,7 +4,7 @@
         history
         This is the init code for the Content package.
         No user servicable parts inside.
---------------------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 3.0.0    - split all the content into babycontents
 evb        - note: only one dictionary named 'contexnt' allowed per module
         this limitation is to speed up loading
