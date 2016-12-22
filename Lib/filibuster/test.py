@@ -1,7 +1,6 @@
-# -*- coding: UTF-8 -*-
 
-from filibuster.blurb import Blurb
-from filibuster.content import index
+from blurb import Blurb
+from content import index
 
 import codecs
 import os
