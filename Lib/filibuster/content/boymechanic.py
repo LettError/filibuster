@@ -9,7 +9,7 @@ __version__ = '4.0'
 
 
 content = {
-    'boymechanic_ankeiler': ['Having fun <#,odd_action#> while <#odd_action#>'],
+    'boymechanic_ankeiler': ['Having fun <#,odd_action#> while <#odd_action#>.'],
     'odd_action': [
         '<#odd_verbs_gerund#> <#article,odd_descriptor#> <#odd_noun#>',
         '<#odd_verbs_gerund#> <#article,odd_noun#> with some <#odd_material#>',
@@ -31,6 +31,9 @@ content = {
         'homemade',
         'homemade',
         'homemade',
+        'digital',
+        'live',
+        'dead',
         '<#odd_adj#>',
     ],
     'odd_material': [

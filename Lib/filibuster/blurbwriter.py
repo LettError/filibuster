@@ -3,6 +3,7 @@ from __future__ import print_function
 
 import re
 import random
+from titlecase import titlecase
 
 choice = random.choice
 
@@ -319,8 +320,10 @@ class BlurbWriter(object):
             # process in-tag commands, if any
             cachethis = False    # whether results should be cached
             setarticle = False    # prepare an article ( 'a' or 'an' )
-            uppered = False    # make first character uppercase
-            lowered = False     # make all characters lowercase
+            makeUpperCase = False    # make first character uppercase
+            makeTitleCase = False   # makeTitlecase
+            makeAllCaps = False      # make all caps
+            makeLowercase = False     # make all characters lowercase
             space_to_underscore = False # convert spaces to underscores
             nonletter_remove = False    # remove whitespace
             formatcmds = []
@@ -334,9 +337,15 @@ class BlurbWriter(object):
                 if u'!' in si:        # it's a format command!
                     formatcmds.append(si[1:])
                 if u'^' in si:        # make first character uppercase
-                    uppered = True
+                    capped = si.count(u"^")
+                    if capped == 1:
+                        makeUpperCase = True
+                    elif capped == 2:
+                        makeTitleCase = True
+                    elif capped == 3:
+                        makeAllCaps = True
                 if u'~' in si:        # make first character uppercase
-                    lowered = True
+                    makeLowercase = True
                 if u'_' in si :        # make whitespace underscore
                     space_to_underscore = True
                 if u'@' in si :        # remove whitespace
@@ -358,9 +367,13 @@ class BlurbWriter(object):
                         art = u'an '
                     else:
                         art = u'a '
-                if uppered:
+                if makeUpperCase:
                     c = c[0].upper()+c[1:]
-                elif lowered:
+                elif makeTitleCase:
+                    c = titlecase(c)
+                elif makeAllCaps:
+                    c = c.upper()
+                elif makeLowercase:
                     c = c.lower()
                 if nonletter_remove:
                     #print('before', c)
@@ -372,7 +385,7 @@ class BlurbWriter(object):
                 elif space_to_underscore:
                     c = c.replace(u" ", u"_")
 
-            #print('cachethis', cachethis, 'uppered', uppered, 'lowered', lowered, 'space_to_underscore', space_to_underscore, 'nonletter_remove', nonletter_remove)
+            #print('cachethis', cachethis, 'makeUpperCase', makeUpperCase, 'makeLowercase', makeLowercase, 'space_to_underscore', space_to_underscore, 'nonletter_remove', nonletter_remove)
 
             # format the line if necessary
             if len(formatcmds) > 0 and self.formatfunc:
@@ -451,14 +464,29 @@ if __name__ == "__main__":
         >>> bw.write('pattern1')
         u'AA'
 
-        >>> # white space to underscore and capitalise
+        >>> # white space to underscore and first cap
         >>> content = { 'pattern2': ['a a'], 'pattern1': ['<#^_,pattern2#>']}
-        >>> bw = BlurbWriter(content)
-        
-        #>>> bw.write('pattern2')
-        #u'a a'
+        >>> bw = BlurbWriter(content)        
+        >>> bw.write('pattern2')
+        u'a a'
         >>> bw.write('pattern1')
         u'A_a'
+
+        >>> # make title case
+        >>> content = { 'pattern2': ['aa aa'], 'pattern1': ['<#^^,pattern2#>']}
+        >>> bw = BlurbWriter(content)        
+        >>> bw.write('pattern2')
+        u'aa aa'
+        >>> bw.write('pattern1')
+        u'Aa Aa'
+
+        >>> # make allcaps
+        >>> content = { 'pattern2': ['aa aa'], 'pattern1': ['<#^^^,pattern2#>']}
+        >>> bw = BlurbWriter(content)        
+        >>> bw.write('pattern2')
+        u'aa aa'
+        >>> bw.write('pattern1')
+        u'AA AA'
 
         >>> # detect spinning because of a malformed tag
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2>']}

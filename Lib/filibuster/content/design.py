@@ -308,7 +308,7 @@ content = {
                 ],
         'refthing':['realism', 'language', 'philosophy', 'critical thinking', 'internet', "AI", "<#design_magazines#>" ],
         'design_counterclaim':    [
-                u'the problem with <#design_buzzword#>  is that <#design_claim#>',
+                u'the problem with <#^,design_buzzword#>  is that <#design_claim#>',
                 u'rather, <#design_buzzword#> is explained by <#design_claim#>',
                 u'rather, <#design_claim#>',
                 u'but <#design_claim#>',
