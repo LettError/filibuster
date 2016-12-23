@@ -92,7 +92,7 @@ content = {
         '<blockquote class="pullquote"><#^,quotation#></blockquote>',
     ],
     'article_start': [
-        '<#^,medical_headline#>',
+        u'<#^,medical_headline#>',
         u"""The tiny island nation of <#towns_USgeneric#> is one of the most isolated, troubled and beautiful places on the planet. 
         Once one of the wealthiest places on the globe, today it’s now one of the poorest. What happened?""",
         u"""<#tv#> Report blog: Who is <#name#>?""",

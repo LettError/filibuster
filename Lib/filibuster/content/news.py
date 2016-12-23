@@ -131,8 +131,8 @@ content = {
     'news_disaster_firecause':                ['continuing drought', 'illegal logging', 'pipeline leaks', 'arson suspected'],
 
     'section_weather':                        ['The Weather', 'Global Weather', 'Weather Overview', 'Forecast', 'The Skies'],
-    'weather_city':                            ['<#!bold, city#>: <-randint(-4, 30)->º',
-                                            u'<#!bold, city#>: <#weather_sky#>, <-randint(-4, 30)->ºC'],
+    'weather_city':                            [u'<#!bold, city#>: <-randint(-4, 30)->°',
+                                            u'<#!bold, city#>: <#weather_sky#>, <-randint(-4, 30)->°C'],
     'weather_sky':                            ['cloudy', 'rain', 'thunderstorms', 'sunny', 'partial overcast',
                                             'occasional showers', 'fog', 'snow'],
 
