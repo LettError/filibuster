@@ -276,7 +276,6 @@ content = {
                 u'<#design_theory_adj#> <#design_theory_noun#> in information <#design_nounspecific#>',
                 u'<#design_theory_adj#> <#design_theory_noun#>',
                 u'<#design_theory_adj#> <#design_theory_verb#>',
-                u'<#refthing#>',
                 ],
         'design_designer': [
                 u'<#design_names#>',
@@ -307,7 +306,7 @@ content = {
                 u', (<#design_names#> on <#^,refthing#> <-randint(1950,2000)->)',
                 u', (<#^,refthing#>, <-randint(1920,2000)->)',
                 ],
-        'refthing':['refthing TO BE FILLED'],
+        'refthing':['realism', 'language', 'philosophy', 'critical thinking', 'internet', "AI", "<#design_magazines#>" ],
         'design_counterclaim':    [
                 u'the problem with <#design_buzzword#>  is that <#design_claim#>',
                 u'rather, <#design_buzzword#> is explained by <#design_claim#>',
@@ -400,15 +399,16 @@ content = {
                 u'<#design_quote_starter#><#design_theory_noun#> <#design_verb_to_be#> all about <#design_theory_noun#><#design_quote_stopper#>',
                 ],
         'design_technology':[
-                u'desktop-publishing', u'critical thought', u'early <#design_theory_noun#>',
+                u'desktop-publishing', u'critical thought', u'early <#design_theory_noun#>' , u'late <#design_theory_noun#>'
                 u'movable type', u'breathmints', u'information design',
                 u'language', u'the internet', u'the web', u'the marketplace', u'Apple Macintosh', u'the digital tool',
+                u"responsive", "IOT", "the dark web", "rectangles"
                 ],
         'design_interjection':    [
             #    '', '', '', '', '', '', '', '', '',
-                u', <#design_names#> said as much in <-randint(1900,1950)->, u',
-                u', <#design_theory_adj#> itself does not explain it, u',
-                u', without his knowledge, u'
+                u', <#design_names#> said as much in <-randint(1900,1950)->,',
+                u', <#design_theory_adj#> itself does not explain it,',
+                u', without his knowledge,'
                 ],
         'design_glue':    [
                 '', '', '', '', '', '', '', '', '', '',
@@ -419,3 +419,6 @@ content = {
             ],
         }
 
+
+if __name__ == "__main__":
+    print content.keys()
