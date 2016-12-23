@@ -241,9 +241,9 @@ content = {
     'tv':                        ['<#p_tv_px#><#p_tv_sx#>'],
 
     'source_wireservice':        ['AP','UP','Reuters'],
-    'source_online':            ['Wired', 'Bloomberg'],
+    'source_online':            ['Wired', 'Bloomberg', 'Gizmodo', "Medium", "FaceBook", "Twitter"],
     
-    'mag_tech_px':    ['Mac','PC','Linux'],
+    'mag_tech_px':    ['Mac','PC','Linux', 'Android', 'Mobile'],
     'mag_tech_sx':    ['User','Week','World','Journal'],
     'mag_tech':            ['<#mag_tech_px#><#mag_tech_sx#>']
             
