@@ -317,20 +317,30 @@ class BlurbWriter(object):
                 
             tagname, cmd, variable, hard = self.parsetag(tag)
             # process in-tag commands, if any
-            cachethis = 0    # whether results should be cached
-            setarticle = 0    # prepare an article ( 'a' or 'an' )
-            uppered = 0    # make first character uppercase
+            cachethis = False    # whether results should be cached
+            setarticle = False    # prepare an article ( 'a' or 'an' )
+            uppered = False    # make first character uppercase
+            lowered = False     # make all characters lowercase
+            space_to_underscore = False # convert spaces to underscores
+            nonletter_remove = False    # remove whitespace
             formatcmds = []
             for i in cmd:
                 si = i.strip()
+                #print('si', si)
                 if not si:
                     continue
-                if si == u'article':
-                    setarticle = 1
-                elif si[0] == u'!':        # it's a format command!
+                if u'article' in si:
+                    setarticle = True
+                if u'!' in si:        # it's a format command!
                     formatcmds.append(si[1:])
-                elif si[0] == u'^':        # make first character uppercase
-                    uppered = 1
+                if u'^' in si:        # make first character uppercase
+                    uppered = True
+                if u'~' in si:        # make first character uppercase
+                    lowered = True
+                if u'_' in si :        # make whitespace underscore
+                    space_to_underscore = True
+                if u'@' in si :        # remove whitespace
+                    nonletter_remove = True
 
             parts = text.split(opentag + tag + closetag)
             if self.has_key(tagname):
@@ -342,13 +352,27 @@ class BlurbWriter(object):
 
             # take care of the article command
             art = ''
-            if setarticle:
-                if c[0] in vowels:
-                    art = u'an '
-                else:
-                    art = u'a '
-            if uppered and c:
-                c = c[0].upper()+c[1:]
+            if c:
+                if setarticle:
+                    if c[0] in vowels:
+                        art = u'an '
+                    else:
+                        art = u'a '
+                if uppered:
+                    c = c[0].upper()+c[1:]
+                elif lowered:
+                    c = c.lower()
+                if nonletter_remove:
+                    #print('before', c)
+                    c = c.replace(u" ", u"")
+                    c = c.replace(u".", u"")
+                    c = c.replace(u"-", u"")
+                    c = c.replace(u"_", u"")
+                    #print('after', c)
+                elif space_to_underscore:
+                    c = c.replace(u" ", u"_")
+
+            #print('cachethis', cachethis, 'uppered', uppered, 'lowered', lowered, 'space_to_underscore', space_to_underscore, 'nonletter_remove', nonletter_remove)
 
             # format the line if necessary
             if len(formatcmds) > 0 and self.formatfunc:
@@ -397,10 +421,44 @@ if __name__ == "__main__":
         >>> # replace a tag
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2#>']}
         >>> bw = BlurbWriter(content)
+
         >>> bw.write('pattern2')
         u'a'
         >>> bw.write('pattern1')
         u'a'
+
+        >>> # to lowercasee
+        >>> content = { 'pattern2': ['AA'], 'pattern1': ['<#~,pattern2#>']}
+        >>> bw = BlurbWriter(content)
+        >>> bw.write('pattern2')
+        u'AA'
+        >>> bw.write('pattern1')
+        u'aa'
+
+        >>> # white space to underscore
+        >>> content = { 'pattern2': ['A A'], 'pattern1': ['<#_,pattern2#>']}
+        >>> bw = BlurbWriter(content)
+        >>> bw.write('pattern2')
+        u'A A'
+        >>> bw.write('pattern1')
+        u'A_A'
+
+        >>> # remove nonletters
+        >>> content = { 'pattern2': ['A. A-'], 'pattern1': ['<#@,pattern2#>']}
+        >>> bw = BlurbWriter(content)
+        >>> bw.write('pattern2')
+        u'A. A-'
+        >>> bw.write('pattern1')
+        u'AA'
+
+        >>> # white space to underscore and capitalise
+        >>> content = { 'pattern2': ['a a'], 'pattern1': ['<#^_,pattern2#>']}
+        >>> bw = BlurbWriter(content)
+        
+        #>>> bw.write('pattern2')
+        #u'a a'
+        >>> bw.write('pattern1')
+        u'A_a'
 
         >>> # detect spinning because of a malformed tag
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2>']}
@@ -426,46 +484,46 @@ if __name__ == "__main__":
         >>> bw.write('pattern1')
         u'a'
 
-        >>> # prefix an / a article for a result based on consonant / vowel
-        >>> content = { 'pattern2': ['a'], 'pattern1': ['<#article, pattern2#>'],  'pattern4': ['b'], 'pattern3': ['<#article, pattern4#>']}
-        >>> bw = BlurbWriter(content)
-        >>> bw.write('pattern1')
-        u'an a'
-        >>> bw.write('pattern3')
-        u'a b'
+        # >>> # prefix an / a article for a result based on consonant / vowel
+        # >>> content = { 'pattern2': ['a'], 'pattern1': ['<#article, pattern2#>'],  'pattern4': ['b'], 'pattern3': ['<#article, pattern4#>']}
+        # >>> bw = BlurbWriter(content)
+        # >>> bw.write('pattern1')
+        # u'an a'
+        # >>> bw.write('pattern3')
+        # u'a b'
 
-        >>> # replace a nested tag
-        >>> content = { 'pattern2': ['pattern'], 'pattern1': ['<#<#pattern2#>3#>'], 'pattern3': ['b']}
-        >>> bw = BlurbWriter(content)
-        >>> bw.write('pattern1')
-        u'b'
+        # >>> # replace a nested tag
+        # >>> content = { 'pattern2': ['pattern'], 'pattern1': ['<#<#pattern2#>3#>'], 'pattern3': ['b']}
+        # >>> bw = BlurbWriter(content)
+        # >>> bw.write('pattern1')
+        # u'b'
 
-        >>> # capitalisation of first character
-        >>> content = { 'pattern1': ['<#^,pattern2#>'], 'pattern2': [u'aa aa']}
-        >>> bw = BlurbWriter(content)
-        >>> bw.write('pattern1')
-        u'Aa aa'
+        # >>> # capitalisation of first character
+        # >>> content = { 'pattern1': ['<#^,pattern2#>'], 'pattern2': [u'aa aa']}
+        # >>> bw = BlurbWriter(content)
+        # >>> bw.write('pattern1')
+        # u'Aa aa'
 
-        >>> # unicode content
-        >>> content = { 'pattern1': [u'üößé']}
-        >>> bw = BlurbWriter(content)
-        >>> bw.write('pattern1')
-        u'üößé'
+        # >>> # unicode content
+        # >>> content = { 'pattern1': [u'üößé']}
+        # >>> bw = BlurbWriter(content)
+        # >>> bw.write('pattern1')
+        # u'üößé'
 
-        # u'\\xfc\\xf6\\xdf\\xe9'
+        # # u'\\xfc\\xf6\\xdf\\xe9'
         
-        # not sure if that is the right way
+        # # not sure if that is the right way
 
-        >>> # replace a tag
-        >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2#>']}
-        >>> bw = BlurbWriter(content, debug=True)
-        >>> bw.write('pattern2')
-        pattern2
-        u'a'
-        >>> bw.write('pattern1')
-        pattern1
-        pattern2
-        u'a'
+        # >>> # replace a tag
+        # >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2#>']}
+        # >>> bw = BlurbWriter(content, debug=True)
+        # >>> bw.write('pattern2')
+        # pattern2
+        # u'a'
+        # >>> bw.write('pattern1')
+        # pattern1
+        # pattern2
+        # u'a'
         """
 
     def _test():
