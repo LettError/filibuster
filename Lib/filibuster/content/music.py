@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 """
         history
         Music genres, performers, recordings, venues
@@ -123,13 +124,13 @@ content = {
         'classic_work_interjection':    ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 
                 ' ma non troppo,', ' molto vivace,', ' molto e cantabile,', ' un poco maestoso,'],
         'classic_work_numbered':    [
-                '<#num_ord#> <#classic_work_kind#>',
+                '<#^,num_ord#> <#classic_work_kind#>',
                 '<#classic_work_kind#> <#classic_oevrecounter#>',
                 '<#num_ord#> <#classic_work_kind#>',
                 '<#classic_work_kind#> <#classic_oevrecounter#>',
-                '<#num_ord#> <#classic_work_kind#>',
+                '<#^,num_ord#> <#classic_work_kind#>',
                 '<#classic_work_kind#> <#classic_oevrecounter#>',
-                '<#num_ord#> <#classic_work_kind#> <#classic_opus#>',
+                '<#^,num_ord#> <#classic_work_kind#> <#classic_opus#>',
                 '<#classic_work_kind#> <#classic_oevrecounter#> <#classic_opus#>',
                 ],
         'classic_work_kind':    [
@@ -168,15 +169,16 @@ content = {
                 ],
         'classic_recording_highbrow':   [
                 "Works by <#classic_composer#>",
-                "<#classic_composer#>'s <#classic_work#>, by the <#classic_orchestra#>. <#classic_classification#>",
-                "<#classic_composer#>'s <#classic_work#>, by the <#classic_orchestra#>, directed by <#classic_director#>. <#classic_classification#>",
-                "<#!^, classic_work#> by <#classic_composer#>, recorded by the <#classic_orchestra#><#classic_orchestra_more#>, conducted by <#classic_director#>. <#classic_classification#>",
-                "<#!^, classic_work#> by <#classic_composer#>, recorded by the <#classic_orchestra#><#classic_orchestra_more#>. <#classic_classification#>",
-                "<#!^, classic_work#> by <#classic_composer#>, a recording by the <#classic_orchestra#><#classic_orchestra_more#>. <#classic_classification#>"
+                u"<#classic_composer#>’s <#classic_work#>, by the <#classic_orchestra#>. <#classic_classification#>",
+                u"<#classic_composer#>’s <#classic_work#>, by the <#classic_orchestra#>, directed by <#classic_director#>. <#classic_classification#>",
+                "<#!^^,classic_work#> by <#classic_composer#>, recorded by the <#classic_orchestra#><#classic_orchestra_more#>, conducted by <#classic_director#>. <#classic_classification#>",
+                "<#!^^,classic_work#> by <#classic_composer#>, recorded by the <#classic_orchestra#><#classic_orchestra_more#>. <#classic_classification#>",
+                "<#!^^,classic_work#> by <#classic_composer#>, a recording by the <#classic_orchestra#><#classic_orchestra_more#>. <#classic_classification#>"
                 ],
         'classic_recording_lowbrow':    [
                 "<#name#> Goes Classic",
                 "<#name#> Goes Classic <#num_roman#>",
+                "<#classic_composer#> for Dummies",
                 "Pre-natal <#classic_composer#>",
                 "<#classic_composer#> For Massage - Music With A Soft Gentle Touch",
                 "<#classic_composer#> At Bedtime",
