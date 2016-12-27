@@ -492,7 +492,7 @@ if __name__ == "__main__":
         >>> content = { 'pattern1': ['<-randint(1, 20)->']}
         >>> bw = BlurbWriter(content)        
         >>> result = bw.write('pattern1')
-        >>> assert 1 < int(result) <= 20
+        >>> assert 1 <= int(result) <= 20
 
         >>> # detect spinning because of a malformed tag
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2>']}
@@ -503,11 +503,14 @@ if __name__ == "__main__":
         u'<#pattern2>'
 
         >>> # replace a tag, variable
+        >>> # u'<#_aname=name#><#_aname#>’s
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#varName=pattern2#>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern1')
+        u''
+        >>> bw.write('varName')
         u'a'
-        
+
         # >>> bw.write('<#varName#>')
         # u'a'
 
@@ -532,12 +535,6 @@ if __name__ == "__main__":
         # >>> bw = BlurbWriter(content)
         # >>> bw.write('pattern1')
         # u'b'
-
-        # >>> # capitalisation of first character
-        # >>> content = { 'pattern1': ['<#^,pattern2#>'], 'pattern2': [u'aa aa']}
-        # >>> bw = BlurbWriter(content)
-        # >>> bw.write('pattern1')
-        # u'Aa aa'
 
         # >>> # unicode content
         # >>> content = { 'pattern1': [u'üößé']}
