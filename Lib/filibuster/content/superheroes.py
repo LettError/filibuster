@@ -27,11 +27,11 @@ content = {
         'hero_onomatopaea': ['BLAST', 'KAPOW', 'WHAM', 'ZAP', 'ZOT', 'KRAZOOM', 'ZZZZZOOM'],
         
         'hero_comic_title': [
-                '#<-randint(1,320)-> "<#!capitalize, hero_antagonist#> vs. <#!capitalize, hero_protagonist#>" (<#hero_comic_publisher#>)',
-                '<#!capitalize, hero_antagonist#> SERIES <-randint(1,320)->',
-                '<#!capitalize, hero_protagonist#>, <#hero_comic_issue#>: #<-randint(1,320)->',
-                '<#!capitalize, hero_protagonist#>, <#hero_comic_issue#> #<-randint(1,320)->',
-                '<#!capitalize, hero_protagonist#>, <#hero_comic_publisher#> #<-randint(1,320)->',
+                '#<-randint(1,320)-> "<#!^,hero_antagonist#> vs. <#!^,hero_protagonist#>" (<#hero_comic_publisher#>)',
+                '<#!^,hero_antagonist#> SERIES <-randint(1,320)->',
+                '<#!^,hero_protagonist#>, <#hero_comic_issue#>: #<-randint(1,320)->',
+                '<#!^,hero_protagonist#>, <#hero_comic_issue#> #<-randint(1,320)->',
+                '<#!^,hero_protagonist#>, <#hero_comic_publisher#> #<-randint(1,320)->',
                 ],
         'hero_comic_publisher': ['<#p_oldbiz_px#> Comics', '<#p_oldbiz_px#> Mills', '<#p_oldbiz_px#> Toons', ],
         'hero_comic_issue': ['Phantom Zone', 'The Dark Period', 'The 3D Episode',
@@ -74,7 +74,7 @@ content = {
                 '<#hero_brand#>-woman',
                 '<#hero_brand#>-girl',
                 ],
-        'supersized':   ['Super', 'Hyper', 'Ultra', 'Mini', 'Maxi', 'Macro', 'Micro',],
+        'supersized':   ['Super', 'Hyper', 'Ultra', 'Mini', 'Maxi', 'Macro', 'Micro', 'Nano'],
         'hero_brand':   [
                 '<#supersized#>','<#supersized#>','<#supersized#>',
                 'Omni', 'God', 
@@ -84,6 +84,7 @@ content = {
                 'Atom', 
                 '<#robot_px#><#robot_sx_robotic#>',
                 '<#hero_pets#>',
+                "<#color#> Mask",
                 '<#sci_transition_metals#>',
                 ],
         'hero_pets':    [
@@ -300,7 +301,7 @@ content = {
                 '<#hero_damage#> with one <#hero_quantity#> of <#hero_material#>',
                 ],
         'hero_demands_evil':    [
-                'Give me the <#hero_rewards_evil#> or I will <#hero_plans_evil#>!',
+                'Give me the <~,#hero_rewards_evil#> or I will <~,#hero_plans_evil#>!',
                 ],
         'hero_rewards_evil':    [
                 'all the <#hero_material#> in the <#hero_locale#>',
