@@ -11,6 +11,7 @@ setup(name = "Filibuster",
       license = "MIT",
       packages = [
               "filibuster",
+              "filibuster.content",
       ],
       package_dir = {"":"Lib"},
 )
