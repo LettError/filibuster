@@ -17,8 +17,8 @@ class Blurb(object):
         print(hasattr(filibuster.content, 'filibusterContent'))
         d = filibuster.content.filibusterContent()
         print('d', d.keys())
-        import blurbwriter
-        self.writer = blurbwriter.BlurbWriter(d)
+        import filibuster.blurbwriter
+        self.writer = filibuster.blurbwriter.BlurbWriter(d)
     
     reNoTags = re.compile('\<[^\>]*|([^\<\>]*)')
 

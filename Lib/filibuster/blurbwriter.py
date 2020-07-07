@@ -3,7 +3,7 @@ from __future__ import print_function
 
 import re
 import random
-from titlecase import titlecase
+from filibuster.titlecase import titlecase
 
 choice = random.choice
 
