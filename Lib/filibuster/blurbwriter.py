@@ -60,8 +60,8 @@ evb
 
 __version__ = '4.0'
 
-opentag = u'<#'
-closetag = u'#>'
+opentag = '<#'
+closetag = '#>'
 
 DEBUG = 0
 
@@ -69,7 +69,7 @@ DEBUG = 0
 FILTERWHITESPACE = 1
 
 randint = random.randint
-vowels = u'aeiuoAEIUO'
+vowels = 'aeiuoAEIUO'
 
 class BlurbWriter(object):
 
@@ -84,10 +84,10 @@ class BlurbWriter(object):
         self.formatfunc = None
         self.lasttag = 'no last tag'    # last processed tag, useful when debugging loops
         self.choicetree = []
-        p = u'\<#(?P<tagname>.*)#\>'
+        p = '\<#(?P<tagname>.*)#\>'
         #p = '\<#(?P<tagname>.*?)#\>'
         self.tag = re.compile(p, re.IGNORECASE)
-        p = u'\<-(?P<tagname>.*?)-\>'
+        p = '\<-(?P<tagname>.*?)-\>'
         self.pstatement = re.compile(p, re.IGNORECASE)
         self.allkeys = self.keys()
 
@@ -97,15 +97,17 @@ class BlurbWriter(object):
         # make all strings unicode here?
         for k, v in contentdict.items():
             bb = []
-            for name in v:
-                try:
-                    bb.append(unicode(name))
-                except UnicodeDecodeError:
-                    print("UnicodeDecodeError importcontent", name)
-            self.data[unicode(k)] = [unicode(name) for name in v]
+            #for name in v:
+            #    try:
+            #        #bb.append(unicode(name))
+            #        bb.append(name)
+                #except UnicodeDecodeError:
+                #    print("UnicodeDecodeError importcontent", name)
+            #self.data[unicode(k)] = [unicode(name) for name in v]
+            self.data[k] = v
         #self.data.update(contentdict)
 
-        dk = self.data.keys()
+        dk = list(self.data.keys())
         dk.sort()
         self.keywords = dk
     
@@ -116,14 +118,14 @@ class BlurbWriter(object):
             return -1
         
     def keys(self):
-        k = self.data.keys()
+        k = list(self.data.keys())
         k.sort()
-        return self.data.keys()
+        return k
 
     def has_key(self, key):
-        if self._cache.has_key(key):
+        if key in self._cache:
             return 1
-        if self.data.has_key(key):
+        if key in self.data:
             return 1
         return 0
     
@@ -137,20 +139,21 @@ class BlurbWriter(object):
         if len(items)>0:
             i = randint(0, len(items)-1)
             self.choicetree.append((self.keyindex(key), i))
+            print('items', i, items)
             return i, items[i]
         else:
             self.choicetree.append((-1, -1))
-            return -1, u''
+            return -1, ''
 
     def getvalue(self, key):
         return self[key]
         
     def __getitem__(self, key):
-        if self._cache.has_key(key):
+        if key in self._cache:
             return self._cache[key]
-        if self.data.has_key(key):
+        if key in self.data:
             return self.data[key]
-        return u'__' + key + u'__'
+        return '__' + key + '__'
         
     def define(self, key, value):
         if DEBUG:
@@ -160,14 +163,14 @@ class BlurbWriter(object):
     def softdefine(self, key, value):
         if DEBUG:
             print('soft define', key, value)
-        if not self._cache.has_key(key):
+        if not key in self._cache:
             self._cache[key] = [value]
         
     def clearcache(self, key=None):
         if not key:
             self._cache = {}
         else:
-            if self._cache.has_key(key):
+            if key in self._cache:
                 del self._cache[key]
         
     def parsetag(self, tag):
@@ -193,7 +196,7 @@ class BlurbWriter(object):
             hard=0
             name = parts[-1].strip()
             cmd = []
-            variable = u''.join(parts[0:-1]).strip()
+            variable = ''.join(parts[0:-1]).strip()
             return name, cmd, variable, hard
         # rest
         else:
@@ -220,7 +223,7 @@ class BlurbWriter(object):
         _, item = self.replacetag(0, tag) # ok, item
         _, item = self.replacecode(item) # ok, item
         if FILTERWHITESPACE:
-            return u' '.join(item.split())
+            return ' '.join(item.split())
         return item
     
     def replacecode(self, text):
@@ -238,18 +241,18 @@ class BlurbWriter(object):
                 result = eval(tag)
             except:
                 result = '__error('+tag+')__'
-            if not isinstance(result, basestring):
+            if not isinstance(result, type("")):
                 result = str(result)
-            parts = text.split(u'<-' + tag + u'->')
-            text = parts[0] + result + (u'<-' + tag + u'->').join(parts[1:])
+            parts = text.split('<-' + tag + '->')
+            text = parts[0] + result + ('<-' + tag + '->').join(parts[1:])
         return 1, text
         
     def capsentence(self, s):
-        ss = s.split(u'. ')
+        ss = s.split('. ')
         new = [] 
         for i in ss:
             new.append(i[0].upper() + i[1:])
-        return new.join(u'. ')
+        return new.join('. ')
     
     def nextopen(self, pos, text):
         return text.find(opentag, pos)
@@ -292,7 +295,7 @@ class BlurbWriter(object):
     def replacetag(self, level, text):
         level = level + 1
         if level > 100:
-            raise 'recursion error? too many nested instructions!', self.lasttag
+            raise 'recursion error? too many nested instructions!'
         #pend = 0
         m = 1
         while m != None:
@@ -302,7 +305,7 @@ class BlurbWriter(object):
             tag = text[start:stop]
             if len(tag) == 0:
                 raise 'Error in blurb code' # Better make it crash to show the error
-                return 0, u'__empty tag__'
+                return 0, '__empty tag__'
 
             # do the meta-recursive tag-tagging thing here
             metatext = text
@@ -332,11 +335,11 @@ class BlurbWriter(object):
                 #print('si', si)
                 if not si:
                     continue
-                if u'article' in si:
+                if 'article' in si:
                     setArticle = True
-                if u'!' in si:        # it's a format command!
+                if '!' in si:        # it's a format command!
                     formatcmds.append(si[1:])
-                if u'^' in si:        # make first character uppercase
+                if '^' in si:        # make first character uppercase
                     capped = si.count(u"^")
                     if capped == 1:
                         makeUpperCase = True
@@ -344,11 +347,11 @@ class BlurbWriter(object):
                         makeTitleCase = True
                     elif capped == 3:
                         makeAllCaps = True
-                if u'~' in si:        # make first character uppercase
+                if '~' in si:        # make first character uppercase
                     makeLowercase = True
-                if u'_' in si :        # make whitespace underscore
+                if '_' in si :        # make whitespace underscore
                     space_to_underscore = True
-                if u'@' in si :        # remove whitespace
+                if '@' in si :        # remove whitespace
                     nonletter_remove = True
 
             parts = text.split(opentag + tag + closetag)
@@ -356,7 +359,7 @@ class BlurbWriter(object):
                 _, selection = self.choice(variable, tagname) # ci, selection
                 _, c = self.replacetag(level, selection) # ok, c
             else:
-                _, c = self.replacetag(level, u'__' + tagname + u'__') # ok, c 
+                _, c = self.replacetag(level, '__' + tagname + '__') # ok, c 
             self.lasttag = c
 
             # take care of the article command
@@ -364,9 +367,9 @@ class BlurbWriter(object):
             if c:
                 if setArticle:
                     if c[0] in vowels:
-                        art = u'an '
+                        art = 'an '
                     else:
-                        art = u'a '
+                        art = 'a '
                 if makeUpperCase:
                     c = c[0].upper()+c[1:]
                 elif makeTitleCase:
@@ -429,64 +432,64 @@ if __name__ == "__main__":
         >>> content = { 'pattern1': ['a']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern1')
-        u'a'
+        'a'
         
         >>> # replace a tag
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2#>']}
         >>> bw = BlurbWriter(content)
 
         >>> bw.write('pattern2')
-        u'a'
+        'a'
         >>> bw.write('pattern1')
-        u'a'
+        'a'
 
         >>> # to lowercasee
         >>> content = { 'pattern2': ['AA'], 'pattern1': ['<#~,pattern2#>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern2')
-        u'AA'
+        'AA'
         >>> bw.write('pattern1')
-        u'aa'
+        'aa'
 
         >>> # white space to underscore
         >>> content = { 'pattern2': ['A A'], 'pattern1': ['<#_,pattern2#>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern2')
-        u'A A'
+        'A A'
         >>> bw.write('pattern1')
-        u'A_A'
+        'A_A'
 
         >>> # remove nonletters
         >>> content = { 'pattern2': ['A. A-'], 'pattern1': ['<#@,pattern2#>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern2')
-        u'A. A-'
+        'A. A-'
         >>> bw.write('pattern1')
-        u'AA'
+        'AA'
 
         >>> # white space to underscore and first cap
         >>> content = { 'pattern2': ['a a'], 'pattern1': ['<#^_,pattern2#>']}
         >>> bw = BlurbWriter(content)        
         >>> bw.write('pattern2')
-        u'a a'
+        'a a'
         >>> bw.write('pattern1')
-        u'A_a'
+        'A_a'
 
         >>> # make title case
         >>> content = { 'pattern2': ['aa aa'], 'pattern1': ['<#^^,pattern2#>']}
         >>> bw = BlurbWriter(content)        
         >>> bw.write('pattern2')
-        u'aa aa'
+        'aa aa'
         >>> bw.write('pattern1')
-        u'Aa Aa'
+        'Aa Aa'
 
         >>> # make allcaps
         >>> content = { 'pattern2': ['aa aa'], 'pattern1': ['<#^^^,pattern2#>']}
         >>> bw = BlurbWriter(content)        
         >>> bw.write('pattern2')
-        u'aa aa'
+        'aa aa'
         >>> bw.write('pattern1')
-        u'AA AA'
+        'AA AA'
 
         >>> # generate a random number 
         >>> content = { 'pattern1': ['<-randint(1, 20)->']}
@@ -498,51 +501,51 @@ if __name__ == "__main__":
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#pattern2>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern2')
-        u'a'
+        'a'
         >>> bw.write('pattern1')
-        u'<#pattern2>'
+        '<#pattern2>'
 
         >>> # replace a tag, variable
-        >>> # u'<#_aname=name#><#_aname#>’s
+        >>> # '<#_aname=name#><#_aname#>’s
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#varName=pattern2#>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern1')
-        u''
+        ''
         >>> bw.write('varName')
-        u'a'
+        'a'
 
         # >>> bw.write('<#varName#>')
-        # u'a'
+        # 'a'
 
         >>> # replace a tag, whitespace
         >>> content = { 'pattern2': ['a'], 'pattern1': ['<#    pattern2    #>']}
         >>> bw = BlurbWriter(content)
         >>> bw.write('pattern2')
-        u'a'
+        'a'
         >>> bw.write('pattern1')
-        u'a'
+        'a'
 
         # >>> # prefix an / a article for a result based on consonant / vowel
         # >>> content = { 'pattern2': ['a'], 'pattern1': ['<#article, pattern2#>'],  'pattern4': ['b'], 'pattern3': ['<#article, pattern4#>']}
         # >>> bw = BlurbWriter(content)
         # >>> bw.write('pattern1')
-        # u'an a'
+        # 'an a'
         # >>> bw.write('pattern3')
-        # u'a b'
+        # 'a b'
 
         # >>> # replace a nested tag
         # >>> content = { 'pattern2': ['pattern'], 'pattern1': ['<#<#pattern2#>3#>'], 'pattern3': ['b']}
         # >>> bw = BlurbWriter(content)
         # >>> bw.write('pattern1')
-        # u'b'
+        # 'b'
 
         # >>> # unicode content
-        # >>> content = { 'pattern1': [u'üößé']}
+        # >>> content = { 'pattern1': ['üößé']}
         # >>> bw = BlurbWriter(content)
         # >>> bw.write('pattern1')
-        # u'üößé'
+        # 'üößé'
 
-        # # u'\\xfc\\xf6\\xdf\\xe9'
+        # # '\\xfc\\xf6\\xdf\\xe9'
         
         # # not sure if that is the right way
 
@@ -551,11 +554,11 @@ if __name__ == "__main__":
         # >>> bw = BlurbWriter(content, debug=True)
         # >>> bw.write('pattern2')
         # pattern2
-        # u'a'
+        # 'a'
         # >>> bw.write('pattern1')
         # pattern1
         # pattern2
-        # u'a'
+        # 'a'
         """
 
     def _test():

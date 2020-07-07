@@ -3,7 +3,7 @@
 #    blurb.py
 #
 import re
-import blurbwriter
+
 
 class Blurb(object):
     """
@@ -13,8 +13,12 @@ class Blurb(object):
     the writer installed in the system.
     """
     def __init__(self, content=None):
-        from filibuster import content
-        self.writer = blurbwriter.BlurbWriter(content.content())
+        import filibuster.content
+        print(hasattr(filibuster.content, 'filibusterContent'))
+        d = filibuster.content.filibusterContent()
+        print('d', d.keys())
+        import blurbwriter
+        self.writer = blurbwriter.BlurbWriter(d)
     
     reNoTags = re.compile('\<[^\>]*|([^\<\>]*)')
 
@@ -43,15 +47,15 @@ class Blurb(object):
         return self.writer.keywords
     
 if __name__ == '__main__':
+    #from filibuster import content
+    #print('content', content.content())
     w = Blurb()
     for t in w.getBlurbTypes():
-        print t, w.getBlurb(t)
+        print(t, w.getBlurb(t))
 
-    print w.getBlurb('filibuster_about')
-    print w.getBlurb('aerospace_headline')
-    print w.getBlurb('address')
+    print(w.getBlurb('filibuster_about'))
+    print(w.getBlurb('aerospace_headline'))
+    print(w.getBlurb('address'))
     print
     for i in range(10):
-        print w.getBlurb('politics_euro_headline')
-    #print w.getBlurb('aerospace_headline', 3)
-    #print w.getBlurbTypes()
+        print(w.getBlurb('politics_euro_headline'))

@@ -17,7 +17,7 @@ The `Blurb` object is the main generator.
 w = Blurb()
 names = w.getBlurbTypes()
 for n in names:
-	print w.getBlurb(name)
+	print(w.getBlurb(name))
 ```
 * `getBlurbTypes` returns a list of all definitions.
 * `getBlurb` generates the pattern

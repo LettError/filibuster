@@ -28,12 +28,12 @@ class Page(object):
 
 	def add(self, wrap=None, stuff=None):
 		if wrap is None:
-			self.body.append(unicode(stuff))
+			self.body.append(stuff)
 		else:
-			self.body.append("<%s>"%wrap+unicode(stuff)+"</%s>"%wrap)
+			self.body.append("<%s>"%wrap+stuff+"</%s>"%wrap)
 
 	def addBlurb(self, stuff):
-		self.body.append("<p class=\"blurb\">"+unicode(stuff)+"</p>")
+		self.body.append("<p class=\"blurb\">"+stuff+"</p>")
 
 	def write(self):
 		f = codecs.open(self.path, 'wb', 'utf-8')
@@ -64,7 +64,7 @@ for name in names:
 	usedMods = {}
 	for a,b in usedIn:
 		usedMods[a] = True
-	page.add("p", "Defined in module %s"%definedIn[0])
+	#page.add("p", "Defined in module %s"%definedIn[0])
 	if usedMods:
 		k = usedMods.keys()
 		k.sort()
@@ -80,7 +80,7 @@ for name in names:
 			page.addBlurb(result)
 			success = True
 		except:
-			print "UnicodeDecodeError", definedIn[0], name
+			print("UnicodeDecodeError", definedIn[0], name)
 	if success:
 		t.close()
 		os.remove(nameTagPath)
@@ -89,5 +89,5 @@ for name in names:
 indexPage.add(None, '</ul>')
 indexPage.write()
 
-print 'generated %d files'%count
-print 'done'
+print('generated %d files'%count)
+print('done')
